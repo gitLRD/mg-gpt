@@ -1,0 +1,49 @@
+# Model artifacts — large, derived, easy to rebuild
+checkpoints/
+data/train.bin
+data/val.bin
+data/meta.json
+
+# Corpus — scraped from mgexp.com, copyrighted to original posters.
+# Code to rebuild it lives in data/scrape_forums.py + bulk_scrape.py +
+# discover_and_scrape.py. Anyone reproducing should re-scrape locally.
+data/corpus/
+data/corpus_clean/
+data/corpus_qa/
+data/corpus_synth_qa/
+data/corpus_backup/
+
+# Runtime logs (anywhere in the tree)
+data/logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints/
+
+# Terraform — state and plan contain account IDs, ARNs, resource IDs.
+# The .tf source IS committed; the runtime state isn't.
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/tfplan
+terraform/terraform.tfvars
+
+# Secrets — defensive belt-and-braces; nothing should land here anyway
+.env
+.env.*
+.envrc
+*.pem
+*.key
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

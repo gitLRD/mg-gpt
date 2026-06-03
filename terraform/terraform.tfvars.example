@@ -1,0 +1,7 @@
+aws_region   = "eu-west-2"
+project_name = "mg-gpt"
+environment  = "prod"
+domain_name  = "your-subdomain.example.com"
+
+# Find this in Cloudflare dashboard → your domain → API → Zone ID (right sidebar)
+cloudflare_zone_id = "your-cloudflare-zone-id-here"

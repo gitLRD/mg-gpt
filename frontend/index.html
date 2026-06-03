@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MG-GPT — Workshop Notes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --paper: #fdf6e3;
+            --paper-light: #fffaf0;
+            --ink: #1a2e4e;
+            --ink-faded: rgba(26, 46, 78, 0.6);
+            --rust: #8b3a3a;
+            --moss: #4a7c3a;
+        }
+
+        body {
+            font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+            background: var(--paper);
+            /* Subtle "paper" grain via two layered dot patterns. */
+            background-image:
+                radial-gradient(rgba(26, 46, 78, 0.03) 1px, transparent 1px),
+                radial-gradient(rgba(26, 46, 78, 0.02) 1px, transparent 1px);
+            background-size: 3px 3px, 5px 5px;
+            background-position: 0 0, 2px 2px;
+            color: var(--ink);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            font-size: 17px;
+            line-height: 1.55;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 740px;
+            height: 92vh;
+            background: var(--paper-light);
+            border: 2px solid var(--ink);
+            box-shadow:
+                0 1px 0 var(--ink),
+                0 12px 32px rgba(26, 46, 78, 0.18);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Inner border to evoke a printed manual page frame. */
+        .container::before {
+            content: "";
+            position: absolute;
+            inset: 6px;
+            border: 1px solid var(--ink);
+            opacity: 0.25;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .header {
+            padding: 18px 28px 14px 28px;
+            background: var(--paper-light);
+            border-bottom: 2px solid var(--ink);
+            position: relative;
+            z-index: 2;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--ink-faded);
+        }
+
+        .header-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .mg-octagon {
+            width: 32px;
+            height: 32px;
+            color: var(--ink);
+            flex-shrink: 0;
+        }
+
+        .header h1 {
+            font-family: "EB Garamond", serif;
+            font-weight: 700;
+            font-size: 26px;
+            letter-spacing: 0.5px;
+            color: var(--ink);
+            line-height: 1;
+        }
+
+        .header-meta {
+            font-size: 13px;
+            font-variant: small-caps;
+            letter-spacing: 1.5px;
+            color: var(--ink);
+            opacity: 0.75;
+        }
+
+        .header-bottom {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 8px;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        .status {
+            font-size: 13px;
+            font-variant: small-caps;
+            letter-spacing: 1.5px;
+            color: var(--ink);
+        }
+
+        .status.connected::before {
+            content: "● ";
+            color: var(--moss);
+        }
+
+        .status.disconnected::before {
+            content: "○ ";
+            color: var(--rust);
+        }
+
+        .persona-badge {
+            font-style: italic;
+            font-size: 15px;
+            color: var(--ink);
+        }
+        .persona-badge::before {
+            content: "with ";
+            opacity: 0.6;
+            font-style: italic;
+        }
+
+        .messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px 32px 28px 32px;
+            display: flex;
+            flex-direction: column;
+            gap: 22px;
+            background: var(--paper-light);
+            position: relative;
+            z-index: 2;
+        }
+
+        .message {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            max-width: 78%;
+        }
+
+        .message.user {
+            align-self: flex-end;
+            align-items: flex-end;
+        }
+
+        .message.assistant {
+            align-self: flex-start;
+            align-items: flex-start;
+        }
+
+        .message-label {
+            font-size: 12px;
+            font-variant: small-caps;
+            letter-spacing: 2px;
+            color: var(--ink-faded);
+        }
+
+        .message-bubble {
+            padding: 12px 18px;
+            border: 1px solid var(--ink);
+            background: var(--paper);
+            color: var(--ink);
+            font-size: 17px;
+            line-height: 1.5;
+            word-wrap: break-word;
+        }
+
+        .message.user .message-bubble {
+            background: var(--ink);
+            color: var(--paper-light);
+            border-color: var(--ink);
+        }
+
+        .message.warmup .message-bubble {
+            font-style: italic;
+            color: var(--ink-faded);
+            background: transparent;
+            border: 1px dashed var(--ink);
+            opacity: 0.75;
+        }
+
+        .input-area {
+            border-top: 2px solid var(--ink);
+            padding: 18px 28px 22px 28px;
+            background: var(--paper-light);
+            position: relative;
+            z-index: 2;
+        }
+
+        .input-label {
+            font-size: 12px;
+            font-variant: small-caps;
+            letter-spacing: 2px;
+            color: var(--ink-faded);
+            margin-bottom: 8px;
+        }
+
+        .input-row {
+            display: flex;
+            gap: 12px;
+            align-items: stretch;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            border: 1px solid var(--ink);
+            background: var(--paper);
+            padding: 12px 14px;
+            font-family: "EB Garamond", serif;
+            font-size: 17px;
+            color: var(--ink);
+            outline: none;
+        }
+
+        input[type="text"]::placeholder {
+            color: var(--ink-faded);
+            font-style: italic;
+        }
+
+        input[type="text"]:focus {
+            background: var(--paper-light);
+            box-shadow: inset 0 0 0 1px var(--ink);
+        }
+
+        input[type="text"]:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        button {
+            background: var(--ink);
+            color: var(--paper-light);
+            border: 1px solid var(--ink);
+            padding: 12px 22px;
+            font-family: "EB Garamond", serif;
+            font-size: 15px;
+            font-variant: small-caps;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+            transition: background 0.15s, color 0.15s;
+            min-width: 110px;
+        }
+
+        button:hover:not(:disabled) {
+            background: var(--paper-light);
+            color: var(--ink);
+        }
+
+        button:disabled {
+            opacity: 0.55;
+            cursor: not-allowed;
+        }
+
+        .error {
+            color: var(--rust);
+            border-top: 1px solid var(--rust);
+            border-bottom: 1px solid var(--rust);
+            padding: 12px 28px;
+            background: var(--paper);
+            font-style: italic;
+            font-size: 15px;
+        }
+
+        .persona-overlay {
+            position: absolute;
+            inset: 0;
+            background: rgba(253, 246, 227, 0.97);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 32px 28px;
+            gap: 18px;
+            z-index: 20;
+        }
+
+        .persona-overlay h2 {
+            font-weight: 700;
+            font-size: 24px;
+            color: var(--ink);
+            border-bottom: 1px solid var(--ink);
+            padding-bottom: 8px;
+            text-align: center;
+            letter-spacing: 0.5px;
+        }
+
+        .persona-overlay p {
+            font-style: italic;
+            color: var(--ink-faded);
+            font-size: 15px;
+            text-align: center;
+        }
+
+        .persona-card {
+            border: 1.5px solid var(--ink);
+            padding: 16px 20px;
+            width: 100%;
+            max-width: 480px;
+            cursor: pointer;
+            background: var(--paper-light);
+            text-align: left;
+            transition: background 0.15s, color 0.15s;
+            font-family: "EB Garamond", serif;
+        }
+
+        .persona-card:hover {
+            background: var(--ink);
+        }
+
+        .persona-card:hover .persona-card-label,
+        .persona-card:hover .persona-card-blurb {
+            color: var(--paper-light);
+        }
+
+        .persona-card-label {
+            font-weight: 700;
+            font-size: 19px;
+            color: var(--ink);
+            margin-bottom: 4px;
+            transition: color 0.15s;
+        }
+
+        .persona-card-blurb {
+            font-style: italic;
+            color: var(--ink);
+            opacity: 0.78;
+            font-size: 14px;
+            transition: color 0.15s;
+        }
+
+        /* Mobile niceties */
+        @media (max-width: 520px) {
+            body { padding: 10px; font-size: 16px; }
+            .container { height: 96vh; }
+            .header { padding: 14px 18px 12px; }
+            .header h1 { font-size: 22px; }
+            .messages { padding: 18px 20px; }
+            .input-area { padding: 14px 18px 18px; }
+            .message { max-width: 90%; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-top">
+                <div class="header-title">
+                    <!-- MG octagon, in keeping with the manual feel. Drawn rather than imported. -->
+                    <svg class="mg-octagon" viewBox="0 0 100 100" aria-label="MG octagon">
+                        <polygon points="30,4 70,4 96,30 96,70 70,96 30,96 4,70 4,30"
+                                 fill="none" stroke="currentColor" stroke-width="3"/>
+                        <text x="50" y="64" text-anchor="middle"
+                              font-family="EB Garamond, serif" font-weight="700"
+                              font-size="38" fill="currentColor">MG</text>
+                    </svg>
+                    <h1>MG-GPT</h1>
+                </div>
+                <div class="header-meta">Workshop Notes</div>
+            </div>
+            <div class="header-bottom">
+                <div class="status disconnected" id="status">Engine off</div>
+                <div class="persona-badge" id="persona-badge" style="display: none;"></div>
+            </div>
+        </header>
+
+        <div class="persona-overlay" id="persona-overlay" style="display: none;">
+            <h2>Pick your guide</h2>
+            <p>Three workshop hands, three styles. Refresh to switch.</p>
+            <div id="persona-list" style="display: flex; flex-direction: column; gap: 12px; width: 100%; align-items: center;"></div>
+        </div>
+
+        <div class="messages" id="messages"></div>
+
+        <div id="error" class="error" style="display: none;"></div>
+
+        <div class="input-area">
+            <div class="input-label">Workshop entry</div>
+            <div class="input-row">
+                <input
+                    type="text"
+                    id="input"
+                    placeholder="Type your question..."
+                    disabled
+                />
+                <button id="send" disabled>Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const messagesDiv = document.getElementById("messages");
+        const inputEl = document.getElementById("input");
+        const sendBtn = document.getElementById("send");
+        const statusEl = document.getElementById("status");
+        const errorEl = document.getElementById("error");
+        const personaOverlay = document.getElementById("persona-overlay");
+        const personaList = document.getElementById("persona-list");
+        const personaBadge = document.getElementById("persona-badge");
+
+        // WebSocket endpoint — substituted by deploy.sh from terraform output
+        const wsUrl = window.location.hostname === 'localhost'
+            ? 'ws://localhost:3001'
+            : '__WS_ENDPOINT__';
+
+        let ws = null;
+        let connecting = false;
+        let personaPicked = false;
+        let currentPersonaLabel = null;
+        let warmupBubble = null;
+        let warmupTimer = null;
+
+        // Whimsical classic-car-themed cycling indicators shown while the
+        // backend warms up. Picked to feel like an old MG mechanic coaxing
+        // an engine to life rather than a sterile "loading…" spinner.
+        const WARMUP_MESSAGES = [
+            "Pulling the choke...",
+            "Priming the carbs...",
+            "Checking the plug gaps...",
+            "Setting the tappet clearances...",
+            "Bleeding the brake lines...",
+            "Tweaking the timing...",
+            "Topping up the SU dashpots...",
+            "Cranking the starter...",
+            "Letting her warm up...",
+            "Easing off the choke...",
+            "Listening for the tick...",
+            "Adjusting the points gap...",
+            "Spraying a bit of WD-40...",
+            "Tightening the head bolts...",
+            "Checking the float bowls...",
+            "Setting the idle mixture...",
+            "Coaxing her over...",
+            "Re-balancing the carbs...",
+        ];
+
+        function connect() {
+            if (connecting || ws?.readyState === WebSocket.OPEN) return;
+            connecting = true;
+            statusEl.textContent = "Re-firing...";
+
+            try {
+                ws = new WebSocket(wsUrl);
+
+                ws.onopen = () => {
+                    console.log("Connected to MG-GPT");
+                    connecting = false;
+                    statusEl.textContent = "Engine running";
+                    statusEl.className = "status connected";
+                    errorEl.style.display = "none";
+                    ws.send(JSON.stringify({ action: "listPersonas" }));
+                };
+
+                ws.onmessage = (event) => {
+                    const data = JSON.parse(event.data);
+                    if (data.type === "personas") {
+                        renderPersonaPicker(data.personas);
+                    } else if (data.type === "persona_set") {
+                        personaPicked = true;
+                        currentPersonaLabel = data.label;
+                        personaOverlay.style.display = "none";
+                        personaBadge.textContent = data.label;
+                        personaBadge.style.display = "inline";
+                        inputEl.disabled = false;
+                        sendBtn.disabled = false;
+                        inputEl.focus();
+                    } else if (data.type === "thinking") {
+                        // Cycling warmup bubble is already running from sendMessage().
+                    } else if (data.type === "response") {
+                        stopWarmup();
+                        addMessage("assistant", data.text);
+                        inputEl.disabled = false;
+                        sendBtn.disabled = false;
+                        sendBtn.textContent = "Send";
+                    } else if (data.type === "error") {
+                        stopWarmup();
+                        showError(data.text);
+                        inputEl.disabled = false;
+                        sendBtn.disabled = false;
+                        sendBtn.textContent = "Send";
+                    }
+                };
+
+                ws.onclose = () => {
+                    console.log("Disconnected from MG-GPT");
+                    statusEl.textContent = "Engine off";
+                    statusEl.className = "status disconnected";
+                    inputEl.disabled = true;
+                    sendBtn.disabled = true;
+                    connecting = false;
+                    setTimeout(connect, 3000);
+                };
+
+                ws.onerror = (error) => {
+                    console.error("WebSocket error:", error);
+                    showError("Connection trouble. Re-firing...");
+                    connecting = false;
+                };
+            } catch (e) {
+                console.error("Failed to create WebSocket:", e);
+                showError("Failed to connect. Re-firing...");
+                connecting = false;
+                setTimeout(connect, 3000);
+            }
+        }
+
+        function renderPersonaPicker(personas) {
+            personaList.innerHTML = "";
+            for (const p of personas) {
+                const card = document.createElement("button");
+                card.className = "persona-card";
+                card.innerHTML = `
+                    <div class="persona-card-label">${p.label}</div>
+                    <div class="persona-card-blurb">${p.blurb}</div>
+                `;
+                card.addEventListener("click", () => {
+                    ws.send(JSON.stringify({ persona: p.id }));
+                });
+                personaList.appendChild(card);
+            }
+            personaOverlay.style.display = "flex";
+        }
+
+        function addMessage(role, text) {
+            const msgDiv = document.createElement("div");
+            msgDiv.className = `message ${role}`;
+
+            const label = document.createElement("div");
+            label.className = "message-label";
+            label.textContent = role === "user"
+                ? "Your question"
+                : (currentPersonaLabel || "Reply");
+            msgDiv.appendChild(label);
+
+            const bubble = document.createElement("div");
+            bubble.className = "message-bubble";
+            bubble.textContent = text;
+            msgDiv.appendChild(bubble);
+
+            messagesDiv.appendChild(msgDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        function startWarmup() {
+            stopWarmup();
+            const msgDiv = document.createElement("div");
+            msgDiv.className = "message assistant warmup";
+
+            const label = document.createElement("div");
+            label.className = "message-label";
+            label.textContent = (currentPersonaLabel || "Reply") + " — warming up";
+            msgDiv.appendChild(label);
+
+            const bubble = document.createElement("div");
+            bubble.className = "message-bubble";
+            bubble.textContent = pickWarmupMessage();
+            msgDiv.appendChild(bubble);
+
+            messagesDiv.appendChild(msgDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            warmupBubble = msgDiv;
+
+            // Avoid showing the same line twice in a row — keeps it feeling
+            // like progress even when picks happen to repeat.
+            let last = bubble.textContent;
+            warmupTimer = setInterval(() => {
+                let next = pickWarmupMessage();
+                while (next === last && WARMUP_MESSAGES.length > 1) {
+                    next = pickWarmupMessage();
+                }
+                bubble.textContent = next;
+                last = next;
+            }, 1000);
+        }
+
+        function stopWarmup() {
+            if (warmupTimer) {
+                clearInterval(warmupTimer);
+                warmupTimer = null;
+            }
+            if (warmupBubble) {
+                warmupBubble.remove();
+                warmupBubble = null;
+            }
+        }
+
+        function pickWarmupMessage() {
+            return WARMUP_MESSAGES[Math.floor(Math.random() * WARMUP_MESSAGES.length)];
+        }
+
+        function showError(text) {
+            errorEl.textContent = text;
+            errorEl.style.display = "block";
+        }
+
+        function sendMessage() {
+            const text = inputEl.value.trim();
+            if (!text || ws?.readyState !== WebSocket.OPEN) return;
+
+            addMessage("user", text);
+            inputEl.value = "";
+            inputEl.disabled = true;
+            sendBtn.disabled = true;
+            sendBtn.textContent = "Cranking…";
+            startWarmup();
+
+            try {
+                ws.send(JSON.stringify({ message: text }));
+            } catch (e) {
+                stopWarmup();
+                showError("Failed to send message");
+                inputEl.disabled = false;
+                sendBtn.disabled = false;
+                sendBtn.textContent = "Send";
+            }
+        }
+
+        sendBtn.addEventListener("click", sendMessage);
+        inputEl.addEventListener("keypress", (e) => {
+            if (e.key === "Enter" && !sendBtn.disabled) {
+                sendMessage();
+            }
+        });
+
+        connect();
+    </script>
+</body>
+</html>
