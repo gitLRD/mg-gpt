@@ -150,8 +150,8 @@ resource "aws_ecr_repository" "lambda_image" {
 resource "aws_lambda_function" "websocket_handler" {
   function_name = "${var.project_name}-handler"
   role          = aws_iam_role.lambda_role.arn
-  timeout       = 60
-  memory_size   = 1024
+  timeout       = 120
+  memory_size   = 3008
 
   package_type = "Image"
   image_uri    = "${aws_ecr_repository.lambda_image.repository_url}:latest"

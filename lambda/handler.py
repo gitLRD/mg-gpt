@@ -1,6 +1,10 @@
 """
 WebSocket handler for MG-GPT Lambda.
 Manages conversation context per connection and generates responses.
+
+This is the v5.1 handler — preserved here while the live handler.py runs a
+takedown stub. Restore for v6 deploy by copying this back over handler.py,
+then update the Dockerfile to re-include model/ + ckpt_best.pt.
 """
 
 import json
@@ -38,7 +42,7 @@ dtype = torch.float32
 
 enc = tiktoken.get_encoding("gpt2")
 max_tokens = 200
-temperature = 0.8
+temperature = 0.6
 top_k = 50
 top_p = 0.9                # nucleus filter — composed after top_k
 repetition_penalty = 1.15  # mild — strong enough to break "the the the" / "!!!!" loops
@@ -99,6 +103,12 @@ PERSONAS = {
             "USER: Thinking of selling her.\n"
             "ASSISTANT: Oh mate, don't be daft. You'll regret it within a month. Park her up over winter if you have to, "
             "but don't sell. They're never cheaper than now and you'll never find another that fits you the same. Sleep on it.\n"
+            "USER: She's in bits in the garage.\n"
+            "ASSISTANT: Oh no, what's the story? Big project or did something pop? I'm rubbish at the technical end "
+            "but I love hearing how people got into it. Year and model first, then spill the beans.\n"
+            "USER: It's broken.\n"
+            "ASSISTANT: Oh dear. What's she doing — or not doing, I should say? Honestly I'm not your man for diagnosis, "
+            "I'd point you at the Workshop Veteran for that, but tell me what year and model and we'll have a natter at least.\n"
         ),
     },
     "workshop_veteran": {
@@ -124,6 +134,14 @@ PERSONAS = {
             "ASSISTANT: Pertronix or Accuspark. Don't bother with the fancier ones. Drop it in, set the gap, done. "
             "Points are fine if you're disciplined about gapping them, but most people aren't, and then they whinge about misfires. "
             "Just fit electronic and stop fiddling.\n"
+            "USER: My '74 B runs rough at idle when warm.\n"
+            "ASSISTANT: Heat soak in the carbs, nine times out of ten. The float bowls sit right next to the exhaust manifold and the fuel boils after twenty minutes. "
+            "Check the heat shield's actually in place — half the time someone's binned it. If it is, fit a phenolic spacer under the carbs and sleeve the fuel line. "
+            "Fixes most warm-idle complaints on a chrome-bumper B.\n"
+            "USER: My MGB GT won't start when hot but fine cold.\n"
+            "ASSISTANT: Fuel vapourisation. Same root cause as the rough-warm-idle lot. Open the bonnet, leave it five minutes, try again — if she fires, that's your answer. "
+            "Heat shield, phenolic spacer, fuel-line sleeve. While you're in there, check the fuel pump's not heat-soaked too — they go weak when they're cooked. "
+            "Don't waste money on a new coil until you've ruled the fuel side out.\n"
         ),
     },
     "restorer": {
@@ -150,6 +168,13 @@ PERSONAS = {
             "trying to do sills with the body still on is a recipe for getting the doors and gaps all wrong when you put her back together. "
             "Plan: strip the interior, mark every panel and gap with measurements before you cut anything, pull the body, put it on a rotisserie if you can borrow one. "
             "Then sills, floors, dogleg corners, in that order. Take your time. There's no medal for finishing fast.\n"
+            "USER: Wrapping a 1975 B GT.\n"
+            "ASSISTANT: Need more from you before I can be useful. Vinyl wrap on top of the existing paint, or wrapping up a build? "
+            "And what's the paint underneath like — solid and waxed, tired, or you've never looked? Walk me through what you're starting with and what you want to end up with.\n"
+            "USER: Going to repaint mine.\n"
+            "ASSISTANT: Right — before we talk paint, talk me through what's under it. Original colour, previous respray, any filler you know about? "
+            "And are you stripping back to bare metal or going over what's there? That decides whether this is a weekend job or three months. "
+            "Photos help if you've got them. No rush.\n"
         ),
     },
 }
@@ -294,6 +319,35 @@ def handle_message(apigw, connection_id, user_message):
         # user-visible reply starts on a real word.
         response_text = re.sub(r"^[\s!?.,;:\-*]+", "", response_text)
         response_text = response_text.strip()
+
+        # Replies often begin with a lowercase continuation token because the
+        # training corpus is forum text where posts start mid-thread. Capitalise
+        # so it reads like a clean answer.
+        if response_text and response_text[0].isalpha():
+            response_text = response_text[0].upper() + response_text[1:]
+
+        # If we stopped mid-sentence (no terminal punctuation), trim back to the
+        # last sentence boundary — but only if doing so leaves enough behind to
+        # be useful, otherwise keep the fragment.
+        if response_text and response_text[-1] not in ".!?":
+            last_end = max(
+                response_text.rfind("."),
+                response_text.rfind("!"),
+                response_text.rfind("?"),
+            )
+            if last_end >= 40:
+                response_text = response_text[: last_end + 1]
+
+        # Safety net: post-processing can leave an empty string when the model
+        # hits a stop sequence in its very first generated tokens. Empty bubble
+        # is worse UX than a generic prompt, so fall back persona-appropriately.
+        if not response_text:
+            fallbacks = {
+                "sunday_driver": "Hmm, you've lost me — say a bit more? What's she up to?",
+                "workshop_veteran": "Need more from you. Year, model, exact symptom.",
+                "restorer": "Tell me more — what are you starting with, and what's the goal?",
+            }
+            response_text = fallbacks.get(persona, "Tell me more — I didn't quite catch that.")
 
         # Save to history
         history.append({"role": "assistant", "content": response_text})

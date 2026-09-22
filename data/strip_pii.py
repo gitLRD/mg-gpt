@@ -24,8 +24,8 @@ import os
 import re
 import glob
 
-INPUT_DIR  = "data/corpus"
-OUTPUT_DIR = "data/corpus_clean"
+INPUT_DIR  = "data/corpus_pistonheads"
+OUTPUT_DIR = "data/corpus_pistonheads_clean"
 
 # Common first names we'll redact when they appear in name-y contexts. Not
 # exhaustive — just catches the long tail of forum signoffs we observed

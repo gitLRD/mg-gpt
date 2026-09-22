@@ -10,16 +10,120 @@ journey.
 
 ## In progress
 
-- **Synthetic Q&A via local Qwen3-VL-30B-A3B-Instruct (LM Studio backend).**
-  `data/synthesize_qa.py` has a `--lm-studio` flag that swaps the Anthropic
-  client for a localhost OpenAI-compatible call. 10-thread test produced
-  clean, specific Q&A with real values (~7.6 pairs/thread, 17s/thread).
-  Full 893-thread run launched — ~4 hours of background work, $0.
-- **Mixed-corpus training plan for v5.** Synth Q&A is clean but bland;
-  forum-format Q&A (data/corpus_qa/) is noisy but carries voice. Plan is to
-  train on *both* directories combined so the model learns format and
-  specificity from synth + register and persona from forum. Implementation:
-  small change to `prepare.py` to concat-then-tokenise both dirs.
+- **TransformerLens exploration notebook** (`notebooks/transformer_lens_explore.ipynb`).
+  Loads `ckpt_best.pt` into a `HookedTransformer` via the built-in
+  `convert_nanogpt_weights` adapter (our state-dict layout already matches
+  nanoGPT exactly). Includes activation cache, per-head attention pattern
+  viz via CircuitsVis, and a logit-lens cell. Pulled in
+  `transformer_lens`, `circuitsvis`, `ipywidgets`; pip resolver pinned
+  torch back from 2.12.0 → 2.7.1 to stay inside TransformerLens 3.4's
+  range. Doesn't touch Lambda — the deploy image keeps its own torch pin.
+
+## v6 — TOS-clean rebuild, live again *(shipped)*
+
+- **Trained `medium` config (51.5M params) on the PH-only corpus**
+  (`train.py`). 2.4M train / 267K val tokens, 10K iters target. Best val
+  loss **3.14** at iter 3000 (vs v5's 3.08 on a larger but TOS-tainted
+  corpus) — small regression on the loss metric, but the corpus is
+  qualitatively richer (case-study Q&A on classic MG + MG Rover era).
+  Memory pressure on MPS reduced via `batch_size=4`, `grad_accum=4` —
+  same effective batch (16), ~4× less activation memory.
+- **`weights_only=False` on checkpoint resume** (`train.py:117`). PyTorch
+  2.6 flipped the `torch.load` default and refused to unpickle our
+  `GPTConfig` object. We wrote the checkpoint ourselves, so explicit
+  opt-in is the right fix.
+- **Lambda handler, Dockerfile, requirements, and frontend restored**
+  from the v5.1 baseline + new ckpt baked into the image. Holding page
+  removed; chat UI is live again at https://mg-gpt.desforgeslabs.com.
+
+## v6 prep — TOS-clean corpus rebuild *(shipped)*
+
+- **Phase 1 — PistonHeads scrape.** New scraper
+  (`data/scrape_pistonheads.py`, `data/discover_and_scrape_pistonheads.py`)
+  walks the dedicated MG sub-forum (f=81) and the Rover sub-forum (f=54).
+  Every fetch is gated through `urllib.robotparser` against PH's
+  `robots.txt`. 2,864 topics scraped in ~45 min → 16,500 posts, ~8MB raw.
+  An early extraction bug (block-element word-junctions like "block?Head")
+  was caught in smoke test and fixed by padding block elements with
+  whitespace before flattening.
+- **PII redaction** (`data/strip_pii.py`). Same regex sweep as v3:
+  1,944 URLs, 3,836 names, 88 phones, 62 emails, 88 ZIPs, 45 postcodes,
+  11 addresses.
+- **Phase 2 — case-study Q&A synthesis.** Rewrote the `synthesize_qa.py`
+  system prompt to extract symptom → cause → check → fix case studies as
+  natural prose (3–6 sentences per answer), expanded the persona to cover
+  MG Rover era (ZR/ZS/ZT, K-series). 1,625 eligible threads processed via
+  local Qwen3-VL-30B-A3B-Instruct-MLX (LM Studio); 1,622 successful pairs
+  saved (3 from a smoke test). 2.6M input + 769K output tokens, 7 hours,
+  $0. Output quality is markedly more diagnostic than the prior bare-Q&A
+  format — answers reference specific parts (Samco hose, Mikalor clamps)
+  and concrete checks where the thread surfaced them.
+- **Tokenisation** (`data/prepare.py`). Merged PH dialogue + synth Q&A
+  into a single 2.67M-token training set (2.4M train / 267K val).
+  Comparable in volume to the withdrawn v5 corpus, materially higher
+  signal-to-noise.
+
+
+
+## v5.2 — Withdrawn pending clean-corpus rebuild *(shipped)*
+
+- **Model withdrawn.** A robots.txt re-read showed mgexp.com (and
+  mg-rover.org) explicitly disallow `anthropic-ai`, `ClaudeBot`, `GPTBot`,
+  etc. — clear "no AI training" intent. v5 was trained on that corpus.
+  Strict reading: don't keep serving it.
+- **Lambda handler replaced with a stub** (`lambda/handler.py`,
+  `lambda/Dockerfile`, `lambda/requirements.txt`). New image ships no model
+  code, no checkpoint, and no torch. The WS lifecycle wiring (`$connect`,
+  `$disconnect`, `$default`) stays valid so infra holds; any user message
+  gets a static "closed for refit" reply. v6 deploy restores the real
+  handler.
+- **Frontend replaced with a holding page** (`frontend/index.html`). Same
+  Workshop Manual aesthetic — octagon, EB Garamond, cream paper — no chat
+  UI. Explains the rebuild in two sentences.
+- **mgexp corpus & v5 checkpoints archived** (`data/_archive_mgexp/`,
+  `checkpoints/_archive_v5/`). Kept on disk for reference; removed from
+  the training and deploy paths. Also archived `discover_and_scrape.py`
+  and `bulk_scrape.py` since they were mgexp-specific.
+
+## v5.1 — Reply polish *(shipped)*
+
+- **Capitalise first letter of replies** (`lambda/handler.py`). The model
+  often emits a lowercase continuation token first because the forum corpus
+  is full of mid-thread starts. Post-processing fixes it so answers read
+  cleanly without retraining.
+- **Trim dangling tail to last sentence boundary** (`lambda/handler.py`).
+  If a reply ends without `.!?` and there's ≥40 chars of clean text before
+  the last terminator, cut back to it. Avoids leaving half-thoughts on
+  screen when the token budget runs out mid-sentence.
+- **Slower warmup cycle** (`frontend/index.html`). Whittisims now rotate
+  every 10s instead of every 1s — feels less frantic, gives each line time
+  to read.
+
+## v5 — Mixed-corpus training *(shipped)*
+
+- **Multi-directory corpus loading** (`data/prepare.py`). Concatenates files
+  from `data/corpus_qa/` (forum format) and `data/corpus_synth_qa/` (LLM
+  extracted) so the model learns voice from one and specificity from the
+  other. Skips missing directories silently — works fine with just one.
+- **Retrained small config on the mixed 2.9M-token corpus.** Best val loss
+  **3.08** (iter 9000, perplexity ~22) — clearly best result yet, vs v3's
+  4.38 (iter 4000) on the 2.5M synth-free corpus. Mixed signal both
+  improved generalisation *and* delayed overfitting by ~5K iterations.
+  Train/val gap stayed healthy throughout (2.69 / 3.08 at the best ckpt).
+
+## v4.1 — Synthetic Q&A via local Qwen *(shipped)*
+
+- **Local-LLM extraction pipeline** (`data/synthesize_qa.py --lm-studio`).
+  Added an OpenAI-compatible LM Studio backend alongside the Anthropic one,
+  with `/no_think` appended for Qwen3 (skip reasoning trace), retry+backoff,
+  `<think>` block stripping, and a connectivity preflight that fails fast
+  if the server isn't up.
+- **Full Q&A synthesis on 893 threads via Qwen3-VL-30B-A3B-Instruct (MLX
+  Q4).** Ran locally on M-series via LM Studio. 883/883 success rate.
+  Output: **7,014 clean Q&A pairs**, 2.25M input tokens, 356K output tokens.
+  5 hours elapsed, $0 cost. Quality vastly better than the alternating-posts
+  format — specific questions, grounded answers with real values, no
+  chitchat. `data/corpus_synth_qa/` now exists ready for v5 training.
 
 ---
 

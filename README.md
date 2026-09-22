@@ -3,22 +3,24 @@
 
 A from-scratch GPT trained on classic MG forum posts, served from AWS Lambda
 behind a WebSocket-based chat UI. Built for learning — every line is meant to
-be read and understood — and live at **https://mg-gpt.desforgeslabs.com**.
-
----
+be read and understood. Live at **https://mg-gpt.desforgeslabs.com**.
 
 ## What this is
 
 The end-to-end stack:
 
-1. **Scrape** the mgexp.com forums (`data/scrape_forums.py`, `bulk_scrape.py`, `discover_and_scrape.py`)
+1. **Scrape** the PistonHeads MG (`f=81`) and Rover (`f=54`) sub-forums,
+   `robots.txt`-aware via `urllib.robotparser`
+   (`data/scrape_pistonheads.py`, `data/discover_and_scrape_pistonheads.py`)
 2. **Strip PII** with Macie-style regex redaction (`data/strip_pii.py`)
 3. **Format as Q&A** dialogue so the model learns the chat pattern (`data/format_qa.py`)
-4. **Tokenise** with GPT-2 BPE into a memory-mapped numpy array (`data/prepare.py`)
-5. **Train** a small from-scratch GPT (`model/gpt.py`, `train.py`)
-6. **Deploy** the trained checkpoint to a containerised Lambda behind API Gateway
+4. **Synthesise case studies** — local Qwen3 (via LM Studio) or Claude reads
+   each thread and extracts symptom-→cause-→fix Q&A pairs (`data/synthesize_qa.py`)
+5. **Tokenise** with GPT-2 BPE into a memory-mapped numpy array (`data/prepare.py`)
+6. **Train** a `medium` from-scratch GPT (`model/gpt.py`, `train.py`)
+7. **Deploy** the trained checkpoint to a containerised Lambda behind API Gateway
    WebSocket + CloudFront + Cloudflare DNS (`lambda/`, `terraform/`, `deploy.sh`)
-7. **Chat** from the frontend at the live URL — three pickable personas
+8. **Chat** from the frontend at the live URL — three pickable personas
    (Sunday Driver, Workshop Veteran, Restorer), each opens the conversation
    with a hand-written greeting (`frontend/index.html`, `lambda/handler.py`)
 
@@ -35,31 +37,38 @@ mg-llm/
 ├── GUIDE.md              ← longer-form learning guide
 │
 ├── data/
-│   ├── corpus/           ← raw scraped forum threads (one .txt per thread)
-│   ├── corpus_clean/     ← PII-redacted corpus
-│   ├── corpus_qa/        ← reformatted as USER:/ASSISTANT: dialogue
-│   ├── scrape_forums.py  ← single-thread scraper (paginated, polite)
-│   ├── bulk_scrape.py    ← scrape a hand-curated URL list
-│   ├── discover_and_scrape.py ← walk forum indexes, find new threads
-│   ├── strip_pii.py      ← regex-based redaction (Macie-style)
-│   ├── format_qa.py      ← turn forum posts into Q&A pairs
-│   ├── prepare.py        ← tokenise to train.bin / val.bin
-│   └── meta.json         ← split sizes, vocab info
+│   ├── corpus_pistonheads/      ← raw scraped PH threads (one .txt per topic)
+│   ├── corpus_pistonheads_clean/← PII-redacted PH corpus
+│   ├── corpus_pistonheads_qa/   ← reformatted as USER:/ASSISTANT: dialogue
+│   ├── corpus_synth_qa/         ← LLM case-study synthesis (Phase 2)
+│   ├── _archive_mgexp/          ← v5-era mgexp corpus + scrapers (withdrawn)
+│   ├── scrape_forums.py         ← generic forum-scraper engine
+│   ├── scrape_pistonheads.py    ← PH-specific scraper (robots.txt-aware)
+│   ├── discover_and_scrape_pistonheads.py ← walk PH indexes f=81 (MG) + f=54 (Rover)
+│   ├── strip_pii.py             ← regex-based PII redaction (Macie-style)
+│   ├── format_qa.py             ← turn forum posts into Q&A pairs
+│   ├── synthesize_qa.py         ← LLM extracts case-study Q&A (Qwen / Claude)
+│   └── prepare.py               ← tokenise to train.bin / val.bin
 │
 ├── model/
-│   ├── gpt.py            ← the transformer (~200 lines)
-│   └── config.py         ← nano / small / medium presets
+│   ├── gpt.py                   ← the transformer (~200 lines)
+│   └── config.py                ← nano / small / medium presets
 │
 ├── lambda/
-│   ├── Dockerfile        ← container image for Lambda
-│   ├── handler.py        ← WebSocket handler, personas, async self-invoke
-│   └── requirements.txt  ← torch, tiktoken, numpy
+│   ├── Dockerfile               ← container image for Lambda (currently: stub-only)
+│   ├── handler.py               ← WebSocket handler (currently: takedown stub)
+│   └── requirements.txt         ← boto3 only while stubbed; torch+ when v6 ready
 │
-├── terraform/            ← all AWS + Cloudflare infra as code
-├── frontend/index.html   ← static chat UI (Haynes-manual themed) via S3 + CloudFront
-├── deploy.sh             ← build → push → terraform apply → S3 sync
-├── train.py              ← training loop with cosine LR, eval, checkpoints
-└── generate.py           ← interactive local inference
+├── checkpoints/
+│   └── _archive_v5/             ← v5 training checkpoints (withdrawn)
+│
+├── terraform/                   ← all AWS + Cloudflare infra as code
+├── frontend/index.html          ← static holding page (Workshop Manual theme)
+├── notebooks/
+│   └── transformer_lens_explore.ipynb  ← load ckpt into TransformerLens; viz attention + logit lens
+├── deploy.sh                    ← build → push → terraform apply → S3 sync
+├── train.py                     ← training loop with cosine LR, eval, checkpoints
+└── generate.py                  ← interactive local inference
 ```
 
 ---

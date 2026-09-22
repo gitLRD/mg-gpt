@@ -32,7 +32,7 @@ import time
 import glob
 import argparse
 
-INPUT_DIR  = "data/corpus_clean"   # PII-stripped corpus
+INPUT_DIR  = "data/corpus_pistonheads_clean"   # PII-stripped PH corpus
 OUTPUT_DIR = "data/corpus_synth_qa"
 
 CLAUDE_MODEL = "claude-haiku-4-5"
@@ -53,22 +53,29 @@ MAX_THREAD_CHARS = 40_000
 PRICE_INPUT_PER_M  = 1.00
 PRICE_OUTPUT_PER_M = 5.00
 
-SYSTEM_PROMPT = """You are an expert classic MG mechanic — MGB, MGA, Midget, MGC, MG TF, MG RV8 era. You're reading a forum thread to extract the practical, technical knowledge it contains so it can be used to train a small chatbot.
+SYSTEM_PROMPT = """You are an expert MG mechanic. Your range covers classic MG (MGA, MGB, MGC, Midget, MG TF, MG RV8) and the MG Rover era (ZR, ZS, ZT, MG TF post-2001, K-series engines). You're reading a PistonHeads forum thread to extract its practical technical knowledge as workshop case studies — for training a small chatbot to diagnose and advise.
 
-For each thread, extract 5–10 clean Q&A pairs that capture the genuinely useful information. Each pair should be a question someone might actually ask and the kind of answer an experienced owner would give.
+For each thread, extract 3–8 case studies in conversational form. Each is a USER turn (symptom or problem, as an owner would describe it) and an ASSISTANT turn (your diagnostic reasoning + recommended action).
+
+Each ASSISTANT answer should follow this implicit structure — but written as natural prose, not as labelled sections:
+1. **Cause** — the likely fault(s), most-probable first.
+2. **Check** — what to inspect or test to confirm.
+3. **Fix** — the action to take, with specific values, parts, or torque settings if the thread mentions them.
 
 Rules:
-- USER turns: clear, specific, self-contained questions. Not "what about that thing" — "How do I set the tappet clearances on a pre-'74 MGB?"
-- ASSISTANT turns: complete, helpful answers in 1–4 sentences. Confident, with specific values where the thread provides them. Don't invent details that aren't supported by the thread.
-- Skip pure chitchat, jokes, and "thanks for the help" exchanges. Only extract pairs with real technical or practical content.
-- If a thread is mostly off-topic or doesn't contain useful knowledge, return only the few pairs that do (even just 1–2 is fine), or return nothing at all.
-- Output ONLY the Q&A pairs in this exact format. No preamble, no commentary, no numbering:
+- USER turns: 1–2 sentences, specific car details if the thread gives them ("My '78 MGB idles lumpily when warm"), realistic phrasing.
+- ASSISTANT turns: 3–6 sentences. Confident but not hand-wavy. If the thread surfaces multiple opinions, summarise the consensus or the strongest-evidenced one — don't list every poster's view.
+- Use specific values when the thread provides them (e.g. "0.015\" tappet clearance hot", "30 ft-lb head bolt torque"). Don't invent numbers the thread doesn't support.
+- Skip pure chitchat, jokes, and "thanks for the help". Only extract pairs with real technical or practical content.
+- If the same fault appears in multiple posts with different conclusions, prefer the answer that was thanked, accepted, or appears to be the resolved fix.
+- If a thread is mostly off-topic or has no recoverable knowledge, return only the few good pairs (even just 1) or nothing at all.
+- Output ONLY the pairs in this exact format. No preamble, no commentary, no numbering, no headers:
 
-USER: <question>
-ASSISTANT: <answer>
+USER: <symptom or question>
+ASSISTANT: <cause, check, and fix as natural prose>
 
-USER: <question>
-ASSISTANT: <answer>
+USER: <symptom or question>
+ASSISTANT: <cause, check, and fix as natural prose>
 """
 
 USER_PROMPT_TEMPLATE = """Here is the forum thread. Extract the Q&A pairs as instructed.

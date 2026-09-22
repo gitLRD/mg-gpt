@@ -16,8 +16,8 @@ import os
 import re
 import glob
 
-INPUT_DIR  = "data/corpus_clean"   # PII-stripped corpus (run data/strip_pii.py first)
-OUTPUT_DIR = "data/corpus_qa"
+INPUT_DIR  = "data/corpus_pistonheads_clean"   # PII-stripped (run data/strip_pii.py first)
+OUTPUT_DIR = "data/corpus_pistonheads_qa"
 MIN_LENGTH = 60   # characters — skip posts that are too short to be useful
 
 

@@ -20,8 +20,15 @@ import tiktoken
 # Config
 # ---------------------------------------------------------------------------
 
-CORPUS_DIR  = "data/corpus_qa"   # Q&A-formatted corpus (run data/format_qa.py first)
-TRAIN_SPLIT = 0.9                 # 90% train, 10% validation
+# Read from multiple corpus directories and concatenate. Mixing the
+# forum-format Q&A (noisy, carries voice) with the synth Q&A (clean, factual)
+# lets the model learn register from the former and specificity from the latter.
+# Missing directories are silently skipped — if you only have one, that's fine.
+CORPUS_DIRS = [
+    "data/corpus_pistonheads_qa",  # reformatted as USER:/ASSISTANT: dialogue
+    "data/corpus_synth_qa",        # LLM case-study synthesis (Phase 2)
+]
+TRAIN_SPLIT = 0.9             # 90% train, 10% validation
 OUTPUT_DIR  = "data"
 
 # ---------------------------------------------------------------------------
@@ -43,25 +50,28 @@ def clean_forum_text(text):
 # ---------------------------------------------------------------------------
 
 print("Loading corpus...")
-corpus_files = glob.glob(os.path.join(CORPUS_DIR, "*.txt"))
+corpus_files = []
+for d in CORPUS_DIRS:
+    found = sorted(glob.glob(os.path.join(d, "*.txt")))
+    if found:
+        print(f"  {d}/: {len(found)} files")
+        corpus_files.extend(found)
 
 if not corpus_files:
-    print(f"\n⚠️  No .txt files found in {CORPUS_DIR}/")
+    print(f"\n⚠️  No .txt files found in any of: {CORPUS_DIRS}")
     print("See data/corpus.md for how to build your MG knowledge base.")
-    print("Quick start: copy any .txt files with MG content into data/corpus/")
     exit(1)
 
 texts = []
-for path in sorted(corpus_files):
+for path in corpus_files:
     with open(path, "r", encoding="utf-8") as f:
         text = f.read().strip()
     text = clean_forum_text(text)
-    print(f"  {os.path.basename(path)}: {len(text):,} chars")
     texts.append(text)
 
 # Join with double newline so documents don't bleed into each other
 full_text = "\n\n".join(texts)
-print(f"\nTotal corpus: {len(full_text):,} characters")
+print(f"\nTotal corpus: {len(full_text):,} characters from {len(corpus_files)} files")
 
 # ---------------------------------------------------------------------------
 # Tokenise

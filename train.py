@@ -40,8 +40,8 @@ args = parser.parse_args()
 
 # Training
 max_iters      = 10_000      # Total training steps
-batch_size     = 16          # Sequences per batch (reduce if OOM)
-grad_accum     = 1           # Gradient accumulation steps (multiply effective batch)
+batch_size     = 4           # Sequences per batch (small for MPS memory headroom)
+grad_accum     = 4           # micro-batch × grad_accum = effective batch (16)
 
 # Optimiser
 learning_rate  = 3e-4
@@ -112,7 +112,9 @@ best_val_loss = float('inf')
 
 if args.resume:
     print(f"Resuming from {args.resume}")
-    ckpt = torch.load(args.resume, map_location=device)
+    # weights_only=False — we wrote this checkpoint ourselves and need the
+    # GPTConfig object back. PyTorch 2.6 flipped the default.
+    ckpt = torch.load(args.resume, map_location=device, weights_only=False)
     model.load_state_dict(ckpt["model"])
     iter_num = ckpt["iter_num"]
     best_val_loss = ckpt.get("best_val_loss", float('inf'))
