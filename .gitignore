@@ -4,14 +4,21 @@ data/train.bin
 data/val.bin
 data/meta.json
 
-# Corpus — scraped from mgexp.com, copyrighted to original posters.
-# Code to rebuild it lives in data/scrape_forums.py + bulk_scrape.py +
-# discover_and_scrape.py. Anyone reproducing should re-scrape locally.
+# Corpus — scraped forum content, copyrighted to original posters.
+# Code to rebuild it lives in data/scrape_pistonheads.py +
+# discover_and_scrape_pistonheads.py. Anyone reproducing should re-scrape locally.
 data/corpus/
 data/corpus_clean/
 data/corpus_qa/
 data/corpus_synth_qa/
 data/corpus_backup/
+data/corpus_pistonheads/
+data/corpus_pistonheads_clean/
+data/corpus_pistonheads_qa/
+data/_archive_mgexp/
+
+# Version-pinned backups left over from manual rollbacks
+*.bak
 
 # Runtime logs (anywhere in the tree)
 data/logs/
