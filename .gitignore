@@ -3,6 +3,7 @@ checkpoints/
 data/train.bin
 data/val.bin
 data/meta.json
+data/v7_*/
 
 # Corpus — scraped forum content, copyrighted to original posters.
 # Code to rebuild it lives in data/scrape_pistonheads.py +

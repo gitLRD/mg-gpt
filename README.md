@@ -48,26 +48,29 @@ mg-llm/
 │   ├── strip_pii.py             ← regex-based PII redaction (Macie-style)
 │   ├── format_qa.py             ← turn forum posts into Q&A pairs
 │   ├── synthesize_qa.py         ← LLM extracts case-study Q&A (Qwen / Claude)
-│   └── prepare.py               ← tokenise to train.bin / val.bin
+│   ├── prepare.py               ← tokenise MG corpus → train.bin / val.bin (split by thread)
+│   └── prepare_pretrain.py      ← stream a general-English pretraining set from Common Pile (license-filtered)
 │
 ├── model/
 │   ├── gpt.py                   ← the transformer (~200 lines)
 │   └── config.py                ← nano / small / medium presets
 │
 ├── lambda/
-│   ├── Dockerfile               ← container image for Lambda (currently: stub-only)
-│   ├── handler.py               ← WebSocket handler (currently: takedown stub)
-│   └── requirements.txt         ← boto3 only while stubbed; torch+ when v6 ready
+│   ├── Dockerfile               ← container image for Lambda (model code + ckpt baked in)
+│   ├── handler.py               ← WebSocket handler: personas, generation, reply clean-up
+│   └── requirements.txt         ← torch, tiktoken, numpy
 │
 ├── checkpoints/
 │   └── _archive_v5/             ← v5 training checkpoints (withdrawn)
 │
 ├── terraform/                   ← all AWS + Cloudflare infra as code
-├── frontend/index.html          ← static holding page (Workshop Manual theme)
+├── frontend/index.html          ← chat UI (Workshop Manual theme)
 ├── notebooks/
 │   └── transformer_lens_explore.ipynb  ← load ckpt into TransformerLens; viz attention + logit lens
 ├── deploy.sh                    ← build → push → terraform apply → S3 sync
-├── train.py                     ← training loop with cosine LR, eval, checkpoints
+├── train.py                     ← training loop: cosine LR, early stopping, --init-from for fine-tuning
+├── eval_mg.py                   ← fixed-prompt eval: val loss, empty-reply rate, coherence proxies
+├── judge_mg.py                  ← blind LLM-judge (local Qwen via LM Studio) scoring eval_mg replies 1-5
 └── generate.py                  ← interactive local inference
 ```
 

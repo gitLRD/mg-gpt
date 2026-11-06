@@ -263,7 +263,10 @@ def handle_message(apigw, connection_id, user_message):
             role = msg["role"].upper()
             prompt_text += f"{role}: {msg['content']}\n"
 
-        prompt_text += "ASSISTANT: "
+        # No trailing space: GPT-2 BPE attaches the space to the *next* word
+        # (" Check"), so a bare " " token is off-distribution and made the model
+        # emit nothing or a mid-word start. See eval_runs/v6_baseline.txt.
+        prompt_text += "ASSISTANT:"
 
         # get_model() also populates the global `config` from the checkpoint, so
         # call it before referencing config.block_size below.

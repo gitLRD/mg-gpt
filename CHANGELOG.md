@@ -10,6 +10,38 @@ journey.
 
 ## In progress
 
+- **v7 plan: general-English pretrain → MG fine-tune** (tracked in Notion: "MG-GPT v7").
+  MG-only data (2.7M tokens) can't teach English *and* MG to a 51M model; v6
+  overfit ~68 epochs (val 3.14 @ iter 3000 → 3.79 @ 10000).
+- **Val split fixed to be by thread** (`data/prepare.py`). The old split cut by
+  token position, so val was 100% synth Q&A while 1,588/1,625 of those threads
+  were also in train as raw dialogue. v6's 3.14 is not comparable to new numbers.
+  New data goes to `data/v7_*/` (gitignored); old bins untouched.
+- **`train.py` flags**: `--data-dir --checkpoint-dir --max-iters --lr --dropout
+  --patience --init-from` (weights-only init for fine-tuning).
+- **`eval_mg.py`**: val loss + 20 fixed MG prompts + held-out questions, reports
+  empty-reply rate and cheap coherence proxies; raw generations saved to `eval_runs/`.
+- **`data/prepare_pretrain.py`**: streams a license-filtered slice of Common Pile
+  (public-domain / CC only) with an attribution manifest. Smoke-tested at 2M tokens;
+  full 200M run not yet launched.
+- **MG-only baseline on the clean split** (from scratch, early stopped): best val
+  **4.26** @ iter 1750, vs v6's leaked 3.14. Memorises fast (train 2.82, val ~4.3).
+  Checkpoint + log in `checkpoints/v7_mgonly/`, `data/logs/train_v7_mgonly.log`.
+- **Pretrain done** (2026-11-06): 196M-token Common Pile slice (`data/v7_pretrain/`,
+  manifest.json = licence record), 12K iters, ~8.7h. General val 3.75 best, no overfit.
+  `train.py --save-interval` added to keep checkpoint disk use sane.
+- **MG fine-tune from the pretrain** (`checkpoints/v7_finetune/`, lr 1e-4, dropout 0.1):
+  best val **3.69** @ 3750 vs 4.26 for MG-only (same held-out threads; full-sweep 3.73 vs 4.33).
+  Keyword-hit 95% (bare) / 75% (handler) vs 85% / 60%.
+- **`judge_mg.py`**: blind 1-5 "makes sense" scoring of `eval_mg.py` replies by a local
+  Qwen (LM Studio). Bare prompt mean: v6 2.80, MG-only 2.30, fine-tuned 2.70; handler
+  prompt: 1.97 / 2.37 / 2.43. On the 20 fixed questions the fine-tune leads (3.05 v6 2.85
+  MG-only 2.45); v6 only wins on held-out Qs it trained on. n=30, one judge, noisy.
+- **Found: live empty replies come from the prompt's trailing space**
+  (`lambda/handler.py`, `"ASSISTANT: "`). BPE attaches the space to the next word, so
+  the model sees an off-distribution token. v6 ckpt: 0/30 empty without the space,
+  13/20 with it. Fix pending, not deployed.
+
 - **TransformerLens exploration notebook** (`notebooks/transformer_lens_explore.ipynb`).
   Loads `ckpt_best.pt` into a `HookedTransformer` via the built-in
   `convert_nanogpt_weights` adapter (our state-dict layout already matches

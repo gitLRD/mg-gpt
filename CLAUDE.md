@@ -1,5 +1,20 @@
 # Instructions for Claude sessions working on this repo
 
+## How to explain things to the owner
+
+Explain like the owner is about 10 and has played with LLMs a bit: they know
+what a prompt, a token and "training" are, but not the maths or the jargon
+around them.
+
+- Say what happened and *why it matters* in plain words first. Technical
+  detail comes after, if at all.
+- Use an everyday picture where it helps (cars and workshops fit this project).
+- The first time a term shows up (val loss, overfitting, BPE, warm start),
+  explain it in one short sentence.
+- Keep it accurate. Simple does not mean vague: still give the real numbers,
+  and say clearly when something is a guess or not checked.
+- This is for chat. Code, README, CHANGELOG and docs keep their normal style.
+
 ## Keep README.md and CHANGELOG.md up to date
 
 Two living docs, two different jobs:
