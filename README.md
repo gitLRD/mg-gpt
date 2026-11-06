@@ -106,8 +106,8 @@ python generate.py --prompt "USER: My MGB starts hard in winter.\nASSISTANT: "
 ./deploy.sh
 ```
 
-`deploy.sh` builds the Docker image (with the latest `checkpoints/ckpt_best.pt`
-baked in), pushes to ECR, applies Terraform, force-updates the Lambda function
+`deploy.sh` builds the Docker image (with `checkpoints/ckpt_best.pt`
+baked in; for v7 this is a weights-only copy of `checkpoints/v7_finetune/ckpt_best.pt`), pushes to ECR, applies Terraform, force-updates the Lambda function
 code, uploads the frontend HTML to S3, and invalidates the CloudFront cache.
 See `DEPLOYMENT.md` for the infra deep-dive.
 

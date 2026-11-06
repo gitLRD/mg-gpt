@@ -10,6 +10,12 @@ journey.
 
 ## In progress
 
+- **Deployed v7 to Lambda** (2026-11-06): fine-tuned model (iter 3750, val 3.69) plus the
+  trailing-space handler fix. Live probe: 5/5 replies non-empty (v6 was ~67% empty). Slim
+  `checkpoints/ckpt_best.pt` = weights + config only (228 MB). Previous image kept in ECR as
+  `v6-rollback` (the repo lifecycle policy expires untagged images after 1 day).
+  `deploy.sh` stopped at `terraform apply` (Cloudflare token rejected, status 400), so the Lambda
+  was updated by hand with `aws lambda update-function-code`; fix the token before the next full deploy.
 - **v7 plan: general-English pretrain → MG fine-tune** (tracked in Notion: "MG-GPT v7").
   MG-only data (2.7M tokens) can't teach English *and* MG to a 51M model; v6
   overfit ~68 epochs (val 3.14 @ iter 3000 → 3.79 @ 10000).
