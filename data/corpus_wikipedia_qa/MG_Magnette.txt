@@ -1,0 +1,23 @@
+USER: How long was the MG Magnette produced?  
+ASSISTANT: The MG Magnette was produced between 1953 and 1968. It was built in two main series: the ZA and ZB from 1953 to 1958, followed by the Mark III and Mark IV from 1959 to 1968.
+
+USER: What engine did the Magnette ZA use?  
+ASSISTANT: The Magnette ZA used a 1,489 cc B-Series I4 engine with twin-choke SU carburettors, producing 60 bhp. It was the first MG to feature a four-cylinder engine and a four-speed manual gearbox with synchromesh on the top three gears.
+
+USER: When was the Magnette ZB introduced, and what changes were made?  
+ASSISTANT: The Magnette ZB was announced on 12 October 1956. It increased power to 64 bhp by fitting larger 1+1⁄2 in carburettors, raising the compression ratio to 8.3. This improved the top speed to 86 mph and reduced 0–60 mph acceleration to 18.5 seconds.
+
+USER: How many Magnette ZB models were built?  
+ASSISTANT: A total of 18,524 Magnette ZB models were built. The ZB was produced from 1956 to 1958 and shared the same B-Series engine as the Wolseley 15/50.
+
+USER: What engine was used in the Magnette Mark III?  
+ASSISTANT: The Magnette Mark III used BMC's 1,489 cc B-Series engine, enhanced with twin S.U. H.D.4 carburettors for better performance. It was part of a shared platform with the Riley 4/68 and other BMC saloons like the Austin A55 Cambridge.
+
+USER: When did the Magnette Mark IV come out, and what changes were made?  
+ASSISTANT: The Magnette Mark IV was introduced in 1961. It featured a larger 1.6 L (1622 cc) B-Series engine with increased bore, a longer wheelbase, wider track, and added anti-roll bars for better handling. The tailfins were slightly redesigned compared to the Mark III.
+
+USER: Was the MG 6 ever called the Magnette in the UK?
+ASSISTANT: Yes, in 2011 MG Motor confirmed that the saloon version of the MG 6 would be called the Magnette in the UK, Europe, and China. This naming was used to reinforce the brand’s heritage, linking it to earlier Magnette models like the ZA and ZB. The name was showcased at the Goodwood Circuit during a media launch.
+
+USER: What models were shown alongside the MG 6 Magnette at Goodwood?
+ASSISTANT: At the Goodwood Circuit media launch, the MG 6 Magnette was displayed alongside the earlier ZA and ZB Magnettes. These models helped emphasize the continuity of the Magnette name across MG’s history. The event highlighted the brand’s legacy and the evolution of the Magnette nameplate.

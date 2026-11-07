@@ -1,0 +1,17 @@
+USER: What years was the MG L-type produced?  
+ASSISTANT: The MG L-type was produced in 1933 and 1934.
+
+USER: What engine did the MG L-type have, and what were its specifications?  
+ASSISTANT: The MG L-type used a 1086 cc overhead camshaft, crossflow engine with a bore of 57 mm and stroke of 71 mm, producing 41 bhp at 5500 rpm.
+
+USER: How many L1 coupés were made, and why is it considered rare?  
+ASSISTANT: Only 100 L1 coupés were made, and they were slow sellers, remaining available long after the rest of the range sold out, making them a rare and desirable car today.
+
+USER: What were the differences between the L1 and L2 versions of the MG L-type?  
+ASSISTANT: The L1 was a four-seat coupé and saloon version, while the L2 was a two-seater. The L1 had a Continental Coupé variant available in two-tone colours.
+
+USER: What kind of gearbox and brakes did the MG L-type have?  
+ASSISTANT: The L-type used a four-speed non-synchromesh gearbox and had cable-operated brakes with 12-inch drums all round.
+
+USER: Where were the bodies for the L-type saloon made?  
+ASSISTANT: The bodies for the small saloon or salonette version were not made by MG but were purchased from Abbey.

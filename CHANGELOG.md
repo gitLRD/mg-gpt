@@ -10,6 +10,35 @@ journey.
 
 ## In progress
 
+- **v8 fine-tune on augmented data** (`data/v8_augmented`: +2,713 extra forum Q&A, 53 Wikipedia
+  articles, 671 wiki Q&A; train 2.44M -> 2.93M tokens, val identical). Best val 3.65 @3000 vs v7 3.69.
+  Judge, 3 seeds x 2 prompts x 2 judges (qwen3-vl, qwen3-coder): v8 vs v7 = 2.76/2.54 vs 2.75/2.56
+  (vl), 2.80/2.58 vs 2.70/2.67 (coder). No reliable gain, so v8 is not deployed. 14 threads were
+  skipped (HTTP 400 from the model server). Runs in `eval_runs/v8_aug_*`, `v7_ft_*`, `judge2_*`.
+- **More MG text, licence-checked** (research 2026-11-06). Not usable: workshop manuals and
+  reprints (commercial, copyrighted), MG Car Club *Safety Fast!* (permission needed, members only),
+  Chicagoland MG Club pages (all rights reserved), Stack Exchange (terms exclude AI training), NC
+  open textbooks, US Army TM 9-8000 (public-domain status not stated by the host; skipped), Gutenberg
+  1907-15 motoring books (public domain but dated and low value). Usable: English Wikipedia MG
+  articles, CC BY-SA 4.0 (attribution + share-alike; the terms don't mention AI training either way).
+- **`data/fetch_wikipedia_mg.py`**: 53 MG-related Wikipedia articles (~98K tokens) via the API,
+  serial 1.2 s apart, `maxlag`, gzip, User-Agent with a contact address, per Wikimedia's etiquette
+  (they ask bulk users not to crawl). `manifest.json` records title, URL and revision id for attribution.
+  Modern SAIC-era models and a town article were dropped as off-topic for a classic-MG bot.
+- **`data/synthesize_wiki_qa.py`**: grounded Q&A from those articles (answers only from the text, local Qwen).
+- **`data/synthesize_qa_extra.py`**: second-pass Q&A on forum threads >= 3000 chars (first pass averaged
+  3.4 pairs/thread vs a 3-8 target); val threads skipped.
+- **`data/prepare.py` `EXTRA_TRAIN_DIRS`**: new sources are train-only and added after the original
+  shuffles, so val is unchanged and v7 numbers stay comparable.
+- **Deployed: persona priming removed from the live prompt** (`lambda/handler.py`, Lambda version 21).
+  Plain prompt scored equal or better in 4/4 runs and cuts ~500 prompt tokens; persona is now the greeting only.
+  Live probe: 5/5 non-empty. Done by hand (`docker push` + `aws lambda update-function-code`) as the
+  Cloudflare token still fails `terraform apply`.
+- **Persona-priming test** (`eval_mg.py` new `short_nospace` mode; runs in `eval_runs/priming_*`):
+  fine-tuned model, 30 Qs x 4 runs (3 personas, 2 seeds for one). Judge mean: plain 2.70,
+  full priming (live) 2.51, one-pair priming 2.56. Plain >= full priming in 4/4 runs, but gaps
+  (~0.2) are about the size of the seed-to-seed swing (plain 2.73 vs 2.60), so: lean, not proof.
+  Live handler unchanged.
 - **Deployed v7 to Lambda** (2026-11-06): fine-tuned model (iter 3750, val 3.69) plus the
   trailing-space handler fix. Live probe: 5/5 replies non-empty (v6 was ~67% empty). Slim
   `checkpoints/ckpt_best.pt` = weights + config only (228 MB). Previous image kept in ECR as

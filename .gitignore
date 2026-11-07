@@ -55,3 +55,5 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+data/corpus_synth_qa_extra/
+data/v8_*/

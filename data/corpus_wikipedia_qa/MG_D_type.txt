@@ -1,0 +1,17 @@
+USER: How many MG D-types were made in total?  
+ASSISTANT: A total of 250 MG D-types were produced, with 208 being open tourers, 37 salonettes, and five sent to external coachbuilders.
+
+USER: What engine did the MG D-type use?  
+ASSISTANT: The MG D-type used the M-Type 847 cc engine, which was derived from the overhead camshaft engine of the 1928 Morris Minor and Wolseley 10, producing 27 bhp at 4500 rpm.
+
+USER: Was the MG D-type available in different body styles?  
+ASSISTANT: Yes, the MG D-type was available as a four-seater in two body styles: 208 open tourers and 37 salonettes. Five were sent to external coachbuilders for custom bodies.
+
+USER: What kind of transmission did the MG D-type have?  
+ASSISTANT: The MG D-type came with a three-speed non-synchromesh gearbox, though a four-speed option was available on later models.
+
+USER: How did the wheelbase of the MG D-type compare to the C-Type?  
+ASSISTANT: The MG D-type had a longer wheelbase than the C-Type—84 inches initially, increasing to 86 inches after the first 100 cars—to accommodate the larger body, while the track remained unchanged at 42 inches.
+
+USER: Was the MG D-type faster than the F-Type?  
+ASSISTANT: No, the MG D-type was not very fast, with only the open tourer reaching around 60 mph, due to its small engine. The F-Type, with its 1271 cc six-cylinder engine, was much faster and a bigger seller.

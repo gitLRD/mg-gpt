@@ -1,0 +1,21 @@
+MG J-type
+
+The MG J-type is a sports car that was produced by MG from 1932 to 1934. This 2-door sports car used an updated version of the overhead camshaft, crossflow engine, used in the 1928 Morris Minor and Wolseley 10 and previously fitted in the MG M-type Midget of 1929 to 1932, driving the rear wheels through a four-speed non-synchromesh gearbox. The chassis was from the D-Type with suspension by half-elliptic springs and Hartford friction shock-absorbers all round with rigid front and rear axles. The car had a wheelbase of 86 in (2,184 mm) and a track of 42 in (1,067 mm). Most cars were open two-seaters, but a closed salonette version of the J1 was also made, and some chassis were supplied to external coachbuilders. The open cars can be distinguished from the M type by having cut-away tops to the doors.
+
+== J1 ==
+
+The J1 was the four-seat car in the range. The engine was the 847 cc unit previously seen in the C-type with twin SU carburetors giving 36 bhp. The car cost £220 in open and £225 in Salonette form.
+
+== J2 ==
+
+The J2, a road-going two-seater, was the commonest car in the range. Early models had cycle wings, which were replaced in 1933 by the full-length type typical of all sports MGs until the 1950s TF. The top speed of a standard car was 65 mph (105 km/h), but a specially prepared one tested by The Autocar magazine reached 82 mph (132 km/h). The car cost £199.
+The most serious of the J2's technical failings is that it has only a two-bearing crankshaft which may break if over-revved. The overhead camshaft is driven by a vertical shaft through bevel gears, which also forms the armature of the dynamo. Thus any oil leak from the cambox seal goes into the dynamo brushgear, presenting a fire hazard.
+Rather than hydraulic brakes the car has Bowden cables to each drum. Although requiring no more pedal force than any other non-power-assisted drum brake if they are well maintained, the drums themselves are small, and even in-period it was a common modification to replace them with larger drums from later models.
+
+== J3 ==
+
+The J3 was a racing version with the engine capacity reduced to 746 cc by shortening the stroke from 83 to 73 mm and fitted with a Powerplus supercharger. The smaller engine capacity was to allow the car to compete in 750 cc class racing events. Larger brakes from the L-type were fitted.
+
+== J4 ==
+
+The J4 was a pure racing version with lightweight body work and the J3 engine, but using more boost from the supercharger to obtain 72 bhp (54 kW).

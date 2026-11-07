@@ -1,0 +1,35 @@
+USER: When did the Longbridge plant start making cars?  
+ASSISTANT: The Longbridge plant began making cars in 1906, when Herbert Austin bought the site and started production of the first Austin car in March of that year.
+
+USER: What was the first Austin car like?  
+ASSISTANT: The first Austin was a 25-30 h.p. high-class touring car with a four-speed gearbox and chain-driven transmission, priced at £650 and produced in small numbers at the start.
+
+USER: How many people worked at Longbridge in 1908?  
+ASSISTANT: By 1908, the Longbridge plant employed 1,000 workers to meet rising demand for Austin cars.
+
+USER: When did Austin move into the Longbridge site?  
+ASSISTANT: Austin moved into the derelict buildings at Longbridge before the official purchase date, in early 1906, to prepare for the British Motor Show that November.
+
+USER: What did Austin use to power the factory in 1914?  
+ASSISTANT: In 1914, Austin transitioned to electric drive using two four-cylinder vertical gas engines of 200 horsepower each, connected to three-phase alternators.
+
+USER: When did the Longbridge plant stop assembling cars?  
+ASSISTANT: Vehicle assembly at the Longbridge plant ended in 2016, after which it became the MG Motor Technical Centre for quality checks on vehicles assembled in China.
+
+USER: How many shells were produced at the Longbridge plant during World War I?  
+ASSISTANT: Between 1914 and 1918, over 8 million shells were produced at the Longbridge plant.
+
+USER: What other military equipment was made at Longbridge during World War I besides shells?  
+ASSISTANT: In addition to shells, the plant produced 650 guns, 2,000 aeroplanes, 2,500 aero engines, and 2,000 trucks during World War I.
+
+USER: When was the millionth Austin car produced at Longbridge?  
+ASSISTANT: The millionth Austin was produced in June 1946 at the Longbridge plant.
+
+USER: Who was responsible for the expansion of Austin after World War II?  
+ASSISTANT: Leonard Lord took over as chairman after the war and laid plans for rapid expansion, new models, and overseas marketing.
+
+USER: What was the Austin A40 Sports, and where were its bodies made?  
+ASSISTANT: The Austin A40 Sports was an aluminium-bodied, four-passenger convertible made in collaboration with Jensen Motors. Its bodies were manufactured by Jensen in Pensnett, near Dudley, not at their West Bromwich plant.
+
+USER: When did Austin become part of British Leyland?  
+ASSISTANT: Austin became part of British Leyland in 1968, after being amalgamated into BMC in 1952.

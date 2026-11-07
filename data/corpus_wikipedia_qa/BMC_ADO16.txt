@@ -1,0 +1,35 @@
+USER: How long was the BMC ADO16 in production?  
+ASSISTANT: The BMC ADO16 was in production for 12 years, from 1962 to 1974.
+
+USER: What was the ADO16's most common name in the UK?  
+ASSISTANT: In the UK, the ADO16 was widely known as the 1100, especially when equipped with the 1100 cc engine, and sometimes called the 1300 when it had the 1275 cc engine.
+
+USER: Which company designed the ADO16?  
+ASSISTANT: The ADO16 was designed by Sir Alec Issigonis, who also created the Mini. The Italian design studio Pininfarina styled the car.
+
+USER: What engine did the ADO16 use?  
+ASSISTANT: The ADO16 used the BMC A-Series engine, mounted transversely and driving the front wheels. It was available in 1100 cc and 1275 cc versions.
+
+USER: How many ADO16s were built during its production run?  
+ASSISTANT: Over 2.3 million ADO16s were produced between 1962 and 1974, with approximately 2,365,420 units built by October 1973.
+
+USER: When did the ADO16 become Britain's best-selling car?  
+ASSISTANT: The ADO16 became Britain's best-selling car from 1963 to 1966 and again from 1968 to 1971, holding around 15% of the new car market at its peak.
+
+USER: What years was the Mark I ADO16 made?  
+ASSISTANT: The Mark I ADO16 was produced from 1962 to 1967.
+
+USER: What engine did the Mark I ADO16 have?  
+ASSISTANT: The Mark I ADO16 used a 1098 cc A-Series I4 engine from 1962 to 1974.
+
+USER: Was the Mark I ADO16 front-wheel drive?  
+ASSISTANT: Yes, the Mark I ADO16 featured front-wheel drive, which was unusual compared to most of its competitors at the time.
+
+USER: What body styles were available for the Mark I ADO16?  
+ASSISTANT: The Mark I ADO16 was initially available only as a four-door saloon. A three-door estate was added in March 1966.
+
+USER: When did the automatic transmission become available for the ADO16?  
+ASSISTANT: An Automotive Products four-speed automatic transmission became available in November 1965.
+
+USER: What were the estate versions of the Mark I ADO16 called?  
+ASSISTANT: The estate versions were badged as the Morris 1100 Traveller or the Austin 1100 Countryman.

@@ -1,0 +1,53 @@
+USER: What year was the MG-Lola EX257 built for?
+ASSISTANT: The MG-Lola EX257 was built for the 2001 24 Hours of Le Mans, marking MG's return to the race after a long absence. It was developed specifically to meet the LMP675 regulations and was known internally as the Lola B01/60.
+
+USER: What engine did the original EX257 use?
+ASSISTANT: The original EX257 used a 2.0 litre turbocharged inline-4 engine called the MG XP20, developed by Advanced Engine Research (AER) with turbocharging by Garrett. It produced around 500 horsepower, limited by air restrictors set by the ACO.
+
+USER: How much did the EX257 weigh when it was introduced?
+ASSISTANT: The EX257 was very light when it launched, weighing approximately 690 kg. This was just above the minimum allowed weight of 675 kg under the LMP675 regulations.
+
+USER: What changes were made to the EX257 in 2003?
+ASSISTANT: In 2003, the Intersport Racing team replaced the original MG XP20 engine with a Judd KV675 naturally aspirated V8. This required removing the large turbo inlet and adding a new air intake behind the cockpit. The car was then run without the MG branding due to the engine change.
+
+USER: Was the EX257 the only car Lola built for LMP675 regulations?
+ASSISTANT: Yes, the EX257 was Lola's only car built specifically to LMP675 regulations. It was designated the Lola B01/60 and was designed to fit the class's requirements for smaller engines and lighter weight.
+
+USER: When was the last original-spec EX257 retired?
+ASSISTANT: The last EX257 running in its original specification was retired from racing in 2007 after several years of competition, including privateer entries.
+
+USER: How many MG-Lola EX257s were entered at the 2001 24 Hours of Le Mans?  
+ASSISTANT: Two MG-Lola EX257s were entered by MG Sport & Racing Ltd. at the 2001 24 Hours of Le Mans.
+
+USER: What happened to the MG-Lola EX257s at the 2001 Le Mans race?  
+ASSISTANT: Both EX257s retired early—one due to an exhaust failure after 30 laps, and the other from an oil leak a few hours later.
+
+USER: When did the MG-Lola EX257 first become available to customer teams?  
+ASSISTANT: The EX257 was first offered to customers in 2002, when KnightHawk Racing and Intersport Racing each purchased one chassis.
+
+USER: Which team won the LMP675 class at the 2002 Sebring 12 Hours?  
+ASSISTANT: Intersport Racing won the LMP675 class at the 2002 Sebring 12 Hours, finishing seventh overall.
+
+USER: How many total wins did the EX257s achieve in the 2002 American Le Mans Series?  
+ASSISTANT: The EX257s took five wins in the 2002 American Le Mans Series—one at Sebring and four more throughout the season.
+
+USER: Why did Intersport switch to a naturally aspirated Judd engine in 2003?  
+ASSISTANT: Intersport replaced the turbocharged MG engine with a naturally aspirated Judd KV675 V8 before the 2003 Petit Le Mans to improve reliability and performance.
+
+USER: What happened to the MG-Lola EX257 after 2005?  
+ASSISTANT: After 2005, the EX257 was retired by Intersport due to poor performance. Dyson Racing continued using their unmodified EX257s in the LMP1 class, while RML redeveloped their car with a Judd V8 engine and renamed it the EX264 for the LMP2 class.
+
+USER: When did the MG-Lola EX257 last race?  
+ASSISTANT: The MG-Lola EX257 last raced in 2007. Autocon Motorsports ran the final original EX257 in the American Le Mans Series until they switched to a newer car after three rounds.
+
+USER: Did any EX257s get modified with a different engine?  
+ASSISTANT: Yes, two chassis were modified: #HU-01 and #HU-03 were fitted with a Judd XV675 V8 engine. This led to the rebranding of the car as the MG-Lola EX264 for the 2005 season.
+
+USER: Which team won the LMP2 class at Le Mans in 2005?  
+ASSISTANT: RML won the LMP2 class at Le Mans in 2005. Their modified MG-Lola EX264 finished first in class and also achieved the car's first-ever finish in the race.
+
+USER: What happened to the EX257 chassis after 2006?  
+ASSISTANT: After 2006, Dyson Racing sold their EX257s to Highcroft Racing and Autocon Motorsports. Highcroft used theirs in limited races, achieving a third-place overall finish at Petit Le Mans. Autocon ran theirs through the first three rounds of 2007 before switching to a newer chassis.
+
+USER: Who owned the EX257 chassis #HU-03 after 2003?  
+ASSISTANT: After 2003, chassis #HU-03 was leased to Intersport Racing briefly, then went to Mike Newton and Ray Mallock Ltd. It remained with them until 2011. In 2020, it was listed for sale at the Ascott Collection.

@@ -14,6 +14,7 @@ Modes isolate where empty replies come from:
   bare             "USER: q\\nASSISTANT:"                       (matches training format)
   handler          persona priming + "USER: q\\nASSISTANT: "    (exactly what lambda/handler.py sends)
   handler_nospace  persona priming + "USER: q\\nASSISTANT:"     (handler minus the trailing space)
+  short_nospace    first priming pair only + "USER: q\\nASSISTANT:"
 
 Raw generations go to --out (JSONL) so they can be read, not just counted.
 """
@@ -98,6 +99,10 @@ def build_prompt(mode, persona, q):
         return f"{priming}USER: {q}\nASSISTANT: "
     if mode == "handler_nospace":
         return f"{priming}USER: {q}\nASSISTANT:"
+    if mode == "short_nospace":
+        # Only the first USER/ASSISTANT pair of the priming (~1/4 the tokens).
+        first_pair = priming[: priming.index("USER:", 1)]
+        return f"{first_pair}USER: {q}\nASSISTANT:"
     raise ValueError(mode)
 
 

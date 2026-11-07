@@ -1,0 +1,35 @@
+USER: When was the Austin-Healey 100-6 produced?  
+ASSISTANT: The Austin-Healey 100-6 was produced from 1956 to 1959. It was available as a 2+2 roadster in the BN4 model from 1956 to 1957, then continued with the same body style but with a change to 1+3⁄4-inch SU carbs from 1957 to 1959, before transitioning to a 2-seater roadster in the BN6 model from 1958 to 1959.
+
+USER: What was the last model of the Austin-Healey 3000 produced?  
+ASSISTANT: The last model of the Austin-Healey 3000 was the BJ8 Mark III, produced from 1963 to 1967. This was a 2+2 convertible with wind-up windows. It followed the BJ7 Mark II, which was produced from 1962 to 1963.
+
+USER: How many Austin-Healey 100S models were made?  
+ASSISTANT: Only 50 Austin-Healey 100S models were produced. These were race-prepared cars made in 1955, following the BN1 model. They were a limited production variant of the 100 series.
+
+USER: When did the Austin-Healey Sprite start having roll-up windows?  
+ASSISTANT: The Austin-Healey Sprite started having roll-up windows in 1964, with the introduction of the HAN8 Mark III model. Before that, the Mark I and Mark II models had fixed windows.
+
+USER: What happened to Donald Healey after the Austin-Healey production ended?  
+ASSISTANT: After the 20-year agreement between Healey and Austin ended in 1972, Donald Healey left British Motor Holdings in 1968 when it merged into British Leyland. He then joined Jensen Motors, where he became chairman in 1972. Jensen had been making bodies for the "big Healeys" since 1952.
+
+USER: Which Austin-Healey model won the last SCCA National Championship?  
+ASSISTANT: The last Austin-Healey to win an SCCA National Championship was the class E Production Austin-Healey 100-6, driven by Alan Barker at the Daytona ARRC in 1965. This model was produced from 1956 to 1959.
+
+USER: What happened to the Austin-Healey name after the Rover Group went bankrupt?  
+ASSISTANT: After the Rover Group went bankrupt, the Austin name was bought by China's Nanjing Automobile Group in 2005. They acquired the assets of MG Rover Group and later merged with SAIC Motor, transferring the Austin marque to SAIC.
+
+USER: Did BMW ever try to revive the Austin-Healey?  
+ASSISTANT: Yes, in 2001 BMW revealed the “Project Warwick” concept, a modern interpretation of the Austin Healey built on the Z8's aluminium chassis. The project was cancelled due to lack of marque ownership rights, and BMW later sold the Rover Group.
+
+USER: What was Project Tempest, and what happened to it?  
+ASSISTANT: Project Tempest was a 2005 proposal by Professor Krish Bhaskar to create a car inspired by the Austin Healey 3000, using the MG XPower SV's running gear and a lightweight aluminium body. His bid failed, and the project never came to fruition.
+
+USER: Was there a new Austin-Healey planned in the mid-2000s?  
+ASSISTANT: Yes, in 2006 HFI Automotive announced plans for a sports car with the DNA of a Healey 3000, offering coupe and convertible versions. They took deposits and developed a prototype, but no models were shown and the project never launched.
+
+USER: How did the Austin-Healey brand end up being revived in a modern form?  
+ASSISTANT: In 2015, Healy Designs released the Enigma, a Mazda MX-5-based kit car with a retro fibreglass body inspired by the Big Healey. It features a 2.0 litre Mazda engine or a V8 from a Lexus or Corvette.
+
+USER: Did the Austin-Healey name stay with the original company after Donald Healey sold his business?  
+ASSISTANT: No, after Donald Healey sold his company, the Healey brand was registered to a new firm called Healey Automobile Consultants. This company was later sold to HFI Automotive in 2005.

@@ -1,0 +1,52 @@
+MG T-type
+
+The MG T-Type is a series of body-on-frame open two-seater sports cars that were produced by MG from 1936 to 1955. Known as the Midget, the series included the TA, TB, TC, TD, and TF models. Although the design was contemporary in the 1930s, it had grown outdated by the 1950s, and was replaced by the all-new MGA in 1955.
+The TF name was reinstated in 2002 on the mid-engined MG TF sports car.
+
+== TA Midget ==
+
+The TA Midget replaced the PB in 1936. It was an evolution of the previous car and was 3 inches (76 mm) wider in its track at 45 inches (1,100 mm) and 7 inches (180 mm) longer in its wheelbase at 94 inches (2,400 mm).
+The previous advanced overhead-cam inline-four engine was by then not in use by any other production car, so it was replaced by the MPJG OHV unit from the Wolseley Ten, but with twin SU carburettors, modified camshaft and manifolding. The engine displaced just 1292 cc, with a stroke of 102 mm (4.0 in) and a bore of 63.5 mm (2.5 in) and power output was 50 hp (40.3 kW) at 4,500 rpm. The four-speed manual gearbox gained synchromesh on the two top ratios and was connected to the engine by a cork-faced clutch running in oil. Unlike the PB, hydraulic brakes were fitted with 9-inch (230 mm) drums.
+
+Like the PB, most were two-seat open cars with a steel body on an ash frame. A bench-type seat was fitted with storage space behind.
+The T-type was capable of reaching almost 80 mph (130 km/h) in standard tune with a 0–60 mph time of 23.1 seconds.
+Allan Tomlinson won the 1939 Australian Grand Prix handicap driving an MG TA.
+3,003 were made, and in 1936 it cost £222 on the home market, the same as the PB.
+When first introduced, the model was known as the T Type, and only after the advent of the TB did the TA designation come into use.
+
+=== Tickford drophead coupé ===
+From 1938 the car could also be had with a more luxurious Tickford drophead coupé body by Salmons of Newport Pagnell, and 252 were made. The soft top could be used in three positions, fully open, closed or open just over the seats. Wind-up windows were fitted to the higher topped doors making the car more weathertight and individual bucket seats used in the fully carpeted interior. Complete chassis were fitted with a very basic body at the Abingdon factory and driven to Newport Pagnell to have their coachwork fitted.
+
+=== Airline fixed head coupé ===
+
+A closed Airline coupé made by Carbodies, as fitted to the P type, was also offered but only one or two are thought to have been made.
+
+== TB Midget ==
+
+The TA was replaced by the TB Midget in May 1939. It had a smaller but more modern XPAG engine as fitted to the Morris Ten Series M, but in a more highly tuned state and like the TA with twin SU carburettors. This 1250 cc straight-four unit featured a slightly less undersquare 66.6 mm (2.62 in) bore and 90 mm (3.54 in) stroke and had a maximum power output of 54 hp (40 kW) at 5200 rpm. The oil-immersed clutch was also replaced by a dry-plate type and gear ratios revised.
+Available as an open two-seater or more luxurious Tickford drophead coupé, this is the rarest of the T-type cars, as production began just prior to Britain's entry into World War II. Only 379 TBs were made before the MG factory emptied its buildings and switched to making major aircraft components and modifying tanks.
+
+== TC Midget ==
+
+The TC Midget was the first postwar MG, and was launched in 1945. It was quite similar to the pre-war TB, sharing the same 1,250 cc (76 cu in) pushrod-OHV engine with a slightly higher compression ratio of 7.4:1 giving 54.5 bhp (40.6 kW) at 5200 rpm. The makers also provided information for several alternative stages of tuning for "specific purposes". The XPAG engine is well known for its tunability. The TC engine was a slightly improved version of the XPAG first introduced to MG in the TB. Notable improvement was through the addition of a hydraulically (oil pressure) adjusted timing chain tensioner. All TCs utilized a (single battery) 12 volt electrical system. All TCs came with 19" Dunlop wire wheels. Automatic mechanical timing advance was built into the ignition distributor.
+It was exported to the United States, even though the car was only ever built in right-hand drive. The export version had slightly smaller US specification sealed-beam headlights (7-inch buckets) and twin tail lights, as well as turn signals and chromed front and rear bumpers with over riders.
+The body was approximately 4 inches (100 mm) wider than the TB measured at the rear of the doors to give more cockpit space. The overall car width remained the same resulting in narrower running boards with two tread strips as opposed to the previous three. The tachometer was directly in front of the driver, while the speedometer/odometer was on the other side of the dash in front of the passenger, a nod to MG's trials history.
+10,001 TCs were produced, from September 1945 (chassis number TC0251) to November 1949 (chassis number TC10251), more than any previous MG model. It cost £527 on the home (UK) market in 1947.
+Fuel consumption was 28 mpg‑imp (10.1 L/100 km; 23.3 mpg‑US). Its 0–60 mph time was 22.7 seconds, a respectable performance at the time. A low fuel warning light would glow on the dash to alert the driver.
+
+== TD Midget ==
+
+The TD Midget, announced in January 1950, combined the TC's drivetrain, a modified hypoid-geared rear axle, the MG Y-type chassis, a familiar T-type style body and independent suspension on front axle using coil springs from the MG Y-type saloon: a 1950 road-test report described as "most striking" the resulting "transformation ... in the comfort of riding". The entire drivetrain was not lifted from the TC; along with the new hypoid differential, a completely different gearbox was used (albeit also a four-speed). Also lifted from the company's successful 1¼-litre saloon was the (still highly geared) rack and pinion steering. In addition the TD featured smaller 15-inch (380 mm) disc type road wheels, a left-hand drive option and standard equipment bumpers and over-riders. The car was also 5 inches (130 mm) wider with a track of 50 inches (1,300 mm). It was seen by enthusiasts at the time as a disappointment, mild and "not a sports car", instead "largely designed to consolidate and expand the car's sale in North America." The first TDs were built in late 1949.
+For the driver the "all-weather protection" was good by the standards of the time. For night driving, instrument illumination was "effective but not dazzling, by a pale green lighting effect". There was still no fuel gauge, but the 12 imp gal (14.5 US gal; 54.5 L) of tank capacity gave a range between refuelling stops of about 300 miles (480 km) and a green light on the facia flashed a "warning" when the fuel level was down to about 2.5 imp gal (3 US gal; 11.5 L).
+In 1950 the TD MkII Competition Model was introduced, produced alongside the standard car, with a more highly tuned engine using an 8.1:1 compression ratio giving 57 bhp (43 kW) at 5,500 rpm. The higher compression ratio engine was offered with export markets in mind, and would not have been suitable for the UK, where carryover wartime restrictions limited fuel to 72 octane "pool petrol". The TD MkII also featured twin fuel pumps, additional Andrex dampers, and a higher ratio rear-axle.
+Nearly 30,000 TDs had been produced, including about 1700 Mk II models, when the series ended in 1953 with all but 1656 exported, 23,488 of them to the US alone. The main complaint that US owners had with the MG TD sold in the US was the British 12-volt electrical system, which was hard to service when most US cars were still using 6 volts. Also, they had minor complaints over the lack of water temperature and fuel gauges. But in general in surveys, owners of the Americanised MG TD had more positive remarks than negative. The 0–60 mph (97 km/h) time was 22.7 seconds according to Popular Mechanics.
+An example tested by The Motor magazine in 1952 had a top speed of 77 mph (124 km/h) and could accelerate from 0–60 mph (97 km/h) in 18.2 seconds. A fuel consumption of 26.7 miles per imperial gallon (10.6 L/100 km; 22.2 mpg‑US) was recorded.
+
+In 1998, the rights, intellectual properties and trademarks associated with the production of the MG TD were acquired by TD Cars Sdn Bhd in Malaysia to reproduce the TD series as TD2000.
+
+== TF and TF 1500 Midget ==
+
+The TF Midget, launched on 15 October 1953, was a facelifted TD, fitted with the TD Mark II engine, headlights faired into the wings, a sloping radiator grille concealing a separate radiator, and a new pressurised cooling system along with a simulated external radiator cap. This XPAG engine's compression ratio had been increased to 8.1:1 and extra-large valves with stronger valve springs and larger carburettors increased output to 57.5 bhp at 5,500 rpm.
+
+In mid-1954 the engine capacity was increased by 17 per cent to 1466 cc and designated XPEG. The bore was increased to 72 mm (2.8 in) and compression raised to 8.3:1 giving 63 bhp (47 kW) at 5,000 rpm and a 17 per cent increase in torque. The car was designated TF1500, and externally distinguished by a cream background enamel nameplate on both sides of the bonnet, placed just to the rear of the forward bonnet-release buttons.
+Production ended at chassis number TF10100 on 4 April 1955 after 9,602 TFs had been manufactured, including two prototypes and 3,400 TF1500s. The TF was superseded by the all new MGA.

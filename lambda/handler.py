@@ -255,10 +255,14 @@ def handle_message(apigw, connection_id, user_message):
         if persona not in PERSONAS:
             persona = DEFAULT_PERSONA
 
-        # Build prompt: persona priming + recent history + new message
+        # Build prompt: recent history + new message. No persona priming: the
+        # v7 model scored equal or better with a plain prompt in 4/4 runs and the
+        # prompt is ~500 tokens shorter (eval_runs/priming_*, CHANGELOG). The
+        # persona now lives in the greeting only; "priming" stays in PERSONAS
+        # because eval_mg.py still loads it for comparison runs.
         history.append({"role": "user", "content": user_message})
 
-        prompt_text = PERSONAS[persona]["priming"]
+        prompt_text = ""
         for msg in history[-5:]:  # Keep last 5 messages for context
             role = msg["role"].upper()
             prompt_text += f"{role}: {msg['content']}\n"
@@ -272,7 +276,7 @@ def handle_message(apigw, connection_id, user_message):
         # call it before referencing config.block_size below.
         model = get_model()
         prompt_tokens = enc.encode(prompt_text)
-        priming_len = len(PERSONAS[persona]["priming_tokens"])
+        priming_len = 0  # see above: no priming block to protect
 
         # Right-size generation budget against the checkpoint's actual block_size.
         # Nano has block_size=256; reserving 200 for output leaves no room for the

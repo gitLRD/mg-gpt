@@ -1,0 +1,35 @@
+USER: When was Cecil Kimber born and where?
+ASSISTANT: Cecil Kimber was born on 12 April 1888 in Dulwich, Southwark, London.
+
+USER: What was the first MG model called and when did it become the best-selling sports car?
+ASSISTANT: The first MG model was the MG M-type, also known as the "Midget", and it became the world's best-selling sports car in 1932.
+
+USER: What was the name of the first major race that Cecil Kimber won with a Morris Garage car?
+ASSISTANT: Cecil Kimber won the 300 mile "London-to-Land's End Reliability Trial" in March 1925 while driving Morris Garage's "Old Number One".
+
+USER: When did the M.G. Car Company move to Abingdon?
+ASSISTANT: The M.G. Car Company moved from Oxford to Abingdon in 1929.
+
+USER: When did Cecil Kimber become managing director of the M.G. Car Company?
+ASSISTANT: Cecil Kimber became managing director of the M.G. Car Company in July 1930.
+
+USER: What did Cecil Kimber say about the Alfa Romeo that inspired him to create a better M.G.?
+ASSISTANT: Kimber said the two-seater 1 1/2-litre Alfa-Romeo, supercharged, was one of the finest sports cars he had ever driven, praising its controllability, brakes, steering, and sheer driving pleasure, which inspired him to create a better M.G.
+
+USER: What models did Cecil Kimber develop to compete in the 750cc "Baby car" class?  
+ASSISTANT: Cecil Kimber developed the MG C-type, also known as the EX120, to compete in the 750cc class. He worked with Captain George Eyston, who helped develop and drive the EX120s, which were modified with Eyston’s Powerplus supercharger. Five of the fourteen EX120s entered in the 1931 Brooklands Double Twelve won first place.
+
+USER: Did the MG EX120 set any land speed records?  
+ASSISTANT: Yes, the MG EX120 set a land speed record of 103.13 mph at the Autodrome de Linas-Montlhéry in 1931, driven by George Eyston. The same year, Eyston also set a record of 119.48 mph at Pendine Sands in a 750cc MG "Magic Midget".
+
+USER: What was the name of the 1100cc model Kimber developed after the K-type?  
+ASSISTANT: The 1100cc model developed by Kimber was the EX135, based on the MG K-type K-3 Magnette. It won numerous events including the 1933 Mille Miglia and achieved a record of 204.3 mph for the mile at Dessau in 1939.
+
+USER: Which MG model won the 1933 RAC Tourist Trophy?  
+ASSISTANT: The supercharged MG K3 Magnette, driven by Tazio Nuvolari, won the 1933 RAC Tourist Trophy. It achieved an average speed of 78.65 mph over a nearly six-hour, 478-mile race and held the record for 18 years.
+
+USER: When was the MG Car Company sold and what happened to Cecil Kimber afterward?  
+ASSISTANT: The MG Car Company was sold to Morris Motors in 1935, which led to Kimber no longer having sole control. He became disillusioned and eventually left in 1941 after working on aircraft contracts without approval. He died in a railway accident in 1945.
+
+USER: What honors were given to Cecil Kimber posthumously?  
+ASSISTANT: In 2017, Cecil Kimber was inducted into the British Sportscar Hall of Fame. In 2019, the "Kimber Wing" was named at New College, Oxford, for two disabled students. He also received an Oxfordshire Blue Plaque in 2014.

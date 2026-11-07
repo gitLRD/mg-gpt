@@ -40,6 +40,13 @@ CORPUS_DIRS = [
     "data/corpus_pistonheads_qa",  # reformatted as USER:/ASSISTANT: dialogue
     "data/corpus_synth_qa",        # LLM case-study synthesis (Phase 2)
 ]
+# Extra sources that only ever go to train, never val: val stays byte-identical
+# to the v7 runs, so numbers stay comparable. Skipped silently if absent.
+EXTRA_TRAIN_DIRS = [
+    "data/corpus_synth_qa_extra",   # second-pass Q&A from forum threads (synthesize_qa_extra.py)
+    "data/corpus_wikipedia_mg",     # MG Wikipedia articles as prose (CC BY-SA 4.0, fetch_wikipedia_mg.py)
+    "data/corpus_wikipedia_qa",     # grounded Q&A from those articles (synthesize_wiki_qa.py)
+]
 VAL_FRACTION = 0.1            # ~10% of threads held out for validation
 SHUFFLE_SEED = 1337
 
@@ -102,6 +109,20 @@ for path in corpus_files:
 rng = random.Random(SHUFFLE_SEED)
 rng.shuffle(train_texts)
 rng.shuffle(val_texts)
+
+# Train-only extras go in after the original shuffles so val order is unchanged.
+n_extra = 0
+for d in EXTRA_TRAIN_DIRS:
+    for path in sorted(glob.glob(os.path.join(d, "*.txt"))):
+        with open(path, "r", encoding="utf-8") as f:
+            text = f.read().strip()
+        if not text or is_val_thread(os.path.splitext(os.path.basename(path))[0]):
+            continue
+        train_texts.append(text)
+        n_extra += 1
+if n_extra:
+    print(f"  + {n_extra} extra train-only docs from {EXTRA_TRAIN_DIRS}")
+    random.Random(SHUFFLE_SEED + 1).shuffle(train_texts)
 
 # Join with double newline so documents don't bleed into each other
 train_text = "\n\n".join(train_texts)

@@ -1,0 +1,17 @@
+USER: How many MG F-type cars were made in total?  
+ASSISTANT: A total of 188 MG F-type cars were produced, with 188 supplied in chassis form to outside coachbuilders like Abbey, Jarvis, Stiles, and Windover.
+
+USER: What engine did the MG F-type use, and how much power did it make?  
+ASSISTANT: The MG F-type used a 1271 cc six-cylinder overhead camshaft engine, producing 37.2 bhp initially, later increased to 47 bhp by adjusting the valve timing.
+
+USER: What was the top speed of the MG F-type?  
+ASSISTANT: The MG F-type was capable of reaching a top speed of 70 mph, thanks to its sloping radiator and long bonnet.
+
+USER: What kind of brakes did the original MG F-type have?  
+ASSISTANT: The original MG F-type had 8-inch brake drums, which were considered inadequate, especially with the 4-seat bodies. Many were later upgraded to larger F2 brakes.
+
+USER: When was the MG F2 introduced, and what changes did it have?  
+ASSISTANT: The MG F2 was introduced in late 1932 and featured larger 12-inch brake drums all round, improving braking performance. It was an open 2-seater with a body derived from the J-Type Midget.
+
+USER: What body styles were available for the MG F3?  
+ASSISTANT: The MG F3, introduced in 1932, offered the 4-seater tourer and the Foursome coupé body styles, both with the same improved brakes as the F2.

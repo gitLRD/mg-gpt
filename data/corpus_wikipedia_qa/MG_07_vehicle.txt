@@ -1,0 +1,17 @@
+USER: When did the MG 07 first go on sale?
+ASSISTANT: The MG 07 began deliveries to dealers on 21 July 2026, with pre-sales starting on 29 July of the same year.
+
+USER: What kind of powertrains does the MG 07 offer?
+ASSISTANT: The MG 07 is available with both a plug-in hybrid and a pure electric powertrain, built on SAIC's Modular Scalable Platform.
+
+USER: What is the electric range of the MG 07's standard battery electric version?
+ASSISTANT: The standard battery electric version offers 610 kilometres of CLTC range, using a 67 kWh semi-solid state LMO battery pack.
+
+USER: How long does it take to recharge the MG 07 from 30% to 80%?
+ASSISTANT: The MG 07 can be recharged from 30% to 80% in 20 minutes for the standard battery electric version and in 12 minutes for the upgraded version with the 91 kWh NMC battery.
+
+USER: What is the top electric range for the MG 07's upgraded battery electric version?
+ASSISTANT: The upgraded battery electric version offers up to 845 kilometres of CLTC range with its 91 kWh NMC battery and 800-volt power electronics.
+
+USER: What kind of infotainment system does the MG 07 have?
+ASSISTANT: The MG 07 features a 15.6-inch 2.5K-resolution central infotainment touchscreen, paired with a Qualcomm Snapdragon 8155 for base models and a Snapdragon 8295P for higher variants.

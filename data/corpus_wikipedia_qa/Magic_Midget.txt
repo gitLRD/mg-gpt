@@ -1,0 +1,17 @@
+USER: What were the key differences between the EX120 and the EX127 Magic Midgets?  
+ASSISTANT: The EX120 was the first of the record-breaking 750cc Midgets, developed from MG's M-type Midget chassis and fitted with a supercharger to reach over 100 mph. The EX127 was built later for Eyston but initially driven by Eldridge, and it achieved higher speeds, reaching 119.48 mph on Pendine Sands in 1932. Both were used to set class records, but the EX127 was faster and built after the EX120’s fire incident.
+
+USER: When did the EX120 first break the 100 mph barrier?  
+ASSISTANT: The EX120 became the first 750cc car to exceed 100 mph in February 1931, reaching a speed of 103.13 mph at Montlhéry. This was a significant milestone for small-capacity cars, achieved after being fitted with Eyston’s own Powerplus supercharger.
+
+USER: Did MG produce a racing version of the EX120?  
+ASSISTANT: Yes, MG produced a racing replica called the C-type or Montlhéry Midget after the success of the EX120. This model was available with or without a supercharger and was based on the same chassis, designed to replicate the record-breaking performance of the original.
+
+USER: What happened to the EX120 during Eyston’s attempt to hold 100 mph for an hour?  
+ASSISTANT: During Eyston’s attempt to maintain 100 mph for an hour, the EX120’s engine caught fire while still traveling at around 60 mph. Eyston managed to jump from the cockpit safely, relying on his fox-hunting experience to roll through the landing without serious injury, but the car was destroyed.
+
+USER: When was the EX135 built, and who did Eyston sell it to?  
+ASSISTANT: The EX135 was built in 1933 for Eyston, based on the supercharged K3 Magnette. In 1935, Eyston sold it to Goldie Gardner, who then had Reid Railton re-design a new bodyshell for the car.
+
+USER: What were the two body options for the EX135?  
+ASSISTANT: The EX135 had two alternative bodyshells: one with exposed wheels designed for racing, and another full-width streamlined body built specifically for record-breaking attempts. This allowed it to be used both for competition and high-speed runs.

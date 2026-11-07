@@ -41,6 +41,9 @@ mg-llm/
 │   ├── corpus_pistonheads_clean/← PII-redacted PH corpus
 │   ├── corpus_pistonheads_qa/   ← reformatted as USER:/ASSISTANT: dialogue
 │   ├── corpus_synth_qa/         ← LLM case-study synthesis (Phase 2)
+│   ├── corpus_synth_qa_extra/   ← second-pass Q&A from the same threads (train-only)
+│   ├── corpus_wikipedia_mg/     ← MG Wikipedia articles, CC BY-SA 4.0 (manifest.json = attribution)
+│   ├── corpus_wikipedia_qa/     ← grounded Q&A from those articles (train-only)
 │   ├── _archive_mgexp/          ← v5-era mgexp corpus + scrapers (withdrawn)
 │   ├── scrape_forums.py         ← generic forum-scraper engine
 │   ├── scrape_pistonheads.py    ← PH-specific scraper (robots.txt-aware)
@@ -48,8 +51,11 @@ mg-llm/
 │   ├── strip_pii.py             ← regex-based PII redaction (Macie-style)
 │   ├── format_qa.py             ← turn forum posts into Q&A pairs
 │   ├── synthesize_qa.py         ← LLM extracts case-study Q&A (Qwen / Claude)
-│   ├── prepare.py               ← tokenise MG corpus → train.bin / val.bin (split by thread)
-│   └── prepare_pretrain.py      ← stream a general-English pretraining set from Common Pile (license-filtered)
+│   ├── prepare.py               ← tokenise MG corpus → train.bin / val.bin (split by thread; also adds the train-only extra dirs)
+│   ├── prepare_pretrain.py      ← stream a general-English pretraining set from Common Pile (license-filtered)
+│   ├── fetch_wikipedia_mg.py    ← MG-related Wikipedia articles (CC BY-SA 4.0) with attribution manifest
+│   ├── synthesize_wiki_qa.py    ← grounded Q&A from those articles (local Qwen)
+│   └── synthesize_qa_extra.py   ← second-pass extra Q&A from forum threads (train-only)
 │
 ├── model/
 │   ├── gpt.py                   ← the transformer (~200 lines)
@@ -128,7 +134,9 @@ hardcoding it. Train with `--config nano` or `--config small` or whatever else
 — the handler matches automatically. No more shape mismatches at load time.
 
 **Personas.** Three personas (Sunday Driver, Workshop Veteran, Restorer), each
-with a multi-turn priming example block and hand-written opening greetings.
+with hand-written opening greetings. The old multi-turn priming block is no longer
+sent to the model (a plain prompt scored equal or better); it stays in `PERSONAS`
+only so `eval_mg.py` can still compare against it.
 Personas are selected once per session via the WS picker overlay and persist
 in DynamoDB keyed on `connection_id` (15-minute TTL).
 

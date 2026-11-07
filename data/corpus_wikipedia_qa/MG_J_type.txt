@@ -1,0 +1,17 @@
+USER: What years was the MG J-type produced?  
+ASSISTANT: The MG J-type was produced from 1932 to 1934.
+
+USER: What engine did the MG J-type use?  
+ASSISTANT: The MG J-type used an updated overhead camshaft, crossflow engine that had previously been used in the 1928 Morris Minor and Wolseley 10.
+
+USER: How many models were there in the MG J-type range?  
+ASSISTANT: There were four models in the MG J-type range: the J1, J2, J3, and J4.
+
+USER: What was the top speed of a standard MG J2?  
+ASSISTANT: A standard MG J2 had a top speed of 65 mph, though a specially prepared one reached 82 mph in testing.
+
+USER: What was the difference between the J1 and J2 models?  
+ASSISTANT: The J1 was a four-seat car with an 847 cc engine and twin SU carburetors, while the J2 was a two-seater road car with a slightly different engine setup.
+
+USER: What was the J3 model used for?  
+ASSISTANT: The J3 was a racing version with a reduced 746 cc engine and a Powerplus supercharger, built to compete in 750 cc class events.
