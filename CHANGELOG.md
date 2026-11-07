@@ -10,6 +10,12 @@ journey.
 
 ## In progress
 
+- **Longer pretrain + v9 fine-tune: no gain** (not deployed). Resumed the pretrain 12K -> 24K steps
+  (`checkpoints/v7b_pretrain`, general-English val 3.75 -> ~3.55; the first 12K steps only covered a
+  quarter of the 196M-token set), then fine-tuned on `data/v8_augmented`: val 3.72 (v7 3.69, v8 3.65).
+  Judge, 3 seeds x 2 prompts x 2 judges: v9 2.36/2.29 (vl), 2.53/2.41 (coder) vs v7 2.70/2.58, 2.68/2.66.
+  Lower on all four, so general-English pretraining gains don't carry to MG answers; the 120M model
+  run was dropped. v7 stays live. Runs in `eval_runs/v9_*`, `judge3_*`.
 - **v8 fine-tune on augmented data** (`data/v8_augmented`: +2,713 extra forum Q&A, 53 Wikipedia
   articles, 671 wiki Q&A; train 2.44M -> 2.93M tokens, val identical). Best val 3.65 @3000 vs v7 3.69.
   Judge, 3 seeds x 2 prompts x 2 judges (qwen3-vl, qwen3-coder): v8 vs v7 = 2.76/2.54 vs 2.75/2.56
