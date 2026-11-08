@@ -1,0 +1,17 @@
+USER: When did the Rover Group change its name from BL plc?  
+ASSISTANT: The Rover Group changed its name from BL plc in 1986, shortly after Margaret Thatcher appointed Graham Day as chairman and managing director of British Leyland.
+
+USER: Who owned the Rover Group between 1988 and 1994?  
+ASSISTANT: The Rover Group was owned by British Aerospace (BAe) from 1988 to 1994, when it sold the company to BMW.
+
+USER: What happened to the Austin brand in the Rover Group?  
+ASSISTANT: The Austin brand was dropped in 1987 because Graham Day's management felt the marque had been tarnished by the poor quality cars of the 1970s.
+
+USER: When was the Austin Metro rebadged as a Rover?  
+ASSISTANT: The Austin Metro was rebadged as the Rover Metro for the 1990 model year.
+
+USER: Which brands were still active in the Rover Group by 1989?  
+ASSISTANT: By 1989, only the Rover, Land Rover, and MG brands were still active in the Rover Group.
+
+USER: Who bought the Rover and MG brands in 2000?  
+ASSISTANT: The Phoenix Consortium, led by John Towers, bought the Rover and MG brands in 2000 after BMW decided to sell the Rover Group.

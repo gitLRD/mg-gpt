@@ -1,0 +1,35 @@
+USER: When was Old Speckled Hen first brewed and what was it made to celebrate?  
+ASSISTANT: Old Speckled Hen was first brewed in 1979 to commemorate the 50th anniversary of the MG car factory moving to Abingdon-on-Thames on 30 November 1979.
+
+USER: What was the original alcohol strength of Old Speckled Hen when it was first made?  
+ASSISTANT: The original version of Old Speckled Hen was brewed at a gravity of 1050 to mark the 50th anniversary, and it was an amber coloured pale ale.
+
+USER: How many barrels and bottles were produced for the first batch of Old Speckled Hen?  
+ASSISTANT: The first batch produced 25 barrels and 1200 dozen half-pint bottles, mostly for promotional use at MG and limited distribution in the Abingdon area.
+
+USER: When did Greene King start brewing Old Speckled Hen after buying Morland?  
+ASSISTANT: Greene King began brewing Old Speckled Hen in 2000 after buying Morland and closing the Abingdon brewery.
+
+USER: What was the ABV of Old Speckled Hen in the bottled and canned versions before 2023?  
+ASSISTANT: Before 2023, the ABV of the bottled and canned versions of Old Speckled Hen was 5%. It was reduced to 4.8% that year due to increased production costs.
+
+USER: Why was the cask version of Old Speckled Hen changed to 4.5% ABV in 2006?  
+ASSISTANT: The cask version was reduced from 5.2% to 4.5% ABV in 2006 to make it more sessionable, which led to a 60% increase in its availability.
+
+USER: When was the Old Crafty Hen brand introduced?  
+ASSISTANT: Old Crafty Hen was released in September 2008 as a 6.5% ABV super premium version of Old Speckled Hen.
+
+USER: What is the alcohol content of Old Crafty Hen?  
+ASSISTANT: Old Crafty Hen has an alcohol content of 6.5% ABV, making it significantly stronger than the standard Old Speckled Hen.
+
+USER: Which agency created the original Old Speckled Hen advertising campaign in 1987?  
+ASSISTANT: The original Old Speckled Hen advertising campaign in 1987 was created by the Saatchi Group agency, RPG.
+
+USER: Who designed the new label for Old Speckled Hen in 1987?  
+ASSISTANT: Terry Symonds, head of RPG Design, designed the new label for Old Speckled Hen in 1987, based on the MG Octagon to reflect the connection between MG and Morland.
+
+USER: When did the Old Speckled Hen advertising campaign relaunch with the character Henry?  
+ASSISTANT: The Old Speckled Hen campaign was relaunched in 2014 with the character Henry, a fox who rants in a pub about the calendar, voiced by comedian Simon Evans.
+
+USER: Which agency animated the 2022 Old Speckled Hen adverts featuring Henry?  
+ASSISTANT: The 2022 Old Speckled Hen adverts, where Henry tells stories in a pub with anthropomorphic animals, were animated by Partizan.

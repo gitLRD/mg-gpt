@@ -1,0 +1,17 @@
+USER: What were the key differences between the MG N-type and the earlier K-Type and L-Type models?  
+ASSISTANT: The MG N-type had a new chassis that was wider at the rear than the front, a departure from the ladder-type chassis used in earlier models. It featured a more powerful 1271 cc 6-cylinder overhead camshaft engine with twin SU carburettors, producing 56 bhp, a significant improvement over previous versions. The body was mounted on outriggers off the main frame and was taller with rear-hinged doors and cut-away tops. The fuel tank was now hidden in the tail, unlike the visible slab tank on earlier models.
+
+USER: When was the MG N-type produced, and what was its engine like?  
+ASSISTANT: The MG N-type was produced from October 1934 to 1936. It had a 1271 cc 6-cylinder overhead camshaft engine derived from the K-Type and originally used in the 1930 Wolseley Hornet. The engine was modified with a new cylinder block and head and featured twin SU carburettors, producing 56 bhp at 5500 rpm.
+
+USER: What were the main changes made to the MG N-type in the NB model introduced in 1935?  
+ASSISTANT: The NB model introduced in 1935 featured a revised body with lower lines and vertical slats on the radiator grille. The doors changed to front-hinged, better seats were fitted, and the instruments were re-arranged with separate dials for the speedometer and tachometer. The two-tone color options were also reversed, with the lighter color now on the upper surfaces.
+
+USER: Were there different body styles available for the MG N-type?  
+ASSISTANT: Yes, the MG N-type was offered in both open body styles and an Airline Coupé model. Additionally, some cars were supplied as chassis to outside coachbuilders like Allingham and Abbey, who created custom bodies, including a 2/4-seater with a removable rear deck.
+
+USER: What was the ND model of the MG N-type, and how many were made?  
+ASSISTANT: The ND was a special model using unsold MG K2 bodies fitted to the N-Type chassis, likely only available in 1934. The number made is uncertain, as the model does not appear to have been officially listed.
+
+USER: What was the NE variant of the MG N-type, and what engine did it have?  
+ASSISTANT: The NE was a competition variant built for the 1934 Tourist Trophy race. It featured lightweight 2-seat bodies and a tuned engine producing 68 bhp at 6500 rpm. In 1935, three of these cars were fitted with P-Type style bodies and formed the Musketeer racing team.

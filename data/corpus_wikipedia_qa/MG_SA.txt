@@ -1,0 +1,17 @@
+USER: What years was the MG SA produced?  
+ASSISTANT: The MG SA was produced from 1936 to 1939.
+
+USER: What engine did the MG SA use, and how big was it?  
+ASSISTANT: The MG SA used a tuned six-cylinder engine that started at 2,062 cc and was later enlarged to 2,288 cc in 1937, then to 2,322 cc.
+
+USER: Was the MG SA available in different body styles?  
+ASSISTANT: Yes, the MG SA was initially a saloon but added a Tickford drophead coupé in April 1936 and a Charlesworth four-door tourer in July 1936.
+
+USER: How many MG SA cars were made in total?  
+ASSISTANT: A total of 2,739 MG SA cars were built.
+
+USER: What was unique about the carburettors on the MG SA?  
+ASSISTANT: The twin SU carburettors had their dashpots mounted horizontally to help keep the bonnet line low due to the tall engine.
+
+USER: Which country imported the most MG SA cars?  
+ASSISTANT: Germany was the best market for MG SA exports, with 350 cars sent there.

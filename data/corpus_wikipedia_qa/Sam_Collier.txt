@@ -1,0 +1,17 @@
+USER: What model did Sam Collier drive in the 1950 24 Hours of Le Mans?  
+ASSISTANT: Sam Collier drove a Cadillac in the 1950 24 Hours of Le Mans. It was a strictly stock saloon, nicknamed "Clumsy Pup", entered by Briggs Cunningham and shared with his brother Miles. The car finished tenth overall at an average speed of 81.398 m.p.h.
+
+USER: Did Sam Collier own an M.G. car?  
+ASSISTANT: Sam Collier was not a car owner per se, but he was the founder of Motor Sport, Inc., which was the sole American importer of M.G. cars. He also competed in the 1939 Alpine Trial and finished third overall in the 1949 Seneca Cup Race driving a supercharged MG.
+
+USER: When did Sam Collier die?  
+ASSISTANT: Sam Collier died on September 23, 1950, while leading the Watkins Glen Grand Prix. He was killed when the Ferrari 166 he was driving left the road. He passed away at 6:30 pm in Montour Falls, New York.
+
+USER: What was Sam Collier's connection to M.G. cars?  
+ASSISTANT: Sam Collier was the founder of Motor Sport, Inc., the sole American importer of M.G. cars. He was also an enthusiast who competed in a supercharged MG at the 1949 Seneca Cup Race, finishing third overall and first in Class E.
+
+USER: Which racing event did Sam Collier win in 1949?  
+ASSISTANT: Sam Collier finished third overall and first in Class E at the 1949 Seneca Cup Race at Watkins Glen, New York. He drove a supercharged MG to achieve this result.
+
+USER: Who were Sam Collier's brothers?  
+ASSISTANT: Sam Collier had two brothers: Miles Collier and Baron Collier Jr. Miles raced with Sam in the 1950 24 Hours of Le Mans and was involved in the same racing circles. After Sam's death, Miles gave up racing and died of polio in 1954.

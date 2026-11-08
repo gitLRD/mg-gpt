@@ -1,0 +1,29 @@
+MG 07 (vehicle)
+
+The MG 07 is a battery electric and plug-in hybrid large family car produced by SAIC Motor and sold under the MG brand.
+
+== Overview ==
+On 29 January 2026, MG released teasers for a then-unnamed saloon similar in size to the MG7 petrol-powered large family saloon. Its side profile has been compared to that of the significantly larger SAIC Z7, another EV produced by SAIC Motor. It will be built on SAIC's Modular Scalable Platform, known as Nebula  in China, which supports both battery electric and plug-in hybrid powertrains. The first spyshots of the 07 surfaced in late February 2026. The 07 was officially announced on 10 March 2026 alongside the 4X. It made its official debut on 9 May 2026. The MG 07 rolled off the production line on 2 July and its interior was unveiled on 6 July 2026, with deliveries to dealers commencing on 21 July ahead of pre-sales starting  on 29 July.
+
+=== Design ===
+The 07 uses a five-door fastback design. It uses semi-hidden door handles and hidden inlets on the side. A full-width light bar is utilised for the taillight. Thin headlights and a small air intake are utilised on the front. In addition to being compared to the SAIC Z7, the side profile of the 07 has been compared to the Xiaomi SU7 and the Porsche Taycan. The 07 has frameless doors, an active rear wing, two-tone painted wheels, and optional yellow-painted brake calipers.
+
+=== Features ===
+Spyshots of the 07 suggests that it will use interfaces co-developed by MG and Oppo that will allow integration between Oppo phones and the vehicle itself.
+The interior features an 8.88-inch digital instrument cluster and a 15.6-inch 2.5K-resolution central infotainment touchscreen, powered by a Qualcomm Snapdragon 8155 for base variants and a Snapdragon 8295P for higher variants. The front passenger has access to an optional folding mini vanity built into the dashboard, which acts as a table and features a large folding mirror illuminated by LEDs with adjustable color temperature. It has a 21-speaker 7.1.4 surround sound system, ambient lighting, a 50-watt active-cooled wireless charging pad in the center console, a 66-watt USB-C charging port, memory driver's seat, standard heating, ventilation and massage functions on the front row and optional for the rear seats, and an optional 'zero-gravity' recline mode with legrest for the front passenger seat.
+The 07 is available with Momenta's R7 ADAS system capable of urban and highway L2 assisted driving functions which is powered by a roof-mounted LiDAR sensor and a Momenta XHeart X7 chip; base variants use twin-mmWave radar system powered by a Horizon Robotics J6B chip.
+Pure electric variants are equipped with a heat pump. All 07s are equipped with magnetorheological active damping system.
+
+== Powertrain ==
+The 07 is available with either a plug-in hybrid or pure electric powertrain.
+
+=== Plug-in hybrid ===
+The plug-in hybrid uses a 1.5-litre naturally aspirated and port-injected petrol engine which outputs 107 hp (80 kW; 108 PS) (110 hp (82 kW; 112 PS) gross) and 135 N⋅m (100 lb⋅ft) of torque, mated to a 1-speed dedicated hybrid transmission. It has a compression ratio of 16:1 and MG claims a peak thermal efficiency of 48.1%. It is paired with a front motor rated at 204 hp (152 kW; 207 PS) and 302 N⋅m (223 lb⋅ft) of torque. MG says the 10-in-1 hybrid system module weighs 114 kg (251 lb). It is powered by a 30 kWh LFP battery which provides 185 km (115 mi) of WLTP electric range, and can be recharged from 30–80% in 15 minutes.
+
+=== Battery electric ===
+The pure electric version is available with two powertrains, with the higher end longer range version expected to be available in November 2026, a few months after the launch in August.
+The standard powertrain uses a front motor rated at 236 hp (176 kW; 239 PS) and 300 N⋅m (221 lb⋅ft) of torque. It is paired with a 67 kWh semi-solid state LMO battery pack supplied by SAIC partner Qingtao Energy; MG says that the semi-solid state battery has better cold weather range and charging performance than the LFP cells would be used typically. It provides 610 kilometres (379 mi) of CLTC range and can be recharged from 30–80% in 20 minutes. The Comfort trim level has a 7 mm (0.28 in) lower ride height and 10 mm narrower tires than other variants, leading to a higher range rating of 650 kilometres (404 mi).
+The upgraded powertrain uses a front motor rated at 315 hp (235 kW; 319 PS) and 350 N⋅m (258 lb⋅ft) of torque, and is paired with a CATL-supplied 91 kWh NMC battery which provides 845 kilometres (525 mi) of CLTC range. It is the only variant using 800-volt class power electronics, so it can be recharged from 30–80% in 12 minutes.
+
+== Sales ==
+The 07 received over 21,000 pre-orders within 20 hours of opening on 30 July 2026. At the car's launch at the 2026 Chengdu Auto Show on 21 August 2026, the 07 received 10,000 locked-in non-refundable order deposits within 1 minute and 57 seconds.

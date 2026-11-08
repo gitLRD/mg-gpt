@@ -1,0 +1,130 @@
+Rover V8 engine
+
+The Rover V8 engine is a compact OHV V8 internal combustion engine with aluminium cylinder block and cylinder heads, designed and produced by Rover in the United Kingdom, based on a General Motors engine. It has been used in a wide range of vehicles from Rover and other manufacturers since its British debut in 1967.
+
+== History ==
+The Rover V8 began life as the Buick 215, an all-aluminium OHV pushrod engine introduced in 1960 for the 1961 US model year (it was on their drawing boards in the late 1950s). The compact alloy engine was light, at just 144 kg (317 lb), and capable of high power outputs: the most powerful Buick version of this engine rated 200 hp (149 kW), and the very similar Oldsmobile "Jetfire" turbocharged version made 215 hp (160 kW), both numbers SAE gross. Based on sales volume and press reports, the engine was a success. Buick produced 376,799 cars with this engine in just three years. A comparable number of Oldsmobile 215 engines were produced. In addition, some Pontiac models were fitted with the Buick 215, leading to the nickname "BOP 215" for the engine (BOP standing for Buick/Oldsmobile/Pontiac). The aluminium engine was relatively expensive to produce, however, and it suffered problems with oil and coolant sealing, as well as with radiator clogging from use of antifreeze incompatible with aluminium. As a result, GM ceased production of the all-aluminium engine after 1963, although Buick retained a similar 300/340/350 cid engine (iron block and alloy heads, later all-iron) (1964–1980), as well as a V6 derivative (1962–2008) which proved to have a very long and successful life.
+In January 1964 Rover gave American operations head J. Bruce McWilliams permission to investigate the possible purchase of an American V8 engine for Rover cars. History relates that McWilliams first saw the Buick V8 at the works of Mercury Marine, where he was discussing the sale of Rover gas turbines and diesel engines to the company (Mercury Marine did indeed use the Land Rover 2.25 L (137.3 cu in) diesel engine in marinised form). However, it is likely that McWilliams was aware of the Buick engine before this. In any case, McWilliams realised that the lightweight Buick V8 would be ideal for smaller British cars (indeed, it weighed less than many straight-4 engines it would replace). McWilliams and William Martin-Hurst began an aggressive campaign to convince GM to sell the tooling, which they finally agreed to do in January 1965. Retiring Buick engineer Joe Turlay moved to the UK to act as a consultant.
+The Rover V8 has long been a relatively common engine for kit car use in Britain, much as the Chevrolet small-block V8 is for American hot rod builders (though many British hot rods have traditionally used four-cylinder engines, like the Ford Pinto and Crossflow units). Even in the US there is a strong contingent of builders who select the Buick or Rover aluminium V8 engine for use in small sporty cars like the MGB. The 1964 Buick iron-block 4.9 L (300 cu in) engine had aluminium cylinder heads, 3.75 bore and a longer 3.4" stroke crankshaft, which with modification can be used with the Buick 215 or Rover engine blocks to produce a high-output, very light weight V8 with displacement of up to about 4.9 L (300 cu in). The 300 crank, after machining the mains to the 215 size in the 215 block yields 4.3 L (260 cu in). Traco in the USA were prominent builders of such engines.
+The British-made engines were run on two SU carburettors, initially HS6 then HIF6 and HIF44 variants (14 years), then two CD175 Stromberg carburettors (2–3 years), Bosch L-Jetronic (7–8 years, aka Lucas 4CU Flapper), then Hitachi Hotwire (5 years, aka Lucas 14CUX), then the GEMS system (many years) and finally Bosch Motronics for 2 years. As of 2011, an improved version of the engine was still being cast by Coscast in Birmingham, UK.
+As well as appearing in Rover cars, the engine was sold by Rover to small car builders, and has appeared in a wide variety of vehicles. Rover V8s feature in some models from Morgan +8, TVR, Triumph TR8, Land Rover and MGB V8, among many others.
+By the late 1990s, the Rover V8 had become uncompetitive with other V8 engines in its class. Compared to modern V8 engines, It produced less horsepower, it used much more fuel, and used an aged pushrod architecture, whereas V8 engines made by other automakers often used overhead-cam designs. After Land Rover switched to the BMW M62 V8 in the 2003 Range Rover, and the petrol-powered Land Rover Discovery 3 switched to the Jaguar AJ-V8 engine, the last mass-produced Rover V8 was made in May 2004, after 37 years of production, and just under 1 million engines produced. The 2004 Land Rover Discovery II was the last mass-produced vehicle to use it.
+The last Rover-badged vehicle that used the Rover V8 was the Rover SD1, which was discontinued in 1986 and replaced by the Rover 800, which used a 2.7 litre variant of the Honda C engine as its top engine choice. MG Rover Group used the 4.6 L SOHC 2-valve Ford Modular V8 engine in the Rover 75 and MG ZT 260 from 2003–2005. 
+The Rover V8 remained with Land Rover when it was sold to Ford by BMW. Although Land Rover has switched to the Jaguar AJ-V8 engine for new applications, they wanted production of the engine to continue, and they arranged for production to restart in Weston-super-Mare under MCT, an engineering and manufacturing company. MCT will continue limited production of the engine for the foreseeable future, supplying engines for aftermarket and replacement use.
+The Rover V8 based on the Buick design was not the first V8 engine produced by Rover. When the Rover Company was having engineering differences of opinion regarding the development of the Whittle turbine engine, the Wilks brothers did a deal with Rolls-Royce to swap technologies. The turbine engine project at Barnoldswick went to Rolls-Royce and Rover Co took over the V12 Meteor engine production used in a range of World War II tanks and the post war Centurion Tank - (the Meteor V12 was a 'detuned' version of the Merlin aero engine). From this a V8 variant was developed.
+The Rover Meteorite, also known as Rolls-Royce Meteorite, was a V8 petrol engine of 18.01 L (1,099 cu in) capacity. In essence it was two-thirds of a V12 Meteor, and it shared the Meteor's 60° bank angle. Meteorites were built for heavy duty vehicles, for marine use and as stationary power units: it powered the Thornycroft Antar or Mighty Antar Tank Transporter – and as such was used to transport Meteor-engined tanks – and also heavy transport on the Snowy Mountains Hydro-Electric Scheme in Australia.
+
+== Racing ==
+As the aluminium block made this engine one of the lightest stock V8s built, it was an obvious choice for use in racing. Mickey Thompson entered a car powered by this engine in the 1962 Indianapolis 500. From 1946 to 1962 there had not been a single stock-block car entered in this famous race. In 1962 the Buick 215 was the only non-Offenhauser powered entry in the field of 33 cars. Rookie driver Dan Gurney qualified eighth and raced well for 92 laps before retiring with transmission problems.
+The Rover version of this engine was extensively developed and used for rallying, especially in Triumph TR8 sports cars.
+That the Australian Repco V8 F1 engine was based on a Buick 215 cylinder block is a common misconception. The Buick block had only 5 cylinder head studs around each cylinder unit:  it cannot accommodate the 6 stud Repco RB620 heads. The Repco V8 was based on the Oldsmobile 215 block of the same era, which was very similar in appearance, size and material, but used 6 cylinder head studs per cylinder. The subtle difference in block design/head clamping originated in Oldsmobile's intention to produce the higher power, turbo-charged Jetfire version of the engine. The public/press tended not to be aware of the internal difference.
+Hotstox use Rover V8 in their stock cars.
+
+== 3.5 L ==
+
+The initial Rover version of the engine had a displacement of 3.5 L (3,528 cc; 215.3 cu in). The bore and stroke were  88.9 mm × 71.12 mm (3.50 in × 2.80 in). All Rover V8s were OHV pushrod engines with two valves per cylinder. It used a sand-cast block with pressed-in iron cylinder liners, and a new intake manifold with two HS6 type SU Carburettors. The Rover engine was heavier but stronger than the Buick engine, with a dry weight of about 170 kg (370 lb). It was first offered in the 1967 Rover P5B saloon, initially making 184 PS (135 kW; 181 hp) (gross) / 160 PS (118 kW; 158 hp) (net) at 5,200 rpm and 226 lb⋅ft (306 N⋅m) (gross) / 210 lb⋅ft (285 N⋅m) (net) of torque at 2,600 rpm on 10.5:1 compression (5-star petrol was then still available in the UK). With the introduction of the Rover SD1 in 1976, the engine was improved with the 'rope' oil seals for the crankshaft ends replaced with lip seals, spark plug dimensions changed and the compression ratio lowered to 9.35:1.
+
+Applications:
+
+1967–1973 Rover P5B
+1968–1976 Rover P6B
+1968–1990 Morgan Plus 8
+1970–1989 Land Rover Range Rover
+1972–1978 Land Rover 101 Forward Control
+1973–1976 MGB GT V8
+1976–1987 Rover SD1
+1978–1985 Land Rover Series III "Stage One"
+1979–1981/2 Triumph TR8
+1980–1990 TVR 350i
+1983–1993 Marcos Mantula
+1983–1994 Land Rover 90/110/Defender
+1985–2006 Freight Rover Sherpa/LDV Pilot/LDV Convoy
+1986–1991 Sisu NA-140 BT
+1989–1998 Land Rover Discovery
+
+=== Project Iceberg ===
+In the late 1970s, British Leyland became aware of the increasing importance of diesel engined cars to the British, European and (especially) North American markets in the wake of the 1979 energy crisis. It was decided that a new series of diesel engines powerful, refined and economical enough for use in BL cars was needed. However, with development funding tight, it was necessary to use existing BL petrol engines as a base. This included a diesel version of the 3.5 L (3,528 cc; 215.3 cu in) V8, the development project for which was code-named 'Iceberg'.
+BL collaborated with Perkins Engines of Peterborough to develop the engine. Both naturally aspirated and turbocharged versions were produced, both using a Stanadyne rotary mechanical fuel injection system. Power outputs of around 100 (naturally aspirated) and 150 (turbocharged) horsepower were achieved.
+The Iceberg engine was slated for fitment in the Range Rover, Rover SD1 and the Jaguar XJ but the project encountered problems with failure of the alloy cylinder heads and internal cooling. They were limited by the need to use the same basic block casting as the petrol engine to allow the Iceberg engine to be produced on the same production line to reduce costs. Whilst these problems could have been overcome, the project ran into financial and logistical problems caused by the reorganisation of BL and specifically the splitting of Land Rover and Rover into separate divisions.
+Land Rover took over production of the V8 engine in 1982, moving it from the main BL engine plant at Acock's Green into a new, much lower-capacity production line in the Solihull works, where it was built alongside the other Land Rover engines. This meant that there was no spare capacity to build diesel versions of the engine. Coupled to this, it was clear that the market for large diesel engined cars in North America had not developed as expected.
+BL finally pulled out of the project in 1983. Perkins initially decided to pursue the project alone, and even produced advertising brochures for the engine as an industrial power unit, but BL withdrew all technical support and Project Iceberg was wrapped up in late 1983. BL's other collaboration with Perkins (producing a diesel version of the O-Series engine) produced the highly successful 'Prima' unit. BL (and its Rover Group successor) bought in 2.5-litre 4-cylinder turbodiesel units from VM Motori to use in the SD1 and Range Rover.
+
+== 3.9/4.0 ==
+ 
+Land Rover used a 3.9 L (3,946 cc; 240.8 cu in) version of the Rover V8 throughout the 1990s. Bore was increased to 94 mm (3.70 in) and stroke remained the same at 2.8 in (71.12 mm). The engine was revised in 1995 and thereafter referred to as a 4.0 to differentiate it from the earlier version, although displacement was unchanged. The revisions consisted of a new intake and exhaust system, extra block ribbing, revised pistons, and larger cross-bolted main bearings. The 1995 4.0 produced 190 hp (142 kW; 193 PS) and 236 lb⋅ft (320 N⋅m).
+Production of the 4.0 ended in 2003. The final version of the engine, used until 2004 in the Land Rover Discovery, produced 188 hp (140 kW; 191 PS) at 4,750 rpm and 250 lb⋅ft (339 N⋅m) at 2,600 rpm.
+Applications:
+
+1990–2004 Morgan Plus 8
+1991–1995 Ginetta G33
+1992–1996 MG RV8
+1986–1993 TVR V8S
+1989–1995 Land Rover Range Rover (known as a 3.9 in this application)
+1991–2000 TVR Griffith
+1992–2001 TVR Chimaera
+1983–1993 Marcos Mantula
+1992–1999 Marcos Mantara
+1994–1998 Marcos LM400
+1997 Marcos Mantaray
+1995–1999 Land Rover Range Rover (P38A) in SE trim
+1996–2004 Land Rover Discovery
+1994–1998 Land Rover Defender (only used as standard on USA-spec vehicles- available only to special order in other markets.)
+1998 Land Rover Defender 50th Anniversary Limited Edition
+In the early 1980s TVR approached Andy Rouse with a view to using his race-developed 3.9 L (3,946 cc; 240.8 cu in) variant of the V8 in their Rover-powered TVR 350i 'wedge'; Rouse had successfully campaigned a Rover SD1 with a modified V8 on the track. For a number of reasons (primarily cost) Rouse's version was not used, but the concept was passed to alternative engineering firms which resulted in a rare variant of the 3.9. This unit has 93.5 mm (3.68 in) cylinder bores (instead of Rover's own 94 mm (3.7 in) that was introduced some years later) and thus has a capacity of 3,905 cc (3.9 L). Flat-topped pistons and high-lift camshaft gave a compression ratio of 10.5:1. TVR claimed 275 bhp as the output and whilst this is generally disregarded by aficionados, a healthy 3,905 cc (3.9 L) engine will produce in excess of 240 bhp. Once a reproducible specification had been determined, the bulk of engine production was undertaken by North Coventry Kawasaki (NCK), which company was subsequently purchased by TVR to become their in-house engine division known as TVR Power.
+About 100 cars (TVR 390SE) were built with the 3,905 cc (3.9 L) engine. TVR's later '400' offering was based on the then-current Range Rover 4L of 3,946 cc (3.9 L).
+Applications:
+
+1986–1989 TVR 390SE
+
+== 4.2 ==
+Land Rover extended the 3.9 L (3,946 cc; 240.8 cu in) engine for the top LSE specification of the Classic Range Rover. The "4.2"-litre engine had an actual displacement of 4.3 L (4,275 cc; 260.9 cu in), and used the crankshaft castings from the failed "Iceberg" diesel engine project. Bore remained the same at 94.0 mm (3.70 in), while stroke increased to 77.0 mm (3.03 in).
+Applications:
+
+1992–1995 Land Rover Range Rover
+
+== 4.3 ==
+For the Griffith and Chimaera, TVR Power, a Coventry-based subsidiary of sportscar maker TVR, built a Rover V8-version with a 4.3 L (4,280 cc; 261.2 cu in) displacement using the 77 mm (3.03 in) stroke crankshaft and 94 mm (3.7 in) bore size. The bore and stroke were identical to Rover's 4.2 engine but Rover rounded down to 4.2 L while TVR rounded up to 4.3 L.
+The main difference between the Land Rover and TVR versions lies in the usage of Land Rover 3.9 pistons (usually of the 9.35:1 compression version, some report of low compression (8.13:1) pistons being used in a small number of engines) of which the tops were machined down to match the deck height, thus increasing static compression ratio. Head gaskets were originally copper and slightly thicker than the composite gaskets of later engines. TVR 4.3 engines tended to have elaborately ported cylinder heads with minimized valve guide protrusion into the ports, and Duplex timing chain with timing adjustment by vernier gear were specified although in practice, not all engines received it. Camshafts were usually Kent Cams 214 spec, although 'big valve' versions could have a 224 or even a 234 (race) cam installed.
+The so-called 'pre-cat' versions of the Griffith predominantly used this engine, although a 4.0-litre version was also available. The Chimaera was introduced with choice of 4.0- and 4.3-litre engines. A small number of 'Big Valve' versions, sporting modified cylinder heads with 43 mm (1.7 in) intake and 37 mm (1.5 in) exhaust valves and a more radical camshaft profile, found their way to early Griffiths and Chimaeras.
+Applications:
+
+1992–1993 TVR Griffith
+1993–1994 TVR Chimaera
+
+== 4.4 ==
+
+Leyland of Australia produced a 4.4 L (4,414 cc; 269.4 cu in) version of the aluminium V8 for their Australia-only 1973 Leyland P76. The bore and the stroke were 88.9 mm × 88.9 mm (3.50 in × 3.50 in), making it a square engine. The block deck height was extended and longer conrods were fitted -  158.75 mm (6.250 in) between centres.
+A Bendix Stromberg two-barrel carburettor was used in place of SU carburettors. This rare engine produced 200 hp (149 kW; 203 PS) and 280 lb⋅ft (380 N⋅m) and, although export (to the UK) versions were planned, the closure by British Leyland of their Australian operations in 1975 precluded the widespread application of this engine. British Leyland did import one complete P76 engine for assessment but it was never fitted to a vehicle and was sold off on the demise of the company.
+Applications:
+
+1973–1975 Leyland P76
+1976–1979 Leyland Terrier truck
+
+== 4.5 ==
+Not to be confused with the later 4.6-litre engine which TVR badged as a '4.5' for the Chimaera, there also existed a version with an 80 mm (3.15 in) crank and 94 mm (3.7 in) bore giving 4.4 L (4,444 cc; 271.2 cu in) capacity, which was used by TVR in the low-volume special 450 SEAC, the race version thereof and the subsequent Tuscan Challenge racers. A tiny number of Griffith and Chimaera road cars were built with a version of this engine, known as the '450 BV' (Big Valve).
+
+== 4.6 ==
+
+In 1995, Land Rover enlarged the Rover V8 to 4.6 L (4,552 cc; 277.8 cu in). The bore remained the same size as the previous 4.0 at 94 mm (3.7 in), but the engine was stroked by 10.9 mm (0.43 in) giving 82 mm (3.23 in) in total. Output was 225 hp (168 kW; 228 PS) and 280 lb⋅ft (380 N⋅m).
+Production of the 4.6 ended at Solihull, UK, in 2004. The final version, introduced in the Range Rover P38, produced 218 hp (163 kW; 221 PS) at 4,750 rpm and 300 lb⋅ft (407 N⋅m) at 2,600 rpm.
+The last mass-produced application of the Rover V8 was in the Land Rover Discovery, up until the vehicle was redesigned in 2005. It is still used in some hand-built sports cars by independent manufacturers.
+Applications:
+
+1995–2002 Land Rover Range Rover in the HSE trim (Optional for SE trim)
+2003–2004 Land Rover Discovery (North American market)
+1992–1999 Marcos Mantara
+1997 Marcos Mantaray
+1996–2002 TVR Chimaera
+1996 Morgan Plus 8
+
+== 5.0 ==
+A 5.0 L (4,997 cc; 304.9 cu in) variant of the Rover V8 was used in two models by British sportscar manufacturer TVR. The bore and the stroke was 94 mm × 90 mm (3.70 in × 3.54 in). These models, the Griffith and Chimaera used the 5.0 L (4,997 cc; 304.9 cu in) unit in their top-end specifications. The factory quotes up to 340 bhp (254 kW; 345 PS) and 350 lb⋅ft (475 N⋅m) of torque.
+Applications:
+
+1990–1995 Lichfield Land Rovers
+1992–2001 TVR Chimaera
+1992–2000 TVR Griffith
+1994–2001 Marcos LM500
+2003 Marcos TS500
+2002–2006 Bowler Wildcat - this used a hybrid 5.0-litre V8 with Land Rover cylinder heads and a TVR block and piston assembly.
+Moreover, in the mid-1980s, hot rodders discovered the 215 could be stretched to as much as 5.0 L (305 cu in), using the Buick 300 crankshaft, new cylinder sleeves, and an assortment of non-Buick parts. It could also be fitted with high-compression cylinder heads from the Morgan +8. Using the 5-litre Rover block and crankshaft, a displacement of 5.2 L (317.8 cu in) is possible and used primarily in racing applications, stretching the design to its limits it is possible to achieve displacements of over 5.6 L (339.2 cu in) and possibly even displacements near of 6.3 L (383.4 cu in), though the latter has not been tested in practice as of yet.

@@ -1,0 +1,17 @@
+USER: How many MG P-types were made in total?  
+ASSISTANT: A total of 1,973 PA models were produced, and 526 PB models were made, bringing the total production of MG P-types to 2,500 units between 1934 and 1936.
+
+USER: What engine did the MG PA use and how much power did it make?  
+ASSISTANT: The MG PA used an 847 cc overhead camshaft engine with a 3-bearing crankshaft and twin SU carburettors, producing 36 bhp at 5,500 rpm.
+
+USER: What changes were made to the engine when the MG PB was introduced?  
+ASSISTANT: The MG PB featured a larger 939 cc engine, achieved by increasing the bore from 57 to 60 mm, which boosted power output to 43 bhp.
+
+USER: What was the top speed of the MG PA?  
+ASSISTANT: The MG PA had a top speed of approximately 74 mph, thanks to its 847 cc engine producing 36 bhp.
+
+USER: Did the MG P-type have different body styles?  
+ASSISTANT: Yes, most P-types were open two-seaters, but streamlined Airline coupé bodies were also made. There was also a four-seater version, though it had poor rear ground clearance and lacked power.
+
+USER: When did the MG PB model run, and what was its production number?  
+ASSISTANT: The MG PB was produced from 1935 to 1936, with a total of 526 units made during that period.

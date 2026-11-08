@@ -1,0 +1,35 @@
+USER: When was the Austin Montego produced?  
+ASSISTANT: The Austin Montego was produced from 1984 to 1994. The saloon version ended in 1993, while the estate continued until December 1994.
+
+USER: What models did the Montego replace?  
+ASSISTANT: The Montego replaced both the rear-wheel drive Morris Ital and the front-wheel drive Austin Ambassador ranges.
+
+USER: Was the Montego sold under any other name besides Austin?  
+ASSISTANT: Yes, it was also sold as a performance-enhanced MG version. The Austin name was used until a facelift in 1989, after which the car was sold without a marque.
+
+USER: What was the Montego's estate version known for?  
+ASSISTANT: The estate version offered larger luggage capacity than its competitors, included two additional rear-facing child seats, and featured self-levelling suspension. It was styled by Roy Axe and won a Design Council award.
+
+USER: What engine did the Montego have that the Maestro didn't?  
+ASSISTANT: The Montego featured a new SOHC engine, the S-series, which was an improvement over the Maestro and later incorporated into the Maestro's design.
+
+USER: When did the Montego launch, and what body style was available at first?  
+ASSISTANT: The Montego launched on 25 April 1984 as a four-door saloon only, filling the gap left by the discontinued Morris Ital saloon.
+
+USER: What engine did the MG turbocharged Montego have, and what were its power and torque figures?  
+ASSISTANT: The MG turbocharged Montego had a 150 bhp (112 kW) engine at 5100 rpm and produced 169 lb⋅ft (229 N⋅m) of torque at 3500 rpm.
+
+USER: When was the estate version of the Montego launched?  
+ASSISTANT: The estate variant of the Montego was launched at the British International Motor Show in October of that year.
+
+USER: What were some of the features included in the Vanden Plas version of the Montego?  
+ASSISTANT: The Vanden Plas version featured leather seats, walnut veneer, electric windows, central locking, and power door mirrors.
+
+USER: Why did the Montego and Maestro end up being stylistically different despite being based on the same platform?  
+ASSISTANT: The Montego and Maestro were styled by different designers—Ian Beech, David Bache, and Roger Tucker—leading to stylistic differences. They were also compromised by using a single platform with common doors for two vehicles in different size classes.
+
+USER: What were some of the early reliability issues with the Montego?  
+ASSISTANT: Early Montegos suffered from build quality issues, including problems with the solid-state instrumentation, a faulty "talking" dashboard, cracking body-coloured bumpers in cold weather, and oil leakage from the S-Series engine.
+
+USER: How did the Montego's sales performance compare to the Ford Sierra and Vauxhall Cavalier?  
+ASSISTANT: The Montego competed directly with the Ford Sierra and Vauxhall Cavalier but struggled due to deep discounts offered by Ford and GM, as well as tariff-free imports from continental Europe, which undercut BL's pricing.

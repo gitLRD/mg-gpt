@@ -1,0 +1,9 @@
+MG-GPT initialised: 51.48M parameters
+ckpt checkpoints/v8_finetune/ckpt_best.pt: 8L/512D block=1024 iter=3000 best_val=3.648679256439209 device=mps
+val loss on data/v7_mgonly/val.bin: 3.7207  (219 windows of 1024)
+
+[bare] n=30  empty=0%  [TAG] leak=0%  keyword-hit=95%  mean words=67  repeated-trigram=0.01
+
+[handler_nospace] n=30  empty=0%  [TAG] leak=0%  keyword-hit=75%  mean words=57  repeated-trigram=0.01
+
+raw generations -> eval_runs/v8_aug_s0.jsonl

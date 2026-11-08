@@ -1,0 +1,40 @@
+BMC ADO16
+
+The BMC ADO16 is a range of small family cars built by the British Motor Corporation (BMC) and, later, British Leyland. Launched in 1962, it was Britain's best-selling car from 1963 to 1966 and from 1968 to 1971. The ADO16 was marketed globally under various make and model names; the most prolific variant was the Austin 1100 and Morris 1100. At the height of its popularity, it was widely known as the 1100 (eleven-hundred) in its home market, or as the 1300 when equipped with the 1275 cc engine.
+In production for 12 years, production of the ADO16 reached 2.3 million between 1962 and 1974, more than half of those sold in the UK home market. British Leyland phased out the 1100/1300 between 1971 and 1974 in favour of the Morris Marina and the Austin Allegro.
+
+== Naming ==
+The ADO16 was marketed under numerous make and models, including:
+
+Austin: 1100, 1300 and 1300GT
+Austin: 11/55, America, Apache, De Luxe, Glider and Victoria
+Innocenti: Austin I4 and Austin I4S
+Innocenti: Morris IM3 and Morris IM3S 
+Innocenti I5
+MG: 1100, 1275 and 1300
+MG: Princess, Sports Sedan, 1100S and MG-S 1300
+Morris: 1100, 1300 and 1300GT
+Morris: 11/55, 1100S, Marina  and Marina GT
+Riley: Kestrel, Kestrel 1275, Kestrel 1300 and 1300 
+Vanden Plas: Princess 1100, Princess 1275 and Princess 1300
+Wolseley: 1100, 1275 and 1300
+Wolseley: 11/55  & Wasp
+In line with BMC's policy at the time, Austin badged versions of the ADO16 were built at Longbridge, whilst Morris and MG versions were assembled at Cowley. However, some were also built in Spain by Authi, in Italy by Innocenti, in Yugoslavia (Slovenia) by IMV, and at the company's own plant in Belgium. It was the basis for locally adapted similar cars manufactured in Australia and South Africa. Various versions including Austin, Morris, MG, Wolseley and Riley were assembled in New Zealand and Malta from CKD kits from 1963 until the final Austin/Morris versions were discontinued in 1974, a year after the launch of its replacement, the Austin Allegro.
+The vehicle was launched as the Morris 1100 on 15 August 1962. The range was expanded to include several rebadged versions, including the twin-carburettor MG 1100 (introduced at the end of September 1962), the Austin 1100 (August 1963), the Vanden Plas Princess 1100 (October 1963) and finally the Wolseley 1100 (1965) and Riley Kestrel (1965). The Morris badged 1100/1300 models were discontinued on the launch of the Morris Marina in 1971, but the Austin and Vanden Plas versions remained in production in the UK until June 1974.
+The three-door estate version followed in 1966, called Countryman in the Austin version and Traveller in the Morris one, continuing the established naming scheme. The Austin 1100 Countryman appeared in the Fawlty Towers episode "Gourmet Night", in which the short-tempered owner of Fawlty Towers Basil Fawlty (John Cleese) gave it a "damn good thrashing". This episode was first shown in October 1975, and by that time it was already out of production. 
+In 1964, the 1100 was Wheels magazine's Car of the Year.
+For most of its production life, the ADO16 was Britain's best selling car, holding around 15% of the new car market at its peak, before finally being outsold by the Ford Cortina in 1972.
+
+== Design and development ==
+The ADO16 (Amalgamated Drawing Office project number 16) was designed by Sir Alec Issigonis. Following his success with the Mini, Issigonis set out to design a larger and more sophisticated car which incorporated more advanced features and innovations. Pininfarina, the Italian styling studio that had worked with BMC before on the Austin A40 Farina, was commissioned to style the car. ADO16 had comparable interior space to the larger Ford Cortina.
+In common with the Mini, the ADO16 was designed around the BMC A-Series engine, mounted transversely and driving the front wheels. As well as single piston swinging caliper disc brakes at the front, which were not common on mass-produced cars in the early 1960s, the ADO16 featured a Hydrolastic interconnected fluid suspension system designed by Alex Moulton. The mechanically interconnected Citroen 2CV suspension was assessed in the mid-1950s by Alec Issigonis and Alex Moulton (according to an interview by Moulton with Car magazine in the late 1990s), and was an inspiration in the design of the Hydrolastic suspension system for the Mini and Austin 1100, to try to keep the benefits of the 2CV system (ride comfort, body levelling, keeping the tyres in contact with the road), but with added roll stiffness that the 2CV lacked.
+BMC engineer Charles Griffin took over development work from Issigonis at the end of the 1950s while Issigonis completed work on the Mini. Griffin ensured the 1100 had high levels of refinement, comfort and presentation. Griffin would later have overall responsibility for the Princess, Metro, Maestro and Montego ranges.
+Autocar reports in October 1973, while the car was still in production, that approximately 2,365,420 ADO16s had been produced.
+
+== Mark I (1962–1967) ==
+The original Mark I models were distinctive for their use of a Hydrolastic suspension. Marketing material highlighted the spacious cabin when compared to competitor models which in the UK by 1964 included the more conservatively configured Ford Anglia, Vauxhall Viva and BMC's own still popular Morris Minor. Unlike almost all of its competitors, the AD016 featured front-wheel drive instead of rear-wheel drive.
+The Mark I Austin / Morris 1100 was available, initially, only as a four-door saloon. In March 1966 a three-door estate became available, badged as the Morris 1100 Traveller or the Austin 1100 Countryman. Domestic market customers looking for a two-door saloon would have to await the arrival in 1967 of the Mark II version, although the two-door 1100 saloon had by now been introduced to certain overseas markets, including the United States where a two-door MG 1100 was offered.
+An Automotive Products (AP) four-speed automatic transmission was added as an option in November 1965. In order to avoid the serious levels of power loss then typical in small-engined cars with automatic transmission the manufacturers incorporated a new carburettor and a higher compression ratio in the new 1965 automatic transmission cars: indeed a press report of the time found very little power loss in the automatic 1100, though the same report expressed the suspicion that this might in part reflect the unusually high level of power loss resulting from the way in which the installation of the transversely-mounted "normal" manual gearbox had been engineered.
+
+=== Engine ===
+1962–1974: 1098 cc A-Series I4

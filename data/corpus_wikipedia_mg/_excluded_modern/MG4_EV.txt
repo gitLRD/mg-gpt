@@ -1,0 +1,111 @@
+MG4 EV
+
+The MG4 EV or MG4 Electric is a battery electric small family car (C-segment) produced by the Chinese automotive manufacturer SAIC Motor under the British MG marque. First released in June 2022 as the MG Mulan in China (renamed MG4 EV in August 2023), it was introduced in Europe in July 2022.
+In March 2025, MG Motor introduced a second model of the MG4 EV to the Chinese market. It adopts a different design, has a larger footprint, and is based on a different platform. Outside China, the model is sold alongside the existing MG4 EV model as the MG4 EV Urban.
+
+== First generation (EH32; 2022) ==
+
+The EH32 MG4 EV is the first vehicle to be based on SAIC's battery-electric Modular Scalable Platform (marketed as the Nebula platform in China). The MG4 EV was developed under the codename EH32. It was developed as a global model with the European market set as the primary target. The model was part of a collaboration between SAIC Motor Design Center in Shanghai, the Advanced Design Studio in London and the Royal College of Art.
+Based on the Modular Scalable Platform built ground-up specifically for battery electric vehicles, the MG4 EV has a wheelbase longer than typical cars in the segment, short overhangs and only a very short front bonnet. It is claimed to have a 50:50 weight distribution and a low centre of gravity of 490 mm (19.3 in) for superior handling. The model has an active air intake grille to achieve a low drag coefficient of 0.279.
+MG also engineered a thinner and flatter battery compared to typical battery electric vehicles with its "One Pack" battery system (called Rubik's Cube battery system in China), with a cell-to-pack (CTP) technology. The battery is only 110 mm (4.3 in) thick for the smallest capacity, which reduces the height of the car. The "One Pack" battery is also designed to be swappable.
+A performance-oriented model, the XPower, was introduced in July 2023. The Extended Range model with a 77 kWh battery and a 180 kW (241 hp; 245 PS) motor became available in Europe since August 2023. Since this period, the MG4 EV became equipped with a rear wiper, which was not included previously. Some variants also gained a larger 18-inch wheels with a new design.
+
+=== MG4 EV XPower ===
+A dual-motor, all-wheel-drive, performance-oriented model of the MG4 EV called XPower has been available since July 2023. It was marketed in China as the MG Mulan Triumph Edition. Exterior changes compared to the standard MG4 include a 18-inch alloy wheels, orange-painted XPower brake calipers, trim accents, and a Racing Green exterior paint option.
+The powertrain combines dual electric motors, 150 kW (201 hp; 204 PS) at the front and 170 kW (228 hp; 231 PS) at the rear– for a combined output of 320 kW (429 hp; 435 PS) and 600 N⋅m (61.2 kg⋅m; 443 lb⋅ft) of torque. It is equipped with Dynamic Cornering Control System that combines an electronic locking differential with torque vectoring. MG claimed a 0–100 km/h (0–62 mph) acceleration figure in 3.8 seconds. It also uses a modified chassis setup, by using a 25 percent stiffer suspension with recalibrated spring and dampers and stiffer anti-roll-bars, sharper steering, larger 345 mm (13.6 in) disc brakes, and a stronger setting for the regenerative braking.
+
+=== MG EX4 ===
+
+At the 2023 Goodwood Festival of Speed, MG revealed the EX4, a one-off tribute designed to celebrate the 40th anniversary of the MG Metro 6R4 rally car of the 1980s. Based on the MG4 XPower and using the same 320 kW (429 hp; 435 PS) dual electric motor powertrain as the XPower, the EX4 was designed in collaboration with high performance engineering company RML Group, featuring widened wheel arches, aero disc wheels, a front splitter and a large rear spoiler, much like the original 6R4. The EX4 was driven by BTCC driver Daniel Rowbottom in demonstration runs up the Goodwood hill-climb course.
+
+=== Markets ===
+
+==== Australia ====
+The first-generation MG4 EV went on sale in Australia in August 2023. It is sold in five variants with three grades of features and trim, which are Excite with both 51 kWh and 64 kWh battery, Essence with 64 kWh battery, Long Range with 77 kWh battery, and XPower. In April 2026, the MG4 EV line-up was updated for the 2026 model year which saw new exterior colours, new designs for the alloy wheels and rear spoiler, an updated interior with larger displays for the digital instrument cluster and touchscreen infotainment system, a new 64 kWh lithium-iron phosphate (LFP) battery, and the line-up was streamlined to two variants: Essence 64 RWD and XPower AWD.
+
+==== Asia ====
+
+===== China =====
+The Chinese market model was marketed as the MG Mulan. It was launched in September 2022 and went on sale in November 2022. It was available in 425 km (Flagship version) and 520 km (Deluxe version) cruising ranges. The 520 km range Deluxe version is equipped with Level 2 driving assistance functions. In August 2023, the Mulan was renamed to the MG4 EV, aligning to its export market name.
+
+===== Indonesia =====
+The first-generation MG4 EV was previewed in Indonesia in February 2023 at the 30th Indonesia International Motor Show, and launched on 14 June 2023 with two trims, Ignite and Magnify, identical to the D and X trims in Thailand. In January 2024, MG Motor Indonesia announced the local assembly of the MG4 EV at the SGMW Motor Indonesia plant, and significantly reduced its price. Only the Magnify trim became available since 2024. In July 2025, the Max variant using the 64 kWh battery pack was made available limited to 100 units.
+
+===== Malaysia =====
+The first-generation MG4 EV was launched in Malaysia on 27 March 2024 alongside the ZS EV, as part of MG Motor's entry to the country. In Malaysia, it is available with four variants: Standard (51 kWh), Lux (64 kWh), Lux Extended Range (77 kWh), and XPower.
+
+===== Philippines =====
+The first-generation MG4 EV was launched in the Philippines in October 2023, alongside the Marvel R. In the Philippines, it is available with two variants: Standard (51 kWh) and Lux (64 kWh). The XPower variant was added in April 2024.
+
+===== Singapore =====
+The first-generation MG4 EV was launched in Singapore on 16 January 2023 at the 2023 Singapore Motor Show, alongside the facelifted ZS EV. In January 2024, a 99 kW (133 hp; 135 PS) model with a 64 kWh battery became available, qualifying it for the cheaper Category A Certificate of Entitlement (COE) bracket.
+
+===== Taiwan =====
+The first-generation MG4 EV was launched in Taiwan on 13 June 2024, with two variants. The base model is a 64 kWh variant, and the range-topping model is the XPower.
+
+===== Thailand =====
+The first-generation MG4 EV is marketed in Thailand since November 2022, and started being assembled locally a year later in November 2023. During this period, the MG4 EV is available only with a 51 kWh battery, with two grade levels, D and X. In March 2024, MG Motor Thailand adjusted the specifications of the MG4 EV in Thailand by adding the V Long Range trim with a 64 kWh battery. The D and X trims for the 2024 model uses a slightly smaller 49 kWh LFP battery from previously 51 kWh. At the same time, the XPower variant also went on sale. Rear wiper became a standard equipment for the 2024 model. In March 2026, the MG4 EV line-up was updated for the 2026 model year, with two variants available: D Standard Range (50 kWh) and X Long Range (62.2 kWh). The 2026 model year changes include new exterior colours, an updated interior with a redesigned dashboard and door panels, a new 10.25-inch digital MID display, a new 12.3-inch touchscreen infotainment system with wireless compatibility for Android Auto and Apple CarPlay, and the addition of new features.
+
+===== Vietnam =====
+The first-generation MG4 EV was launched in Vietnam on 1 June 2024, with two variants: DEL (51 kWh) and LUX (64 kWh).
+
+==== Europe ====
+The European market first-generation MG4 EV was available with three battery options, which are 51 kWh LFP battery, 64 kWh NMC lithium-ion marketed as Long Range, and 77 kWh NMC lithium-ion usually marketed as the Extended Range. The MG4 EV XPower introduced in mid-2023 uses the 64 kWh battery and all-wheel drive. The versions are split into several levels of features and trim depending on the market.
+
+==== Mexico ====
+The first-generation MG4 EV was launched in Mexico on 20 April 2024, with three variants: Style (51 kWh), Extended Range (77 kWh) and XPower.
+
+==== Middle East ====
+The first-generation MG4 EV was launched in Israel and the GCC markets on 19 August 2024. It is available with four variants; STD (51 kWh), COM (64 kWh), LUX (64 kWh and 77 kWh), and XPower (64 kWh).
+
+=== Powertrain ===
+The MG4 EV is available with four basic combinations (Standard Range, Long Range, Extended Range and XPower). All models are equipped with batteries supplied by CATL.
+
+=== Safety ===
+
+=== Reception ===
+The MG4 EV has received praise from several UK automotive publications for its balance between affordability, performance, and features. Top Gear highlighted the car's value, stating it "has range, charging, and zippy dynamics" at a lower price compared to competitors like the Volkswagen ID.3. However, it noted that the seats could be uncomfortable for larger people, and the infotainment system stutters occasionally. Autocar commended its handling and ride quality but mentioned the cabin noise insulation could be better. The Auto Express review appreciated its affordability, with solid range and driving dynamics, but pointed out the lack of premium materials in the interior as a downside.
+Swedish publications M3, GP and DN noted many small software and hardware issues plaguing the car, for example inexplicable charging interruptions, buggy infotainment and buggy driver assist features.
+
+=== Sales ===
+In 2023, the MG4 is the second best-selling EV in the United Kingdom, below the Tesla Model Y. With 138,736 units exported from China, the MG4 EV was also the most exported Chinese EV in 2023.
+
+== Second generation (AH4EM; 2025) ==
+
+The exterior images of the second generation MG4 EV were first released by MG Motor in China on 20 March 2025. The vehicle entered mass production on 14 July 2025, with pre-sales in China beginning on 5 August 2025, and deliveries set to begin on 5 September in China. The semi-solid-state battery version went on sale in late 2025.
+Outside China, the model is marketed alongside the rear-wheel drive MG4 EV, as the MG4 EV Urban. Its model code is known as AH4EM.
+While the previous generation MG4 is sold in rear-wheel drive and all-wheel drive variants, the second generation model is based on the SAIC E3 electric vehicle architecture using a cell-to-body battery design with only available in front-wheel drive.
+SAIC Motor chief designer Shao Jingfeng said that the new MG4's exterior styling includes styling elements from the Cyberster while balancing Chinese and international design preferences.
+The dashboard has a 15.6-inch 2.5K-resolution central infotainment touchscreen powered by a Qualcomm Snapdragon 8155 SoC. The infotainment system uses MG's new operating system co-developed with Oppo, with features such as smartphone mirroring, voice functions, and gesture-capable navigation. It can interface with smartphones to synchronize their apps and update, with compatibility with Android, Xiaomi, Huawei, and Apple devices.
+The MG4 has a 471-litre (16.6 cu ft) rear cargo area, with an additional 98 litres (3.5 cu ft) underneath the floor. It has a MacPherson strut front suspension and a torsion beam suspension at the rear.
+
+=== Powertrain ===
+The MG4 EV is equipped with a single choice of drivetrain, a single front-wheel drive motor outputting 120 kW (161 hp; 163 PS) and 250 N⋅m (184 lb⋅ft) of torque. At launch, it will have the option of two LFP battery packs supplied by REPT Battero with capacities of 42.8 or 54.0 kWh providing 437 km (272 mi) and 530 km (329 mi) of CLTC range, respectively. It has a top speed of 160 km/h (99 mph) and both batteries can charge from 30–80% in 20 minutes.
+
+==== Semi-solid state battery ====
+The MG4 is available with an optional semi-solid-state battery supplied by QingTao Energy. The company says that only 5% of the battery's electrolyte will be liquid, resulting in a cell energy density of 180 Wh/kg. Additionally, MG claims the battery passes puncture safety tests and provides 13.8% better range retention at −7 °C (19 °F) than conventional LFP battery chemistries. It has a capacity of 53.9 kWh and a CLTC range rating of 537 km (334 mi). MIIT documents released in August 2025 reveal that the semi-solid state battery version of the MG4 will be called the Anxin Edition, and will use a "manganese-based lithium-ion battery", likely a lithium-ion manganese oxide (LMO) cathode chemistry.
+
+=== Markets ===
+
+==== Australia ====
+The MG4 EV Urban went on sale in Australia on 30 March 2026, in the sole Essence trim, available with either 43 and 54 kWh LFP battery packs.
+
+==== Brazil ====
+The MG4 EV Urban was launched in Brazil on 16 July 2026, with three variants: Comfort 43 kWh, Luxury 43 kWh and Luxury 54 kWh.
+
+==== Europe ====
+The MG4 EV Urban made its European debut in January 2026 starting in the United Kingdom. In Europe, it is available with 43 and 54 kWh LFP battery packs.
+
+==== Philippines ====
+The MG4 EV Urban was launched on 4 June 2026, alongside the HS PHEV and RX9 PHEV. It is available in the sole variant powered by the 43.2 kWh LFP battery.
+
+==== Singapore ====
+The MG4 EV Urban was launched in Singapore on 16 April 2026, in the sole Luxury (54 kWh) variant.
+
+==== Thailand ====
+The MG Urban EV was launched in Thailand on 17 June 2026, in the sole Standard (42.8 kWh), Max and Ultra (53.9 kWh) variant.
+
+=== Safety ===
+
+=== Sales ===
+After pre-orders opened on 5 August 2025 in China, the second-generation MG4 received 11,067 refundable deposits within 24 hours. On 24 September 2026, MG announced that the 200,000th second generation MG4 rolled off the production line on 23 September 2026 since production began in August 2025.

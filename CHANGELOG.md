@@ -10,6 +10,79 @@ journey.
 
 ## In progress
 
+- **Longer pretrain + v9 fine-tune: no gain** (not deployed). Resumed the pretrain 12K -> 24K steps
+  (`checkpoints/v7b_pretrain`, general-English val 3.75 -> ~3.55; the first 12K steps only covered a
+  quarter of the 196M-token set), then fine-tuned on `data/v8_augmented`: val 3.72 (v7 3.69, v8 3.65).
+  Judge, 3 seeds x 2 prompts x 2 judges: v9 2.36/2.29 (vl), 2.53/2.41 (coder) vs v7 2.70/2.58, 2.68/2.66.
+  Lower on all four, so general-English pretraining gains don't carry to MG answers; the 120M model
+  run was dropped. v7 stays live. Runs in `eval_runs/v9_*`, `judge3_*`.
+- **v8 fine-tune on augmented data** (`data/v8_augmented`: +2,713 extra forum Q&A, 53 Wikipedia
+  articles, 671 wiki Q&A; train 2.44M -> 2.93M tokens, val identical). Best val 3.65 @3000 vs v7 3.69.
+  Judge, 3 seeds x 2 prompts x 2 judges (qwen3-vl, qwen3-coder): v8 vs v7 = 2.76/2.54 vs 2.75/2.56
+  (vl), 2.80/2.58 vs 2.70/2.67 (coder). No reliable gain, so v8 is not deployed. 14 threads were
+  skipped (HTTP 400 from the model server). Runs in `eval_runs/v8_aug_*`, `v7_ft_*`, `judge2_*`.
+- **More MG text, licence-checked** (research 2026-11-06). Not usable: workshop manuals and
+  reprints (commercial, copyrighted), MG Car Club *Safety Fast!* (permission needed, members only),
+  Chicagoland MG Club pages (all rights reserved), Stack Exchange (terms exclude AI training), NC
+  open textbooks, US Army TM 9-8000 (public-domain status not stated by the host; skipped), Gutenberg
+  1907-15 motoring books (public domain but dated and low value). Usable: English Wikipedia MG
+  articles, CC BY-SA 4.0 (attribution + share-alike; the terms don't mention AI training either way).
+- **`data/fetch_wikipedia_mg.py`**: 53 MG-related Wikipedia articles (~98K tokens) via the API,
+  serial 1.2 s apart, `maxlag`, gzip, User-Agent with a contact address, per Wikimedia's etiquette
+  (they ask bulk users not to crawl). `manifest.json` records title, URL and revision id for attribution.
+  Modern SAIC-era models and a town article were dropped as off-topic for a classic-MG bot.
+- **`data/synthesize_wiki_qa.py`**: grounded Q&A from those articles (answers only from the text, local Qwen).
+- **`data/synthesize_qa_extra.py`**: second-pass Q&A on forum threads >= 3000 chars (first pass averaged
+  3.4 pairs/thread vs a 3-8 target); val threads skipped.
+- **`data/prepare.py` `EXTRA_TRAIN_DIRS`**: new sources are train-only and added after the original
+  shuffles, so val is unchanged and v7 numbers stay comparable.
+- **Deployed: persona priming removed from the live prompt** (`lambda/handler.py`, Lambda version 21).
+  Plain prompt scored equal or better in 4/4 runs and cuts ~500 prompt tokens; persona is now the greeting only.
+  Live probe: 5/5 non-empty. Done by hand (`docker push` + `aws lambda update-function-code`) as the
+  Cloudflare token still fails `terraform apply`.
+- **Persona-priming test** (`eval_mg.py` new `short_nospace` mode; runs in `eval_runs/priming_*`):
+  fine-tuned model, 30 Qs x 4 runs (3 personas, 2 seeds for one). Judge mean: plain 2.70,
+  full priming (live) 2.51, one-pair priming 2.56. Plain >= full priming in 4/4 runs, but gaps
+  (~0.2) are about the size of the seed-to-seed swing (plain 2.73 vs 2.60), so: lean, not proof.
+  Live handler unchanged.
+- **Deployed v7 to Lambda** (2026-11-06): fine-tuned model (iter 3750, val 3.69) plus the
+  trailing-space handler fix. Live probe: 5/5 replies non-empty (v6 was ~67% empty). Slim
+  `checkpoints/ckpt_best.pt` = weights + config only (228 MB). Previous image kept in ECR as
+  `v6-rollback` (the repo lifecycle policy expires untagged images after 1 day).
+  `deploy.sh` stopped at `terraform apply` (Cloudflare token rejected, status 400), so the Lambda
+  was updated by hand with `aws lambda update-function-code`; fix the token before the next full deploy.
+- **v7 plan: general-English pretrain → MG fine-tune** (tracked in Notion: "MG-GPT v7").
+  MG-only data (2.7M tokens) can't teach English *and* MG to a 51M model; v6
+  overfit ~68 epochs (val 3.14 @ iter 3000 → 3.79 @ 10000).
+- **Val split fixed to be by thread** (`data/prepare.py`). The old split cut by
+  token position, so val was 100% synth Q&A while 1,588/1,625 of those threads
+  were also in train as raw dialogue. v6's 3.14 is not comparable to new numbers.
+  New data goes to `data/v7_*/` (gitignored); old bins untouched.
+- **`train.py` flags**: `--data-dir --checkpoint-dir --max-iters --lr --dropout
+  --patience --init-from` (weights-only init for fine-tuning).
+- **`eval_mg.py`**: val loss + 20 fixed MG prompts + held-out questions, reports
+  empty-reply rate and cheap coherence proxies; raw generations saved to `eval_runs/`.
+- **`data/prepare_pretrain.py`**: streams a license-filtered slice of Common Pile
+  (public-domain / CC only) with an attribution manifest. Smoke-tested at 2M tokens;
+  full 200M run not yet launched.
+- **MG-only baseline on the clean split** (from scratch, early stopped): best val
+  **4.26** @ iter 1750, vs v6's leaked 3.14. Memorises fast (train 2.82, val ~4.3).
+  Checkpoint + log in `checkpoints/v7_mgonly/`, `data/logs/train_v7_mgonly.log`.
+- **Pretrain done** (2026-11-06): 196M-token Common Pile slice (`data/v7_pretrain/`,
+  manifest.json = licence record), 12K iters, ~8.7h. General val 3.75 best, no overfit.
+  `train.py --save-interval` added to keep checkpoint disk use sane.
+- **MG fine-tune from the pretrain** (`checkpoints/v7_finetune/`, lr 1e-4, dropout 0.1):
+  best val **3.69** @ 3750 vs 4.26 for MG-only (same held-out threads; full-sweep 3.73 vs 4.33).
+  Keyword-hit 95% (bare) / 75% (handler) vs 85% / 60%.
+- **`judge_mg.py`**: blind 1-5 "makes sense" scoring of `eval_mg.py` replies by a local
+  Qwen (LM Studio). Bare prompt mean: v6 2.80, MG-only 2.30, fine-tuned 2.70; handler
+  prompt: 1.97 / 2.37 / 2.43. On the 20 fixed questions the fine-tune leads (3.05 v6 2.85
+  MG-only 2.45); v6 only wins on held-out Qs it trained on. n=30, one judge, noisy.
+- **Found: live empty replies come from the prompt's trailing space**
+  (`lambda/handler.py`, `"ASSISTANT: "`). BPE attaches the space to the next word, so
+  the model sees an off-distribution token. v6 ckpt: 0/30 empty without the space,
+  13/20 with it. Fix pending, not deployed.
+
 - **TransformerLens exploration notebook** (`notebooks/transformer_lens_explore.ipynb`).
   Loads `ckpt_best.pt` into a `HookedTransformer` via the built-in
   `convert_nanogpt_weights` adapter (our state-dict layout already matches

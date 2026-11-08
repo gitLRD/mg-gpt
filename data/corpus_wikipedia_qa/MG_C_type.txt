@@ -1,0 +1,17 @@
+USER: What years was the MG C-type produced?  
+ASSISTANT: The MG C-type was produced from 1931 to 1932.
+
+USER: What engine did the MG C-type use?  
+ASSISTANT: It used a tuned short-stroke version of the overhead camshaft engine from the 1928 Morris Minor and Wolseley 10, with a single SU carburettor and a new crankshaft producing 44 bhp at 6400 rpm.
+
+USER: Was there a supercharged version of the MG C-type?  
+ASSISTANT: Yes, a Powerplus supercharged version was available, producing 52.4 bhp at 6500 rpm.
+
+USER: What kind of transmission did the MG C-type have?  
+ASSISTANT: It used a four-speed non-synchromesh gearbox to drive the rear wheels.
+
+USER: What was the wheelbase and track of the MG C-type?  
+ASSISTANT: The C-type had a wheelbase of 81 inches (2057 mm) and a track of 42 inches (1067 mm).
+
+USER: How much did a standard MG C-type cost when it was first released?  
+ASSISTANT: The standard model initially cost £295, while the supercharged version was priced at £345. By the end of production, prices rose to £490 and £575 respectively.

@@ -31,7 +31,16 @@ from model.config import nano_config, small_config, medium_config
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--config", default="small", choices=["nano", "small", "medium"])
-parser.add_argument("--resume", default=None, help="Path to checkpoint .pt file")
+parser.add_argument("--resume", default=None, help="Path to checkpoint .pt file (restores optimizer + iter)")
+parser.add_argument("--init-from", default=None, help="Load model weights only (fresh optimizer, iter 0) — for fine-tuning")
+parser.add_argument("--data-dir", default="data", help="Directory holding train.bin/val.bin/meta.json")
+parser.add_argument("--checkpoint-dir", default="checkpoints")
+parser.add_argument("--max-iters", type=int, default=10_000)
+parser.add_argument("--save-interval", type=int, default=500, help="Save a resumable ckpt every N steps")
+parser.add_argument("--lr", type=float, default=3e-4)
+parser.add_argument("--dropout", type=float, default=None, help="Override the config preset's dropout")
+parser.add_argument("--patience", type=int, default=0,
+                    help="Stop after N evals without a val-loss improvement (0 = off)")
 args = parser.parse_args()
 
 # ---------------------------------------------------------------------------
@@ -39,12 +48,12 @@ args = parser.parse_args()
 # ---------------------------------------------------------------------------
 
 # Training
-max_iters      = 10_000      # Total training steps
+max_iters      = args.max_iters  # Total training steps
 batch_size     = 4           # Sequences per batch (small for MPS memory headroom)
 grad_accum     = 4           # micro-batch × grad_accum = effective batch (16)
 
 # Optimiser
-learning_rate  = 3e-4
+learning_rate  = args.lr
 weight_decay   = 0.1
 beta1, beta2   = 0.9, 0.95
 grad_clip      = 1.0         # Gradient clipping (prevents exploding gradients)
@@ -58,11 +67,11 @@ min_lr         = learning_rate / 10
 eval_interval  = 250         # Evaluate on val set every N steps
 eval_iters     = 50          # Number of val batches to average
 log_interval   = 10          # Print loss every N steps
-save_interval  = 500         # Save checkpoint every N steps
+save_interval  = args.save_interval  # Save checkpoint every N steps
 
 # Paths
-data_dir       = "data"
-checkpoint_dir = "checkpoints"
+data_dir       = args.data_dir
+checkpoint_dir = args.checkpoint_dir
 
 # ---------------------------------------------------------------------------
 # Device
@@ -85,7 +94,7 @@ dtype = torch.float32  # MPS doesn't support bfloat16 reliably yet
 def load_tokens(split):
     path = os.path.join(data_dir, f"{split}.bin")
     if not os.path.exists(path):
-        print(f"\n❌ {path} not found. Run: python data/prepare.py")
+        print(f"\n❌ {path} not found. Run: python data/prepare.py --out-dir {data_dir}")
         sys.exit(1)
     return np.memmap(path, dtype=np.uint16, mode='r')
 
@@ -104,11 +113,19 @@ print(f"Train tokens: {len(train_data):,}  |  Val tokens: {len(val_data):,}")
 configs = {"nano": nano_config, "small": small_config, "medium": medium_config}
 config = configs[args.config]()
 config.vocab_size = meta["vocab_size"]
+if args.dropout is not None:
+    config.dropout = args.dropout
 
 model = GPT(config).to(device)
 
 iter_num = 0
 best_val_loss = float('inf')
+
+if args.init_from:
+    print(f"Initialising weights from {args.init_from} (fresh optimizer, iter 0)")
+    init_ckpt = torch.load(args.init_from, map_location=device, weights_only=False)
+    model.load_state_dict(init_ckpt["model"])
+    del init_ckpt
 
 if args.resume:
     print(f"Resuming from {args.resume}")
@@ -181,12 +198,14 @@ def get_lr(it):
 
 os.makedirs(checkpoint_dir, exist_ok=True)
 print(f"\nTraining MG-GPT ({args.config} config, {model.num_params()/1e6:.1f}M params)")
-print(f"Max iters: {max_iters}  |  Batch size: {batch_size}  |  Block size: {config.block_size}\n")
+print(f"Max iters: {max_iters}  |  Batch size: {batch_size}  |  Block size: {config.block_size}  |  "
+      f"Dropout: {config.dropout}  |  LR: {learning_rate:g}  |  Patience: {args.patience or 'off'}\n")
 
 t0 = time.time()
 model.train()
 train_losses = []   # per-iter losses for the loss curve plot
 val_checkpoints = []  # (iter, val_loss) pairs
+evals_without_improvement = 0
 
 for iter_num in range(iter_num, max_iters + 1):
 
@@ -216,6 +235,13 @@ for iter_num in range(iter_num, max_iters + 1):
             path = os.path.join(checkpoint_dir, "ckpt_best.pt")
             torch.save(ckpt, path)
             print(f"  ✅ New best val loss — saved to {path}")
+            evals_without_improvement = 0
+        else:
+            evals_without_improvement += 1
+            if args.patience and evals_without_improvement >= args.patience:
+                print(f"\n⏹  Early stop: no val improvement in {args.patience} evals "
+                      f"(best {best_val_loss:.4f}).")
+                break
 
     if iter_num % save_interval == 0 and iter_num > 0:
         ckpt = {

@@ -1,0 +1,115 @@
+BMC A-series engine
+
+The Austin Motor Company A-series is a British small straight-4 automobile engine. Launched in 1951 with the Austin A30, production lasted until 2000 in the Mini. It used a cast-iron block and cylinder head, and a steel crankshaft with three main bearings. The camshaft ran in the cylinder block, driven by a single-row chain for most applications, and with tappets sliding in the block, accessible through pressed steel side covers for most applications, and with overhead valves operated through rockers. The cylinder blocks are not interchangeable between versions intended for conventional end-on mounted gearboxes and the 'in-sump' transaxle used on British Motor Corporation/British Leyland front wheel drive models such as the Mini.  The cylinder head for the overhead-valve version of the A-series engine was designed by Harry Weslake – a cylinder head specialist famed for his involvement in SS (Jaguar) engines and several Formula One-title winning engines. Although a "clean sheet" design, the A-series owed much to established Austin engine design practice, resembling in general design (including the Weslake head) and overall appearance a scaled-down version of the 1200cc overhead-valve engine first seen in the Austin A40 Devon which would form the basis of the later B-series engine.
+
+== Engine family list ==
+All engines had a cast iron head and block, two valves per cylinder in an OHV configuration and sidedraft SU carburettor. Engines were available in diesel in the BMC tractor.
+All A-series engines up until mid-1970 were painted in British Standard (381c) 223 "Middle Bronze Green". This does not include overseas production models such as Australian manufacture.  "Factory/dealer warranty replacement" units were painted black, these were primarily distributed for the failures common to the "wet crank" primary gear system in early Minis.
+
+== A versions ==
+
+=== 803 ===
+
+The original A-series engine displaced just 803 cc (49.0 cu in) and was used in the A30 and Morris Minor. It had an undersquare 57.92 mm × 76.2 mm (2.280 in × 3.000 in) bore and stroke. This engine was produced from 1952 to 1956.
+Applications:
+
+1952–56 Austin A30, 28 hp (21 kW) at 4400 rpm and 40 lb⋅ft (54 N⋅m) at 2200 rpm
+1952–56 Morris Minor Series II, 30 hp (22 kW) at 4800 rpm and 40 lb⋅ft (54 N⋅m) at 2400 rpm
+
+=== 948 ===
+1956 saw a displacement increase, to 948 cc (57.9 cu in). This was accomplished by increasing the bore to 62.9 mm (2.48 in) while retaining the original 76.2 mm (3.00 in) stroke. It was produced until 1964.
+
+=== 848 ===
+
+The 62.9 mm (2.48 in) bore was retained for 1959s 848 cc (51.7 cu in) Mini version. This displacement was reached by dropping the stroke to 68.26 mm (2.687 in). This engine was produced through to 1980 for the Mini, when the 998 A-Plus version supplanted it.
+
+=== 997 ===
+The one-off 997 cc (60.8 cu in) version for the Mini Cooper used a smaller 62.43 mm (2.458 in) bore and longer 81.4 mm (3.20 in) stroke. It was produced from 1961 to 1964.
+Applications:
+
+1961–1964 Austin/Morris Mini Cooper, 55 hp (41 kW) at 6000 rpm and 54 lb⋅ft (73 N⋅m) at 3600 rpm
+
+=== 998 ===
+The Mini also got a 998 cc (60.9 cu in) version. This was similar to the 948 in that it had the same 76.2 mm (3.00 in) stroke but the bore was increased slightly to 64.58 mm (2.543 in). It was produced from 1962 to 1992. This engine was first introduced into the Mk II versions of the Riley Elf and Wolseley Hornet, before becoming common fitment in the mainstream Minis.
+
+=== 1098 ===
+The 1.1 L; 67.0 cu in (1,098 cc) version was fitted to:
+
+MG Midget Mk1 1098cc, Oct 1962 – 1964
+MG Midget Mk2 1098cc, 1964–66
+Austin A35 Van 1098cc, 1962–68
+Austin A40 Farina Mk2, Oct 1962 – 1968
+Morris Minor, Oct 1962 – 1971
+Austin/Morris BMC Saloon from 1962
+Mini and its derivatives, the 1098cc engine mounted transversely
+It was a stroked (to 83.8 mm (3.30 in)) version of the 998 previously used in the Riley Elf and Wolseley Hornet. It was produced from 1962 to 1980.
+
+=== 1070 ===
+The 1,070 cc (65 cu in) version was another one-off, this time for the Mini Cooper S. It used a new 70.6 mm (2.78 in) bore size and the 68.26 mm (2.687 in) stroke from the 848. It was only produced in 1963–1964. Paired with the even rarer 970 cc (59 cu in) version, below, it became that rarest of things: an oversquare A-series engine.
+Applications:
+
+1963–1964 Austin/Morris Mini Cooper S, 70 hp (52 kW) at 6000 rpm and 62 lb⋅ft (84 N⋅m) at 4500 rpm
+
+=== 970 ===
+The Mini Cooper S next moved on to a 970 cc (59 cu in) version. It had the same 70.6 mm (2.78 in) bore as the 1071 cc Cooper S but used a shorter 61.95 mm (2.439 in) stroke. It was produced from 1964 to 1965.
+Applications:
+
+1964–1967 Austin/Morris Mini Cooper S, 65 hp (48 kW) at 6,500 rpm and 55 lb⋅ft (75 N⋅m) at 3,500 rpm
+
+=== 1275 ===
+The largest A-series engine displaced 1.3 L; 77.8 cu in (1,275 cc). It used the 70.6 mm (2.78 in) bore from the Mini Cooper S versions but the 81.4 mm (3.20 in) stroke from the plain Mini Cooper. It was produced from 1964 until 1980, when it was replaced by an A-Plus version. The bore size was around the maximum possible in the block, with very little separation between the middle cylinders, which often contributed to head gasket failures.
+
+== A-Plus versions ==
+British Leyland was keen to update the old A-series design in the 1970s. However, attempts at replacement, including an aborted early-70s British Leyland 'K engine' (unrelated to the later Rover K series) and an OHC version of the A series, ended in failure. During the development of what was to become the Austin Metro, engineers tested the A series against its more modern rivals and found that it still offered competitive (or even class-leading) fuel economy and torque for its size. While in the 1970s the A series had begun to seem dated against a new generation of high-revving overhead cam engines, by the end of the decade a new emphasis on good economy and high torque outputs at low speeds meant that the A series's inherent design was still well up to market demands.
+Given this, and the lack of funds to develop an all-new power unit, it was decided to upgrade the A-series unit at a cost of £30 million. The result was the 'A-Plus' Series of engines. Available in 998 and 1,275 cc (60.9 and 77.8 cu in), the A-Plus had stronger engine blocks and cranks, lighter pistons and improved piston rings, Spring loaded tensioner units for the timing chain and other detail changes to increase the service interval of the engine (from 6,000 to 12,000 miles (9,700 to 19,300 km)). More modern SU Carburettors and revised manifold designs allowed for small improvements in power without any decrease in torque or fuel economy. Many of the improvements learnt from the Cooper-tuned units were also incorporated, with A-Plus engines having a generally higher standard of metallurgy on all units, where previously only the highest-tuned engines were upgraded in this way. This made the A-Plus engines generally longer-lived than the standard A series, which had a life between major rebuilds of around 80,000 to 100,000 miles (130,000 to 160,000 km) in normal service. Studies were made into upgrading the engine to use five main crankshaft bearings but the standard three-bearing crank had proven reliable even in high states of tune and at high engine speeds, so it was not deemed worth the extra funding.
+The new engines received distinctive 'A+' branding on their rocker covers and the blocks and heads were colour-coded for the different capacities: yellow for 998 cc (60.9 cu in) and red for 1,275 cc (77.8 cu in) engines.
+
+=== 998 Plus ===
+The A-Plus version of the 998 cc (60.9 cu in) motor was produced from 1980 to 1992.
+Applications:
+
+=== 1275 Plus ===
+The larger 1.3 L; 77.8 cu in (1,275 cc) engine was also given the "A-Plus" treatment. This lasted from 1980 to 2000, making it the last of the A-series line.
+
+=== 1275 Turbo ===
+To allow the MG Metro to compete with larger, more powerful hot hatchbacks a turbocharged version of the 1,275 cc (77.8 cu in) A-Plus was developed with the assistance of Lotus Engineering. A Garrett T3 turbocharger was fitted along with a unique SU carburettor with an automatic pressure-regulated fuel system. The engine block, cylinder head, pistons, crankshaft and valves were all modified from the standard A-Plus engines. The turbocharger was fitted with an advanced two-stage boost control system which only allowed full boost to be achieved at engine speeds above 4000 rpm – this was to prevent damage to the sump-mounted four-speed gearbox, the design of which dated back to the early 1950s and could not reliably cope with the high torque output of the Turbo engine at low speeds. The quoted power for the 1,275 cc (77.8 cu in) A-Plus Turbo was 94 bhp (70 kW) although in practice the tune could vary from car to car and, because the engine was not intercooled power varied significantly depending on the weather. The MG Metro Turbo was entered in the British Touring Car Championship in 1983 and 1984, with the tuned engines producing in excess of 200 bhp (150 kW).
+Turbo versions lasted from 1983 to 1990.
+Applications:
+
+1983–89 MG Metro Turbo, 94 hp (70 kW) at 6130 rpm and 85 lb⋅ft (115 N⋅m) at 2650 rpm
+1989–90 Mini ERA Turbo, 94 hp (70 kW) at 6130 rpm and 85 lb⋅ft (115 N⋅m) at 3600 rpm
+
+=== 1275 MPi ===
+
+A special "twin-port injection" version of the 1.3 L; 77.8 cu in (1,275 cc) engine was developed by Rover engineer, Mike Theaker. It was the last A-series variant, produced from 1997 to 2000. Few changes were made to ensure the engine complies with Euro 2 (later Euro 3) emission standard, such as adding a 3-way catalytic converter and making it twin-point injection, the engine also receive changes with ignition system by having a wasted spark instead of the distributor. For the Japanese domestic market the engine maintained the single-point injection version of the engine and the radiator is still on the side due to the space constraint for the air conditioner component.
+Applications
+
+1997–2000 Rover Mini MPi 1.3i (TPi), 63 hp (47 kW) at 5500 rpm and 70 lb⋅ft (95 N⋅m) at 3000 rpm
+JOHN COOPER GARAGES
+During the 1990s Mini Cooper revival, John Cooper Garages offered a number of factory-approved "Cooper S" and "Cooper Si" upgrades to the standard Coopers. The conversions came with a full Rover warranty, and could initially be fitted by any franchised Rover dealer.
+
+S pack (carb) 77 bhp (57 kW)
+1st Si pack (Spi) 77 bhp (57 kW)
+2nd Si pack (Spi) 82 bhp (61 kW)
+3rd Si pack (Spi) 86 bhp (64 kW)
+1997 Si pack (Mpi) 85 bhp (63 kW) @ 5500rpm
+1999 Si pack (Mpi) 90 bhp (67 kW) @ 6000rpm
+
+== Diesel version ==
+The diesel version appeared in 1962, on the BMC Mini tractor. It was developed with the help of Ricardo Consulting Engineers. It was redesign of existing 948 cc version, new purpose-designed cylinder head, with Lucas CAV fuel injection. This engine has dry liners. The block is almost identical to the petrol engine. The oil pump has been removed from the camshaft and is driven by an extension to what would have been the distributor drive. It uses Ricardo-patented "Comet V" combustion chambers, with a compression ratio of 23.6:1. Produced 15 hp at 2500rpm and 38 lb⋅ft (52 N⋅m) torque at 1,750 rpm. A petrol version of this modified engine was 'reverse-engineered' for use in the Mini Tractor whilst retaining parts commonality with the diesel variant, rather than using a standard petrol A-series unit. The diesel A series was also sold as a marine engine under the BMC name alongside the diesel B-series engines. Production ceased in 1969.
+
+== South African engines ==
+At the end of 1965, BMC South Africa started a new program, with the aim of using more components manufactured in the country (using less imported components from U.K.). They decided to develop and manufacture their own version of the engine. Two versions were made with 1.1 and 1.3 litres, using the same cylinder block. The block was redesigned, new oil circulation arrangements and redesigned main bearing (bigger dimensions) and stronger/biffers camshafts. Both versions use the same connecting rods, but different crankshaft and pistons. Prototypes versions were made by 1969. Production began in 1971, ending in 1980.
+
+== OHC version ==
+With the intention of updating the current engine, for use in the new Mini Clubman (ADO20), and current ADO16, Leyland developed an OHC version. It appeared in a prototype version in 1971, with single overhead camshaft. It featured redesigned cylinder block, new aluminium cylinder head and twin SU carburetors. Eleven prototypes units were built, in three different capacities, 970, 1070 and 1275 cc. All engines use the same cylinder bore dimension of 70.6 mm, to reduce the number of engine parts, reducing production costs.  It uses a modular approach, making it possible to produce the three versions with the same engine block. The lack of investment and the turmoil and chaos in British Leyland, meant the engine never reached production. In 1975 the plan was abandoned in favour of the "A+" version that reached production in 1980.
+
+== Twin-cylinder A-series ==
+Under the code ADO11, a 474cc twin-cylinder engine with a single H2 SU carburetor, based on the 948cc unit, was built with the intention to be used in the ADO15 (Mini) with an in-sump gearbox. In May 1957, the engine was tested in one Austin A35, alongside a 20 hp, 500cc air-cooled, and later 670cc water-cooled, two-cylinder two-stroke engine developed by Dr Joe Ehrlich of EMC Motorcycles that was tested in one Austin A30 before being used in an experimental Austin-A30–based prototype with weight reduced to 584 kg (by way of a special lightweight body in steel that was lighter than normal, with altered panels to keep weight at a minimum) known as the Austin A20 or the "Lightweight Austin 7".
+In 2021 retired racing driver and Bugatti specialist Ivan Dutton rebuilt an example of the four-stroke engine from an original head and cylinder block and documented the work on Youtube. He also has the EMC two-cylinder two-stroke engine which he plans to return to running condition.
+
+== Current use ==
+Almost every part of the engine is still made, whether in original specification or improved versions: pistons, camshafts, crankshafts, cylinder heads. Cylinder heads are available in eight-valve and sixteen-valve versions, made in aluminium with five, seven or eight ports. Additionally over the past few decades it has not been unusual to see the A-Series stretched beyond 1275cc with capacities ranging from as low as 1293cc up to 1479cc, although it is commonly enlarged to 1380cc while retaining its reliability so long it is serviced regularly and well looked after.
+The A-series engine is currently used in David Brown Mini Remastered. The engine is totally rebuilt, with new internals to an improved specification. The engine used is based in 1275cc MPi version, with larger capacity versions including the 1330cc Monte Carlo  as well as the 1380cc and 1450cc Oselli Edition.   
+
+== Gallery ==

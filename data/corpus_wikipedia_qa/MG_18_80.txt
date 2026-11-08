@@ -1,0 +1,17 @@
+USER: How many MG 18/80 Mark I models were built?
+ASSISTANT: A total of 501 MG 18/80 Mark I models were built between 1928 and 1931.
+
+USER: What engine did the MG 18/80 use?
+ASSISTANT: The MG 18/80 used a tuned version of the Morris Light Six engine, with a 2,468 cc inline six-cylinder unit featuring a chain-driven single overhead camshaft and twin SU carburettors.
+
+USER: When was the MG 18/80 Mark II introduced, and how many were built?
+ASSISTANT: The MG 18/80 Mark II was introduced in 1929 and a total of 236 examples were built.
+
+USER: What were the top speed and horsepower of the MG 18/80?
+ASSISTANT: The MG 18/80 produced about 60 bhp and had a top speed of 80 mph, which is reflected in its model name.
+
+USER: What was the Mark III version of the MG 18/80 called, and how many were made?
+ASSISTANT: The Mark III was known as the "18/80 Tigress" or "18/100", and only five examples were produced.
+
+USER: Did the MG 18/80 have a direct successor model?
+ASSISTANT: No, there was no direct successor to the MG 18/80. MG did not launch its next large-engined model, the SA, until 1936.

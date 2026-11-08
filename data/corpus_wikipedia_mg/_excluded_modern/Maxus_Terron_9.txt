@@ -1,0 +1,80 @@
+Maxus Terron 9
+
+The Maxus Terron 9 is a battery electric and diesel mid-size pickup truck produced by Chinese automaker SAIC Maxus since 2024.
+The model is marketed as the Maxus Interstellar X (Chinese: 大通星际X; pinyin: Dàtōng Xīngjì X, translation: star boundary or interstellar) in China. 
+In February 2026, Volkswagen Group Argentina showed the work progress for the Latin American second-generation Volkswagen Amarok (based on Terron 9), which will be produced in Argentina (Pacheco plant), the new Amarok Hybrid was developed by SAIC-VW. The first-generation Amarok production will finish on the second half of 2026, giving way to the New Amarok which will start being produced in 2027.
+
+== Specifications ==
+The Terron 9 is based on an all-new chassis design called Starbridge Architecture (Chinese: 星桥架构; pinyin: Xīng qiáo jiàgòu).
+The Terron 9 offers a towing capacity of 3.5 tonnes and a payload of 620 kg (1,370 lb) in its 1.7 m (5 ft 7 in) long load bed, which extends to 2.4 m with the tailgate down.  The electric version includes a power-operated front trunk with a capacity of 236 dm3 and two integrated seats.
+The truck features double-wishbone independent suspension on all four wheels and BorgWarner front and rear differential locks.
+Interior features include a 12.3-inch LCD instrument panel and a 12.3-inch central control touchscreen with wireless CarPlay and Android Auto. 
+Off-road and safety technologies include:
+
+Off-road Expert Mode,
+Trailer assistance system,
+Level 2 intelligent driver assistance functions,
+Smart ATS 3.0 All-Terrain Mode with 12 driving modes,
+Bosch ESP9.3 system + Bosch IBS,
+Driver-assistance camera and 7 airbags as standard,
+LED matrix headlights.
+SAIC Maxus claims that "high-strength and ultra-high-strength steel account for 73%" of the Terron 9’s chassis structure and a combined diesel fuel consumption of 7.9 L/100 km (36 mpg‑imp; 30 mpg‑US).
+
+== Four-wheel-drive system ==
+According to official information published by SAIC Maxus, the pickup is equipped with a "Super four-wheel-drive system" (超选四驱系统).  
+The manufacturer states that this system features three mechanical differential locks: front, centre, and rear (前中后三把机械锁), allowing the vehicle to operate as a full-time four-wheel-drive truck with a lockable centre differential for off-road use.  
+This configuration enables continuous torque distribution between the front and rear axles on high-traction surfaces, while the driver can manually lock the differentials for challenging terrain. The setup positions the Terron 9 among a limited number of mid-size pickups offering full-time 4WD capability.
+For the battery-electric variant, the system differs: the eTerron 9 employs a real-time four-wheel-drive layout managed by its front and rear electric motors. The front axle motor engages through a one-way clutch to control torque delivery in Drive gear, while it is not engaged in Reverse gear.
+
+== Powertrain ==
+
+=== Battery electric ===
+The eTerron 9 is equipped with two electric motors (125 kW (168 hp) at the front and 200 kW (270 hp) at the rear) for a combined power output of 325 kW (436 hp), powered by a LFP battery with a capacity of 102 kWh (370 MJ). It supports direct current (DC) fast charging up to 115kW, enabling a 20–80% charge in around 40 minutes.  
+Maxus quotes an acceleration of 0–100 km/h in 5.8 seconds and lists a vehicle-to-load (V2L) power export function with multiple external socket options.
+The LFP battery pack uses a liquid-cooled thermal management system designed to maintain stable performance across extreme temperatures and improve charging efficiency. It also supports vehicle-to-load (V2L) functionality, enabling external power supply for tools or appliances with a rated output of up to 6.6 kW through multiple sockets located in the load bed and cabin.
+
+=== Diesel ===
+The diesel-powered Terron 9 is equipped with a 2.5-litre SAIC πPlus 2.5T turbodiesel engine, producing 165 kW (221 hp) and 520 N⋅m (380 lbf⋅ft) of torque. It is paired with an 8-speed ZF 8HP50 automatic transmission and features a full-time four-wheel-drive system with selectable locking differentials. At launch, the 2.5-litre diesel was claimed to be the most powerful four-cylinder turbodiesel in its class.
+
+=== Plug-in hybrid ===
+At the launch of the MG U9 on September 29, 2025, MG Australia's boss, Peter Ciao, confirmed that a plug-in hybrid version of the U9 will launch in Australia would launch in mid-2027. No details have been confirmed about the PHEV version so far.
+
+== Markets ==
+
+=== China ===
+In China, the vehicle is marketed as the 星际X (pinyin: Xīngjì X, lit. "Interstellar" or "Starry" X) with Maxus branding in the front and back.
+
+=== Europe ===
+The battery-electric version, marketed as the Maxus eTerron 9, was unveiled on September 17, 2024 at the IAA Transportation in Hanover, marking the brand’s entry into the European market.
+
+=== Oceania ===
+
+==== Australia ====
+
+Marketed as the LDV Terron 9 and the LDV eTerron 9 for electric variants, it went on sale in Australia on June 30, 2025, offered in two trim levels: Origin and Evolve.  
+The diesel model is also sold under the MGU9 nameplate by MG Motor and was launched in Australia on September 22, 2025. It is offered in three trims: Explore, Explore X, and Explore Pro. The MGU9 introduces a powered “Smart Hatch” mid-gate and MultiFold seating system that allow the cabin and tub to merge into a continuous load area, as well as a powered multi-step tailgate with built-in folding steps for easier access. In June 2026, the Black Edition model was made available in strictly limited numbers, features black exterior accents. In September 2026, the EV model was introduced for the MGU9 as the flagship variant.
+
+==== New Zealand ====
+The LDV Terron 9 was launched in New Zealand on June 12, 2025, in the sole Elite variant.
+
+=== Africa ===
+
+==== South Africa ====
+The LDV Terron 9 was launched in South Africa on September 1, 2025, with three trim levels: Elite, Premium and Flagship.
+
+=== Asia ===
+
+==== Pakistan ====
+The MG U9 was launched in Pakistan in January 2026 with one trim; Explore Pro with the SAIC πPlus 2.5T turbodiesel engine. Deliveries started in February 2026. 
+
+=== Latin America ===
+
+==== Argentina ====
+In March 2025, Volkswagen announced that a new pickup truck would enter production in Argentina in 2027. The development of the new Amarok would involve collaboration with SAIC Motor and utilize a platform derived from Maxus. The future Volkswagen Amarok will feature a unique exterior design developed by Volkswagen’s regional design team, led by José Carlos Pavone. Distinctive elements include a redesigned front end, with headlights and LED daytime running lights arranged on two levels, a horizontal light strip integrated into the grille, and a sculpted hood. While it will retain the proportions and certain body elements of the Maxus model, Volkswagen will introduce modifications to establish its own distinct visual identity. According to specialized automotive publications, there will also be changes to various exterior and interior components, as well as adjustments to tailor the vehicle for the South American market. On August 21, 2026, Volkswagen publicly unveiled the new Amarok for the first time at the Festa do Peão de Barretos, in the state of São Paulo, Brazil. The unit on display was still covered in decorative camouflage inspired by South American landscapes and territories, meaning the final design was not fully revealed. 
+
+==== Chile ====
+In Chile, the Terron 9 is marketed as the Maxus All New T90. Sales began in September 2025 with two trim levels: GL and GLX. At launch, it was unveiled with a Euro 6c 2.5-litre SAIC πPlus engine and reported as the most powerful four-cylinder turbodiesel in its class in the Chilean market.
+
+== Safety ==
+
+== Sales ==

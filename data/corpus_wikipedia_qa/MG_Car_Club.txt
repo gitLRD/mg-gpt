@@ -1,0 +1,53 @@
+USER: When was the MG Car Club founded?  
+ASSISTANT: The MG Car Club was founded in 1930, with its first meeting taking place on October 12th of that year at the Roebuck Hotel near Stevenage.
+
+USER: How many members does the MG Car Club have?  
+ASSISTANT: The MG Car Club currently has 55,000 affiliated members worldwide.
+
+USER: Where is the MG Car Club headquarters located?  
+ASSISTANT: The MG Car Club headquarters is in Abingdon, Oxfordshire, located next to the former MG factory site.
+
+USER: When did MG cars stop being produced at the Abingdon factory?  
+ASSISTANT: MG cars were produced at the Abingdon factory between 1930 and 1980, so production ceased there in 1980.
+
+USER: Who suggested forming the MG Car Club?  
+ASSISTANT: The suggestion to form the MG Car Club came from Roy Marsh of Highbury, London, and it was F.L.M. Harris who made the decision to publish the idea in The Light Car.
+
+USER: What was the MG Car Club’s first meeting like?  
+ASSISTANT: The first meeting was held on October 12, 1930, at the Roebuck Hotel near Stevenage, with over thirty MG cars and their owners attending.
+
+USER: When was the MG Car Club founded?  
+ASSISTANT: The MG Car Club was formed in 1930, with its first sporting event, the Chilterns Trial, taking place that year. The first club dinner was held in January 1931, marking the beginning of its organized activities.
+
+USER: How many members did the MG Car Club have by 1966?  
+ASSISTANT: By 1966, the MG Car Club had enrolled its 5,000th home member, with approximately 4,000 overseas members, giving the club a total strength of more than 9,000 members.
+
+USER: When did the MG Car Club become fully independent?  
+ASSISTANT: The MG Car Club became fully independent in October 1969, after licensing the club name and the Safety Fast magazine from British Leyland, ensuring its financial and operational future.
+
+USER: Where is the current headquarters of the MG Car Club located?  
+ASSISTANT: The MG Car Club’s headquarters is located at 11 & 12 Cemetery Road in Abingdon, next to the original gate of the MG factory. The premises were purchased in 1989 and renovated in 1990, and are now known as Kimber House.
+
+USER: When was the MG Car Club Podcast launched?  
+ASSISTANT: The MG Car Club Podcast was launched in 2020, hosted by the club's PR officer Wayne Scott, and has since gained a global audience of thousands of listeners.
+
+USER: When did the MG Car Club first move its headquarters back to Abingdon?  
+ASSISTANT: The MG Car Club moved its headquarters back to Abingdon in 1990, after purchasing 11 & 12 Cemetery Road in 1989 through a Building Appeal Fund. The offices were renovated and officially opened that year.
+
+USER: How many centres does the MG Car Club have in the UK?  
+ASSISTANT: The MG Car Club has fourteen centres across different regions of the UK, each organising local events for members.
+
+USER: Where is the MG Car Club’s head office located?  
+ASSISTANT: The MG Car Club’s head office is based in Abingdon, where three full-time staff work.
+
+USER: Who runs the MG Car Club?  
+ASSISTANT: The MG Car Club is run by volunteer directors, with three full-time staff based at the head office in Abingdon.
+
+USER: What are the main responsibilities of the MG Car Club’s registers?  
+ASSISTANT: The registers are responsible for looking after different models of MG cars, helping members maintain and celebrate their vehicles.
+
+USER: What kind of events do the MG Car Club’s branches organise?  
+ASSISTANT: The branches organise race championship series and track days for MG enthusiasts across the UK.
+
+USER: How many full-time staff work at the MG Car Club’s head office?  
+ASSISTANT: There are three full-time staff members based at the MG Car Club’s head office in Abingdon.

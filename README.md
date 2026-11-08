@@ -5,6 +5,8 @@ A from-scratch GPT trained on classic MG forum posts, served from AWS Lambda
 behind a WebSocket-based chat UI. Built for learning — every line is meant to
 be read and understood. Live at **https://mg-gpt.desforgeslabs.com**.
 
+**Project write-up:** [WRITEUP.md](WRITEUP.md) — what broke, what was measured, what didn't help.
+
 ## What this is
 
 The end-to-end stack:
@@ -41,6 +43,9 @@ mg-llm/
 │   ├── corpus_pistonheads_clean/← PII-redacted PH corpus
 │   ├── corpus_pistonheads_qa/   ← reformatted as USER:/ASSISTANT: dialogue
 │   ├── corpus_synth_qa/         ← LLM case-study synthesis (Phase 2)
+│   ├── corpus_synth_qa_extra/   ← second-pass Q&A from the same threads (train-only)
+│   ├── corpus_wikipedia_mg/     ← MG Wikipedia articles, CC BY-SA 4.0 (manifest.json = attribution)
+│   ├── corpus_wikipedia_qa/     ← grounded Q&A from those articles (train-only)
 │   ├── _archive_mgexp/          ← v5-era mgexp corpus + scrapers (withdrawn)
 │   ├── scrape_forums.py         ← generic forum-scraper engine
 │   ├── scrape_pistonheads.py    ← PH-specific scraper (robots.txt-aware)
@@ -48,26 +53,32 @@ mg-llm/
 │   ├── strip_pii.py             ← regex-based PII redaction (Macie-style)
 │   ├── format_qa.py             ← turn forum posts into Q&A pairs
 │   ├── synthesize_qa.py         ← LLM extracts case-study Q&A (Qwen / Claude)
-│   └── prepare.py               ← tokenise to train.bin / val.bin
+│   ├── prepare.py               ← tokenise MG corpus → train.bin / val.bin (split by thread; also adds the train-only extra dirs)
+│   ├── prepare_pretrain.py      ← stream a general-English pretraining set from Common Pile (license-filtered)
+│   ├── fetch_wikipedia_mg.py    ← MG-related Wikipedia articles (CC BY-SA 4.0) with attribution manifest
+│   ├── synthesize_wiki_qa.py    ← grounded Q&A from those articles (local Qwen)
+│   └── synthesize_qa_extra.py   ← second-pass extra Q&A from forum threads (train-only)
 │
 ├── model/
 │   ├── gpt.py                   ← the transformer (~200 lines)
 │   └── config.py                ← nano / small / medium presets
 │
 ├── lambda/
-│   ├── Dockerfile               ← container image for Lambda (currently: stub-only)
-│   ├── handler.py               ← WebSocket handler (currently: takedown stub)
-│   └── requirements.txt         ← boto3 only while stubbed; torch+ when v6 ready
+│   ├── Dockerfile               ← container image for Lambda (model code + ckpt baked in)
+│   ├── handler.py               ← WebSocket handler: personas, generation, reply clean-up
+│   └── requirements.txt         ← torch, tiktoken, numpy
 │
 ├── checkpoints/
 │   └── _archive_v5/             ← v5 training checkpoints (withdrawn)
 │
 ├── terraform/                   ← all AWS + Cloudflare infra as code
-├── frontend/index.html          ← static holding page (Workshop Manual theme)
+├── frontend/index.html          ← chat UI (Workshop Manual theme)
 ├── notebooks/
 │   └── transformer_lens_explore.ipynb  ← load ckpt into TransformerLens; viz attention + logit lens
 ├── deploy.sh                    ← build → push → terraform apply → S3 sync
-├── train.py                     ← training loop with cosine LR, eval, checkpoints
+├── train.py                     ← training loop: cosine LR, early stopping, --init-from for fine-tuning
+├── eval_mg.py                   ← fixed-prompt eval: val loss, empty-reply rate, coherence proxies
+├── judge_mg.py                  ← blind LLM-judge (local Qwen via LM Studio) scoring eval_mg replies 1-5
 └── generate.py                  ← interactive local inference
 ```
 
@@ -103,8 +114,8 @@ python generate.py --prompt "USER: My MGB starts hard in winter.\nASSISTANT: "
 ./deploy.sh
 ```
 
-`deploy.sh` builds the Docker image (with the latest `checkpoints/ckpt_best.pt`
-baked in), pushes to ECR, applies Terraform, force-updates the Lambda function
+`deploy.sh` builds the Docker image (with `checkpoints/ckpt_best.pt`
+baked in; for v7 this is a weights-only copy of `checkpoints/v7_finetune/ckpt_best.pt`), pushes to ECR, applies Terraform, force-updates the Lambda function
 code, uploads the frontend HTML to S3, and invalidates the CloudFront cache.
 See `DEPLOYMENT.md` for the infra deep-dive.
 
@@ -125,7 +136,9 @@ hardcoding it. Train with `--config nano` or `--config small` or whatever else
 — the handler matches automatically. No more shape mismatches at load time.
 
 **Personas.** Three personas (Sunday Driver, Workshop Veteran, Restorer), each
-with a multi-turn priming example block and hand-written opening greetings.
+with hand-written opening greetings. The old multi-turn priming block is no longer
+sent to the model (a plain prompt scored equal or better); it stays in `PERSONAS`
+only so `eval_mg.py` can still compare against it.
 Personas are selected once per session via the WS picker overlay and persist
 in DynamoDB keyed on `connection_id` (15-minute TTL).
 

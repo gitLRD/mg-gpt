@@ -1,0 +1,35 @@
+USER: When was the Austin Metro first launched and when did production end?  
+ASSISTANT: The Austin Metro was first launched in 1980 and production continued until 23 December 1997.
+
+USER: What was the original name of the Metro when it was first sold?  
+ASSISTANT: It was originally sold as the Austin Mini Metro, under the Austin brand, before being renamed simply the Metro in 1987.
+
+USER: What engine did the Metro use, and where did it come from?  
+ASSISTANT: The Metro reused the Mini's A-Series engine, which was a key part of its engineering heritage.
+
+USER: Which company designed the Metro after the redesign of the original ADO88 project?  
+ASSISTANT: The Metro's definitive design emerged under the leadership of BL's chief stylists, David Bache and Harris Mann.
+
+USER: How many Metros of all types were built during its production run?  
+ASSISTANT: A total of 2,078,218 Metros of all types were built between 1980 and 1997.
+
+USER: What was the name of the Metro when it was sold abroad after the 1990 redesign?  
+ASSISTANT: After the 1990 redesign, the Metro was sold abroad as the Rover 100.
+
+USER: When did the Austin Metro first come out?  
+ASSISTANT: The Austin Metro was introduced on 8 October 1980.
+
+USER: What were the engine options for the original Metro?  
+ASSISTANT: The original Mk.1 Metro came with a choice of 998cc (1.0 litre) or 1275cc (1.3-litre) petrol engines.
+
+USER: Was the Metro available as a saloon model?  
+ASSISTANT: No, a two-door saloon version was considered during development but was ultimately not produced.
+
+USER: What was unique about the Metro's interior design?  
+ASSISTANT: The Metro featured a space-efficient interior with a standard 60/40 split rear seat on higher-spec models.
+
+USER: Who designed the Metro's dashboard?  
+ASSISTANT: The Metro's dashboard was designed by David Bache, featuring a symmetric layout used on the Range Rover and Rover SD1.
+
+USER: How did the Metro's brakes differ from the Mini's at the time?  
+ASSISTANT: The Metro had servo-assisted four-piston front disc brakes with fully split hydraulic systems, while the Mini still had drum brakes all-round.

@@ -1,0 +1,17 @@
+USER: What year was the MG R-type made?  
+ASSISTANT: The MG R-type was produced in 1935. It was designed for competition use and was a development of the Q-type.
+
+USER: What engine did the MG R-type use?  
+ASSISTANT: The R-type used a tuned short-stroke (73 mm) version of the overhead camshaft engine from the 1928 Morris Minor and Wolseley 10. It was further modified and fitted with a Zoller supercharger, producing 110 bhp at 7200 rpm.
+
+USER: Was the MG R-type offered to the public?  
+ASSISTANT: Yes, the MG R-type was offered to the public at £750. The first ten were sold to pre-selected customers, and a further batch was planned but never produced.
+
+USER: What kind of chassis did the MG R-type have?  
+ASSISTANT: The R-type featured a revolutionary Y-shaped steel chassis with a backbone that split around the engine and gearbox. It was very light and supported independent suspension all round.
+
+USER: What was unique about the suspension on the MG R-type?  
+ASSISTANT: The R-type had independent suspension all round, which was a first for MG and possibly the British motor industry. It used wishbones and longitudinal torsion bars to allow large wheel travel.
+
+USER: How many R-type cars were made?  
+ASSISTANT: The first ten R-type cars were built and sold to pre-selected customers. A further batch was planned but never produced. Only a few of the original cars survive today.

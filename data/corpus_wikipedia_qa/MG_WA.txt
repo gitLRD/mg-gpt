@@ -1,0 +1,17 @@
+USER: What years was the MG WA produced?  
+ASSISTANT: The MG WA was produced between 1938 and 1939.
+
+USER: Was the MG WA the largest MG ever built at the time?  
+ASSISTANT: Yes, the MG WA was the largest and heaviest car MG had built up to that point.
+
+USER: What engine did the MG WA use?  
+ASSISTANT: The MG WA used a tuned version of the six-cylinder Morris QPHG engine, enlarged to 2561 cc.
+
+USER: How was the MG WA's braking system operated?  
+ASSISTANT: The MG WA had 14-inch drum brakes that were hydraulically operated using a Lockheed system.
+
+USER: What were the different body styles available for the MG WA?  
+ASSISTANT: The MG WA was available as a saloon, a Tickford drophead coupé, a four-door tourer, and some chassis were sent to other coachbuilders like Kellner and Reinbolt.
+
+USER: What was the price of the MG WA saloon?  
+ASSISTANT: The MG WA saloon was priced at GBP442.

@@ -1,0 +1,17 @@
+USER: When was the MG M-type produced?  
+ASSISTANT: The MG M-type was produced from April 1929 until 1932.
+
+USER: What was the M-type sometimes called?  
+ASSISTANT: The M-type was sometimes referred to as the 8/33.
+
+USER: Where was the M-type built before 1930?  
+ASSISTANT: Early M-types were built in the Cowley factory before production moved to Abingdon in 1930.
+
+USER: What engine did the M-type have?  
+ASSISTANT: The M-type used an updated version of the four-cylinder bevel-gear driven overhead camshaft engine from the 1928 Morris Minor, with a single SU carburettor producing 20 bhp at 4000 rpm.
+
+USER: What changes were made to the M-type in 1930?  
+ASSISTANT: In 1930, the M-type received a full Bowden cable brake system, a four-speed gearbox became optional, and the doors became front-hinged. Engine output increased to 27 bhp.
+
+USER: What body styles were available for the M-type?  
+ASSISTANT: The M-type was available as an open two-seat sports car or a closed two-door "Sportsmans" coupé. Most had all-metal bodies from 1931, though early ones were fabric-covered with a wood frame.

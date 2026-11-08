@@ -1,0 +1,17 @@
+USER: What was the MG VA's engine like?  
+ASSISTANT: The MG VA used a tuned version of the Morris TPBG four-cylinder engine, with a push-rod, overhead valve design. It had twin SU carburettors and produced 54 bhp at 4500 rpm. The engine was also used in the Wolseley 12/48 and Morris Twelve series III.
+
+USER: When was the MG VA produced?  
+ASSISTANT: The MG VA was produced between February 1937 and September 1939. Production ended with the outbreak of World War II in 1939.
+
+USER: What were the different body styles available for the MG VA?  
+ASSISTANT: The MG VA was available as a four-door saloon, a two-door open four-seater tourer, or a Tickford drophead coupé. The saloon was the most common, while the tourer and coupé were less common.
+
+USER: How many MG VA tourers and coupés were made?  
+ASSISTANT: A total of 564 MG VA tourers and 591 coupés were produced. The saloon version was more common, with the other body styles being less common.
+
+USER: Did the MG VA have any special versions for police use?  
+ASSISTANT: Yes, a special police version was made with a 1707 cc engine and a calibrated speedometer. This version was based on the standard VA but modified for official use.
+
+USER: What was the top speed of the MG VA with the windscreen down?  
+ASSISTANT: When the windscreen was folded down, the MG VA could reach nearly 82 mph (132 km/h). With the windscreen up, the top speed was just over 76 mph (122 km/h).

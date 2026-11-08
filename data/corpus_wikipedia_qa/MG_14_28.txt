@@ -1,0 +1,17 @@
+USER: What year was the MG 14/28 Super Sports launched?  
+ASSISTANT: The MG 14/28 Super Sports was launched in 1924. It was the second line of cars produced by W R Morris's MG company, following the earlier Morris Oxfords.
+
+USER: How many MG 14/28 cars were built before it was replaced?  
+ASSISTANT: Approximately 400 MG 14/28 cars were built before the model was replaced by the 14/40 in 1927.
+
+USER: What engine was used in the MG 14/28?  
+ASSISTANT: The MG 14/28 used a 1548cc engine based on the Morris Oxford chassis. It was mildly tuned and paired with a Solex carburettor in the later versions.
+
+USER: When did the MG 14/28 get front wheel brakes?  
+ASSISTANT: Front wheel brakes were fitted to the MG 14/28 from late 1924, improving its braking performance.
+
+USER: What changes were made to the MG 14/28 in 1926?  
+ASSISTANT: In late 1926, the Morris Oxford dropped its Bullnose radiator for a flat one and widened the chassis, requiring a body redesign. The MG 14/28 received a re-designed body by H. N. Charles, along with improved braking and suspension, and a Solex carburettor replaced the SU.
+
+USER: What were the body styles available for the MG 14/28?  
+ASSISTANT: The MG 14/28 was initially offered with an aluminium-panelled body in two colours. In 1926, a fabric-bodied saloon model was added to the range.

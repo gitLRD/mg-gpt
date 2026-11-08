@@ -1,0 +1,35 @@
+USER: What years was the MG TF produced?  
+ASSISTANT: The MG TF was produced from 2002 to 2005.
+
+USER: When did the MG ZR go out of production?  
+ASSISTANT: The MG ZR was produced from 2001 to 2005.
+
+USER: Which MG models were made between 1982 and 1990?  
+ASSISTANT: The MG Metro was produced between 1982 and 1990.
+
+USER: What years was the MG 1300 made?  
+ASSISTANT: The MG 1300 was produced from 1967 to 1973.
+
+USER: Was the MG Midget made in the 1960s?  
+ASSISTANT: Yes, the MG Midget was produced from 1961 to 1979, which includes the 1960s.
+
+USER: What MG models were produced in the 1990s?  
+ASSISTANT: The MG Metro was produced from 1982 to 1990, and the MG Montego was made from 1985 to 1991. The MG Maestro was produced from 1983 to 1991. The MG Magnette Mk. IV was made from 1961 to 1968. The MG Y-type was produced from 1947 to 1953. The MG T-type Midget was made from 1936 to 1940 and again from 1945 to 1955. The MG VA was produced from 1936 to 1939. The MG SA was produced from 1935 to 1939. The MG P-type Midget was made from 1934 to 1936. The MG N-type Magnette was produced from 1934 to 1936. The MG L-type Magna was made from 1933 to 1934. The MG K-type Magnette was produced from 1932 to 1934. The MG J-type Midget was made from 1932 to 1934. The MG F-type Magna was produced from 1931 to 1932. The MG D-type Midget was made from 1931 to 1932. The MG C-type Midget was produced from 1931 to 1932. The MG M-type Midget was made from 1929 to 1932. The MG 18/80 was produced from 1928 to 1933. The MG 14/40 was made from 1927 to 1929. The MG 14/28 was produced from 1924 to 1927. The MG WA saloon, tourer and drop-head coupé was made from 1938 to 1939. The MG VA saloon, tourer and drop-head coupé was produced from 1936 to 1939. The MG SA saloon, tourer and drop-head coupé was made from 1935 to 1939. The MG T-type Midget was produced from 1936 to 1940 and again from 1945 to 1955. The MG P-type Midget was produced from 1934 to 1936. The MG N-type Magnette was produced from 1934 to 1936. The MG L-type Magna was made from 1933 to 1934. The MG K-type Magnette was produced from 1932 to 1934. The MG J-type Midget was made from 1932 to 1934. The MG F-type Magna was produced from 1931 to 1932. The MG D-type Midget was made from 1931 to 1932. The MG C-type Midget was produced from 1931 to 1932. The MG M-type Midget was made from 1929 to 1932. The MG 18/80 was produced from 1928 to 1933. The MG 14/40 was made from 1927 to 1929. The MG 14/28 was produced from 1924 to 1927. The MG WA saloon, tourer and drop-head coupé was made from 1938 to 1939. The MG VA saloon, tourer and drop-head coupé was produced from 1936 to 1939. The MG SA saloon, tourer and drop-head coupé was made from 1935 to 1939. The MG T-type Midget was produced from 1936 to 1940 and again from 1945 to 1955. The MG P-type Midget was produced from 1934 to 1936. The MG N-type Magnette was produced from 1934 to 1936. The MG L-type Magna was made from 1933 to 1934. The MG K-type Magnette was produced from 1932 to 1934. The MG J-type Midget was made from 1932 to 1934. The MG F-type Magna was produced from 1931 to 1932. The MG D-type Midget was made from 1931 to 1932. The MG C-type Midget was produced from 1931 to 1932. The MG M-type Midget was made from 1929 to 1932. The MG 18/80 was produced from 1928 to 1933. The MG 14/40 was made from 1927 to 1929. The MG 14/28 was produced from 1924 to 1927. The MG WA saloon, tourer and drop-head coupé was made from 1938 to 1939. The MG VA saloon, tourer and drop-head coupé was produced from 1936 to 1939. The MG SA saloon, tourer and drop-head coupé was made from 1935 to 1939. The
+
+USER: What year was the MG Midget concept based on the AR6 released?  
+ASSISTANT: The MG Midget concept based on the AR6 was released in 1983.
+
+USER: When was the MG EX-E sports car concept introduced, and what model was it based on?  
+ASSISTANT: The MG EX-E was introduced in 1985 and was based on the Metro 6R4.
+
+USER: Which MG concept was cancelled due to its conservative styling and replaced by the XPower SV?  
+ASSISTANT: The MG X80 concept was cancelled because the styling was too conservative and was replaced by the XPower SV.
+
+USER: What happened to the MG X120 concept trio, and when was it cancelled?  
+ASSISTANT: The MG X120 concept trio was cancelled in 2005 when MG Rover went bankrupt.
+
+USER: Was the MG GT Concept ever produced, and what model was it based on?  
+ASSISTANT: The MG GT Concept was never produced and was based on the TF.
+
+USER: What model did the MG Zero concept preview, and when was it unveiled?  
+ASSISTANT: The MG Zero concept previewed the second-generation MG3 and was unveiled at the 2010 Beijing Auto Show.

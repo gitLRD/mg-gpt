@@ -1,0 +1,10 @@
+MG-GPT initialised: 51.48M parameters
+ckpt checkpoints/v7_finetune/ckpt_best.pt: 8L/512D block=1024 iter=3750 best_val=3.6892166137695312 device=mps
+
+[bare] n=30  empty=0%  [TAG] leak=0%  keyword-hit=95%  mean words=70  repeated-trigram=0.02
+
+[handler_nospace] n=30  empty=0%  [TAG] leak=0%  keyword-hit=90%  mean words=61  repeated-trigram=0.01
+
+[short_nospace] n=30  empty=0%  [TAG] leak=0%  keyword-hit=80%  mean words=56  repeated-trigram=0.00
+
+raw generations -> eval_runs/priming_sunday_driver_s0.jsonl

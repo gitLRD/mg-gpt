@@ -1,0 +1,150 @@
+Rover K-series engine
+
+The Rover K-series engine is a series of internal combustion engines built by Powertrain Ltd, a sister company of MG Rover. The engine was a straight-four cylinder built in two forms, SOHC and DOHC, ranging from 1.1 to 1.8 L (1,113 to 1,796 cc; 67.9 to 109.6 cu in).
+
+== Design history ==
+
+The K series was introduced in 1988 by Rover Group as a powerplant for the Rover 200 car. It was the second volume-production implementation of the low-pressure sand-casting (or LPS) technique in a new plant sited between East Works and Cofton Hackett. (The first volume application of the LPS process had been for the M-16 cylinder head, produced in South Works, adjacent to the former forge). The LPS process pumped liquid aluminium into a chemically-bonded sand mould from below. This reduced oxide inclusions and gave a casting yield of around 90%, compared with 60% for more conventional gravity casting processes. The process avoided many of the inherent problems of casting aluminium components and consequently permitted lower casting wall thickness and higher strength-to-weight ratios. However, the process required the use of heat-treated LM25 material which gave the engines a reputation for being fragile. An engine overheat would often result in the material becoming annealed and rendering the components scrap. The layout of the engine bay on some Rover cars fitted with K-series engines – particularly the MGF with its mid-engined layout – means that a commonly-occurring coolant leak under the inlet manifold can go undetected until severe damage has been done to the head. The aluminium engine blocks were fitted with spun-cast iron cylinder liners that were initially manufactured by GKN's Sheepbridge Stokes of Chesterfield, but these were replaced by liners made by Goetze. Unfortunately a large number of aftermarket engines, the so-called "VHPDs", were built with the old substandard GKN liners by Minister, Lotus and PTP well after the introduction of the Goetze liners to production in 2000.
+The engine was introduced initially in 1.1-litre single overhead cam and 1.4-litre dual overhead cam versions. Because Honda stopped providing Rover with engines after the end of their relationship, but well before the BMW takeover, an enlargement of the K Series design to 1.6 and 1.8 litres was carried out. This was done by using larger diameter cylinder liners and also increasing the stroke. The change required a block redesign with the removal of the cylinder block's top deck and a change from "wet" liners to "damp" liners. The plastic throttle body fitted to the engine until 2001 was manufactured by the SU Carburettor company. They also included aluminium and larger sized bodies.
+The four-cylinder engines were held together as a sandwich of components by long through-bolts which held the engine under compression, though this construction is not unknown, and was used in early lightweight fighter engines from the First World War. It had also been used in motorcycle engines and Triumph's "Sabrina" Le Mans race engine.
+The two types of head that were bolted to the common four-cylinder block were designated K8 (8 valves) and K16 (16 valves). A later head design also incorporated a Rover-designed Variable Valve Control (VVC) unit (derived from an expired AP patent). This allowed more power to be developed without compromising low-speed torque and flexibility. The VVC system constantly alters the inlet cam period, resulting in a remarkably flexible drive: the torque curve of a VVC K-series engine is virtually flat throughout the rev range and power climbs steadily with no fall-off whatsoever until the rev limiter kicks in at 7,200 rpm.
+Following the collapse of MG Rover Group in 2005, the K Series engine started a new and rather interesting chapter in its history. Two separate re-developments of the engine were taking place by at the time two rival Chinese car firms.
+The Chinese automaker Nanjing Automobile (NAC) purchased the assets of MG Rover and in doing so acquired use of the Longbridge plant and the intellectual property rights and production tooling to many designs, including those of the K series engine.
+With the help of Lotus Engineering, NAC went on to produce the N Series an improved version of the K Series with redesigned headgasket and oil rail built on the original tooling.
+This engine featured in the relaunched MG TF in the UK and the MG3 SW and MG7 in China. Contrary to popular belief, the N Series was never fitted to the MG 6.
+When the MG TF ceased production for the final time in 2011, so did the N Series.
+The second development was by the larger Chinese conglomerate SAIC Motor. SAIC had also previously purchased the rights and blueprints to several of MG Rovers designs. Whilst they had the necessary know-how they didn't have any tooling so had to essentially reverse engineer their version of the engine.
+The advantage of this was it allowed Ricardo 2010, the company tasked by SAIC to carry out development the opportunity to improve the engine in a number of areas.
+The main areas of improvement included the head being redesigned to improve the waterways and structural rigidity and the block was also strengthened.
+All new tooling was used in its production and the quality of materials and that of the aluminium casting process created a much more substantial update than that of the N Series.
+This new engine would go on to power the Roewe 750, the Roewe 550 and later after the two firms NAC and SAIC merged, The MG 6.
+
+== Engine management ==
+
+=== K8 engine ===
+Early K8 engines used a single SU KIF carburetor with a manual choke and a breaker-less distributor mounted on the end of the camshaft. MEMS Single-point injection became standard with the launch of the Rover 100 in 1994.
+
+=== K16 ===
+K16 models used MEMS, with a 1.6 ECU from 1990 until 1994 and a 1.9 ECU from 1995 onwards, in either Single Point or Multi Point forms, with a single coil on the back of the engine block and a distributor cap and rotor arm on the end of the inlet camshaft. MEMS 2J was used on the VVC engine, to control the Variable Valve Control and the Distributorless Ignition System, which was used because there were camshaft drive belts at both ends of the engine. With the launch of the Rover 25 and Rover 45 in 1999, MEMS 3 was introduced, with twin coils and sequential injection.
+
+== Model range ==
+
+=== 1100 ===
+
+All 1100 engines displace 1.1 L (1,113 cc; 67.9 cu in) with bore × stroke of 75 mm × 63 mm. Four variations were created:
+
+SOHC K8 8-valve, Carburettor, 60 PS (44 kW; 59 hp)
+SOHC K8 8-valve, SPI, 60 PS (44 kW; 59 hp)
+SOHC K8 8-valve, MPI, 60 PS (44 kW; 59 hp)
+DOHC K16 16-valve, MPI, 75 PS (55 kW; 74 hp)
+Cars that came with the 1100:
+
+Rover Metro
+Rover 100
+Rover 200
+Rover 25
+
+=== 1400 ===
+
+Engine Codes: 14K2F (8V), 14K4F (16V), 14K16 (16V)?
+All 1400 engines displace 1.4 L (1,396 cc; 85.2 cu in) with bore × stroke of 75 mm × 79 mm (2.95 in × 3.11 in) and have DOHC, 16 valves and MPI. Six variations were created:
+
+SOHC K8 8-valve, Carburettor, 75 PS (55 kW; 74 hp)
+SOHC K8 8-valve, SPI, 75 PS (55 kW; 74 hp)
+SOHC K8 8-valve, MPI, 75 PS (55 kW; 74 hp)
+DOHC K16 16-valve, SPI, 90 PS (66 kW; 89 hp)
+DOHC K16 16-valve, MPI, 83 PS (61 kW; 82 hp)
+DOHC K16 16-valve, MPI, 103 PS (76 kW; 102 hp)
+The K16 82 hp (61 kW; 83 PS) variant is exactly the same as the 103 PS (76 kW; 102 hp) version, apart from a restrictive throttle body designed to lower the car's insurance group. This can be converted to the 103 hp (77 kW) model by changing to the unrestricted throttle body of a 103 engine. The 90 PS (66 kW; 89 hp) Spi features single-point fuel injection rather than the multi-point of the later engine.
+Cars that came with the 1400:
+
+Rover Metro
+Rover 100
+Caterham 7
+Rover 200
+Rover 25
+Rover 400
+Rover 45
+Rover Streetwise
+MG ZR
+MG ZS – Ireland and Portugal only
+Caterham Seven
+GTM Libra
+GTM K3
+FSO Polonez Caro/Atu
+Reliant Scimitar Sabre
+
+=== 1600 ===
+Engine Code: 16K4F
+All 1600 engines displace 1.6 L (1,588 cc; 96.9 cu in) with bore × stroke of 80 mm × 79 mm (3.15 in × 3.11 in) and have DOHC, 16 valves and MPI. Two variations were created:
+
+109 PS (80 kW; 108 hp)
+111 PS (82 kW; 109 hp)
+Cars that came with the 1600:
+
+Rover 200
+Rover 25
+Rover Streetwise
+Rover 400
+Rover 45
+MG ZS
+MG F
+MG TF
+Caterham Seven
+Caterham 21
+
+=== 1800 ===
+
+Engine Codes: 18K4F (16V non-VVC), 18K4K (VVC variants)
+The 1.8 engine is the largest the engine displaces. All 1800 engines displace 1.8 L (1,796 cc; 109.6 cu in) with bore × stroke of 80 mm × 89.3 mm (3.15 in × 3.52 in) DOHC 4 valves per cylinder and MPI.
+Non-VVC N/A (18K4F):
+The base engine makes 118 bhp (120 PS; 88 kW) at 5600 rpm and 124 lb⋅ft (168 N⋅m) at 3500 rpm of torque or in slightly tuned at 136 PS (100 kW; 134 hp) at 6750 rpm/ 165 N⋅m (122 lb⋅ft) at 3000 rpm
+
+Rover 200 / 25
+Rover 400 / 45
+Rover 75
+Rover Streetwise
+MG ZR
+MG ZS (2001)
+MG ZT
+MG F / MG TF
+Land Rover Freelander
+Caterham 7
+Caterham 21
+Lotus Elise
+Non-VVC Turbocharged (18K4F T):
+The 1.8 Turbo was developed to replace the 2.0 Rover KV6 engine due to emissions and fuel economy, the engine is turbocharged and made 150 to 160 PS (110 to 118 kW; 148 to 158 hp) And 215 N⋅m (159 lb⋅ft) of torque
+
+2002–2005 Rover 75
+2002–2005 MG ZT
+VVC (18K4K):
+The VVC engine came in three variants:
+The early VVC produced 143 hp (107 kW; 145 PS) at 7000 rpm / 174 N⋅m (128 lb⋅ft) at 4500 rpm
+
+Rover 200 / 25
+Rover 200 Coupé
+MG F / MG TF
+Caterham 7
+Caterham 21
+Lotus Elise
+Rover later tuned the VVC to produce 158 hp (118 kW; 160 PS) at 7000 rpm / 174 N⋅m (128 lb⋅ft) at 4700 rpm
+
+MG ZR
+MG ZS (2001)
+MG ZT
+MG F / MG TF
+Caterham 7
+Caterham 21
+Lotus Elise
+VHPD – Very-high-performance derivative, 177 or 192 PS (130 or 141 kW; 175 or 189 hp) (Lotus version) (Uses VVC unique cylinder head casting (similar to VVC casting), has big valves, but with fixed cam timing – No development input was requested from Rover).
+
+Lotus Elise
+Lotus Exige
+Lotus 340R
+Caterham 7
+Caterham 21
+Ariel Atom
+
+== Kavachi engine ==
+
+The SAIC Kavachi engine is an extensively improved version of the Rover K series, using a different turbo and gearbox, improved head gasket and strengthened block. UK engineering firm Ricardo plc, expert in race engine designs, was commissioned to not only redesign the engine but also the manufacturing process to produce what is now a very reliable engine. It is only available in 1.8 L (1,796 cc; 109.6 cu in) version.

@@ -1,0 +1,28 @@
+MGS6 EV
+
+The MGS6 EV is a battery electric mid-size CUV (D-segment) produced by the Chinese automotive manufacturer SAIC Motor under the British MG marque since 2025.
+
+== Overview ==
+The S6 EV was unintentionally revealed by Euro NCAP crash test photos in October 2025.
+It is a mid-size electric crossover SUV that competes with cars such as the Hyundai Ioniq 5, Škoda Enyaq, Volkswagen ID.4, Renault Scenic E-Tech, and Nissan Ariya. It uses the same Modular Scalable Platform that underpins the MG4 and the MGS5 EV. Its model code is IS3EM or ES39.
+The S6 EV is related to the SAIC H5 at its core structure. However the design language, interior, and powertrain are all unique to the S6 EV. It is the fourth MG model to use the MSP platform after the S5 EV, the MG4, and the MG Cyberster.
+
+=== Design and features ===
+The interior of the S6 EV uses a 12.8-inch central touchscreen and a 10.25-inch digital dashboard. Wireless Apple CarPlay and Android Auto comes standard. Cooled wireless phone chargers are available on higher models. Physical buttons for the volume and climate control are placed below the central touchscreen. The grille of the S6 EV is inspired by the one used by the Cyberster, daytime running lights, and a polished silver MG badge at the front. The headlights are also inspired by that of the Cyberster.
+
+== Powertrain and chassis ==
+The S6 EV is available in both rear-wheel-drive and all-wheel-drive forms. Rear-wheel-drive models produce 241 horsepower and 258 pound-feet of torque. All-wheel-drive models produce 356 horsepower and 398 pound-feet of torque. Regardless of layout, all S6 EVs use a 77 kWh nickel-manganese cobalt battery. Rear-wheel drive models get a range of 530 kilometres (329 mi). All-wheel-drive models get a range of 485 kilometres (301 mi).
+The MacPherson struts are used for the front suspension.  A multilink setup is used for the rear.
+
+== Markets ==
+
+=== Australia ===
+The S6 EV was launched in Australia on 25 May 2026, in the sole Essence variant using the 77 kWh battery pack.
+
+=== Europe ===
+The United Kingdom was the first market to receive the S6 EV. The available variants were: SE Long Range, Trophy Long Range, and the Trophy Dual Motor. It went on sale in the United Kingdom in November 2025, following several other electric models including the MG ZS EV, MG4, MG5 and the MG IM5 and MG IM6, both of which are rebadged models from IM Motors.
+
+=== Singapore ===
+The S6 was launched in Singapore on 8 January 2026 by Eurokars EV, in the sole Luxury variant using the 77 kWh battery pack. The motors were specifically tuned to 109 kW (146 hp; 148 PS) eligible for the cheaper Category A Certificate of Entitlement (COE) bracket.
+
+== Safety ==

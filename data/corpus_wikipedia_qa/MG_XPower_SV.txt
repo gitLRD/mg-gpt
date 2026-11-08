@@ -1,0 +1,35 @@
+USER: How many MG XPower SVs were produced in total?
+ASSISTANT: Approximately 82 MG XPower SVs were produced, not including the four pre-production prototypes. This number includes the few pre-production and show cars that were later dismantled before production stopped.
+
+USER: What engine does the base MG XPower SV have?
+ASSISTANT: The base MG XPower SV is powered by a 4.6 L Ford Modular V8 engine that produces 320 horsepower at 6,000 rpm and 410 N⋅m of torque at 4,750 rpm.
+
+USER: When was the MG XPower SV launched?
+ASSISTANT: The MG XPower SV was launched in 2002, following the unveiling of the concept car in June 2001. The production model featured a more aggressive design by Peter Stevens.
+
+USER: What is the top speed of the MG XPower SV-R?
+ASSISTANT: The MG XPower SV-R has an estimated top speed of around 175 mph (282 km/h), with a 0 to 60 mph time of close to 4.9 seconds.
+
+USER: Which company was responsible for converting the clay model to a production car?
+ASSISTANT: The Swedish company Caran was responsible for converting the clay model to a production car in just three hundred days.
+
+USER: What transmission options were available for the MG XPower SV-R?
+ASSISTANT: The MG XPower SV-R offered a choice of either manual or automatic transmissions, unlike the base model SV which only had a manual option.
+
+USER: What happened to the MG XPower SV after MG Rover went into administration?  
+ASSISTANT: After MG Rover went into administration, William Riley bought the XPower SV assets in July 2008 and relaunched the model as the MG XPower WR through his company MG Sports and Racing Europe.
+
+USER: How many XPower WR cars were sold when it was relaunched?  
+ASSISTANT: Seven XPower WR cars were said to have been sold after the relaunch in April 2008.
+
+USER: What was the price range for the relaunched MG XPower WR?  
+ASSISTANT: The relaunched MG XPower WR was priced between £75,000 and £90,000.
+
+USER: What engine did the MG XPower WR have and how much power did it produce?  
+ASSISTANT: The MG XPower WR had a supercharged engine rated at 540 bhp (403 kW; 547 PS).
+
+USER: Who challenged Riley's right to use the MG trademark for the XPower WR?  
+ASSISTANT: Nanjing Automobile (Group) Corporation challenged Riley's use of the MG trademark, and they won the legal dispute in February 2010.
+
+USER: Were any new XPower WR cars made after the company was founded?  
+ASSISTANT: It was reported in December 2009 that no new cars had been manufactured by MG Sports and Racing Europe since its founding.

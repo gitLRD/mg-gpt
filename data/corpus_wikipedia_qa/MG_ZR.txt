@@ -1,0 +1,35 @@
+USER: How long was the MG ZR produced for?  
+ASSISTANT: The MG ZR was produced from 2001 to 2005, making it a five-year model run. It was built at the Longbridge plant in Birmingham before production ended in April 2005.
+
+USER: What engine did the MG ZR 105 have and how much power did it make?  
+ASSISTANT: The MG ZR 105 came with a 1.4 L K series engine that produced 102 bhp (76 kW; 103 PS) and 123 N⋅m (91 lb⋅ft) of torque. It could reach 0–60 mph in 9.7 seconds with a top speed of 111 mph (179 km/h).
+
+USER: What were the key changes made to the MG ZR in the 2004 facelift?  
+ASSISTANT: In January 2004, the MG ZR received a facelift with a new front and rear bumper, headlights, tailgate, and other exterior updates. The interior was also revised with a new dashboard, soft touch buttons, and updated seat materials. The Trophy and Trophy SE models were introduced, offering features like sunroofs and different alloy wheels.
+
+USER: What were the differences between the ZR 120 and ZR 160 in terms of braking systems?  
+ASSISTANT: The ZR 120 had vented 262mm front discs and 239mm solid rear discs, while the ZR 160 featured even larger brakes: 282mm vented front discs and 260mm solid rear discs. This more advanced setup matched the higher performance of the VVC engine in the ZR 160.
+
+USER: How many MG Express vans were made?  
+ASSISTANT: A total of 317 MG Express vans were produced. These were based on the MG ZR but had a reinforced loadspace floor, a bulkhead instead of rear seats, and bonded panels in place of rear side windows.
+
+USER: What were the two diesel variants of the MG ZR and what power did they produce?  
+ASSISTANT: The two diesel variants were the ZR TD 100 with a 2.0 L Series engine making 99 bhp (74 kW; 100 PS), and the TD 115, which had a slightly tuned version producing 111 bhp (83 kW; 113 PS). The TD 115 also had more torque at 260 N⋅m (192 lb⋅ft).
+
+USER: How many MG ZR 160s were built for the 2003 National Saloon Car Championship?
+ASSISTANT: Two MG ZR 160s were built by MG Sport & Racing to Group N Specification for the 2003 National Saloon Car Championship.
+
+USER: What happened to the MG ZR 160s after they were entered in the National Saloon Car Championship?
+ASSISTANT: After only two events, the cars were modified with dry break refueling systems and entered into the EERC Britcar Endurance Series. They were driven by John Hammersley and Andrew Dunlop, and the team scored maximum points in seven out of eight events.
+
+USER: What engine power did the MG ZR have when John Hammersley and Mark Hammersley won the Series the following year?
+ASSISTANT: The MG ZR had been upgraded to 'works' specification with 190 bhp (142 kW; 193 PS) when John Hammersley and his son Mark won the Series the following year.
+
+USER: When was the MG ZR replaced in the MG lineup after MG Rover collapsed?
+ASSISTANT: The MG ZR was not included when the MG range was relaunched in April 2007 after MG Rover's collapse. It was replaced by the MG3 SW in 2008, which was sold only in the Chinese market.
+
+USER: When did the MG3 enter the United Kingdom market?
+ASSISTANT: The MG3 entered the United Kingdom market in September 2013, after being announced by SAIC in 2010.
+
+USER: What changes were made to the MG3 in 2016?
+ASSISTANT: In 2016, the MG3 received an EU 6 derivative of the standard 1.5-litre engine, a start-stop system was fitted, and two-tone colour schemes were offered as options.
