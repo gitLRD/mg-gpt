@@ -5,6 +5,8 @@ A from-scratch GPT trained on classic MG forum posts, served from AWS Lambda
 behind a WebSocket-based chat UI. Built for learning — every line is meant to
 be read and understood. Live at **https://mg-gpt.desforgeslabs.com**.
 
+**Project write-up:** [WRITEUP.md](WRITEUP.md) — what broke, what was measured, what didn't help.
+
 ## What this is
 
 The end-to-end stack:
