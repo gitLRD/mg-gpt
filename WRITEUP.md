@@ -1,10 +1,22 @@
 # MG-GPT: what I learned making a tiny from-scratch LLM less wrong
 
-A 51M-parameter GPT trained from scratch on classic-MG forum text, served live
+I'm a classic MG owner, and I use LLMs to do research quickly in the background.
+I wanted to build my own, and it seemed fitting to make one that can only talk about
+classic MGs, like the owner who can't stop talking about theirs.
+
+To understand what a given set of hardware can do, I trained everything on my laptop.
+A model that size also runs on a CPU-only AWS Lambda, so I don't have to keep a GPU server
+running for a small experiment.
+
+The result is a 51M-parameter GPT trained from scratch on classic-MG forum text, served live
 at https://mg-gpt.desforgeslabs.com from an AWS Lambda (CPU only). This note
 covers the v7 round of work (Nov 2026): what was broken, what I measured, and
 what did not work. Numbers are small-sample (30 questions, a few seeds); where
 a difference is inside the noise I say so.
+
+The model code is plain PyTorch, which I wrote following the GPT-2 architecture with
+Karpathy's nanoGPT as a reference. The one part I borrowed is the tokeniser, tiktoken's
+GPT-2 BPE vocabulary. I trained the weights from scratch.
 
 ## Summary
 
@@ -15,6 +27,9 @@ a difference is inside the noise I say so.
   training on MG alone** (val loss 3.69 vs 4.26 on identical held-out threads).
 - Three follow-ups (more MG data, longer pretraining, removing the persona
   priming block) produced **no reliable gain**. v7 stayed live.
+- I checked the judges by scoring 30 answers by hand. Their averages match mine
+  (2.40 by hand, 2.43 and 2.53 for the judges), but they rank individual answers
+  poorly (rank correlation 0.34 to 0.45).
 - The model still states MG facts confidently and wrongly. It is fluent, not
   knowledgeable: 51M parameters and 2.4M tokens of MG text are the limit.
 
@@ -31,12 +46,13 @@ Lesson: if val loss looks too good, check what val actually contains.
 
 ## 2. Empty live replies: a trailing space
 
-The live bot returned empty replies about 67% of the time. I extracted the
+The live bot returned empty replies about two-thirds of the time. I extracted the
 checkpoint from the deployed image and reproduced it locally. The handler
 ended the prompt with `"ASSISTANT: "` (trailing space). GPT-2 BPE normally
 fuses the space onto the next word (` The`), so a prompt ending in a bare space
-token puts the model in a spot it almost never saw in training. Dropping the
-space took empty replies from 67% to 0% on the same checkpoint.
+token puts the model in a spot it almost never saw in training. On the v6 checkpoint, 13 of 20
+prompts came back empty with the space and 0 of 30 without it. Same weights, one
+character.
 
 ## 3. Pretrain, then fine-tune
 
@@ -78,8 +94,14 @@ early stopping), not something I tested.
 
 - n = 30 questions per cell and a ~0.2 seed-to-seed swing: only gaps larger
   than that mean anything.
-- LLM-as-judge is crude and the judges are small local models. They agree with
-  each other, which helps, but neither is checked against a human.
+- LLM-as-judge is crude and the judges are small local models. I checked them
+  against my own blind scores for 30 answers from the live model (seed 0,
+  handler prompt, same rubric). Their means are close to mine (me 2.40,
+  qwen3-vl-30b 2.43, qwen3-coder-30b 2.53), so they aren't biased. They are weak
+  on individual answers: exact agreement 33% and 47%, within one point 83% and
+  93%, Spearman rank correlation 0.45 and 0.34. I treat judge scores as a rough
+  average and gaps under about 0.3 as noise. It is one seed and one scorer, and
+  the scorer is me.
 - Synthetic Q&A written by a small model can be confidently wrong; I spot-checked
   a few Wikipedia-grounded pairs (small inconsistencies found) but not the forum ones.
 - The Wikipedia text is CC BY-SA 4.0; `data/corpus_wikipedia_mg/manifest.json`

@@ -439,7 +439,7 @@ python train.py --config medium
 ## Part 13: References
 
 - Original GPT-2 paper: [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
-- Karpathy's minGPT: https://github.com/karpathy/minGPT (inspiration for this code)
+- Karpathy's nanoGPT: https://github.com/karpathy/nanoGPT (inspiration for this code)
 - tiktoken: https://github.com/openai/tiktoken (tokenization library)
 - lxml: https://lxml.de/ (fast XML parsing)
 - PyTorch docs: https://pytorch.org/docs/stable/index.html
