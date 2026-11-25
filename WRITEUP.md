@@ -102,6 +102,11 @@ early stopping), not something I tested.
   93%, Spearman rank correlation 0.45 and 0.34. I treat judge scores as a rough
   average and gaps under about 0.3 as noise. It is one seed and one scorer, and
   the scorer is me.
+- "Classic MG" is the aim, not a strict description. I first trained on the dedicated
+  MG enthusiast forums, then found their `robots.txt` asks AI crawlers not to. I withdrew
+  that model and rebuilt the corpus from PistonHeads, whose `robots.txt` allowed the crawl.
+  About a fifth of the scraped topics (566 of about 2,900) come from its MG Rover-era
+  sub-forum.
 - Synthetic Q&A written by a small model can be confidently wrong; I spot-checked
   a few Wikipedia-grounded pairs (small inconsistencies found) but not the forum ones.
 - The Wikipedia text is CC BY-SA 4.0; `data/corpus_wikipedia_mg/manifest.json`
