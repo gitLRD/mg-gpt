@@ -1,42 +1,54 @@
-# MG-GPT 🚗
-### A tiny transformer trained on classic MG knowledge, deployed as a live chatbot
+# MG-GPT
 
-A from-scratch GPT trained on classic MG forum posts, served from AWS Lambda
-behind a WebSocket-based chat UI. Built for learning — every line is meant to
-be read and understood. Live at **https://mg-gpt.desforgeslabs.com**.
+A small transformer written from scratch, trained on classic MG forum posts and served as a live chatbot from AWS Lambda. Built for learning: every line is meant to be read and understood.
 
-**Project write-up:** [WRITEUP.md](WRITEUP.md) — what broke, what was measured, what didn't help.
+**Live demo:** https://mg-gpt.desforgeslabs.com
+**Case study:** https://desforgeslabs.com/work/mg-gpt.html
+**Write-up:** [WRITEUP.md](WRITEUP.md): what broke, what was measured, what didn't help.
+
+The model has about 51M parameters (the `medium` preset), trained on roughly 2.4M tokens of MG text after pretraining on general English. It is fluent, not knowledgeable: it still states MG facts confidently and wrongly.
 
 ## What this is
 
 The end-to-end stack:
 
-1. **Scrape** the PistonHeads MG (`f=81`) and Rover (`f=54`) sub-forums,
-   `robots.txt`-aware via `urllib.robotparser`
-   (`data/scrape_pistonheads.py`, `data/discover_and_scrape_pistonheads.py`)
+1. **Scrape** the PistonHeads MG (`f=81`) and Rover (`f=54`) sub-forums, `robots.txt`-aware via `urllib.robotparser`. I first used the dedicated MG enthusiast forums, then found their `robots.txt` asks AI crawlers not to, so I withdrew that model and rebuilt the corpus here. About a fifth of the threads are from the Rover sub-forum, so "classic MG" is the aim, not a strict description. (`data/scrape_pistonheads.py`, `data/discover_and_scrape_pistonheads.py`)
 2. **Strip PII** with Macie-style regex redaction (`data/strip_pii.py`)
 3. **Format as Q&A** dialogue so the model learns the chat pattern (`data/format_qa.py`)
-4. **Synthesise case studies** — local Qwen3 (via LM Studio) or Claude reads
-   each thread and extracts symptom-→cause-→fix Q&A pairs (`data/synthesize_qa.py`)
+4. **Synthesise case studies**: local Qwen3 (via LM Studio) or Claude reads each thread and extracts symptom, cause and fix Q&A pairs (`data/synthesize_qa.py`)
 5. **Tokenise** with GPT-2 BPE into a memory-mapped numpy array (`data/prepare.py`)
 6. **Train** a `medium` from-scratch GPT (`model/gpt.py`, `train.py`)
-7. **Deploy** the trained checkpoint to a containerised Lambda behind API Gateway
-   WebSocket + CloudFront + Cloudflare DNS (`lambda/`, `terraform/`, `deploy.sh`)
-8. **Chat** from the frontend at the live URL — three pickable personas
-   (Sunday Driver, Workshop Veteran, Restorer), each opens the conversation
-   with a hand-written greeting (`frontend/index.html`, `lambda/handler.py`)
+7. **Deploy** the trained checkpoint to a containerised Lambda behind API Gateway WebSocket + CloudFront + Cloudflare DNS (`lambda/`, `terraform/`, `deploy.sh`)
+8. **Chat** from the frontend at the live URL: three pickable personas (Sunday Driver, Workshop Veteran, Restorer), each opening the conversation with a hand-written greeting (`frontend/index.html`, `lambda/handler.py`)
 
----
+## Architecture notes worth knowing
+
+**WebSocket 29s timeout workaround.** API Gateway WebSocket integrations are capped at 29 seconds. The Lambda handler splits the request: the WS-triggered invocation does fast bookkeeping (DynamoDB write, "thinking" ack), then async-invokes itself (`InvocationType="Event"`) to run the slow generation. The worker branch posts the response back via `apigatewaymanagementapi`. This avoids needing SQS for ~$0 extra cost.
+
+**Config-from-checkpoint.** `lambda/handler.py` reads the GPT architecture config (block_size, n_layer, n_embd) from the checkpoint itself rather than hardcoding it. Train with `--config nano` or `--config small` or whatever else and the handler matches automatically, with no shape mismatches at load time.
+
+**Personas.** Three personas (Sunday Driver, Workshop Veteran, Restorer), each with hand-written opening greetings. The old multi-turn priming block is no longer sent to the model (a plain prompt scored equal or better); it stays in `PERSONAS` only so `eval_mg.py` can still compare against it. Personas are selected once per session via the WS picker overlay and persist in DynamoDB keyed on `connection_id` (15-minute TTL).
+
+**Frontend feel.** The UI is themed as a Haynes-style workshop manual: cream paper, navy ink, EB Garamond serif, FIG.-style message labels, MG octagon logo. While the model warms up, an italic "warming up" bubble cycles through classic-car-themed status lines ("Pulling the choke...", "Priming the carbs...", "Setting the tappet clearances..."). Source: `frontend/index.html`.
+
+**PII redaction is regex-only.** It catches the high-volume cases (emails, names, URLs, forum usernames, phone numbers, addresses, postcodes) but is not security-grade. For anything more sensitive, swap in Presidio + spaCy NER.
+
+## Evaluation
+
+`eval_mg.py` runs a fixed-prompt eval (validation loss, empty-reply rate, coherence proxies). `judge_mg.py` has a local Qwen model, via LM Studio, score the replies blind on a 1 to 5 scale.
+
+[WRITEUP.md](WRITEUP.md) covers two bugs found by measuring: a validation split cut by position rather than by thread, and a trailing space in the prompt that made the live bot reply with nothing about two-thirds of the time.
 
 ## Project structure
 
 ```
-mg-llm/
+mg-gpt/
 ├── README.md             ← you are here (current state)
 ├── CHANGELOG.md          ← reverse-chronological log of shipped changes
 ├── CLAUDE.md             ← instructions for AI sessions working on this repo
 ├── DEPLOYMENT.md         ← AWS infra deep-dive
 ├── GUIDE.md              ← longer-form learning guide
+├── WRITEUP.md            ← what broke, what was measured, what didn't help
 │
 ├── data/
 │   ├── corpus_pistonheads/      ← raw scraped PH threads (one .txt per topic)
@@ -82,7 +94,7 @@ mg-llm/
 └── generate.py                  ← interactive local inference
 ```
 
----
+The scraped forum text, the checkpoints and the archived v5 data are not in this repo. The forum text belongs to the people who wrote it, so re-scrape it with the scripts above if you want to rebuild the corpus.
 
 ## Quickstart (local training only)
 
@@ -90,7 +102,7 @@ mg-llm/
 pip install -r requirements.txt
 
 # Build the corpus (skip if you already have data/corpus/*.txt)
-python data/discover_and_scrape.py --max-index-pages 5 --max-thread-pages 20
+python data/discover_and_scrape_pistonheads.py --max-index-pages 5 --max-thread-pages 20
 
 # Redact PII, format as Q&A, tokenise
 python data/strip_pii.py
@@ -104,8 +116,6 @@ python train.py --config small
 python generate.py --prompt "USER: My MGB starts hard in winter.\nASSISTANT: "
 ```
 
----
-
 ## Deploy to AWS
 
 ```bash
@@ -114,45 +124,7 @@ python generate.py --prompt "USER: My MGB starts hard in winter.\nASSISTANT: "
 ./deploy.sh
 ```
 
-`deploy.sh` builds the Docker image (with `checkpoints/ckpt_best.pt`
-baked in; for v7 this is a weights-only copy of `checkpoints/v7_finetune/ckpt_best.pt`), pushes to ECR, applies Terraform, force-updates the Lambda function
-code, uploads the frontend HTML to S3, and invalidates the CloudFront cache.
-See `DEPLOYMENT.md` for the infra deep-dive.
-
----
-
-## Architecture notes worth knowing
-
-**WebSocket 29s timeout workaround.** API Gateway WebSocket integrations are
-capped at 29 seconds. The Lambda handler splits the request: the WS-triggered
-invocation does fast bookkeeping (DynamoDB write, "thinking" ack), then
-async-invokes itself (`InvocationType="Event"`) to run the slow generation.
-The worker branch posts the response back via `apigatewaymanagementapi`. This
-avoids needing SQS for ~$0 extra cost.
-
-**Config-from-checkpoint.** `lambda/handler.py` reads the GPT architecture
-config (block_size, n_layer, n_embd) from the checkpoint itself rather than
-hardcoding it. Train with `--config nano` or `--config small` or whatever else
-— the handler matches automatically. No more shape mismatches at load time.
-
-**Personas.** Three personas (Sunday Driver, Workshop Veteran, Restorer), each
-with hand-written opening greetings. The old multi-turn priming block is no longer
-sent to the model (a plain prompt scored equal or better); it stays in `PERSONAS`
-only so `eval_mg.py` can still compare against it.
-Personas are selected once per session via the WS picker overlay and persist
-in DynamoDB keyed on `connection_id` (15-minute TTL).
-
-**Frontend feel.** The UI is themed as a Haynes-style workshop manual: cream
-paper, navy ink, EB Garamond serif, FIG.-style message labels, MG octagon
-logo. While the model warms up, an italic "warming up" bubble cycles through
-classic-car-themed status lines ("Pulling the choke...", "Priming the
-carbs...", "Setting the tappet clearances..."). Source: `frontend/index.html`.
-
-**PII redaction is regex-only.** Catches the high-volume cases (emails, names,
-URLs, forum usernames, phone numbers, addresses, postcodes) but is not
-security-grade. For anything more sensitive, swap in Presidio + spaCy NER.
-
----
+`deploy.sh` builds the Docker image (with `checkpoints/ckpt_best.pt` baked in; for v7 this is a weights-only copy of `checkpoints/v7_finetune/ckpt_best.pt`), pushes to ECR, applies Terraform, force-updates the Lambda function code, uploads the frontend HTML to S3, and invalidates the CloudFront cache. See `DEPLOYMENT.md` for the infra deep-dive.
 
 ## Hardware
 
@@ -160,7 +132,6 @@ security-grade. For anything more sensitive, swap in Presidio + spaCy NER.
 |----------|--------|----------------|--------------------|
 | `nano`   | 1.5M   | CPU            | 30 min             |
 | `small`  | 10M    | MPS (M-series) | 2–4 hrs            |
-| `medium` | 50M    | MPS (M-series) | overnight          |
+| `medium` | ~51M   | MPS (M-series) | overnight          |
 
-Nano works on CPU. Small benefits from MPS acceleration. The model genuinely
-needs ~2M+ training tokens before `small` stops overfitting badly.
+Nano works on CPU. Small benefits from MPS acceleration. The model genuinely needs ~2M+ training tokens before `small` stops overfitting badly.
