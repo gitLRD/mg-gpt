@@ -1,0 +1,25 @@
+Brake bleeding
+
+Brake bleeding is the procedure performed on hydraulic brake systems whereby the brake lines (the pipes and hoses containing the brake fluid) are purged of any air bubbles. This is necessary because, while the brake fluid is an incompressible liquid, air bubbles are compressible gas and their presence in the brake system greatly reduces the hydraulic pressure that can be developed within the system. The same methods used for bleeding are also used for brake flushing or purging, where the old fluid is replaced with new fluid, which is necessary maintenance.
+
+== Methods ==
+The process is performed by forcing clean, bubble-free brake fluid through the entire system, usually from the master cylinder(s) to the calipers of disc brakes (or the wheel cylinders of drum brakes), but in certain cases in the opposite direction.  A brake bleed screw is normally mounted at the highest point on each cylinder or caliper.
+There are five main methods of bleeding: 
+
+The pump and hold method, the brake pedal is pressed while one bleed screw at a time is opened, allowing air to escape. The bleed screw must be closed before releasing the pedal, or a one-way valve must be fitted.
+In the vacuum method, a vacuum pump is attached to the bleeder valve, which is opened and fluid extracted with the pump until it runs clear of bubbles.
+In the pressure method, a pressure pump is attached to the master cylinder, pressurizing the system, and the bleeder valves are opened one at a time until the fluid is clear of air.  Specialised pumps may incorporate a method to automatically keep the brake fluid reservoir full during bleeding.
+In the reverse method, a pump is used to force fluid through the bleeder valve to the master cylinder. This method uses the concept that air rises in liquid and naturally wants to escape up and out of the brake system.
+Gravity bleeding is a simple and easy method for replacing automotive brake fluid.  It can also be used to bleed systems containing air bubbles but may not be as effective as other methods.
+
+== Pros and cons of different methods ==
+The pump and hold method usually requires two people, although it can be performed by one person if one-way bleed nipples or valves are fitted.  During this method, the brake pedal and master cylinder piston will travel beyond their normal range which can cause wear on seals or incorporate corroded metal into the brake fluid.
+Multiple wheel cylinders or calipers can be bled simultaneously, although this is only usually done with the gravity method which doesn't require pumps. The gravity method does take a long time, typically several hours to replace all the fluid.  Bubbles in the system may rise faster than the fluid drains, so it may not be effective at bleeding, but is generally sufficient for replacing old fluid with new.  Gravity bleeding is a very simple method requiring only one person.  When the reservoir cap is removed and a bleed nipple opened, fluid drips slowly from the nipple because it is lower than the reservoir.  A hose is typically used to collect the fluid in a container for safe disposal.  The reservoir must be kept above the min mark at all times to avoid more air being drawn into the system.
+Applying pressure to the reservoir or bleed nipples, or applying a vacuum to the bleed nipples, makes the fluid flow through much more quickly than gravity alone.  Replacing all the fluid takes only a few minutes.
+Different vehicles have different recommended bleeding patterns. Brakes are usually bled starting with the wheel that is furthest from the master cylinder and working towards the wheel closest to the master cylinder.  This prevents bubbles in the system being forced into pipes towards wheels that have already been bled.
+
+== Bench bleeding ==
+After replacement of the master cylinder, the master cylinder is usually "bench bled" before installation. Typically this is done by securing it on the bench, filling it with fluid, connecting fittings and hoses to route fluid from the outlet ports on the master cylinder back to its reservoir, and repeatedly depressing the master cylinder plunger until bubbles are no longer seen coming from the hoses.
+
+== Clutch bleeding ==
+The same techniques are used for bleeding hydraulic clutch systems.  A bleed nipple on the clutch slave cylinder is used.

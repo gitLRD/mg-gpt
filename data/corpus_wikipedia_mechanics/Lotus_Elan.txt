@@ -1,0 +1,243 @@
+Lotus Elan
+
+Lotus Elan is the name of two separate ranges of automobiles produced by Lotus Cars. The first series of cars was produced between 1962 and 1975 as a rear-wheel drive vehicle. The second series was produced between 1989 and 1995 as a front-wheel drive vehicle co-developed with Isuzu and entirely decoupled from the 1962-75 cars from an engineering perspective.
+
+== Timeline ==
+The first range of cars (1962–1975) comprised:
+
+Two seater sports cars:
+Lotus Type 26 drop head coupé (DHC) marketed as the Elan 1500, Elan 1600, and Elan S2 (Series 2).
+Lotus Type 36 fixed head coupé (FHC) marketed as the Elan S3, the Elan S4 and, lastly, in a higher performance model, the Elan Sprint.
+Lotus Type 45 drop head coupé, replacing the Type 26, delivered in parallel with the Type 36 in S3, S4 and Sprint form.
+Lotus Type 26R racing version of the Type 26.
+Four seater sports car (rear seats suitable for children):
+Lotus Type 50, fixed head coupé, marketed as the Elan +2.
+After the S2 was released the original Elan 1500 and Elan 1600 models were typically referred to as the S1 (Series 1) although the car was never explicitly marketed as such. Today, all models (S1-Sprint) are often cited collectively as the 1960s Elans.
+The second range of cars (1989–1995) comprised:
+
+Two seater sports cars:
+Lotus Type M100 drop head coupé, initially marketed as the Elan S1 and, later, for the UK market, the Elan S2.
+This second model was also produced in South Korea by Kia Motors between 1996 and 1999, rebadged as the Kia Elan.
+
+== Lotus Elan 1500, 1600, S2, S1, S3, S4, Sprint ==
+
+=== Overview ===
+The Lotus Elan was the first Lotus road car to use a steel backbone chassis with a fibreglass body. This style of construction was to be repeated in subsequent Lotus models for nearly three decades. At approximately 1,500 lb (680 kg), the Elan embodied Colin Chapman's minimum weight design philosophy. The Elan was technologically advanced with a DOHC 1,558 cc engine, four-wheel disc brakes, rack and pinion steering, and 4-wheel independent suspension. Gordon Murray, designer of the McLaren F1 supercar, reportedly said that his only disappointment with the McLaren F1 was that he could not give it the perfect steering of the Lotus Elan.
+In 2004, Sports Car International named the Elan number six on the list of Top Sports Cars of the 1960s. The original version of the car was designed by Ron Hickman who also designed the first Lotus Europa as part of Lotus' GT40 project bid and made his fortune having designed the Black & Decker Workmate.
+Because of its successful design and rigorous attention to cost control on the body, chassis, engine and transmission, the Elan became Lotus' first commercial success and contributed to the funding of its achievements in racing over the next ten years. It revived a company stretched thin by the more expensive to build and rather unreliable Lotus Elite, which used a fibreglass monocoque body/chassis and all aluminium Coventry Climax engine.
+The original Elan 1500 was introduced in 1962 as a roadster. After a very short production run of just 22 cars the engine was enlarged and the car was re-designated the Elan 1600. An optional hardtop was also offered. The Elan 1600 of 1963 was replaced by the Elan S2 in 1964. In 1965 the Type 36, a fixed head coupé version of the car, was introduced while in 1966 the drop head coupé Type 26 was replaced by the Type 45. Both Types, 36 and 45, were offered initially in S3 form, followed in 1968 in S4 form, and finally in 1970 as the Elan Sprint. Production of the Sprint ceased in 1973. During the 1967 build year at Hethel, multiple twin-carb versions of the powerplant were used. The standard S2, S3 and S4 models were also available in a slightly more powerful and luxurious "Special Equipment" variant, generally referred to as the SE (e.g. Lotus Elan S3 SE), a naming convention later carried onward in the legendary mid-engined Esprit model line.
+In the UK the Elan was offered as a fully assembled vehicle and, for tax avoidance purposes, as a lower cost kit for final assembly by the customer.
+
+=== Production ===
+The total production number for the Lotus Elan is not definitively known; however John Bolster, in his book "The Lotus Elan and Europa: A Collector's Guide", provides a number of 12,224 (S1-3: 7,895; S4: 2,976; Sprint: 1,353). This number was occasionally used by Lotus itself. See below for +2 production.
+Meanwhile, Paul Robinshaw and Christopher Ross, in their book "The Original 1962–1973 Lotus Elan", assert that Lotus' somewhat erratic record keeping at the time meant that vehicle serial numbers were not entirely sequential or consistent. Their assessment suggests the actual count to be in the range 8,676-9,153 (S1: 900; S2: 1,250; S3: 2,650; S4: 2976-3,000; Sprint: 900-1353).
+As of April 2018, the voluntary, and thus inevitably incomplete, Lotus Elan registry lists approximately 1,100 known remaining vehicles (including approximately 330 +2 models) in over 30 countries.
+
+=== Construction ===
+The basic structure of the Lotus Elan comprised a fabricated mild steel backbone chassis, similar to a double ended tuning fork, and a fibreglass body. The chassis was the primary stressed component, providing the necessary bending and torsional rigidity. It is readily changeable and most Elans on the road today have had a new chassis fitted at some point, because of either accident or decay. 
+The fibreglass body was solidly bolted to the chassis at 16 points, fitting over the backbone like a saddle. While not highly stressed the body nevertheless added to the overall rigidity of the structure.
+The engine and gearbox are located between the front fork arms and the differential between the rear fork arms. The front and rear suspensions attach to the ends of their respective arms: turrets at the end of the arms hold the suspension springs and dampers.
+
+This design resulted in light weight, high rigidity (by contemporary standards) and easy access through wide door openings with low sills. Driver and passenger protection from front and rear impact was acceptable for its time, but side impact protection was minimal.
+
+==== Drive train ====
+The engine, gearbox and differential were all sourced from Ford UK components. See below for details on the engine. The gearbox was a high volume unit used widely across the Ford range (Anglia, Cortina, etc.). Lotus offered regular and close ratio versions. The differential unit was also sourced from Ford but converted for independent rear suspension use (contemporary Ford cars used live rear axles). Three differential ratios were offered at various times during the production life of the vehicle: 3.55, 3.77 and 3.9. Most Elans were fitted with 3.77 differentials. 3.9 differentials provided the best acceleration and were often favoured by purchasers of early cars. 3.55 differentials became more common in later cars (especially the more powerful Sprints) to provide more relaxed cruising on newly built highways.
+
+The final drive used four Rotoflex couplings to connect the differential output shafts to the rear hubs. These "rubber doughnut" couplings were widely used at the time for road vehicles (e.g. Hillman Imp, Triumph GT6) and racing (e.g. Ford GT40, Lotus 21), prior to the availability of constant velocity (CV) joints. In the case of the Elan, which had exceptionally supple rear suspension that allowed significant vertical wheel travel, the deformation of the Rotoflexes in operation resulted in some "wind up" of the couplings. This could be readily detected by the driver, especially at takeoff and during gear changes, and was slightly disconcerting when driving an Elan for the first time. In practice drivers typically adjusted their clutch technique within a few minutes and no longer noticed it. In recent years the uncertain quality of replacement Rotoflex couplings, combined with the availability of half-shafts built with CV joints, has resulted in many Elans being converted from Rotoflex to CV joint drive.
+
+A notable feature of the drive train design was its use of standard mass-produced components in combination with a minimal number of specialised aluminium castings to create a power unit and transmission suitable for a high performance sports car:
+
+The engine cylinder head and timing chest. Converted the Ford Kent pushrod engine into a twin overhead cam engine.
+The differential rear cover and carrier. Converted a live axle to independent suspension operation.
+The rear wheel hubs. Required for the Chapman Strut rear suspension.
+These three items were unique to the Elan (although the engine was subsequently used widely in other vehicles).
+
+==== Engine ====
+The 1,558 cc "Lotus TwinCam" engine was based on the Ford Kent Pre-Crossflow four-cylinder 1,498 cc engine, with a two-valve alloy chain-driven twin-cam head designed by Harry Mundy. The rights to this design were later purchased by Ford, which renamed it the "Lotus-Ford Twin Cam". It was later used in a number of Ford and Lotus production and racing models.
+Lotus reported different power outputs for the Twin Cam engine during the production of the Elan. Before the release of the Sprint the following outputs were reported in the Workshop Manual:
+
+Lotus marketing material from the S3 period quoted the SE variant at 115 bhp (86 kW), noting high lift cams, carburettor re-jetting and a four branch exhaust.
+The final version of the Workshop Manual revised these numbers, as shown in the following tables. The increased power of the Sprint engine was primarily due to slightly larger inlet valves, so it was named the Big Valve engine (it has been widely reported that the combination of 'hotter cams', rejetting the carbs and big valves improved performance of the 115 bhp SE by only 11 bhp. As a marketing exercise to increase sales of the new Sprint model, Chapman saw to it that published bhp figures for existing models were downgraded to increase the apparent improvement in performance):
+
+==== Suspension, steering, braking ====
+The Elan used modern technologies for its suspension, steering and brakes. The overall design was simple and easily maintained. In common with many Lotus cars they were perhaps the Elan's most highly regarded features.
+
+Front suspension: The front suspension was based on Triumph wheel uprights and steering components while the remaining pieces were of Lotus design. The layout was a classic double wishbone arrangement with coilover springs and shock absorbers. Each "wishbone" consisted of two separate arms, with the upper pair connected to a ball joint at the top of the suspension upright and the bottom pair connected to a trunnion joint at the base of the upright. The bottom pair also held the base of the shock absorber and coil spring assembly; the top was connected to its chassis suspension tower. Similarly, the steering was of classic rack and pinion design; the Triumph rack (originally acquired from Alford and Alder) was modified for the Elan's narrow track with custom track rods and rack collars that set the minimum turning radius. The steering, 2 2⁄3 turns lock-to-lock, was not power assisted, which allowed for the visceral steering feel for which the Elan was famous.
+Rear suspension: The Chapman Strut rear suspension was designed and manufactured by Lotus. A single brazed "A frame" wishbone was bolted to each side of the base of a cast aluminium upright/wheel-hub, and to the chassis at two widely set points. The shock absorber and coil spring strut was integrated into the upright and bolted via a rubber "Lotocone" coupling to its chassis suspension tower. This resulted in a simple design with just three chassis connection points.
+Brakes: The disc brakes, 9.5 in (241 mm) front and 10.0 in (254 mm) rear, were supplied by Girling. Most Elans used a single hydraulic circuit although Federal cars were fitted with dual circuits. Early Elan brake systems were not servo assisted, but servos were fitted to SE and later models. In practice the Elan was light enough that power assistance for the brakes was not required, so the servo may have assisted marketing more than braking.
+
+==== Major component suppliers ====
+Lotus relied heavily on suppliers of mass-produced parts to create the Elan. These included:
+
+Engine/Gearbox/Differential from Ford UK.
+Front suspension and steering from Triumph (Herald/Spitfire/Vitesse).
+Electrical systems from Lucas (dynamo, starter, wiring, relays, ignition, lighting, etc.).
+Instrumentation and other electrical from Smiths (speedometer, tachometer, heater, etc.).
+Carburettors from Weber, Dell'Orto and Zenith-Stromberg (depending on model).
+Brakes from Girling.
+
+==== Weight ====
+As with all Lotus cars, attention to minimising weight was a major factor during the Elan's design and manufacture. Its diminutive size (while offering room for drivers over 6 ft (1.83 m) tall and practical luggage carrying capacity) provided the foundation for its low weight.
+The Workshop Manual lists the following weights:
+
+Lotus marketing material from the S1 period quoted the weight as "11 1⁄2 cwt" (1,288 lb (584 kg)) and from the S3 period quoted as "from 1,232 lb" (558 kg).
+Meanwhile, reported weights in magazine road tests varied from 1,260 lb (572 kg) (Elan 1600, Cars Illustrated, August 1964) to 1,630 lb (739 kg) (S4 FHC SE, Road & Track, January 1969).
+The figures above show that the weight of the vehicle changed during its production lifetime, in general tending to increase. Additional features such as electric windows, more luxurious carpeting, and larger wheels and tyres all contributing to the gain.
+
+==== Sub assemblies ====
+Chassis: 88 lb (40 kg) - anecdotal reports in www.lotuselan.net suggest that the weight was around 75 lb (34 kg).
+Body: 199 lb (90 kg) (per contract with S. Bourne & Co for early body shell construction, with subsequent variations due to DHC/FHC and S1-4 model differences).
+Door shell (without window assembly): 11 lb (5 kg)
+Hood/bonnet: 13.5 lb (6 kg)
+Boot/trunk lid: 12 lb (5 kg)
+Engine: 260 lb (118 kg).
+Gearbox: 84 lb (38 kg).
+Differential: 46 lb (21 kg).
+
+=== Performance ===
+The performance of the Elan was derived from the combination of its powerful engine (by contemporary standards) and light weight. The roadholding and agility of the car also meant that high speeds could be maintained on corners, which allowed for high average speeds.
+
+By contemporary standards, the Sprint was an exceptionally rapid car and quite lived up to its name. It embarrassed almost every other supercar at the time in terms of outright acceleration up to about 90 mph. This electrifying performance was accentuated by the brilliant handling and road holding, allied to the small size and weight of the Elan, which meant that a well driven Elan on a dry road could outclass any other non-Lotus road car.
+Although performance results achieved by testers are affected by many variables (e.g. differential ratio, weather/road conditions, gross vehicle weight, DHC vs. FHC, etc.) the following tables provide an overview of the car's capabilities.
+The following excerpt from Robinshaw and Ross summarises Elan performance for each Series:
+
+A few additional figures for the Sprint:
+
+=== Reviews ===
+The Elan was widely admired and praised by customers and reviewers, noted for its exceptional handling, roadholding, steering, acceleration, braking and comfort:
+
+Car and Driver: The Elan very simply represents the sports car developed in tune with the state of the art. It comes closer than anything else on the market to providing a Formula car for ordinary street use. And it fits like a Sprite, goes like a Corvette, and handles like a Formula Junior. Driving it is very simply another sort of automotive experience altogether. Most people tend to come back from their first ride a little bit glassy-eyed...
+Road and Track: The light and tactile steering, combined with supple suspension and a weird, physics-defying sense of zero weight transfer in corners, provides a sensation akin to flying just over the ground. I'm convinced there's a powerful pleasure center in the brain that remains untapped until you drive an Elan. It's almost a drug.
+Motor Sport: The tremendously responsive steering and handling requires similar qualities from the driver and the speeds achieved round corners and on the straight are deceptively fast. This, therefore, calls for a lot of concentration on the driver's part. Once mastered, however, the Elan is the nearest thing to a single-seater racing car one is likely to be able to drive comfortably on the road. To master the car and explore its tremendous handling potential along that delightfully twisty piece of road one knows so well is close on perfection for the sporting motorist.
+
+==== Influence ====
+While the structure of the Elan followed an entirely traditional approach for sports cars of the time - front engine, rear wheel drive - its design included novel ideas that found their way into the designs of other manufacturers' vehicles.
+Examples include:
+
+The Mazda MX-5 (known as the Mazda Miata in North America). The original Elan is usually credited as being the design inspiration for this sports car in 1989. Two Elans were intimately evaluated by Mazda in the process of designing the MX-5.
+The Toyota 2000GT. This sports car used a chassis that bears a striking resemblance to the Lotus Elan.
+The car designer and engineer Gordon Murray said "Series 3 Lotus Elan... it's still, in my opinion, probably the best-handling sports car that's ever been made... If anybody wants to know what good steering is, just jump in the 60s Elan."
+
+==== Owners, drivers and in the media ====
+This generation of the two-seater Elan was famously driven by Diana Rigg in the character of Emma Peel in the 1960s British television series The Avengers.
+The reference to a car accident in the Beatles song "A Day in the Life" was apocryphally based on Tara Browne's fatal accident in his Lotus Elan.
+Famous celebrities, past and present, who owned and/or drove a Lotus Elan include:
+
+Peter Sellers - English comedian.
+Jim Clark - Scottish racing driver.
+Paul Newman - American actor.
+Jay Leno - American TV personality.
+Michael Crawford - English actor, singer, comedian.
+Noel Redding - English rock musician (Jimi Hendrix Experience and Fat Mattress).
+
+=== Racing ===
+Despite the fact that the Lotus Elan has been (and continues to be) used extensively for racing it was Lotus' first car that was not designed with racing in mind. (The earlier Lotus Elite was designed as a road car and also to compete in high-efficiency classes at Le Mans.) Nevertheless, because owners assumed that all Lotus cars were designed for racing, it soon found its way onto the track, however unsuitable. Lotus resisted modifying the car to make it more suitable for racing but eventually created a racing version of the Elan. Robinshaw/Ross quote Colin Chapman:"When we announced the Elan we said 'This is a touring car, it is not intended for racing and have done no competition development on it.' The fact that customers bought them and tried to race them was originally no concern of ours, but in the second year we thought, well, if these people insist on racing them then we'd better get down to some proper development. They were too softly sprung, too softly damped, tore their doughnuts apart and had all sorts of drama, but it was the name, and people thought they must be racing cars."
+The result of the "proper development" was the Type 26R version of the Elan, offered from 1964 at £1995 in kit form.
+
+Motor Sport: Mechanically, the 26R differed by featuring racing lightweight competition-spec wishbones, sliding spline driveshafts in place of rubber joints, bigger anti-roll bars and a degree of reinforcement around the suspension pick-up points. Pedals were repositioned to aid heel-and-toeing, dual circuit brakes with twin master cylinders and light alloy calipers coming as standard. As did a 140bhp Cosworth-tuned 'four' although up to 160bhp was offered in time.
+Other changes included flared wheel arches, which allowed for larger wheels and tyres, and a lighter body shell.
+
+=== Series (model) differences ===
+The table below provides a simplified summary of Elan updates and changes associated with each Series. The fundamentals of the car changed very little during its eleven years of production.
+Each Series provided a general refresh of the car, with new features (e.g. electric windows, larger tyres, power washers and windows, hazard and reversing lamps) and updated cosmetics (e.g. improved sound proofing and carpeting, improved DHC hood (roof) design, Sprint colour scheme).
+However, as a low volume manufacturer, Lotus' processes were flexible enough to change the components used during construction at will. As a result, significant variations could exist between cars of the same Series.
+Ongoing changes were frequently necessary for a variety of reasons: component availability from suppliers, price changes, the need to meet regulatory requirements (especially for Federal vehicles), model year enhancements and the phase-in and phase-out of stock during the transition to the next Series.
+Lotus promoted the potential variation between vehicles by stating in its documentation: Lotus policy is one of continuous product improvement and the right is reserved to alter specifications at any time without prior notice.
+
+==== Price ====
+The price of the Elan changed during its production lifetime. At announcement, in October 1962, the fully built cost was £1,499, although between 1963 and 1966 the factory price was generally 5-10% lower. By the end of production, in April 1973, the fully built cost had increased to £2,436.
+However, throughout its production the Elan was also available in the UK in "kit" form. This was provided for tax avoidance reasons and required the customer to complete the final assembly of the vehicle. The tax savings were considerable, the prices above being reduced to £1,095 and £2,044 respectively.
+Kit versions of the Elan were as complete as possible while adhering to tax regulations. The entire chassis, body, electrical systems, final drive/suspension and all trim were delivered fully assembled to the customer. Final construction involved installation of:
+
+Engine, gearbox and prop shaft.
+Front wheel hubs, springs/shock absorbers and anti-roll bar.
+Exhaust.
+Wheels/tyres.
+Battery.
+Radiator and hoses.
+For the typical Lotus customer, a car enthusiast, final assembly would be undertaken willingly.
+When complete the owner would take the car to a Lotus dealer who, after checking that the assembly had been performed correctly, initiated the warranty period. This feature of Elan purchase was quite heavily promoted by Lotus, with print advertisements showing how simple and rewarding it was to complete the construction.
+
+==== Comparative pricing ====
+'The Motor' magazine regularly printed prices for all UK cars. A partial extract from its pages provides comparative pricing for several sports cars of the Elan S1 period. The table also shows that the Elite was significantly more expensive than the Elan:
+
+=== Collectibility ===
+1960s/70s Elans are becoming 50 years old and are valued today as collectors' vehicles. In the UK they are highly regarded among auto enthusiasts, leading to higher prices than in other countries.
+An undocumented number of right hand drive (UK market) Elans have been privately exported to Japan, where they are sought by collectors. As with many English sports cars of the period,  there are enthusiasts around the world, especially in Australia, Canada and the USA.
+The car can be serviced with little specialist knowledge, and replacement parts are commonly available online.
+
+==== Current Values ====
+Current values vary widely around the world, so the following table provides approximate figures for the UK, based on condition. Early cars (S1 and S2) and Sprints are more highly valued than S3s, which are more highly valued than S4s.
+Generally, Drop Head Coupés have been more highly valued than Fixed Head Coupés and in the past it was not uncommon to convert FHCs to DHCs, making FHCs rarer. This has tended to stabilise the value of FHC cars.
+
+On 25 February 2023, Silverstone Auctions Ltd. auctioned seven fully restored Lotus Elans, each featuring a well-regarded provenance, from the Piddington Collection. The prices fetched, before 12.5% buyers premium and VAT were:
+
+1975 Sprint FHC last ever Elan - £40,000
+1971 Sprint DHC ex-Ron Hickman - £58,000
+1969 S4 FHC ex-Jochen Rindt - £58,000
+1966 S3 DHC ex-Diana Rigg (Emma Peel/Avengers) - £146,000
+1968 S3 DHC ex-Rob Walker - £44,000
+1968 S4 FDC ex-Keith Duckworth - £32,000
+1966 S3 DHC ex-Peter Sellers - £66,000
+
+=== Gallery ===
+Elan 1600 and S2:
+
+Elan S3, S4 and Sprint:
+
+Chassis - Engine Bay:
+
+== Elan +2 ==
+
+An Elan +2 was introduced in 1967 with a longer wheelbase and wider track, and two small rear seats, suitable for children. While the Elan was a two-seater sports car marketed to the single man/woman or young couple, the +2 was larger and considerably more luxurious vehicle marketed to the established family with children. Reviews reflected this new marketplace for Lotus. Motor Sport magazine reported the design goal as: it was decided to increase the interior dimensions considerably to meet the car's maxim that it "must be capable of transporting two adults and two children 1,000 miles in comfort with their luggage".
+In 1971 Colin Chapman bought Moonraker Marine / JCL and in 1974 Brian Davey working with the Naval Architect Don Shead on a new boat design was asked to help redesign the replacement for the Europa. This was finally designed by Giugiaro of Italdesign and called the Esprit which started production in 1976.
+While the Elan ceased production in 1973 the Elan +2 continued to be produced until 1975. As with the two-seater Elan, the exact number of +2s produced is unknown. The estimated total is approximately 5,200. However, John Bolster's "The Lotus Elan and Europa: A Collector's Guide" provides a number of 3,300. Fewer than 1,200 of these cars remain on the roads today.
+
+=== Construction ===
+Aside from the increase in size necessary to accommodate two additional seats, the design of the Elan +2 was extremely similar to the two seater Elan. The concept of a backbone chassis with fibreglass body, powered by a Ford UK-derived drive train was maintained. Double wishbone and Chapman Strut front/rear suspension of identical design was also used, with some components (e.g. rear hubs) shared with the two seater Elan and others (e.g. wishbones) increased in size. Power assisted brakes were standard, dual circuit in some markets.
+In 1968 a more luxurious version of the Elan +2 was released, named the +2S.
+In 1971 +2S was upgraded to include the Big Valve engine, and then named the +2S 130. Later models of the +2S 130 were provided with a 5-speed Austin Maxi based gearbox, which greatly improved its high speed cruising capabilities, named +2S 130/5.
+
+=== Performance ===
+Tested maximum power: 108–126 bhp (81–94 kW) net (depending on the model).
+Top speed: 120 mph (193 km/h).
+Acceleration: 0–60 mph (0–97 km/h) in 7.9 seconds, 0–100 mph (0–161 km/h) in 21.8 seconds.
+
+== Elan (M100) ==
+
+The Lotus M100 series Elan was launched in August 1989, reviving the Elan nameplate after 14 years. A two-seater convertible sports car with front-wheel drive, designed in-house by Lotus, it featured an engine and manual transmission supplied by Isuzu, and was built with the development and testing resources of General Motors. Around £35 million (about $55 million) was invested in its development, more than any other car in Lotus history. Its design, featuring a fibreglass composite body over a rigid steel backbone chassis, was true to Lotus founder Colin Chapman's original philosophy of achieving performance through low weight, and the name "Elan" connected the car with its 1960s ancestor.
+
+=== Origins ===
+In 1986, the purchase of Lotus by General Motors provided the financial backing to develop a new, small, affordable car in the same spirit as the original Elan (last built in December 1972). A development prototype, the M90 (later renamed the X100) had been built a few years earlier, using a fibreglass body designed by Oliver Winterbottom and a Toyota-supplied 1.6-litre engine and transmission. The M90 was in turn preceded by an earlier two-seater project in 1974 called the Lotus M80, also designed by Winterbottom and based on the Lotus Eclat. However, money was in short supply at Lotus and development was soon stopped, with the M80 name later resurfacing on the 1984 Lotus Eminence M80 four-door V8 saloon concept. Lotus was hoping to sell the car through Toyota dealerships worldwide, badged as a Lotus Toyota, but the project never came to fruition and the prototype was shelved (although Lotus' collaboration with Toyota had some influence on the design of the Toyota MR2).
+The idea of a small roadster powered by an outsourced engine remained, however, and in late 1986 Peter Stevens's design for the Type M100 was approved and work began by Lotus engineers to turn the clay styling buck into a car that could be built. This process was completed in just under three years.
+
+==== Testing ====
+The new Elan was conceived as a mass-market car and in particular, one that would appeal to US buyers. Consequently, Lotus put an enormous effort (for such a small firm) into testing the car; over a two-year period 19 crash cars and 42 development vehicles were built, logging nearly a million test miles in locations from Arizona to the Arctic. The Elan was driven at racing speeds for 24 hours around the track at Snetterton. Finally each new car was test-driven for around 30 miles (48 km) at Lotus' Hethel factory to check for any manufacturing defects before being shipped to dealers.
+
+==== Handling ====
+The choice of front-wheel drive was considered unusual for a sports car, but according to Lotus sales literature, "for a given vehicle weight, power and tyre size, a front wheel drive car was always faster over a given section of road. Some critics also suggested that front-wheel drive was chosen due to the General Motors family of brands not having a suitably sporty, longitudinally mounted engine they could use. There were definite advantages in traction and controllability, and drawbacks such as torque steer, bump steer and steering kickback were not insurmountable." This was the only front-wheel-drive vehicle made by Lotus. All Lotus models before the M100 Elan, as well as most of their models made after it, have been rear-wheel drive.
+On release, the Elan was described by Autocar magazine as "the quickest point to point car available". Press reaction was not uniformly positive, as some reviewers found the handling too secure and predictable compared to a rear-wheel-drive car. However, the Elan's rigid chassis minimised roll through the corners and has led to critics such as Autoweb describing it as 'the finest front wheel drive [car] bar none'. Unlike the naturally aspirated version, the turbocharged SE received power steering as standard, as well as tyres with a higher ZR speed rating.
+
+==== Engine ====
+The M100 Elan used a 1,588 cc double overhead camshaft (DOHC) I4 16-valve engine, sourced from the Isuzu Gemini and extensively modified by Lotus (a third generation of this engine was later used in the Isuzu Impulse), which produced 162 hp (121 kW) in turbocharged form. Acceleration from 0–60 mph (97 km/h) was measured by Autocar and Motor magazine at 6.5 seconds, and a top speed of 137 mph (220 km/h) was recorded.
+Significant differences in the Isuzu-Lotus engine from the original include a new exhaust system, re-routed intake plumbing for better thermodynamic efficiency, improved engine mounting, and major modifications to the engine control unit to improve torque and boost response. Almost all models featured an IHI turbocharger.
+
+==== Braking and suspension components ====
+The majority of the suspension items for the M100 Elan (both S1 and S2) were manufactured and supplied by Portland Engineering based in Dorset in the UK. They supplied front and rear brake discs, rear suspension arms, front and rear hub carriers along with numerous other components. The rear brakes had an unusual design in that the rear hub was incorporated within the brake disc.
+
+=== Sales ===
+
+Two variants were available at launch, the 130 bhp (97 kW; 132 PS) Elan 1.6 (retailing at £17,850) and the 162 bhp (121 kW; 164 PS) Turbo SE (£19,850). Initial sales were disappointing, which is commonly attributed to the debut of the more affordable "nostalgic" Mazda MX-5 which was arguably similar in concept to the 1960s Elan, in contrast to the M100's deliberately futuristic cant. The Elan was very expensive to make (the cost to design and produce the dashboard alone was more than the total cost of the Excel production line), and sales figures were too low to recoup its huge development costs.
+Altogether, just 3,855 Elans were built between November 1989 and July 1992, including 129 normally aspirated (non-turbo) cars. A mere 559 of them were sold in the US, featuring a 'stage 2 body' which had a different rear boot spoiler arrangement together with a lengthened nose to accommodate a USA-compliant crash structure and airbag, and 16-inch wheels (optional in most markets, standard in the U.S.) instead of 15-inch as on the UK model. A coupé version of the Elan, to replace the Excel, had also been in the pipeline. This, too, was shelved, and there was no direct successor to the Excel, which ended up also being discontinued in 1992.
+
+=== Series 2 ===
+Two years after the end of the original production run, a limited edition of 800 Series 2 (S2) M100 Elans was released during the Romano Artioli era (produced June 1994–September 1995) when it was discovered that enough surplus engines were available to make this possible. It was only for the UK market. According to Autocar magazine, the S2 addressed some of the concerns over handling, but power was reduced to 155 bhp (116 kW; 157 PS) and the 0–60 mph acceleration time increased to 7.5 seconds, due to the legislative requirement to fit a catalytic converter in all markets. The S2s have very similar performance to the USA vehicles, having an identical engine management system calibration albeit with a slightly lower overall vehicle weight.
+
+=== Kia Elan ===
+
+After the final production run of the Elan in 1995, Lotus sold its production rights to Kia Motors, which produced its own version. Outwardly, the Kia Elan looks almost identical to the original. The most obvious difference are the Kia-designed taillights, which replaced the Renault Alpine GTA rear lights of the original.
+Kia Motech (Kia Motor-technology) produced the car in Ansan, South Korea from 1996 to 1999 as the Kia Elan for the Korean market, using a 151 PS (111 kW; 149 hp) 1.8 L T8D engine of Mazda origins instead of the Isuzu 1.6 turbocharged unit. In the Japanese market, the car was sold as the Vigato. A total of 1,056 were produced.
+
+== 2010 Elan concept ==
+
+A new Lotus Elan concept was announced at the 2010 Paris Motor Show as part of a five-car announcement. It was hoped to be in production by fall of 2013, but it, alongside the Esprit and Elite concepts, was cancelled before it could enter production. The new Elan was planned to be a 2-seater, with an optional 2+2 layout, and feature a mid-mounted 4.0-litre V6 engine with around 450 hp (336 kW) and a 7,800 rpm redline, paired with a 7-speed dual-clutch transmission, giving it a 0-100 km/h (62 mph) time of 3.5 seconds and a top speed of 190 mph (306 km/h). It was also planned to have weighed roughly 1,295 kg (2,855 lb). The car was also meant to have a new optional kinetic energy recovery system (KERS) which would provide short bursts of extra passing power using energy recovered during braking.

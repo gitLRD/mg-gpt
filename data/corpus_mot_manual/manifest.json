@@ -1,0 +1,89 @@
+{
+  "source": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles",
+  "licence": "Open Government Licence v3.0",
+  "licence_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "attribution": "Contains public sector information licensed under the Open Government Licence v3.0.",
+  "fetched": "2026-11-26",
+  "manual_updated_at": "2026-10-14T07:54:16+01:00",
+  "note": "text only; images/attachments and appendices B, C skipped",
+  "sections": [
+    {
+      "title": "Introduction",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/introduction",
+      "file": "introduction.txt",
+      "chars": 22433
+    },
+    {
+      "title": "0. Identification of the vehicle",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/0-identification-of-the-vehicle",
+      "file": "0-identification-of-the-vehicle.txt",
+      "chars": 5457
+    },
+    {
+      "title": "1. Brakes",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/1-brakes",
+      "file": "1-brakes.txt",
+      "chars": 33934
+    },
+    {
+      "title": "2. Steering",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/2-steering",
+      "file": "2-steering.txt",
+      "chars": 6801
+    },
+    {
+      "title": "3. Visibility",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/3-visibility",
+      "file": "3-visibility.txt",
+      "chars": 5062
+    },
+    {
+      "title": "4. Lamps, reflectors and electrical equipment",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/4-lamps-reflectors-and-electrical-equipment",
+      "file": "4-lamps-reflectors-and-electrical-equipment.txt",
+      "chars": 36550
+    },
+    {
+      "title": "5. Axles, wheels, tyres and suspension",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/5-axles-wheels-tyres-and-suspension",
+      "file": "5-axles-wheels-tyres-and-suspension.txt",
+      "chars": 18268
+    },
+    {
+      "title": "6. Body, structure and attachments",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/6-body-structure-and-attachments",
+      "file": "6-body-structure-and-attachments.txt",
+      "chars": 9166
+    },
+    {
+      "title": "7. Other equipment",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/7-other-equipment",
+      "file": "7-other-equipment.txt",
+      "chars": 11603
+    },
+    {
+      "title": "8. Nuisance",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/8-nuisance",
+      "file": "8-nuisance.txt",
+      "chars": 26780
+    },
+    {
+      "title": "9. Supplementary tests for buses and coaches",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/9-supplementary-tests-for-buses-and-coaches",
+      "file": "9-supplementary-tests-for-buses-and-coaches.txt",
+      "chars": 1915
+    },
+    {
+      "title": "10. Seat belt installation checks",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/10-seat-belt-installation-checks",
+      "file": "10-seat-belt-installation-checks.txt",
+      "chars": 16842
+    },
+    {
+      "title": "Appendix A: Structural integrity and corrosion",
+      "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/appendix-a-structural-integrity-and-corrosion",
+      "file": "appendix-a-structural-integrity-and-corrosion.txt",
+      "chars": 7946
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+# 7. Other equipment
+
+## 7.1. Seat belts and supplementary restraint systems (SRS)
+
+## 7.1.1. Seat belt security
+
+You must inspect anchorage points for:
+
+- all seat belts fitted
+
+- child seats and restraints that are securely attached to the vehicle using Isofix, carabiners, ratchet straps, nuts and bolts etc
+
+- disabled persons belts or wheelchairs
+
+Although not compulsory, it is best practice to inspect the condition of isofix fixtures that do not have a children’s seat installed at the time of the test and inform the owner of those that are defective.
+
+A seat belt anchorage ‘prescribed area’ includes the seat mounting points where a seat belt is attached to a seat frame.
+
+For assessing corrosion and using the corrosion assessment tool, see Appendix A.
+
+You do not need to inspect:
+
+- a belt fitted with no corresponding seat
+
+- a buckle or stalk with no corresponding belt
+
+## 7.1.2. Seat belt fitment and condition
+
+Seat belt webbing must be assessed for cuts, damage, fluffing, fraying and any evidence of overstretching.
+
+You must ensure that belt operation is not obstructed by any such damage.
+Any signs of overstretching will be a deficiency.
+
+Cuts on either side of the webbing in excess of 2mm are likely to reduce the webbing strength significantly and will be deemed a deficiency.
+
+Away from the webbing edges where cuts and damage have a lesser effect on the tensile strength, only cuts or damage obviously in excess of 4mm shall be considered a deficiency.
+
+Cuts anywhere on a child seat belt will be deemed a deficiency.
+
+You must check any visible parts of all seat belts fitted. This includes:
+
+- seat belts fitted to child seats and restraints (this only applies to child seats and restraints that are securely attached to the vehicle using Isofix, carabiners, ratchet straps, nuts and bolts etc)
+
+- any disabled persons belts or wheelchairs straps
+
+You do not need to inspect:
+
+- a belt fitted with no corresponding seat
+
+- a buckle or stalk with no corresponding belt
+
+You should lift folded seats to inspect seat belts. This applies to occasional seats that are folded and are designed for occasional use and seats designed for everyday use with the ability to be folded to provide additional luggage space. Seats already in the upright position do not require the base to be lifted for this examination.
+
+However, you do not have to do this if you’d need tools to do it. If you cannot lift seats because there are heavy or fragile items on the seat, you can refuse to test the vehicle. For details, see item 4d in the Introduction.
+
+You do not need to inspect buckles or stalks with no corresponding belt.
+
+Where a child seat is fitted that prevents access to the seat belt buckle, you must check as much of the seat belt as possible and issue an advisory that the buckle could not be checked.
+
+To check the belt buckle:
+
+-
+Fasten the belt locking mechanism.
+
+-
+Try to pull the locked sections apart.
+
+-
+Press the release mechanism while pulling on the belt.
+
+-
+Make sure the mechanism releases when required.
+
+For retracting seat belts, check that excess webbing is wound into the retracting unit with the mechanism fastened and the seat unoccupied. Check this with the seat base set in its rearmost position.
+
+Some types of retracting belt might need manual help before they retract. If a temporary device is fitted to prevent retraction, you can remove it.
+
+A seat belt installation check might be required on vehicles fitted with more than 8 passenger seats first used before 1 October 2001. If you’re not sure, see Section 10 of this inspection manual.
+
+Child seat(s) retained by seat belt(s) must not be removed. A visual examination is required of only those parts of the seat belt(s) which are readily accessible.
+
+## Fitment
+
+Seat belts are not needed for:
+
+- seats that are only used when the vehicle is stationary, such as a sofa in the living area of a motor caravan
+
+- side facing seats
+
+- occasional seats that fold down when not in use
+
+Occasional seats that fold down when not in use are not required to be fitted with seat belts. Care must be taken in assessing whether seats are, by manufacture, intended for everyday use with the ability to be folded for extra luggage space or intended for occasional use. Seats for everyday use should not be considered as occasional seats.
+
+For further information see the tables in Appendix C to determine which seats need a seat belt.
+
+## 7.1.3. Seat belt load limiters
+
+You must check all seat belt load limiters fitted as original equipment other than on Class 3 vehicles.
+
+Load limiters are designed to minimise seat belt inflicted injury in violent collisions. The simplest type of load limiter is a fold sewn into the belt webbing, which pulls apart when a high amount of force is applied to the belt.
+
+Mechanical load limiters commonly use a torsion bar in the retractor mechanism. These cannot usually be easily inspected.
+
+## 7.1.4. Seat belt pre-tensioners
+
+You must check all seat belt pre-tensioners fitted as original equipment other than on Class 3 vehicles.
+
+Seat belt pre-tensioners activate in certain violent collisions to tighten the seat belt just before the full force of impact. Once activated, a warning device might display.
+
+## 7.1.5. Airbags
+
+This inspection is for all airbags fitted as original equipment other than on Class 3 vehicles.
+
+A passenger airbag that is switched off is not a defect.
+
+## 7.1.6. Supplementary restraint system (SRS)
+
+The SRS MIL (Malfunction Indicator Lamp) should only be failed if it is indicating a system malfunction. A lamp illuminated to indicate the passenger airbag is disabled is not to be regarded as a defect.
+
+Warning messages on dashboard displays are not a defect in their own right, but may assist the tester in determining that the warning lamp is illuminated because a malfunction exists.
+
+## 7.2. Not in use
+
+## 7.3. Anti-theft device
+
+You only need to inspect the anti-theft device on M1 vehicles first used on or after 1 September 2001 with a steering lock as an anti-theft device fitted as original equipment.
+
+It’s acceptable for a steering lock to be missing or not working as long as the vehicle has an engine immobiliser, or a permanently installed immobilisation device which acts on either the steering, brakes or the transmission.
+
+Some electronic steering locks, generally on vehicles with keyless ignition systems, will only activate when the driver’s door is opened or closed.
+
+If it’s not practical to check if a steering lock is working, you should give the benefit of the doubt.
+
+## 7.4. Not in use
+
+## 7.5. Not in use
+
+## 7.6. Not in use
+
+## 7.7. Audible warning (horn)
+
+An audible warning must be loud enough to be heard by other road users.
+
+For vehicles first used on or after 1 August 1973, the sound emitted must be continuous or uniform. It cannot be harsh or grating.
+
+The following cannot be used as an audible warning:
+
+- gongs
+
+- bells
+
+- sirens
+
+- anything that has more than one tone
+
+Note: When operated, a two or more tone horn automatically produces a sound which alternates at regular intervals between fixed notes.
+
+However, on vehicles first used before 1906 the audible warning can be a gong, bell or siren.
+
+## 7.8. Speedometer
+
+You must check the speedometer of vehicles first used on or after 1 October 1937 with a maximum speed above 25mph. You do not need to check Class 3 vehicles.
+
+If a road test is needed, for example to carry out a decelerometer test, you must check whilst driving that the speedometer is working.
+
+If a road test is not necessary, you should only reject a speedometer if it’s clearly not working.
+
+Speedometers do not need to be lit on:
+
+- vehicles with no front or rear position lamps
+
+- vehicles that have front or rear positions lamps that are permanently disconnected, painted over or masked
+
+You can accept a tachograph as an alternative to a speedometer if it satisfies the requirements of this inspection.
+
+## 7.9. Not in use
+
+## 7.10. Speed limiter (if required)
+
+You only need to check:
+
+- vehicles that must have a speed limiter fitted
+
+- areas of the vehicle that are visible without dismantling
+
+Vehicles that must have a speed limiter are:
+
+- M2 and M3 vehicles with a maximum speed more than 100km/h (62.14mph) if a speed limiter was not fitted, with a DGW not exceeding 7,500kg and first used on or after 1 January 2005
+
+- M2 and M3 vehicles with a maximum speed more than 100km/h (62.14mph) if a speed limiter was not fitted, with a DGW more than 7,500kg and first used on or after 1 January 1988
+
+- N2 zero emission vehicles with a maximum speed more than 90km/h (56 mph) if a speed limiter was not fitted and first used from 1 January 2005
+
+- vehicles with more than 16 passenger seats with a maximum speed more than 112.65km/h (70mph) if a speed limiter was not fitted, with a DGW more than 7,500kg and first used between 1 April 1974 and 31 December 1987
+
+Vehicles with a DGW not exceeding 7,500kg with Euro III or later engines and first used between 1 October 2001 and 31 December 2004 are required to have a speed limiter. If you know that the vehicle has a speed limiter fitted, then it must meet the requirements of this inspection.
+
+If a vehicle has been modified, such as by changing the rear axle ratio so that it will no longer be able to go faster than 100km/h, the vehicle must have a signed declaration showing the details of the modification.
+It should not be possible for the driver to switch off the speed limiter while driving. However, speed limiters wired through ignition switches are acceptable.
+
+Tamperproof devices might be for example mechanical and electrical connections that can be only used with special tools, normally only available from vehicle or component manufacturers for disconnection or adjustment purposes. These are acceptable instead of other types of tamperproof devices such as seals, lock nuts, pins, wires, plastic inserts, sealing compound or sealing paint on mechanical and electrical connections.
+
+Modern tamperproof devices are electronic and cannot be checked.
+
+You should get the vehicle’s DGW from the manufacturer’s plate.
+
+For vehicles first used before 1 April 1982 not fitted with a manufacturer’s plate, you should instead calculate the laden weight by following these steps:
+
+-
+Multiply the maximum number of passengers and crew, excluding the driver, by 63.5kg.
+
+-
+Add the kerb or unladen weight displayed on the side of the vehicle.
+
+A speed limiter plate must be securely fixed somewhere easy to see in the driver’s compartment. If the plate is fixed to the driver’s compartment window it’s acceptable for the details to face inwards or outwards. Outward facing plates must be able to be read by a person of average height.
+
+The plate must be clearly and permanently marked with the speed at which the speed limiter has been set. The speed can be shown in mph or km/h.
+
+The character and composition of the plate and size of lettering are not important provided the details are legible.
+
+## 7.11. Not in use
+
+## 7.12. Electronic stability control (ESC)
+
+You must check all vehicles fitted with electronic stability control other than Class 3 vehicles.
+
+Electronic stability control is also referred to as ESC, ESP, VDC, and DSC, among many other names. Some systems may be able to be switched off by a switch, whilst others might only be able to be switched off using an electronic menu system.
+
+The dashboard warning lamp for these systems might take various forms and you should only fail a vehicle if you’re certain that the warning lamp is indicating an ESC malfunction. You might need to check the owner’s handbook.

@@ -1,0 +1,31 @@
+Ignition coil
+
+An ignition coil is used in the ignition system of a spark-ignition engine to transform the battery voltage to the much higher voltages required to operate the spark plug(s). The spark plugs then use this burst of high-voltage electricity to ignite the air-fuel mixture.
+The ignition coil is constructed of two sets of coils wound around an iron core. Older engines often use a single ignition coil which has its output directed to each cylinder by a distributor, a design which is still used by various small engines (such as lawnmower engines). Modern car engines often use a distributor-less system (such as coil-on-plug), whereby every cylinder has its own ignition coil.
+Diesel engines use compression ignition and therefore do not have ignition coils.
+
+== Design ==
+
+An ignition coil consists of an iron core surrounded by two coils (windings) made from copper wire. The primary winding has relatively few turns of heavy wire, while the secondary winding consists of thousands of turns of smaller wire and is insulated from the high voltage by enamel on the wires and layers of oiled paper insulation. 
+When the electrical circuit connected from the power source (e.g. the car's battery) to the primary winding is closed (by a contact breaker or transistor), current flows through the primary winding, which produces a magnetic field around the core. This current flow lasts for a period of time to build up energy in the coil. Once the coil is charged, the circuit is opened, and the resulting oscillation in the magnetic field induces a high voltage in the secondary winding. This high-voltage electricity travels through several components (such as a distributor and spark plug wires), before reaching the spark plug, where it is used to ignite the air/fuel mixture. 
+The timing of the circuit opening must be coordinated with the rotation of the engine, so that the burst of high-voltage electricity is produced at the optimal time to ignite the air/fuel mixture.
+Modern electronic ignition systems operate using the same principle of charging an electric circuit, however they use a capacitor charged to around 400 volts, rather than using the induction charging of an ignition coil. Typical output voltages for modern ignition coils vary from 15 kV (for a lawnmower engine) to 40 kV (for a larger engine).
+A modern single-spark system has one coil per spark plug. To prevent premature sparking at the start of the primary pulse, a diode or secondary spark gap is installed in the coil to block the reverse pulse that would otherwise form. In older wasted spark systems for four-stroke engines, the secondary winding of the ignition coil has two output terminals, both of which connect to a spark plug. The reverse pulse triggers the spark plug in a cylinder containing no air/fuel mixture (since that cylinder is out of phase by 180 degrees).
+
+== Materials ==
+
+Formerly, ignition coils were made with varnish and paper insulated high-voltage windings, inserted into a drawn-steel can and filled with transformer oil or asphalt for insulation and moisture protection. Later, ignition coils were instead cast in filled epoxy resins, which penetrate any voids forming within the windings.
+The ignition coil is usually inserted into a metal can or plastic case with insulated terminals for the high voltage and low voltage connections.
+
+== History ==
+
+=== Predecessor ===
+Early cars used a magneto ignition system, due to the lack of an electric power source (e.g. battery) in the car. Ignition coils replaced magneto ignition in new cars as batteries became a common inclusion in cars (for cranking and lighting). Compared with magneto ignition, an ignition coil system can provide a high-voltage spark at low engine speeds (RPM), making starting easier.
+
+=== Early systems ===
+Most older ignition coil systems used a single coil shared by all the spark plugs (via a distributor). There were some exceptions, such as the Saab 92 and the Wartburg 353 using a separate coil for each cylinder and the 1948 Citroën 2CV using a wasted spark system with a double-ended ignition coil and no distributor.
+
+=== Distributorless systems ===
+
+Since the 1990s, ignition systems have mostly switched to a design where the distributor is omitted and ignition is instead electronically controlled. In these distributor-less systems, multiple smaller ignition coils are used, usually in the form of one coil for each cylinder or a wasted spark system with one coil for each pair of cylinders.
+The ignition coils for these can be combined into a single casing (a coil pack) and located away from the spark plugs. This system was first seen in 1985 by Nissan, for their RB20DET NICS and CA18DE NICS engines, and is known as "NDIS" or Nissan Direct Ignition System. However, it is increasingly common for coil-on-plug systems to be used, whereby the individual ignition coils are small units attached directly to the top of each spark plug. An advantage of coil-on-plug systems is that in the event of a fault, a single ignition coil can be replaced rather than, unnecessarily, those for all of the cylinders.

@@ -46,11 +46,23 @@ the difference.
 came from a wrong premise (below). Pretraining 124M on 196M tokens ~18 h, fine-tune
 ~6 h. LM Studio was open during timing, so treat as indicative.
 
-**Likely error in the changelog (not fixed yet).** It says the 12K-step pretrain
-"only covered a quarter" of the 196M-token set. The log says batch 4 x accum 4 x 1024 =
-16,384 tokens/step, and 12,000 steps took 31,208 s, so it saw ~196M tokens, about one
-pass (random windows, so ~63% unique). If so, v9's extra 12K steps was ~2 passes, not
-"1 vs 0.25". Check with the owner before editing the changelog.
+**Changelog error: fixed 2026-11-26** (CHANGELOG and WRITEUP). It said the 12K-step pretrain
+"only covered a quarter" of the 196M tokens; it omitted gradient accumulation. Real figure:
+12,000 x 16,384 = ~196M tokens, about one pass, so v9's extra 12K was a second pass.
+
+**Data hunt for car-specific text (2026-11-26).** Measured: only ~0.8% of the 196M pretrain
+tokens are car-heavy (~1.5M, rough keyword scan of a 20M sample). Internet Archive: 4 MG/Morris
+workshop manuals, none with a reuse licence (borrow-only); the explicitly CC0/PD-mark items are
+US/1920s parts catalogues. Workshop manuals stay copyrighted (life+70 years). Wikibooks
+"Automobile Repair" is 25% developed (brakes/suspension/fuel/cooling chapters do not exist).
+Usable: UK MOT manual under OGL v3.0 (text grant "copy, adapt, commercially and non-commercially",
+attribution required, images/logos excluded; says nothing on ML either way) and Wikipedia
+mechanics articles (CC BY-SA). Fetched: MOT manual only ~47K tokens (far less than my 1-3M guess),
+Wikipedia 119 articles ~0.5M tokens. Total ~0.55M raw = +19% on the MG set, the same size as v8's
++20% which gave no gain, so expect modest effect; the aim is topic coverage, tested with the
+topic-spread metric. Lesson: estimate a source from its page list before promising its size.
+Also: the existing Wikipedia fetcher puts a personal email in its User-Agent; new fetchers use a
+generic project name.
 
 **Process notes.** `rsync --checksum` over an SMB mount reads every file back over the
 network; for a 4 GB offload, comparing file count and total bytes was enough and fast.

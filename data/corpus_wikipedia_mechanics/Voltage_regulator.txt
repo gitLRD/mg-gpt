@@ -1,0 +1,133 @@
+Voltage regulator
+
+A voltage regulator is a system designed to automatically maintain a constant voltage. It may use a simple feed-forward design or may include negative feedback. It may use an electromechanical mechanism or electronic components. Depending on the design, it may be used to regulate one or more AC or DC voltages.
+Electronic voltage regulators are found in devices such as computer power supplies, where they stabilize the DC voltages used by the processor and other elements. In automobile alternators and central power station generator plants, voltage regulators control the output of the plant. In an electric power distribution system, voltage regulators may be installed at a substation or along distribution lines so that all customers receive steady voltage independent of how much power is drawn from the line.
+
+== Electronic voltage regulators ==
+
+A simple voltage regulator can be made from a resistor in series with a forward-biased diode (or series of diodes), forming a voltage divider of sorts. Due to the logarithmic shape of diode V-I curves, the voltage across the diode changes only slightly due to changes in current drawn or changes in the input. When precise voltage control and efficiency are not important, this design may be adequate. Since the forward voltage of a diode is small, this kind of voltage regulator is only suitable for low-voltage regulated output. When higher-voltage output is needed, a reverse-biased zener diode or a series of zener diodes may be employed. Zener diode regulators make use of the zener diode's fixed reverse voltage, which can be quite large.
+Feedback voltage regulators operate by comparing the actual output voltage to some fixed reference voltage. Any difference is amplified and used to control the regulation element in such a way as to reduce the voltage error. This forms a negative feedback control loop; increasing the open-loop gain tends to increase regulation accuracy but reduce stability. Stability is the avoidance of oscillation, or ringing, during step changes in load or input voltage. There will also be a trade-off between stability and the speed of the response to changes. If the output voltage is too low, the regulation element is commanded, up to a point, to produce a higher output voltage–by dropping less of the input voltage (for linear series regulators and buck switching regulators), or to draw input current for longer periods (boost-type switching regulators); if the output voltage is too high, the regulation element will normally be commanded to produce a lower voltage. However, many regulators have over-current protection, so that they will entirely stop sourcing current (or limit the current in some way) if the output current is too high, and some regulators may also shut down if the input voltage is outside a given range (see also: Crowbar (circuit)).
+
+== Electromechanical regulators ==
+
+In electromechanical regulators, voltage regulation is accomplished by coiling a sensing wire to make an electromagnet. The magnetic field produced by the current in the wire attracts a moving ferrous core held back under spring tension or gravitational pull. As voltage increases, so does the current, strengthening the magnetic field produced by the coil and pulling the core towards the field. The magnet is physically connected to an electromechanical switch, which opens as the magnet moves into the field and is set up to cause a downward adjustment in the voltage output. As voltage decreases, so does the current, releasing spring tension or the weight of the core and causing it to retract. This closes the switch and produces a downward adjustment in the voltage output.
+In a refinement, the motion of the solenoid core can be used to move a selector switch across a range of resistances or transformer windings or to rotate the position of a moving-coil AC regulator to gradually step the output voltage up or down.
+Early automobile generators and alternators had a mechanical voltage regulator using one, two, or three relays and various resistors to stabilize the generator's output at slightly more than either 6.7 or 13.4 V to maintain the electrical system voltage as independently of the engine's RPM or the varying load on the vehicle's electrical system as possible. The relay(s) modulate the width of a current pulse to control the average field current in the rotating machine, which determines the strength of the magnetic field produced, which determines the unloaded output voltage at a given RPM. Both alternators and generators produce a rotating magnetic field that induces an alternating current in the coils in the stator. A generator uses a mechanical commutator, graphite brushes running on copper segments, to convert the AC produced into DC by switching the external connections at the shaft angle when the voltage would reverse. An alternator accomplishes the same goal using rectifiers.
+Modern designs now use solid-state technology to perform the same function that the relays perform in electromechanical regulators.
+Electromechanical regulators are used for mains voltage stabilisation (see below).
+
+== Automatic voltage regulator ==
+
+Generators, as used in power stations, ship electrical power production, or standby power systems, will have automatic voltage regulators (AVR) to stabilize their voltages as the load on the generators changes. The first AVRs for generators were electromechanical systems, but a modern AVR uses solid-state devices. An AVR is a feedback control system that measures the output voltage of the generator, compares that output to a set point, and generates an error signal that is used to adjust the excitation of the generator. As the excitation current in the field winding of the generator increases, its terminal voltage will increase. The AVR will control current by using power electronic devices; generally, a small part of the generator's output is used to provide current for the field winding.  
+Where a generator is connected in parallel with other sources such as an electrical transmission grid, changing the excitation has more of an effect on the reactive power produced by the generator than on its terminal voltage, which is mostly set by the connected power system. Where multiple generators are connected in parallel, the AVR system will have circuits to ensure all generators operate at the same power factor. AVRs on grid-connected power station generators may have additional control features to help stabilize the electrical grid against upsets due to sudden load loss or faults.
+
+== AC voltage stabilizers ==
+
+=== Movable-coil AC voltage regulator ===
+
+An older type of regulator from the 1920s uses the principle of a fixed-position field coil and a second field coil that can be rotated on an axis in parallel with the fixed coil, similar to a variocoupler. When the movable coil is positioned perpendicular to the fixed coil, the magnetic forces acting on the movable coil balance each other out and the voltage output is unchanged. Rotating the coil in one direction or the other away from the center position will increase or decrease voltage in the secondary movable coil.
+This type of regulator can be automated via a servo control mechanism to advance the movable coil position in order to provide voltage increase or decrease. A braking mechanism or high-ratio gearing is used to hold the rotating coil in place against the powerful magnetic forces acting on the movable coil.
+
+=== Electromechanical ===
+
+Electromechanical regulators called voltage stabilizers or tap-changers, have also been used to regulate the voltage on AC power distribution lines. These regulators operate by using a servomechanism to select the appropriate tap on an autotransformer with multiple taps, or by moving the wiper on a continuously variable auto transfomer. If the output voltage is not in the acceptable range, the servomechanism switches the tap, changing the turns ratio of the transformer, to move the secondary voltage into the acceptable region. The controls provide a dead band wherein the controller will not act, preventing the controller from constantly adjusting the voltage ("hunting") as it varies by an acceptably small amount.
+
+=== Constant-voltage transformer ===
+
+The ferroresonant transformer, ferroresonant regulator or constant-voltage transformer is a type of saturating transformer used as a voltage regulator. These transformers use a tank circuit composed of a high-voltage resonant winding and a capacitor to produce a nearly constant average output voltage with a varying input current or varying load. The circuit has a primary on one side of a magnet shunt and the tuned circuit coil and secondary on the other side. Voltage regulation results from magnetic saturation in the portion of the core associated with the resonant winding and secondary.
+The ferroresonant approach is attractive due to its lack of active components, relying on the square-loop magnetic characteristics of the core operating in saturation to absorb variations in average input voltage. Saturating transformers provide a simple rugged method to stabilize an AC power supply.
+Older designs produced outputs with significant harmonic content. Modern designs improve waveform quality, but the output is not an ideal sine wave. The ferroresonant action is a flux limiter rather than a voltage regulator, but with a fixed supply frequency it can maintain an almost constant average output voltage even as the input voltage varies widely.
+The ferroresonant transformers, which are also known as constant-voltage transformers (CVTs) or "ferros", are also good surge suppressors, as they provide high isolation and inherent short-circuit protection.
+A ferroresonant transformer can operate with an input voltage range ±40% or more of the nominal voltage.
+Output power factor remains in the range of 0.96 or higher from half to full load.
+Because it regenerates an output voltage waveform, output distortion, which is typically less than 4%, is independent of any input voltage distortion, including notching.
+Efficiency at full load is typically in the range of 89% to 93%. However, at low loads, efficiency can drop below 60%. The current-limiting capability also becomes a handicap when a CVT is used in an application with moderate to high inrush current, like motors, transformers or magnets. In this case, the CVT has to be sized to accommodate the peak current, thus forcing it to run at low loads and poor efficiency.
+Minimum maintenance is required, as transformers and capacitors can be very reliable. Some units have included redundant capacitors to allow several capacitors to fail between inspections without any noticeable effect on the device's performance.
+Output voltage varies about 1.2% for every 1% change in supply frequency. For example, a 2 Hz change in generator frequency, which is very large, results in an output voltage change of only 4%, which has little effect for most loads.
+It accepts 100% single-phase switch-mode power-supply loading without any requirement for derating, including all neutral components.
+Input current distortion remains less than 8% THD even when supplying nonlinear loads with more than 100% current THD.
+Drawbacks of CVTs are their larger size, audible humming sound, and the high heat generation caused by saturation.
+Some ferroresonant transformer have active control.
+
+=== Power distribution ===
+
+Voltage regulators or stabilizers are used to compensate for voltage fluctuations in mains power. Large regulators may be permanently installed on distribution lines. Small portable regulators may be plugged in between sensitive equipment and a wall outlet. Automatic voltage regulators on generator sets to maintain a constant voltage for changes in load. The voltage regulator compensates for the change in load. Power distribution voltage regulators normally operate on a range of voltages, for example 150–240 V or 90–280 V.
+
+== DC voltage stabilizers ==
+Many simple DC power supplies regulate the voltage using either series or shunt regulators, but most apply a voltage reference using a shunt regulator such as a Zener diode, avalanche breakdown diode, or voltage regulator tube. Each of these devices begins conducting at a specified voltage and will conduct as much current as required to hold its terminal voltage to that specified voltage by diverting excess current from a non-ideal power source to ground, often through a relatively low-value resistor to dissipate the excess energy. The power supply is designed to only supply a maximum amount of current that is within the safe operating capability of the shunt regulating device.
+If the stabilizer must provide more power, the shunt  output is only used to provide the standard voltage reference for the electronic device, known as the voltage stabilizer. The voltage stabilizer is the electronic device, able to deliver much larger currents on demand.
+
+== Active regulators ==
+Active regulators employ at least one active (amplifying) component such as a transistor or operational amplifier. Shunt regulators are often (but not always) passive and simple, but always inefficient because they (essentially) dump the excess current which is not available to the load. When more power must be supplied, more sophisticated circuits are used. In general, these active regulators can be divided into several classes:
+
+Linear series regulators
+Switching regulators
+SCR regulators
+
+=== Linear regulators ===
+
+Linear regulators are based on devices that operate in their linear region (in contrast, a switching regulator is based on a device forced to act as an on/off switch). Linear regulators are also classified in two types:
+
+series regulators
+shunt regulators
+In the past, one or more vacuum tubes were commonly used as the variable resistance. Modern designs like Shakti Servo use one or more transistors instead, perhaps within an integrated circuit. Linear designs have the advantage of very "clean" output with little noise introduced into their DC output, but are most often much less efficient and unable to step-up or invert the input voltage like switched supplies. All linear regulators require a higher input than the output. If the input voltage approaches the desired output voltage, the regulator will "drop out". The input to output voltage differential at which this occurs is known as the regulator's drop-out voltage. Low-dropout regulators (LDOs) allow an input voltage that can be much lower (i.e., they waste less energy than conventional linear regulators).
+Entire linear regulators are available as integrated circuits. These chips come in either fixed or adjustable voltage types. Examples of some integrated circuits are the 723 general purpose regulator and 78xx /79xx series
+
+=== Switching regulators ===
+
+Switching regulators rapidly switch a series device on and off. The duty cycle of the switch determines the average current.  Adjusting duty cycle (percentage of time on) adjusts
+average current, when load current drops voltage.
+A switching regulator works similar to an appliance charger.  When battery charge is low, a charger is plugged in and energy is transferred to the battery.  When charge is high, the charger disables itself, or is unplugged.  A switching regulator nominally cycles hundreds to tens of thousands times per second automatically.
+The duty cycle is controlled by a similar feedback mechanism as in a linear regulator.
+Because the series element is either fully conducting, or switched off, it dissipates almost no power; this is what gives the switching design its efficiency. Switching regulators are also able to generate output voltages which are higher than the input, or of opposite polarity—something not possible with a linear design. In switched regulators, the pass transistor is used as a "controlled switch" and is operated at either cutoff or saturated state. Hence the power transmitted across the pass device is in discrete pulses rather than a steady current flow. Greater efficiency is achieved since the pass device is operated as a low-impedance switch. When the pass device is at cutoff, there is no current and it dissipates no power. Again when the pass device is in saturation, a negligible voltage drop appears across it and thus dissipates only a small amount of average power, providing maximum current to the load. In either case, the power wasted in the pass device is very little and almost all the power is transmitted to the load. Thus the efficiency of a switched-mode power supply is remarkably high – in the range of 70–90%.
+Switched mode regulators rely on pulse-width modulation to control the average value of the output voltage. The average value of a repetitive-pulse waveform depends on the area under the waveform. When the duty cycle is varied, the average voltage changes proportionally.
+Like linear regulators, nearly complete switching regulators are also available as integrated circuits (e.g. LM2676, TEA1566 Greenchip, 555). Unlike linear regulators, these usually require an inductor for step-up or capacitor for step-down, that acts as the energy storage element. The IC regulators combine the reference voltage source, error op-amp, and pass transistor with short-circuit current limiting and thermal-overload protection.
+Switching regulators are more prone to input noise, output noise, and instability than linear regulators. However, they provide much better power efficiency than linear regulators.
+
+=== SCR regulators ===
+Regulators powered from AC power circuits can use silicon controlled rectifiers (SCRs) as the series device. Whenever the output voltage is below the desired value, the SCR is triggered, allowing electricity to flow into the load until the AC mains voltage passes through zero (ending the half cycle). SCR regulators have the advantages of being both very efficient and very simple, but because they can not terminate an ongoing half cycle of conduction, they are not capable of very accurate voltage regulation in response to rapidly changing loads. An alternative is the SCR shunt regulator which uses the regulator output as a trigger. Both series and shunt designs are noisy, but powerful, as the device has a low on resistance.
+
+=== Combination or hybrid regulators ===
+Many power supplies use more than one regulating method in series. For example, the output from a switching regulator can be further regulated by a linear regulator. The switching regulator accepts a wide range of input voltages and efficiently generates a (somewhat noisy) voltage slightly above the ultimately desired output. That is followed by a linear regulator that generates exactly the desired voltage and eliminates nearly all the noise generated by the switching regulator. Other designs may use an SCR regulator as the "pre-regulator", followed by another type of regulator. An efficient way of creating a variable-voltage, accurate output power supply is to combine a multi-tapped transformer with an adjustable linear post-regulator.
+
+== Example of linear regulators ==
+
+=== Transistor regulator ===
+In the simplest case a common base amplifier is used with the base of the regulating transistor connected directly to the voltage reference:
+
+A simple transistor regulator will provide a relatively constant output voltage Uout for changes in the voltage Uin of the power source and for changes in load RL, provided that Uin exceeds Uout by a sufficient margin and that the power handling capacity of the transistor is not exceeded.
+The output voltage of the stabilizer is equal to the Zener diode voltage minus the base–emitter voltage of the transistor, UZ − UBE, where UBE is usually about 0.7 V for a silicon transistor, depending on the load current. If the output voltage drops for any external reason, such as an increase in the current drawn by the load (causing an increase in the collector–emitter voltage to observe KVL), the transistor's base–emitter voltage (UBE) increases, turning the transistor on further and delivering more current to increase the load voltage again.
+Rv provides a bias current for both the Zener diode and the transistor. The current in the diode is minimal when the load current is maximal. The circuit designer must choose a minimum voltage that can be tolerated across Rv, bearing in mind that the higher this voltage requirement is, the higher the required input voltage Uin, and hence the lower the efficiency of the regulator. On the other hand, lower values of Rv lead to higher power dissipation in the diode and to inferior regulator characteristics.
+Rv is given by
+
+Rv=min⁡VRmin⁡ID+max⁡IL/(hFE+1),
+where
+
+min VR is the minimum voltage to be maintained across Rv,
+min ID is the minimum current to be maintained through the Zener diode,
+max IL is the maximum design load current,
+hFE is the forward current gain of the transistor (IC/IB).
+
+=== Regulator with a differential amplifier ===
+The stability of the output voltage can be significantly increased by using a differential amplifier, possibly implemented as an operational amplifier:
+
+In this case, the operational amplifier drives the transistor with more current if the voltage at its inverting input drops below the output of the voltage reference at the non-inverting input. Using the voltage divider (R1, R2 and R3) allows choice of the arbitrary output voltage between Uz and Uin.
+
+== Regulator specification ==
+The output voltage can only be held constant within specified limits. The regulation is specified by two measurements:
+
+Load regulation is the change in output voltage for a given change in load current (for example, "typically 15 mV, maximum 100 mV for load currents between 5 mA and 1.4 A, at some specified temperature and input voltage").
+Line regulation or input regulation is the degree to which output voltage changes with input (supply) voltage changes—as a ratio of output to input change (for example, "typically 13 mV/V"), or the output voltage change over the entire specified input voltage range (for example, "plus or minus 2% for input voltages between 90 V and 260 V, 50–60 Hz").
+Other important parameters are:
+
+Temperature coefficient of the output voltage is the change with temperature (perhaps averaged over a given temperature range).
+Initial accuracy of a voltage regulator (or simply "the voltage accuracy") reflects the error in output voltage for a fixed regulator without taking into account temperature) or aging effects on output accuracy.
+Measures Temperature-Induced Drift it quantifies how much the output voltage drifts due to variations in temperature.
+Averaged Value the tempco is generally an average over the specified operating temperature range, not an incremental slope measured at a single point.
+Dropout voltage is the minimum difference between input voltage and output voltage for which the regulator can still supply the specified current. The input-output differential at which the voltage regulator will no longer maintain regulation is the dropout voltage. Further reduction in input voltage will result in reduced output voltage. This value is dependent on load current and junction temperature.
+Inrush current or input surge current or switch-on surge is the maximum, instantaneous input current drawn by an electrical device when first turned on. Inrush current usually lasts for half a second, or a few milliseconds, but it is often very high, which makes it dangerous because it can degrade and burn components gradually (over months or years), especially if there is no inrush current protection. Alternating current transformers or electric motors in automatic voltage regulators may draw and output several times their normal full-load current for a few cycles of the input waveform when first energized or switched on. Power converters also often have inrush currents much higher than their steady state currents, due to the charging current of the input capacitance.
+Absolute maximum ratings are defined for regulator components, specifying the continuous and peak output currents that may be used (sometimes internally limited), the maximum input voltage, maximum power dissipation at a given temperature, etc.
+Output noise (thermal white noise) and output dynamic impedance may be specified as graphs versus frequency, while output ripple noise (mains "hum" or switch-mode "hash" noise) may be given as peak-to-peak or RMS voltages, or in terms of their spectra.
+Quiescent current in a regulator circuit is the current drawn internally, not available to the load, normally measured as the input current while no load is connected and hence a source of inefficiency (some linear regulators are, surprisingly, more efficient at very low current loads than switch-mode designs because of this).
+Transient response is the reaction of a regulator when a (sudden) change of the load current (called the load transient) or input voltage (called the line transient) occurs. Some regulators will tend to oscillate or have a slow response time which in some cases might lead to undesired results. This value is different from the regulation parameters, as that is the stable situation definition. The transient response shows the behaviour of the regulator on a change. This data is usually provided in the technical documentation of a regulator and is also dependent on output capacitance.
+Mirror-image insertion protection means that a regulator is designed for use when a voltage, usually not higher than the maximum input voltage of the regulator, is applied to its output pin while its input terminal is at a low voltage, volt-free or grounded. Some regulators can continuously withstand this situation. Others might only manage it for a limited time such as 60 seconds (usually specified in the data sheet). For instance, this situation can occur when a three terminal regulator is incorrectly mounted on a PCB, with the output terminal connected to the unregulated DC input and the input connected to the load. Mirror-image insertion protection is also important when a regulator circuit is used in battery charging circuits, when external power fails or is not turned on and the output terminal remains at battery voltage.

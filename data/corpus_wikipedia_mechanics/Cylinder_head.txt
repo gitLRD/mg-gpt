@@ -1,0 +1,34 @@
+Cylinder head
+
+In a piston engine, the cylinder head sits above the cylinders, forming the roof of the combustion chamber. In sidevalve engines the head is a simple plate of metal containing the spark plugs and possibly heat dissipation fins. In more modern overhead valve and overhead camshaft engines, the head is a more complicated metal block that also contains the inlet and exhaust passages, and often coolant passages, valvetrain components, and  fuel injectors.
+
+== Number of cylinder heads ==
+A piston engine typically has one cylinder head per bank of cylinders. 
+Most modern engines with a "straight" (inline) layout today use a single cylinder head that serves all the cylinders. 
+Engines with a "V" layout or "flat" layout typically use two cylinder heads (one for each cylinder bank), however a small number of 'narrow-angle' V engines (such as the Volkswagen VR5 and VR6 engines) use a single cylinder head spanning the two banks. 
+Most radial engines have one head for each cylinder, although this is usually of the monobloc form wherein the head is made as an integral part of the cylinder. This is also common for motorcycles, and such head/cylinder components are referred to as barrels.
+Some engines, particularly medium- and large-capacity diesel engines built for industrial, marine, power generation, and heavy traction purposes (large trucks, locomotives, heavy equipment, etc.) have individual cylinder heads for each cylinder. This reduces repair costs as a single failed head on a single cylinder can be changed instead of a larger, much more expensive unit fitting all the cylinders.  Such a design also allows engine manufacturers to easily produce a 'family' of engines of different layouts and/or cylinder numbers without requiring new cylinder head designs.
+
+== Design ==
+
+== Engine/valvetrain configurations ==
+
+=== Sidevalve engines ===
+In a flathead (sidevalve) engine, all of the valvetrain components are contained within the block, therefore the head is usually a simple plate of metal bolted to the top of the engine block. Sidevalve engines were once universal but are now largely obsolete in automobiles, found almost exclusively in small engines such as lawnmowers, weed trimmers and chainsaws.
+
+=== Intake over exhaust (IOE) engines ===
+Intake Over Exhaust (IOE) engines combined elements of the sidevalve and overhead valve designs. Used extensively in American motorcycles in the early 1900s, the IOE engine remained in production in limited numbers until the 1990s. IOE engines are more efficient than sidevalve engines, but also more complex, larger and more expensive to manufacture.
+
+=== Overhead engines (OHV & OHC) ===
+In an overhead valve (OHV) or overhead camshaft (OHC) engine, the cylinder head contains several airflow passages called ports;  intake ports deliver the fuel+air intake charge from the intake manifold to the combustion chamber, and exhaust ports route combustion waste gases out the combustion chamber to the exhaust manifold.  Valves open and close the ports, with the intakes offset fore-and-aft from the exhausts. The head also contains the spark plugs, and on water-cooled engines, the coolant passages.
+
+==== Overhead valve (OHV) engines ====
+A single camshaft located in the engine block uses pushrods and rocker arms to actuate all the valves. 
+OHV engines are typically more compact than equivalent OHC engines, and fewer parts mean cheaper production, but they have largely been replaced by OHC designs, except in some American V8 engines.
+
+==== Overhead camshaft (OHC) engines ====
+An overhead camshaft (OHC) engine locates the camshaft(s) in the cylinder head above the combustion chamber. Eliminating pushrods lessens valvetrain inertia and provides space for optimized port designs, both providing increased power potential.
+In a single overhead camshaft (SOHC) engine, the camshaft may be seated centrally between valve rows, or directly above a single row of valves (replacing rocker arm actuation with tappets). SOHC engines were widely from the 1960s to 1990s. (eliminating pushrods but still utilizing rocker arms)
+Double overhead camshaft (DOHC) engines seat a camshaft directly above each row of offset valves (intakes inboard, exhausts outboard).  DOHC designs allow optimal crossflow positioning of valves to provide higher-RPM operation. They are typically larger in size (especially width) than equivalent OHV or SOHC engines. Even though more components raise production costs, DOHC engines seen widespread use in automobile engines since the 1990s. 
+
+== Gallery ==

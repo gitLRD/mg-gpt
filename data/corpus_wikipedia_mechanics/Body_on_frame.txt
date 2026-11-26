@@ -1,0 +1,111 @@
+Body-on-frame
+
+Body-on-frame, also known as full-frame, is a traditional motor vehicle construction method whereby a separate body or coach is mounted on a strong and relatively rigid vehicle frame or chassis that carries the powertrain (the engine and drivetrain) and to which the wheels and their suspension, brakes, and steering are mounted. Whereas this was the original method of building automobiles, body-on-frame construction is now used mainly for pickup trucks, large SUVs, and heavy trucks.
+
+In the late 19th century, the frames, like those of the carriages they replaced, might be made of wood (commonly ash), reinforced by steel flitch plates, but in the early 20th century, steel ladder frames or chassis rapidly became standard. Mass production of all-metal bodies began with the Budd Company and the Dodge Brothers. All-metal bodies became common in the 1920s, except for Europe, which followed almost a decade later.  Europe's custom-made or "coachbuilt" cars usually contained some wood framing or used aluminium alloy castings. Towards the beginning of international automobile assembly and construction, most manufacturers created rolling chassis consisting of a powertrain, suspension, steering column and a fuel tank that was then sent to a coachbuilder that added the body, interior and upholstery to the customers specific requests.
+In contrast, unibody or monocoque designs, where panels within the body supported the car on its suspension, were developed by European manufacturers in the late 1920s with Budd USA (which had a number of large factories in Europe) and its technical know-how. Because of the high cost of designing and developing these structures and the high cost of specialised machinery to make the large pressings required by this style of construction it is not used by low-volume manufacturers, who might construct an equivalent by welding steel tube to form a suitable space frame.
+
+== History ==
+
+The Ford Model T carried the tradition of body-on-frame over from horse-drawn buggies, helping to facilitate high volume manufacturing on a moving assembly line. The use of steel ladder and X frame chassis allowed numerous vehicles to share a chassis and drivetrain while making changes to bodywork and interiors relatively easy, thus keeping costs down and minimizing design time. Over time the technology for unibody construction became economically feasible, assisted in recent decades by computer-aided design. in addition, modern creature comforts, luxury and power-assisted features, and extensive safety reinforcement of vehicles have all added substantial weight; the ability to offset this with unibody construction has proven advantageous.
+A handful of  small passenger vehicles switched to unibody construction by the end of the 1930s. The trend had started with cars like the Citroën Traction Avant (1934) and Opel Olympia (a General Motors design) introduced in 1935, and the short-lived, aborted Chrysler Airflow. Trucks, bus manufacturers, and large low-volume cars or those made in the United States continued to use separate bodies on "conventional" frames. Body-on-frame remains the preferred construction method for heavy-duty commercial vehicles (especially those intended to carry or pull heavy loads, such as trucks and some sport utility vehicles (SUVs)) but as production volumes rise, increasing numbers of SUVs and crossover SUVs are switching to unibody frames. Mass-market manufacturers Ford, General Motors, and Chrysler are abandoning true body-on-frame SUVs, opting, when sales volume permits, for more efficient unibody construction. Toyota currently manufactures the most body-on-frame SUVs with the 4Runner, Sequoia, Land Cruiser, Land Cruiser Prado, Lexus GX, and Lexus LX, followed by Nissan with the Patrol, Armada, and Infiniti QX56/80.
+
+== Examples ==
+The following is a list of SUVs and light-duty pickup trucks that have a body-on-frame construction. The list is divided by vehicle category.
+
+=== Sedans ===
+
+==== Full-size sedans ====
+Ford Crown Victoria
+Toyota Crown (until November 1995)
+Chevrolet Caprice (until December 1996)
+
+=== SUVs/wagons ===
+
+==== Mini/compact SUV ====
+Kia Sportage (until 2004)
+Suzuki Jimny
+Toyota Land Cruiser FJ
+
+==== Mid-size SUV ====
+Toyota FJ Cruiser
+Toyota 4Runner
+INEOS Grenadier
+Toyota Fortuner
+Toyota Land Cruiser Prado
+Land Rover Defender (until 2020)
+Land Rover Discovery (until 2017)
+Lexus GX
+Mitsubishi Pajero Sport
+Mahindra Scorpio-N
+Nissan Pathfinder (until 2012)
+Nissan Terra
+Nissan Xterra
+SsangYong Rexton
+Isuzu MU-X
+Chrysler Aspen
+Dodge Durango (until 2009)
+Jeep Commander
+Jeep Wrangler
+Ford Bronco
+Ford Everest
+Ford Explorer (until 2010)
+Kia Mohave
+Kia Sorento (until 2011)
+Mercedes-Benz G-Class
+Mercedes-Benz GLE (Under ML badge until 2005)
+Mercury Mountaineer
+Lincoln Aviator (until 2005)
+Chevrolet TrailBlazer (until 2009, excluding Isuzu-based LATAM model)
+GMC Envoy
+Buick Rainier
+Oldsmobile Bravada
+Saab 9-7X
+
+==== Full-size SUV ====
+Toyota Land Cruiser
+Toyota Sequoia
+Lexus LX
+Cadillac Escalade (ESV)
+Chevrolet Suburban
+Chevrolet Tahoe
+Mitsubishi Pajero(1981–1999, 2026)
+Nissan Patrol
+Nissan Armada
+GMC Yukon (XL)
+Ford Expedition (EL/Max)
+Lincoln Navigator (L)
+Infiniti QX80
+
+==== Compact MPV ====
+Isuzu Panther
+Mitsubishi Zinger
+
+==== Mid-size MPV ====
+Toyota Innova
+
+=== Pickup trucks ===
+
+==== Mid-size pickup truck ====
+Holden Colorado
+Chevrolet Colorado
+Ford Ranger
+Dodge Dakota
+GMC Canyon
+Isuzu D-Max
+Renault Alaskan
+Toyota Hilux
+Toyota Tacoma
+Mazda BT-50
+Mitsubishi Triton
+Nissan Navara
+Jeep Gladiator
+Volkswagen Amarok
+
+==== Full-size pickup truck ====
+Chevrolet Silverado
+Ford F-Series
+GMC Sierra
+Nissan Titan
+Ram pickup
+Toyota Tundra

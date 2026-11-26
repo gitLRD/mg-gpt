@@ -1,0 +1,59 @@
+# 9. Supplementary tests for buses and coaches
+
+## 9.1. Doors
+
+## 9.1.1. Entrance and exit doors
+
+You should only reject a door for deteriorated condition if:
+
+- its function is impaired
+
+- it’s likely to cause injury
+
+Emergency controls are only needed on power operated doors. However, power operated doors constructed or adapted for the secure transport of prisoners do not need emergency controls.
+
+If you’re not sure if there’s a ‘door open’ warning device, you should give the benefit of the doubt.
+
+## 9.1.2. Emergency exits
+
+You must inspect the emergency exits for all buses and coaches first used on or after 1 April 1988 except those constructed or adapted for the secure transport of prisoners.
+
+Buses and coaches first used on or after 1 April 1988 must have at least one passenger door on the nearside and one of the following:
+
+- an additional passenger door at the rear - in this case, the bus or coach does not need a designated emergency exit
+
+- an emergency exit at the rear
+
+- an emergency exit on the offside (not the driver’s door)
+
+Emergency exits must latch securely closed and be able to be opened from both inside and outside the vehicle (with the door unlocked).
+
+The exact wording/pictogram used for exit markings may vary but variations are acceptable as long as it is clear that it is an emergency exit and the means of operation are present.
+
+If a ‘break glass’ emergency exit is fitted, there must also be a suitable hammer or similar device close to it.
+
+## 9.2. Not in use
+
+## 9.3. Not in use
+
+## 9.4. Not in use
+
+## 9.5. Not in use
+
+## 9.6. Passenger grab handles
+
+You should reject rails and grab handles, including those that form part of the seat back, if they’re either:
+
+- insecure
+
+- in a condition likely to cause injury
+
+## 9.7. Steps and stairs
+
+You must check all passenger stairs on double deck or split level buses and coaches.
+
+You must reject stairs if they’re likely to either:
+
+- be a trip hazard
+
+- cause injury

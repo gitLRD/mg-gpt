@@ -1,0 +1,66 @@
+Beam axle
+
+A beam axle, rigid axle, or solid axle is a dependent suspension design in which a set of wheels is connected laterally by a single beam or shaft. Beam axles were once commonly used at the rear wheels of a vehicle, but historically, they have also been used as front axles. In most automobiles, beam axles have been replaced with front (IFS) and rear independent suspensions (IRS).
+
+== Implementation ==
+
+With a beam axle, the camber angle between the wheels is the same regardless of its location in the travel of the suspension.
+A beam axle's location in the fore and aft directions is constrained by one of several suspension components, including trailing arms, semi-trailing arms, radius rods, and leaf springs. The lateral location can be constrained by a Panhard rod, a Scott Russell linkage, a Watt's linkage, or some other arrangement, most commonly by the leaf springs. Shock absorbers and either leaf springs, coil springs, or air bags are used to control vertical movement.
+
+== Live axle vs dead axle ==
+
+A live axle is a type of beam axle in which the shaft (or, commonly, shafts connected to move as a single unit) also transmits power to the wheels; a beam axle that does not also transmit power is sometimes called a dead axle. While typically used in vehicles with Hotchkiss drive, this suspension system can also be used with other types of power transmission.
+
+== Advantages ==
+A beam axle is typically simple in design, rugged, and inexpensive to manufacture.
+Only one universal joint or constant-velocity joint (CV) is needed at each steered and driven wheel and none are needed at non-steered wheels; this reduces maintenance requirements and manufacturing costs compared to independent suspensions, which typically require two such joints at each driven wheel.
+The CVs are located in metal enclosures attached to the axle housings; there are no rubber CV boots that may be cut or punctured when off-roading.
+A beam axle is space-efficient, an important advantage for off-road applications, as it provides better vehicle articulation and durability in a high-load environment.
+Camber angle is rigidly fixed by axle geometry; for a live axle, toe is typically fixed as well.
+As the vehicle's body rolls during hard cornering, the unchanging camber yields predictable handling—at least on smooth surfaces.
+Wheel alignment is simplified.
+Traction, braking and tire wear characteristics do not change as the suspension is compressed. These are great benefits in a vehicle that carries heavy loads, and together with the beam axle's characteristic strength, this has resulted in front and rear beam axles being nearly universal in buses and heavy-duty trucks. Most light- and medium-duty pickup trucks, SUVs, and vans also use a beam axle, at least in the rear.
+A beam axle is easier and less expensive to modify than other axles. This is because it has fewer parts, less mechanical complexity, and more empty space between suspension components, axles, and the vehicle's frame or body. This makes it easier to work with when making modifications such as adding lift kits to increase body or running clearance, or installing larger diameter tires to increase ground/axle clearance.
+
+== Disadvantages ==
+A beam axle does not allow each wheel to move independently in response to uneven surfaces, which can lead to adverse vibration and worse handling than more sophisticated suspension designs.
+In turns, the outside wheel is subjected to negative camber angles when the inside wheel hits a bump, which can suddenly reduce or increase cornering grip and destabilize the vehicle.
+Toe is typically fixed at zero for a live axle, and dynamic toe control is difficult to implement.
+The mass of the beam is part of the unsprung weight of the vehicle, hurting ride quality.
+The need for lateral location devices such as a Panhard rod or Watt's linkage adds more unsprung weight and partially offsets the beam axle's advantages in terms of simplicity, space efficiency, and cost.
+In a vehicle with conventional Hotchkiss drive, the entire axle may twist in its mounts in reaction to torque loads; during hard acceleration, this may reduce traction and induce wheel hop or sudden adverse toe changes.
+The bulky differential housing of a Hotchkiss live axle reduces ground clearance, hindering the vehicle's ability to ford deep mud, clear obstacles and negotiate deeply rutted roads.
+The differential housing can only be raised by using larger wheels and tires, typically with a penalty in unsprung weight, braking effectiveness and acquisition costs; furthermore, vehicle modifications may be necessary for adequate fender or frame clearance.
+Front beam axle suspension is unusually sensitive to any lack of concentricity in the hub and wheel assembly which can cause a side-to-side oscillation ("shimmy") of the steering at certain speeds (typically 60–80 km/h; 40–50 mph), commonly referred to as "death wobble" within the 4×4 community. This is addressed on some vehicles with steering dampers, although removal and careful refitting of the front wheels often resolves the problem.
+The axles and supporting hardware take up more room underneath the vehicle compared to independent suspension, this leaves less room for people and cargo without having an excessively tall vehicle. Which is more likely to roll over due to high center of gravity, if vehicle width is not increased.
+
+== Axle truss ==
+An axle truss is typically a six-millimeter thick steel plate bent into a "Π"-shaped beam and welded with the open side facing the top of the differential or axle housing. It reinforces a solid axle so that it does not bend or break when the axle's load rating is exceeded. A larger/thicker axle is stronger, but also comes with increased cost, unsprung weight, and more compatibility issues (drivetrain, suspension, steering geometries, body mount locations, clearances) on smaller vehicles.
+
+== eAxle ==
+eAxle or E-axle is a solid axle with electric motors attached to the differential, either end, or elsewhere. Inverters, power electronics, gearboxes, transfer cases (including low-range gearing), and transmissions may also be attached to the motors and/or axle. All components move with the axle as unsprung weight. 
+eAxle(s) maybe used to replace dead/un-powered axles, as modifying a 6x2 into a 6x6 or 8x8 is typically very expensive and difficult, requiring numerous custom made parts, re-engineering, recertification. eAxles just need to be wired to a battery and/or electricity generator.
+
+== Examples ==
+
+=== Modern production vehicles with solid front axle ===
+Suzuki Jimny
+Jeep Wrangler
+Jeep Gladiator
+Toyota Land Cruiser 70 Series
+Ineos Grenadier
+Mercedes-Benz G-Class (1990–2019)
+Land Rover Defender (1990–2016)
+212 T01
+Tank 300 Hooke
+Ford Super Duty
+Ram Heavy Duty (fifth generation)
+Mahindra Bolero Pik-Up
+
+=== Unibody modern production vehicles with solid axle ===
+Jeep Liberty
+Jeep Grand Cherokee (2004–2010)
+Jeep Cherokee (XJ)
+Jeep Commander (2005–2010)
+Dodge Nitro
+Lada Niva

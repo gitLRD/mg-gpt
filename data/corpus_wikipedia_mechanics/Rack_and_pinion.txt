@@ -1,0 +1,23 @@
+Rack and pinion
+
+A rack and pinion is a type of linear actuator that comprises a circular gear (the pinion) engaging a linear gear (the rack). Together, they convert between rotational motion and linear motion: rotating the pinion causes the rack to be driven in a line. Conversely, moving the rack linearly will cause the pinion to rotate. 
+
+== Uses ==
+The rack and pinion mechanism is used in rack railways, where the pinion mounted on a locomotive or a railroad car engages a rack usually placed between the rails, and helps to move the train up a steep gradient.  It is also used in arbor presses and drill presses, where the pinion is connected to a lever and displaces a vertical rack (the ram).  In pipelines and other industrial piping systems, a rack displaced by a linear actuator turns a pinion to open or close a valve. Stairlifts, lock gates, electric gates, and the mechanical steering mechanism of cars are other notable applications. 
+The term "rack and pinion" may be used also when the rack is not straight but arcuate (bent), namely just a section of a large gear.
+A single pinion can simultaneously drive two racks, parallel but opposite; which will always be displaced by the same distance, only in opposite directions.  Conversely, by applying opposite forces to the two racks one can obtain pure torque on the pinion, without any force component.  This double rack and pinion mechanism can be used, for example, with a pair of pneumatic actuators to operate a valve with minimum stress.
+
+== Gallery ==
+
+== History ==
+
+The cranequin was a rack-and-pinion device used in the 15th century to draw back the string of a crossbow.
+In 1598, firearms designer Zhao Shizhen developed the Xuanyuan arquebus (軒轅銃), featuring a rack-and-pinion matchlock mechanism derived from an Ottoman Turkish matchlock design. The Wu Pei Chih (1621) later described Ottoman Turkish muskets that used a rack-and-pinion mechanism.
+The use of a variable rack (still using a normal pinion) was invented by Arthur Ernest Bishop in the 1970s, so as to improve vehicle response and steering "feel", especially at high speeds. He also created a low cost press forging process to manufacture the racks, eliminating the need to machine the gear teeth.
+
+== Comparison with Worm gear ==
+
+A rack and pinion has roughly the same purpose as a worm gear with a rack replacing the worm, in that both convert torque to linear force. However the rack and pinion generally provides higher linear speed — since a full turn of the pinion displaces the rack by an amount equal to the pinion's pitch circle whereas a full rotation of the worm screw only displaces the rack by one tooth width.  By the same token, a rack and pinion mechanism yields a smaller linear force than a worm gear, for the same input torque. Also, a rack and pinion pair can be used in the opposite way, to turn linear force into torque; whereas a worm drive can be used in only one way.
+
+== Geometry ==
+The teeth of a rack and pinion pair may be either straight (parallel to the rotation axis, as in a spur gear) or helical. On the pinion, the profile of the working tooth surfaces is usually an arc of involute, as in most gears. On the rack, on the other hand, the matching working surfaces are flat.  One may interpret them as involute tooth faces for a gear with infinite radius.  In both parts the teeth are typically formed with a gear cutter (a hob).

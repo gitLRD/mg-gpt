@@ -1,0 +1,65 @@
+Brake pad
+
+Brake pads are a component of disc brakes used in automotive and other applications. Brake pads are composed of steel backing plates with friction material bound to the surface that faces the disc brake rotor.
+
+== Function ==
+Brake pads convert the kinetic energy of a vehicle to thermal energy through friction. Two brake pads are contained in the brake  with their friction surfaces facing the rotor. When the brakes are hydraulically applied, the caliper clamps or squeezes the two pads together onto the spinning rotor to slow and stop the vehicle. When a brake pad heats up due to contact with the rotor, it transfers small amounts of its friction material onto the disc, leaving a dull grey coating on it. The brake pad and disc (now both having the friction material), then "stick" to each other, providing the friction that stops the vehicle.
+In disc brakes, there are usually two brake pads per disc rotor, they both function together. These are held in place and actuated by a caliper affixed to the wheel hub or suspension upright. Racing calipers, however, can utilize up to six pads, with varying frictional properties in a staggered pattern for optimum performance.
+Depending on the properties of the material, the weight of the vehicle and the speeds it is driven at, disc wear rates may vary. The brake pads must usually be replaced regularly (depending on pad material). Most brake pads are equipped with a method of alerting the driver when this needs to be done. A common technique is manufacturing a small central groove whose eventual disappearance by wear indicates the end of a pad's service life. Other methods include placing a thin strip of soft metal in a groove, such that when exposed (due to wear) the brakes squeal audibly.  A soft metal wear tab can also be embedded in the pad material that closes an electric circuit when the brake pad wears thin, lighting a dashboard warning light.
+
+== History ==
+The concept of brake pads or disc brakes as an alternative to drum brakes had been around at least as early as a patent by F. W. Lanchester in 1902. However, due to high cost and inefficiencies compared to drum brakes they were not commonly implemented until after World War II. Once disc brake technology improved, brake performance quickly surpassed that of drum brakes. The performance difference was most noticeably exhibited in 1953 when a Jaguar outfitted with brake pads won the 24 Hours of Le Mans Grand Prix of Endurance race. The success of the Jaguar is commonly attributed to the car's disc brakes, which allowed the drivers to approach turns faster and brake later than their opponents, which ultimately led to its victory. As late as 1963 the majority of automobiles using disc brakes were European made, with American cars adopting the technology in the late 1960s after the invention of fixed calipers that made installation cheaper and more compact.
+
+== Technology ==
+
+=== Disc brake advantages ===
+Disc brakes offer better stopping performance as compared to drum brakes. They provide better resistance to "brake fade" caused by the overheating of brake pads, and are also able to recover quickly from immersion (wet brakes are less effective). 
+Unlike a drum brake, a disc brake has no self-servo effect—the braking force is always proportional to the pressure applied on the braking pedal lever. However many disc brake systems have servo assistance ("Brake Booster") to reduce the driver's pedal effort.
+Disc brake pads are easier to inspect and replace than drum brake friction lining.
+
+== Types ==
+
+There are numerous types of brake pads, depending on the intended use of the vehicle, from very soft and aggressive (such as racing applications) to harder, more durable and less aggressive compounds. Most vehicle manufacturers recommend a specific kind of brake pad for their vehicle, but compounds can be changed (by either buying a different make of pad or upgrading to a performance pad in a manufacturer's range) according to personal tastes and driving styles.  Care must always be taken when buying non-standard brake pads as the operating temperature ranges may vary, such as performance pads not braking efficiently when cold or standard pads fading under hard driving. In cars that suffer from excessive brake fade, the problem can be minimized by installing better quality and more aggressive brake pads.
+
+== Materials ==
+The most important characteristics that are considered when selecting a brake pad material are as follows:
+
+The material's ability to resist brake fade, caused by an increase in temperature the material will experience from the conversion of kinetic energy into thermal energy.
+The effects of moisture on brake fade. All brakes are designed to withstand at least temporary exposure to water.
+The ability to recover quickly from increased temperature or moisture, and exhibit approximately the same friction levels at any point in the drying or cooling process.
+The friction coefficient of modern brake pads should be low enough prevent locking of the wheels but high enough to provide sufficient stopping power. Friction coefficients are typically between 0.3 and 0.5 for brake pad materials.
+The ability to resist wear due to friction, but not to the extent that rotor wear occurs more quickly than brake material is sacrificed.
+The ability of the material to provide smooth and even contact with the rotor or drum, instead of a material that breaks off in chunks or causes pits, dents, or other damage to the surface in contact.
+The ability to apply appropriate frictional force while also operating quietly.
+
+Another material requirement that is considered is how compressible the brake pads are; if they are too compressible then brake travel or brake booster fluid displacement can be excessive. Brake pad material must also be porous to minimize the effect water has on the friction coefficient.
+Asbestos was added as a common ingredient to brake pads post-WWI, as car speeds began to increase, because research showed that its properties allowed it to absorb the heat (which can reach 500 °F) while still providing the friction necessary to stop a vehicle. However, as the serious health-related hazards of asbestos eventually started to become apparent, other materials had to be found. Asbestos brake pads have largely been replaced by non-asbestos organic (NAO) materials in first world countries. Today, brake pad materials are classified into one of four principal categories, as follows:
+
+Non-metallic materials – these are made from a combination of various synthetic substances bonded into a composite, principally in the form of cellulose, aramid, PAN, and sintered glass. They are gentle on rotors, but produce a fair amount of dust, thus having a short service life.
+Semi-metallic materials – synthetics mixed with varying proportions of flaked metals. These are harder than non-metallic pads, more fade-resistant and longer lasting, but at the cost of increased wear to the rotor/drum which then must be replaced sooner. They also require more actuating force than non-metallic pads in order to generate braking torque.
+Fully metallic materials – these pads are used only in racing vehicles, and are composed of sintered steel without any synthetic additives. They are very long-lasting, but require more force to slow a vehicle while wearing off the rotors faster. They also tend to be very loud.
+Ceramic materials – Composed of clay and porcelain bonded to copper flakes and filaments, these are a good compromise between the durability of the metal pads, grip and fade resistance of the synthetic variety. Their principal drawback, however, is that unlike the previous three types, despite the presence of the copper (which has a high thermal conductivity), ceramic pads generally do not dissipate heat well, which can eventually cause the pads or other components of the braking system to warp.  However, because the ceramic materials cause the braking sound to be elevated beyond that of human hearing, they seem exceptionally quiet.
+Phenol formaldehyde resin is frequently used as a binding agent.  Graphite can serve as a friction material as well as binding agent. Another friction material commonly used is zirconium silicate. An Italian producer is conducting research to use cement as a cheap and less energy-intensive binding agent. The table below outlines the make up of a common brake pad.
+There are environmental factors that govern the selection of brake pad materials. For example, the bill SSB 6557 adopted in Washington State in 2010 limits the amount of copper that is allowed to be used in friction materials, to be eventually phased out to trace amounts, due to the negative impact of high copper levels on aquatic life. For its substitution, different material combinations have been developed, though no direct replacement is available yet. Other materials, such as compounds made with antimony, are being studied.
+Vehicles have different braking requirements. Friction materials offer application-specific formulas and designs. Brake pads with a higher coefficient of friction provide good braking with less brake pedal pressure requirement, but tend to lose efficiency at higher temperatures. Brake pads with a smaller and constant coefficient of friction do not lose efficiency at higher temperatures and are stable, but require higher brake pedal pressure.
+
+== Maintenance and troubleshooting ==
+Brake pads should be checked at least every 5,000 miles for excessive or uneven wear. Although brake pad wear is unique to each vehicle, it is generally recommended that brake pads be replaced every 50,000 miles, while brake discs (or rotors) typically last longer, needing replacement every 70,000 miles.
+Malfunctions with brake pads can have many effects on the performance of a vehicle. The following chart outlines some common issues that can be caused by brake pad malfunctions:
+
+== Testing of materials ==
+
+The National Bureau of Standards (NBS) started testing of brake material in the US in 1920. The testing setup was then shared with manufacturers who wanted them so that they could begin to test their own products. Over time the NBS continued to develop new instruments and procedures for testing pads and lining, and these standards eventually became the standards for the American Engineering Standards Committee's Safety Code for Brakes and Brake Testing.
+SAE J661 testing is used to determine the friction of different brake pad materials by testing a 1 inch (25 mm) square liner with a brake drum. This testing yields values for both hot and cold coefficients of friction, which are then paired with letter designations. The table below outlines what letter goes with each range for the coefficient of friction. An example of the designation would be "GD", where "G" is the normal coefficient, while the "D" represents heated.
+
+== Health and environmental impact ==
+Brake pads are a major contributor to non-exhaust traffic emissions, producing airborne particulate matter through frictional wear. Brake wear particles consist of metallic flakes, carbonaceous material, and various friction additives, and they can represent up to 55 percent of total non-exhaust PM2.5 and PM10 emissions in urban environments. These emissions persist even as tailpipe pollutants decline due to the adoption of cleaner engines and electrification. 
+Studies show that brake wear particles include iron, copper, antimony, barium, and various oxides, depending on friction material composition. Many of these metals exhibit oxidative and inflammatory biological activity. Laboratory studies have demonstrated that brake dust can trigger macrophage inflammatory responses comparable to diesel exhaust particulates, suggesting potential cardiovascular and respiratory impacts.
+Environmental concerns have led to regulatory action. The U.S. states of Washington and California enacted the "Better Brakes" regulations, restricting copper, lead, mercury, cadmium, and hexavalent chromium in brake friction materials. Copper content is required to fall below 5% by weight by 2021 and 0.5% by 2025. Research programs such as the EU LIFE+ Rebrake project are developing friction materials with reduced environmental toxicity while maintaining performance standards.
+
+== Cataloguing ==
+There are different systems for the cataloguing of brake pads. The most frequently used system in Europe is the WVA numbering system.
+The cataloguing system used in North America, and recognized around the world, is the standardized part numbering system for brakes and clutch facings issued by the Friction Materials Standards Institute (FMSI). FMSI's mission is to, "Maintain and enhance this standardized part numbering system for all on highway vehicles in use in North America."
+
+== Cartridge brake pad ==
+A type of brake pad used on rim brakes.

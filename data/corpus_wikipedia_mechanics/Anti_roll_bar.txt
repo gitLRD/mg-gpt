@@ -1,0 +1,52 @@
+Anti-roll bar
+
+An anti-roll bar (roll bar, anti-sway bar, sway bar, stabilizer bar) is an automobile suspension part that helps reduce the body roll of a vehicle during fast cornering or over road irregularities. It links opposite front or rear wheels to a torsion spring using short lever arms for anchors. This increases the suspension's roll stiffness—its resistance to roll in turns.
+The first stabilizer bar patent was awarded to Canadian inventor Stephen Coleman of Fredericton, New Brunswick on April 22, 1919.
+Anti-roll bars were unusual on pre-WW2 cars due to the generally much stiffer suspension and acceptance of body roll. From the 1950s on, however, production cars were more commonly fitted with anti-roll bars, especially those vehicles with softer coil spring suspension.
+
+== Purpose and operation ==
+
+An anti-sway or anti-roll bar is intended to reduce the lateral tilt (roll) of the vehicle on curves, sharp corners, or large bumps. Although there are many variations in design, the object is to induce a vehicle's body to remain as level as possible by forcing the opposite wheel's shock absorber, spring, or suspension rod in the same direction as the one being impacted.
+In a turn, a vehicle compresses its outer wheel's suspension. The anti-roll bar forces the opposite (inner) wheel's suspension to compress as well, thereby keeping the body in a more level lateral attitude. This has the additional benefit of lowering its center of gravity during a turn, increasing its stability.
+
+When both front and rear anti-roll bars are fitted, their combined effect can help maintain a vehicle's tendency to roll towards the general slope of the terrain.
+
+== Principles ==
+An anti-roll bar is usually a torsion spring anchored to resist body roll motions. It is usually constructed out of a cylindrical steel bar, formed into a "U" shape, that connects to the body at two points along its longer center section, and on each end. When the left and right wheels move together the bar simply rotates on its central mounting points. When  the wheels move relative to each other, torsion forces cause the bar to twist.
+Each end of the bar is connected to an end link through a flexible joint. The link is connected in turn to a spot near a wheel or axle, transferring forces from the heavily loaded side of a suspension to the opposite.
+Forces are therefore transferred:
+
+from the heavily loaded side of the suspension
+to the connected end link via a bushing
+to the anti-sway (torsion) bar via a flexible joint
+to the connected end link on the opposite side of the vehicle
+to the opposite side of the suspension.
+The bar resists the torsion through its stiffness. The stiffness of an anti-roll bar is proportional to the stiffness of the material, the fourth power of its radius, and the inverse of the length of the lever arms (i.e., the shorter the lever arm, the stiffer the bar). Stiffness is also related to the geometry of the mounting points and the rigidity of the bar's mounting points. The stiffer the bar, the more force required to move the left and right wheels relative to each other. This increases the amount of force required to make the body roll.
+In a turn the sprung mass of the vehicle's body produces a lateral force at the centre of gravity (CG), proportional to lateral acceleration. Because the CG is usually not on the roll axis, the lateral force creates a moment about the roll axis that tends to roll the body. (The roll axis is a line that joins the front and rear roll centers). The moment is called the roll couple.
+Roll couple is resisted by the suspension roll stiffness, which is a function of the  spring rate of the vehicle's springs and of the anti-roll bars, if any. The use of anti-roll bars allows designers to reduce roll without making the suspension's springs stiffer in the vertical plane, which allows improved body control with less compromise of ride quality.
+One effect of body lean, for typical unibody suspension geometry, is positive camber of the wheels on the outside of the turn and negative on the inside, which reduces their cornering grip (especially with cross ply tires).
+
+=== Main functions ===
+Anti-roll bars provide two main functions. The first is to reduce body lean. This is dependent on the total roll stiffness of the vehicle. Increasing this stiffness does not change the steady state total load (weight) transfer from the inside wheels to the outside, it only reduces body lean. The total lateral load transfer is determined by the center of gravity height and track width.
+The other function of anti-roll bars is to tune the handling balance of a car. Understeer or oversteer can be reduced by changing the proportion of the total roll stiffness that comes from the front and rear axles. Increasing it at the front increases the proportion of the total load transfer that the front axle reacts to—and decreases it in the rear. In general, this makes the outer front wheel run at a comparatively higher slip angle, and the outer rear wheel to run at a comparatively lower slip angle, increasing understeer. Increasing the proportion of roll stiffness at the rear axle has the opposite effect, decreasing understeer.
+
+=== Drawbacks ===
+Because an anti-roll bar connects wheels on opposite sides of the vehicle, the bar transmits the force of a bump on one wheel to the opposite wheel. On rough or broken pavement, anti-roll bars can produce jarring, side-to-side body motions (a "waddling" sensation), which increase in severity with the diameter and stiffness of the anti-roll bars. Other suspension techniques can delay or dampen this effect of the connecting bar.
+Excessive roll stiffness, typically achieved by configuring an anti-roll bar too aggressively, can make the inside wheels lift off the ground during hard cornering. This can be used to advantage: many front wheel drive production cars lift a rear wheel when cornering hard in order to overload the opposite wheel, limiting understeer.
+
+=== Adjustable bars ===
+
+Some anti-roll bars, particularly those intended for use in auto racing, are externally adjustable while the car is in the pit, whereas some systems can be adjusted in real time by the driver from inside the car, such as in Super GT. This allows the stiffness to be altered, for example by increasing or reducing the length of the lever arms on some systems, or by rotating a flat lever arm from a stiff edge-on position to a more flexible flat-side-on position on other systems. This lets a mechanic tune the roll stiffness for different situations without replacing the entire bar.
+
+=== MacPherson struts ===
+The MacPherson strut is a common form of strut suspension. This was not the first attempt at strut suspension, but in MacPherson's original patent, the anti-roll bar forms an integral and essential part of the suspension, in addition to its usual function in controlling body roll. A strut suspension like MacPherson's requires a hinged lower member between the chassis and wheel hub to control the wheel position both inwards and outwards (controlling the track), and also forwards and backwards. This may be provided by a wishbone with a number of joints, or by using an additional radius rod. MacPherson's design replaced the wishbone with a simpler and cheaper track control arm, with a single inboard joint, to control the track. Forward and backward position was controlled through the anti-roll bar. Overall this required a simpler and cheaper set of suspension members than with wishbones, also allowing a reduction in unsprung weight.
+As the anti-roll bar is required to control wheel position, the bars of a MacPherson strut suspension may be connected through ball joints. However many later "MacPherson strut" suspensions have reverted to using wishbones rather than the simplified track control arm of the original design.
+
+== Semi active anti-roll bars ==
+Various methods of decoupling the anti-roll bar have been proposed. The first production car to use a semi-active anti-roll bar was the 1988 Mitsubishi Mirage Cyborg. The 16-valve turbo model's "Dual Mode Suspension" has a dashboard- operated hydraulic actuator built into the front anti-roll bar link, allowing it to toggle between sport and touring modes. The Jeep Wrangler (JK, JL) and Jeep Gladiator (JT) also have a switchable decoupler on Rubicon models,  to increase wheel articulation for off-roading.
+
+== Active systems ==
+
+The first active anti-roll bar  system was Citroën's SC.CAR (Systeme Citroën de Contrôle Actif du Roulis), debuted in its 1994 Xantia Activa, a medium-sized European sedan. The anti-roll bar could be stiffened by the suspension ECU during hard cornering, minimizing body roll to 2 degrees.
+The Mercedes-Benz S-Class Active Body Control system eliminates the anti-roll bar, instead using sensors to detect lateral load, lateral force, and height difference in the suspension strut, which then hydraulically raise or lower the spring to counter roll.
+Toyota also uses a mechanical system called Kinetic Dynamic Suspension System (KDSS) that essentially disengages the stabilizer bars when off-road, allowing for greater vehicle articulation and ride quality.

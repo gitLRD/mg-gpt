@@ -1,0 +1,25 @@
+Chassis
+
+A chassis (US: , UK: ; plural chassis  from French châssis [ʃɑsi]), is the load-bearing framework of a manufactured object, which structurally supports the object in its construction and function.
+An example of a chassis is a vehicle frame, the underpart of a motor vehicle, on which the body is mounted; if the running gear, such as wheels and transmission, and sometimes even the driver's seat, are included, then the assembly is described as a rolling chassis.
+
+== Examples ==
+
+=== Vehicles ===
+
+In the case of vehicles, the term rolling chassis means the frame plus the "running gear" like engine, transmission, drive shaft, differential, and suspension. The "rolling chassis" description originated from assembly production when an integrated chassis "rolled on its own tires" just before truck bodies were bolted to the frames near the end of the line. An underbody (sometimes referred to as "coachwork"), which is usually not necessary for the integrity of the structure, is built on the chassis to complete the vehicle.
+For commercial vehicles, a rolling chassis consists of an assembly of all the essential parts of a truck without the body to be ready for operation on the road. A car chassis will be different from one for commercial vehicles because of the heavier loads and constant work use. Commercial vehicle manufacturers sell "chassis only", "cowl and chassis", as well as "chassis cab" versions that can be outfitted with specialized bodies. These include motor homes, fire engines, ambulances, box trucks, etc.
+In particular applications, such as school buses, a government agency like the National Highway Traffic Safety Administration (NHTSA) in the U.S. defines the design standards of chassis and body conversions.
+An armoured fighting vehicle's hull serves as the chassis and comprises the bottom part of the AFV that includes the tracks, engine, driver's seat, and crew compartment. This describes the lower hull, although common usage might include the upper hull to mean the AFV without the turret. The hull serves as a basis for platforms on tanks, armoured personnel carriers, combat engineering vehicles, etc.
+In the intermodal trucking industry, a chassis is a type of semi-trailer onto which a cargo container can be mounted for road transport.
+
+=== Electronics ===
+
+In an electronic device (such as a computer), the chassis consists of a frame or other internal supporting structure on which the circuit boards and other electronics are mounted.
+In some designs, such as older ENIAC sets, the chassis is mounted inside a heavy, rigid cabinet, while in other designs, such as modern computer cases, lightweight covers or panels are attached to the chassis.
+The combination of chassis and outer covering is sometimes called an enclosure.
+
+=== Firearms ===
+
+In firearms, the chassis is a bedding frame for long guns, such as rifles, replacing the traditionally wooden stock to improve accurizing. The chassis is usually made from hard metallic material such as aluminium alloy (and less frequently, stainless steel, titanium alloy, or recently magnesium alloy) due to metals having superior stiffness and compressive strength compared with wood or synthetic polymers, which are commonly used in conventional rifle stocks.
+The chassis essentially functions as a more extensive pillar bedding, providing a metal-on-metal bearing surface that has reduced shifting potential under the stress of recoil. A barreled action bedded into a metal chassis would theoretically operate more consistently during repeated firing, resulting in better accuracy and precision. With the increasing availability of CNC machining, chassis have become more affordable and sophisticated, as well as gained popularity as these types of chassis can be expanded to accommodate customizable "furniture" (buttstock, pistol grip, etc.), and rail interface systems that provide mounting points for various accessories.

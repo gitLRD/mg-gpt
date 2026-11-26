@@ -1,0 +1,48 @@
+Radial tire
+
+A radial tire (more properly, a radial-ply tire) is a particular design of vehicular tire.  In this design, the cord plies are arranged at 90 degrees to the direction of travel, or radially (from the center of the tire). Radial tire construction climbed to 100% market share in North America following Consumer Reports finding the superiority of the radial design in 1968, and were standard by 1976.
+
+== History ==
+
+The first radial tire designs were patented in 1914 by G. H. Hamilton and T. Sloper -patent № 467 filed in London, and in 1916 by Arthur W. Savage, a tire manufacturer (1915–1919), firearm designer and inventor in San Diego, CA - U.S. patent 1,203,910. No actual products were created.
+Michelin in France designed, developed, patented, and commercialized the radial tire. The first Michelin X radial tire for cars was developed in 1946 by Michelin researcher Marius Mignol. There is no evidence that the former accountant turned researcher Mignol had knowledge of Hamilton or Savage's earlier work when he began his experiments in 1941. 
+Michelin owned the leading automaker Citroën, so it was quickly able to introduce its new design, including on the new 1948 Citroën 2CV model. In 1952, Michelin developed a radial truck tire.
+Because of its significant advantages in durability and fuel economy, this technology spread quickly in Europe and Asia in the 1950s and 1960s.
+In 1968, Consumer Reports, an influential American magazine, acknowledged the superiority of the radial tire design, documenting its longer tread life, better steering characteristics, and less rolling resistance, which improves fuel economy.
+In 1970, Ford Motor Company produced the first American-made vehicle with radial tires as standard equipment, Michelin tires fitted to the Continental Mark III.
+In 1974, Charles J. Pilliod, Jr., the new CEO of Goodyear Tire and Rubber Company, faced a major investment decision regarding retooling for the radial tire, following the 1973 oil crisis. Despite heavy criticism at the time, Pilliod invested heavily in new factories and tooling to build the radial tire. Today, only Goodyear, Cooper, Titan, and Specialty Tires of America remain independent among US tire manufacturers, and the radial has practically replaced all other construction methods for automobile tires on the market. Sam Gibara, who headed Goodyear from 1996 to 2003, has noted that without the action of Pilliod, Goodyear "wouldn't be around today."
+In 1974, Pirelli developed the wide radial tire on a request of the Lancia rally racing team for a tire to handle the power of the new Lancia Stratos and in the succeeding year, Pirelli introduced a wide tire with a reduced sidewall height like a slick, but with a radial construction for the Monte Carlo Rally winning works Stratos.
+Radial technology is now the standard design for essentially all automotive tires.
+Bias tires are still used on trailers due to their weight carrying ability and resistance to swaying when towed. NASCAR transitioned from bias-ply tires to radial tires during the 1991 season.
+For aircraft, the transition is happening more slowly, as tires are certified along with the airframe. A radial has less material in the sidewall, so it weighs less, runs cooler and lasts longer. For smaller planes, bias tires afford more stability at higher speeds and have stronger sidewalls.
+
+== Construction ==
+A series of plies of cord reinforces a tire. Without this, a tire would be flexible and weak. The network of cords that gives the tire strength and shape is called the carcass. Since the 1960s, all common tires have a carcass of cords of polyester, steel, or other textile materials, inlaid with several layers of rubber.
+In the past, the fabric was built up on a flat steel drum, with the cords at angles of about +60 and −60 degrees from the direction of travel, so they criss-crossed over each other. They were called cross ply or bias ply tires. The plies were turned up around the steel wire beads and the combined tread/sidewall applied. The green (uncured) tire was loaded over a curing bladder and shaped into the mold. This shaping process caused the cords in the tire to assume an S-shape from bead to bead. The angle under the tread, the crown angle, stretched down to about 36 degrees. In the sidewall region the angle was 45 degrees, and in the bead it remained at 60 degrees. The low crown angle gave rigidity to support the tread and the high sidewall angle gave comfort. To increase strength the manufacturer would increase the number of plies and as a result the heat buildup in the tire.
+By comparison, radial tires lay all of the cord plies at 90 degrees to the direction of travel (that is, across the tire from lip to lip). This design avoids having the plies rub against each other as the tire flexes, reducing the tire's rolling friction. This allows vehicles with radial tires to achieve better fuel economy than with bias-ply tires. It also accounts for the slightly "low on air" (bulging) look that radial tire sidewalls have, especially when compared to bias-ply tires.
+With only radial cords, a radial tire would not be sufficiently rigid at the contact with the ground. To add further stiffness, the entire tire is surrounded by additional belts oriented closer to the direction of travel, but usually at some "spiral" angle. These belts can be made of steel (hence the term steel-belted radial), polyester, or Aramid fibers such as Twaron or Kevlar.
+In this way, low radial tires separate the tire carcass into two separate systems:
+
+The radial cords in the sidewall allow it to act like a spring, giving flexibility and ride comfort.
+The rigid steel belts reinforce the tread region, giving high mileage and performance.
+Each system can then be individually optimized for best performance.
+
+== Application ==
+Radial tires have different characteristics of springiness from those of bias-ply tires, and a different degree of slip while steering.  A benefit was that cars could now be made lighter because they would not have to make up for the deficiencies of bias-ply tires.
+However, motorists were not accustomed to the feel, hence the suspension systems of cars had to be modified. Ford Motor Company engineer Jack Bajer experimented in the 1960s on a Ford Falcon, by giving it less tight steering, and adding both isolators to the drive shaft and bushings to the suspension, the latter being to absorb the thump of riding over asphalt expansion joints in a concrete roadway. 
+Radial tires have occasionally found application on bicycles, used on the 1980s Miyata touring bicycle; models 1000 and 610, and more recently in 2009 on the Maxxis Radiale.
+Panaracer radial tires were also standard on the Jamis Gentry model bicycle in 1985.
+
+== Features ==
+The advantages of radial tires over bias ply:
+
+Flexible sidewalls
+Reduced fuel consumption due to less rolling resistance
+A softer ride because of the layout of the tire's plies and because of the flex of the sidewalls. This assumes equivalent profiles between the two tires (also, as stated above, at lower speeds radial-ply tires will react more harshly to ridges in the road such as expansion joints).
+More stable contact with the road surface.
+Steel belted—Results in tougher overall construction
+Longer tread life
+Wider footprint
+Less ground compaction and damage
+Reduction in tire replacement due to less heat generated by the tire.
+Reduced machine maintenance costs.

@@ -118,6 +118,18 @@ legitimate result, not a failure, and would point the next effort at MG data qua
 and topic balance instead. Larger models are usually more sample-efficient, so some
 gain in topic spread is plausible; we test rather than assume.
 
+## Data arm (added 2026-11-26, replaces "more general English")
+
+General English is already good enough for short targeted answers, so the extra arm is
+car-specific data, not more general tokens. Fetched so far: UK MOT inspection manual (OGL v3.0,
+~47K tokens, text only) and 119 Wikipedia mechanics articles (CC BY-SA 4.0, ~0.5M tokens), tilted
+to brakes, suspension, electrical, body and tyres. About +19% on the 2.9M MG tokens, so a modest
+effect is expected (v8's +20% did not move anything); the point is *where* the tokens go.
+Arm: 51M fine-tune on existing data + grounded Q&A from the new text (as `synthesize_wiki_qa.py`
+does) + topic rebalancing, scored on the same topic-spread metric and gate. Raw MOT text is
+written for testers, so it is used via Q&A, not as raw training text. Attribution: README and
+manifests must carry the OGL line and the Wikipedia revisions.
+
 ## Proposed pass/fail gate (to be confirmed before any results)
 
 A model version ships only if, against the previous live version, on the balanced

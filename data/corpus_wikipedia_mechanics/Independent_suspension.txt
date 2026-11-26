@@ -1,0 +1,50 @@
+Independent suspension
+
+Independent suspension is any automobile suspension system that allows each wheel on the same axle to move vertically (i.e. reacting to a bump on the road) independently of the others. This is contrasted with a beam axle or deDion axle system in which the wheels are linked. "Independent" refers to the motion or path of movement of the wheels or suspension. It is common for the left and right sides of the suspension to be connected with anti-roll bars or other such mechanisms. The anti-roll bar ties the left and right suspension spring rates together but does not tie their motion together.
+Most modern vehicles have independent front suspension (IFS). Many vehicles also have an independent rear suspension (IRS). IRS, as the name implies, has the rear wheels independently sprung. A fully independent suspension has an independent suspension on all wheels. Some early independent systems used swing axles, but modern systems use Chapman or MacPherson struts, trailing arms, multilink, or wishbones.
+Independent suspension typically offers better ride quality and handling characteristics, due to lower unsprung weight and the ability of each wheel to address the road undisturbed by activities of the other wheel on the vehicle. Independent suspension requires additional engineering effort and expense in development versus a beam or live axle arrangement. A very complex IRS solution can also result in higher manufacturing costs.
+The key reason for lower unsprung weight relative to a live axle design is that, for driven wheels, the differential unit does not form part of the unsprung elements of the suspension system. Instead, it is either bolted directly to the vehicle's chassis or more commonly to a subframe.
+The relative movement between the wheels and the differential is achieved through the use of swinging driveshafts connected via universal joints (U joints), analogous to the constant-velocity (CV) joints used in front-wheel-drive vehicles.
+
+== Independent suspension ==
+
+=== Suspension ===
+Suspension is the only component that separates the driver and/or passenger from the ground. The suspension in a vehicle helps absorb harshness in the road. There are many systems and designs that do this, such as independent suspension.
+
+=== Advantages ===
+This system provides many advantages over other suspension systems. For example, in solid axle suspension systems, when one wheel hits a bump, it affects both wheels. This will compromise traction, smoothness of the ride, and could also cause a dangerous wheel shimmy when moving at high speeds. With independent suspension systems, the bump primarily affects only the contacted wheel. This offers many advantages such as greater ride comfort, better traction, and safer, more stable vehicles on the road.
+
+== Types ==
+
+=== Double wishbone suspension ===
+
+In automobiles, a double wishbone suspension is an independent suspension design using two (occasionally parallel) wishbone-shaped arms to locate the wheel. Each wishbone or arm has two mounting points to the chassis and one joint at the knuckle. The shock absorber and coil spring mount to the wishbones to control vertical movement. Double wishbone designs allow the engineer to carefully control the motion of the wheel throughout suspension travel, controlling such parameters as camber angle, caster angle, toe pattern, roll center height, scrub radius, scuff and more.
+
+=== Multi-link suspension ===
+
+A multi-link suspension is a type of vehicle suspension design typically used in independent suspensions, using three or more lateral arms, and one or more longitudinal arms.  A wider definition considers any independent suspensions having three control links or more multi-link suspensions. These arms do not have to be of equal length, and may be angled away from their "obvious" direction. It was first introduced in the late 1960s on the Mercedes-Benz C111 prototype and put into production later on their W201 and W124 series.
+
+=== MacPherson strut ===
+
+The MacPherson strut uses a strut-type spring and shock absorber as the upper pivot along with a lower A-arm. This is the most commonly used front suspension system in cars today. This system was popularized in British Fords in the 1950s, then adopted by BMW (1962) and Porsche (1963). Later, this space-efficient system became widespread with the growing popularity of front-wheel drive vehicles.
+
+=== Trailing-arm suspension ===
+
+Trailing arm suspension has each wheel hub fixed to a large arm that pivots around a single axis.
+They are commonly found on rear suspensions due to their flat design that allows for a flatter floor and more cargo room.
+
+=== Swing axle ===
+
+Swing axle suspension is a type of trailing arm suspension which uses the inner joint of the half-shafts as one of its pivot points. It was one of the earliest designs of independent suspension for driven rear axles, and was used on a few rear engined cars, most notably the Volkswagen Beetle and the Chevrolet Corvair
+It has fallen out of use due to large camber changes and an inherently very high roll center which results in a jacking effect when lateral forces are applied, with both of these resulting in erratic handling at the limit.
+
+=== Transverse leaf-spring ===
+
+Several independent suspension designs have featured transverse leaf springs. Most applications used multi-leaf steel springs, although more recent designs have used fiber reinforced plastic (FRP, typically fibers are fiberglass) springs. In addition to spring type (multi-leaf steel, FRP), a distinction can be drawn between systems where the spring also acts as a locating link and those where the spring only acts as a spring member.
+
+Its first implementation was by Amédée Bollée in his steam car of 1878, La Mancelle. About fifty of these were made between 1878 and 1881, including 22 by Wöhlert in Berlin.
+The AC Cobra is an example of a transverse, multi-leaf steel spring suspension that uses the leaf spring as the upper suspension arm. Alternatively, the 1963 Corvette's rear suspension is an example where the transverse leaf spring is used only as a ride spring. In both examples, the leaf spring is centrally mounted, preventing displacement of the wheel on one side from affecting the wheel on the other side.
+In 1981, General Motors pioneered the use of a FRP plastic transverse leaf spring on the third-generation Corvette. As in the examples above, the spring used a single, central mount which isolated the left and right movements. The FRP spring reduced weight and eliminated the inner leaf friction as compared to the multi-leaf metal spring which was standard on the car.
+Rather than centrally mounting the transverse leaf spring and thus isolating the left and right sides of the springs, some manufacturers, starting with Fiat used two widely spaced spring mounts. This was first used on the front of the 1955 Fiat 600 and later at the rear on the Fiat 128. The spring is allowed to pivot inside of the mounts which allows the displacement of the spring on one side to affect the other side. This mechanical communication between the left and right sides of the suspension results in an effect similar to that of an anti-roll bar. Chevrolet Corvettes, starting with the 4th generation in 1984 have combined the dual pivot mounts with FRP leaf springs.
+The transverse leaf spring is not used as commonly as it was earlier. It is very rare on modern cars, the Corvette and a few Volvo models being examples. In the past it was more widely used in many Triumphs. The Herald, Vitesse, Spitfire, and GT6 all used a rear transverse leaf spring, as well as the 1995-98 Volvo 960/S90/V90 and a rare Swedish sports car incorporating the Volvo 960 rear suspension called the JC Indigo.
+This type of suspension should not be confused with earlier, rigid axle applications such as those used on early Ford cars.

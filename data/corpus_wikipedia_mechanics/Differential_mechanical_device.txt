@@ -1,0 +1,73 @@
+Differential (mechanical device)
+
+A differential is a gear train with three drive shafts that has the property that the rotational speed of one shaft is the average of the speeds of the others. A common use of differentials is in motor vehicles, to allow the wheels at each end of a drive axle to rotate at different speeds while cornering. Other uses include clocks and analogue computers. Differentials can also provide a gear ratio between the input and output shafts (called the "axle ratio" or "diff ratio"). For example, many differentials in motor vehicles provide a gearing reduction by having fewer teeth on the pinion than the ring gear.
+
+== History ==
+
+The early history of the differential is obscure. The Antikythera mechanism (c.100 BC) is an ancient Greek orrery discovered in 1902 on a shipwreck by sponge divers. It contains about 30 gear wheels and could predict astronomical positions and eclipses decades in advance. It has been suggested that it used a differential gear to determine the angle between the ecliptic positions of the Sun and Moon, and thus the phase of the Moon.
+Around 250 AD Chinese engineer Ma Jun created the first well-documented south-pointing chariot, a precursor to modern inertial navigation systems. Its mechanism of action is unclear, though in the early twentieth century the engineer George Lanchester put forward the argument that it used a differential gear. In his massive Science and Civilisation in China, the biochemist and sinologist Joseph Needham finds that they used mechanisms involving gears but did not consider strong the evidence for a differential.
+The first proven use of a differential was by Joseph Williamson in a clock in 1720 to display on separate fixed dials driven by the pendulum mean and solar time. Before that, clockmakers wishing to show both used a single dial with two minute rings, one for mean time (which was fixed) and one for solar time. The hands followed mean time; the minute ring for solar time moved forwards and backwards driven by a kidney cam according to the equation of time.
+
+The differential appears to have been reinvented many times since:
+
+1780s: James White uses a differential in a device to adjust the distance between millstones based on their speed of rotation. He was a prolific inventor who spent the period 1792–1815 in France, patenting devices there before returning to England. In 1822 he published A New Century of Inventions, giving pride of place to his dynamometer (a differential used as a measuring device; see image).
+1823: Aza Arnold develops a differential drive train for use in cotton-spinning. The design quickly spreads across the United States and into the United Kingdom.
+1827: Onésiphore Pecqueur (1792–1852) of the Conservatoire National des Arts et Métiers in France includes a differential on the driven rear axle in his patent for a steam wagon.
+1832: Richard Roberts of Manchester patents a differential for use in a steam carriage. He built and ran such a vehicle in 1833–34 but it is not known whether it incorporated his differential. In 1861 Carrett, Marshall & Co. of Leeds built a steam carriage for George Salt of Saltaire which they acknowledged used Roberts' differential;
+1876: James Starley of Coventry patents a differential for use on a two-person side-by-side quadricycle (wheels in diamond formation: the two central ones were small and steered; the outer ones were large and driven separately by each rider using treadles). He subsequently uses it on tricycles and grants a licence to Adolphe Clément of Paris for its use on motor vehicles in France.
+1885 Carl Benz of Mannheim uses a differential very similar to James Starley's inside the fixed pulley of his belt-driven Patent-Motorwagen
+1958: Vernon Gleasman patents the Torsen limited-slip differential.
+
+== Use in wheeled vehicles ==
+
+=== Purpose ===
+
+During cornering, the outer wheels of a vehicle must travel farther than the inner wheels (since they are on a larger radius). This is easily accommodated when the wheels are not connected, however it becomes more difficult for the drive wheels, since both wheels are connected to the engine (usually via a transmission).
+
+Some vehicles (for example go-karts and trams) use axles without a differential, thus relying on wheel slip when cornering. Until the mid-nineteenth century, most steam-powered road vehicles used clutches on each driven wheel which could be engaged or not as required. These were complemented by devices which allowed a driven wheel to overrun by up to half a revolution when on the outside of a curve. Usually only one wheel was driven; two were across difficult terrain and on steep hills (both up and down).
+Another approach was to use separate engines for each side of the vehicle: W.H.James did this in his steam carriages of 1824-1829. From 1834 differentials began to appear, although as late as 1873 Amédée Bollée used two engines on his L'Obéissante.
+For improved cornering abilities, vehicles today use a differential, which allows both wheels to be driven as they rotate at different speeds. An illustration of the operating principle for a ring-and-pinion differential is shown below.
+
+=== Ring-and-pinion design ===
+
+A relatively simple design of differential is used in rear-wheel drive vehicles, whereby a ring gear is driven by a pinion gear connected to the transmission. The functions of this design are to change the axis of rotation by 90 degrees (from the propshaft to the half shafts) and provide a reduction in the gear ratio.
+The components of the ring-and-pinion differential shown in the schematic diagram on the right are: 1. Output shafts (axles) 2. Drive gear 3.  Output gears 4. Planetary gears 5. Carrier 6. Input gear 7. Input shaft (driveshaft)
+
+=== Epicyclic design ===
+
+An epicyclic differential uses epicyclic gearing to send certain proportions of torque to the front axle and the rear axle in an all-wheel drive vehicle.
+
+=== Spur-gear design ===
+
+A spur-gear differential has equal-sized spur gears at each end, each of which is connected to an output shaft. The input torque (i.e. from the engine or transmission) is applied to the differential via the rotating carrier. Pinion pairs are located within the carrier and rotate freely on pins supported by the carrier. The pinion pairs only mesh for the part of their length between the two spur gears, and rotate in opposite directions. The remaining length of a given pinion meshes with the nearer spur gear on its axle. Each pinion connects the associated spur gear to the other spur gear (via the other pinion). As the carrier is rotated (by the input torque), the relationship between the speeds of the input (i.e. the carrier) and that of the output shafts is the same as other types of open differentials.
+Uses of spur-gear differentials include the Oldsmobile Toronado American front-wheel drive car.
+
+=== Locking differentials ===
+
+Locking differentials have the ability to overcome the chief limitation of a standard open differential by essentially "locking" both wheels on an axle together as if on a common shaft. This forces both wheels to turn in unison, regardless of the traction (or lack thereof) available to either wheel individually. When this function is not required, the differential can be "unlocked" to function as a regular open differential.
+Locking differentials are mostly used on off-road vehicles, to overcome low-grip and variable grip surfaces.
+
+=== Limited-slip differentials ===
+
+An undesirable side-effect of a regular ("open") differential is that it can send most of the power to the wheel with the lesser traction (grip). In situations when one wheel has reduced grip (e.g. due to cornering forces or a low-grip surface under one wheel), an open differential can cause wheelspin in the tyre with less grip, while the tyre with more grip receives very little power to propel the vehicle forward.
+In order to avoid this situation, various designs of limited-slip differentials are used to limit the difference in power sent to each of the wheels.
+
+=== Torque vectoring ===
+
+Torque vectoring is a technology employed in automobile differentials that has the ability to vary the torque to each half-shaft with an electronic system; or in rail vehicles which achieve the same using individually motored wheels. In the case of automobiles, it is used to augment the stability or cornering ability of the vehicle.
+
+== Other uses ==
+
+Non-automotive uses of differentials include performing analogue arithmetic. Two of the differential's three shafts are made to rotate through angles that represent (are proportional to) two numbers, and the angle of the third shaft's rotation represents the sum or difference of the two input numbers. The earliest known use of a differential gear is in the Antikythera mechanism, c. 80 BC, which used a differential gear to control a small sphere representing the Moon from the difference between the Sun and Moon position pointers.  The ball was painted black and white in hemispheres, and graphically showed the phase of the Moon at a particular point in time. An equation clock that used a differential for addition was made in 1720. In the 20th century, large assemblies of many differentials were used as analogue computers, calculating, for example, the direction in which a gun should be aimed.
+
+=== South-pointing chariots ===
+Chinese south-pointing chariots may also have been very early applications of differentials. The chariot had a pointer which constantly pointed to the south, no matter how the chariot turned as it travelled. It is widely thought that a differential mechanism responded to any difference between the speeds of rotation of the two wheels of the chariot, and turned the pointer appropriately.
+
+=== Clocks ===
+The earliest verified use of a differential was in a clock made by Joseph Williamson in 1720. It employed a differential to add the equation of time to local mean time, as determined by the clock mechanism, to produce solar time, which would have been the same as the reading of a sundial. During the 18th century, sundials were considered to show the "correct" time, so an ordinary clock would frequently have to be readjusted, even if it worked perfectly, because of seasonal variations in the equation of time.
+
+=== Analogue computers ===
+Differential analysers, a type of mechanical analogue computer, were used from approximately 1900 to 1950. These devices used differential gear trains to perform addition and subtraction.
+
+=== Vehicle suspension ===
+The Mars rovers Spirit and Opportunity (both launched in 2004) used differential gears in their rocker-bogie suspensions to keep the rover body balanced as the wheels on the left and right move up and down over uneven terrain. The Curiosity and Perseverance rovers used a differential bar instead of gears to perform the same function.

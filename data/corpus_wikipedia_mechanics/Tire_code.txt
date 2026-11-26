@@ -1,0 +1,196 @@
+Tire code
+
+Automotive tires are described by several alphanumeric tire codes (North American English spelling) or tyre codes (Commonwealth English spelling), which are generally molded into the sidewall of the tire. These codes specify the dimensions of the tire and its key limitations, such as load-bearing ability and maximum speed. Sometimes the inner sidewall contains information not included on the outer sidewall, and vice versa.
+The code has grown in complexity over the years, as is evident from the mix of SI and USC units, and ad-hoc extensions to lettering and numbering schemes. 
+Most passenger car tires sizes are given using either the P Metric tire sizing system or the Metric tire sizing system (which is based on ISO standards but is not to be confused with the ISO metric system). Pickup trucks and SUVs use the Light Truck Numeric or Light Truck High Flotation system. Heavy trucks and commercial vehicles use another system altogether.
+
+== ETRTO, TRA, and JATMA ==
+The European Tyre and Rim Technical Organisation (ETRTO) and the Tire and Rim Association (TRA), formerly known as The Tire and Rim Association of America, Inc., are two organizations that influence national tire standards. There exists also the Japan Automobile Tyre Manufacturers' Association, Inc. (JATMA). In practice, the standards of the three organizations have evolved together and are fairly interchangeable, though the load and inflation tables will give slightly different values for the same size tire.
+In the United States, the Office of Vehicle Safety Compliance, a component of the Department of Transportation, is one of the agencies tasked to enforce the Federal Motor Vehicle Safety Standard (FMVSS). Canada has published tire regulations, such as the Motor Vehicle Tire Safety Regulations SOR 95-148.
+
+== Metric tire codes ==
+The metric tire code consists of a string of letters and numbers describing the dimensions of the tire, as follows:
+
+=== Vehicle class ===
+An optional letter (or letters) indicating the intended use or vehicle class for the tire:
+
+P: Passenger car
+LT: Light truck
+C: Commercial trucks
+ST: Special trailer
+M/C: Motorcycle
+T: Temporary (restricted usage for "space-saver" spare wheels)
+A preceding "P" indicates that the tire loads are designed to TRA standards, while the absence of a letter indicates that the tire conforms to ETRTO standards.
+
+=== Section width ===
+A 3-digit number indicating the "nominal section width" of the tire in millimeters; the widest point from both outer edges (side wall to side wall). The tire surface that touches the road usually has a narrower width (called "tread width").
+
+=== Slash ===
+A slash "/" character for character separation.
+
+=== Aspect ratio ===
+A 2- or 3-digit number indicating the "aspect ratio" of the sidewall height as a percentage of the nominal section width of the tire. If the information is omitted, it is assumed to be 82%. However, if the number is larger than 200, then this is the diameter of the entire tire in millimeters.
+
+=== Construction ===
+An optional letter or two indicating construction of the fabric carcass of the tire:
+
+B: bias belt (where the sidewalls are the same material as the tread, leading to a rigid ride)
+D: diagonal
+R: radial
+if omitted, it is a cross-ply tire
+The R in a radial tire may be preceded by an optional letter indicating the speed rating of the tire according to a deprecated naming system. This letter can be ignored as the actual speed rating is given by the letter appearing at the end of the metric tire code, following the load index.
+
+=== Diameter ===
+A 1- or 2-digit number indicating the diameter, in inches, of the rim that the tires are designed to fit. There is the rare exception of metric-diameter tires, such as the use of the 390 size, which in this case would indicate a rim of 390 mm in diameter. Few tires are made to this size currently. The number may be longer where a half-inch size is used, for example many heavy transport trucks now use 22.5-inch tires.
+
+=== Load index and load range ===
+The tyre load index (LI) on a passenger-car tire is a two- or three-digit numerical code used to cross-reference a load and inflation table that will give the maximum load each tire can carry at a given pressure.
+The load index is sometimes used in conjunction with the load range, which appears elsewhere on the tire. It usually consists of two letters (usually LL for Light Load, SL for Standard Load, and XL for Extra Load). However, it may also be written out as "EXTRA LOAD." It may also be absent entirely, which indicates a Standard Load tire.
+These two codes allow one to look up the required cold inflation pressure to carry a given load, according to the load inflation charts or tables. The load tables are too large to include in this article, but may be found at tirepressure.org. Generally, tire codes with a preceding "P" shall reference the P Metric Tire Load Inflation Chart, while those without shall reference the Metric Tire Load Inflation Chart.
+
+=== Speed rating ===
+The speed symbol or tyre speed index (SI) is made up of a single letter, or an A with one numeral. It is indicative of the maximum speed at which the tire can carry its rated load while ensuring that no part of the tire overheats when operating in steady-state conditions on smooth roads.
+
+Speed ratings of S and above have certain constraints that must be met in order to reach their maximum speeds. Namely, their operating pressures must be adjusted according to the table below.
+
+Speed ratings with parentheses such as (W) and (Y) have maximum speeds set by the manufacturers. The load rating is often included within the parentheses, e.g. (86Y).
+Prior to 1991, tire speed ratings were shown inside the tire size, before the "R" construction type. The available codes were SR (180 km/h, 112 mph), HR (210 km/h, 130 mph), VR (in excess of 210 km/h, 130 mph), and ZR (in excess of 240 km/h, 150 mph).
+In many countries, the law requires that tires must be specified, and fitted, to exceed the maximum speed of the vehicle they are mounted on, with regards to their speed rating code (except for "temporary-use" spare tires). In some parts of the European Union, tires that are not fit for a car's or motorcycle's particular maximum speed are illegal to mount. The sole exception are M+S tires, where a warning sticker stating the allowed maximum speed must be placed within clear sight of the driver inside the vehicle. Some manufacturers will install a speed governor if a vehicle is ordered with tires rated below the vehicle's maximum speed. In some parts of the European Union, e.g. Germany, it is allowed to mount tires with a lower speed rating code if the car manufacturer specifies tires with a very high speed rating in the registration documents and the vehicle will not reach this speed based on insufficient power. In this case it is possible to calculate the appropriate speed rating with a formula.
+
+== Other codes ==
+
+=== Wear, traction, and temperature grades ===
+
+The wear, traction, and temperature characteristics of passenger tires are displayed according to the Uniform Tire Quality Grading (UTQG) standard.
+
+=== Date of manufacture ===
+At the end of the Tire Identification Number (TIN), a long string of letters and number encased in a long oval, are four numbers to indicate when the tire was made.  The first two represent the week and the last two the year, so a TIN ending in "0422" indicates the tire was made in the 4th week (end of January) of 2022.  Prior to 2000 only three digits were used so "042" could represent the 4th week of 1992, 1982, or earlier.
+
+=== Winter, snow, and ice markings ===
+
+Tires designed for use in snowy conditions display the appropriate lettering and marks to indicate its use for "(Mud and) Snow", "Severe Snow" (3PMSF), "Ice Conditions" (IGS) along with preceding and prerequisite indicators.  Studded tires are similar, with pictograms incorporating the Cyrillic letter "Sha" (Ш), the first letter in the Russian word for studs (Шипы), being standardized in 2022.
+
+=== DOT code ===
+The DOT code can be found immediately after the letters "DOT" on a tire sidewall.  
+It is useful in identifying tires subject to product recall or at end of life due to age. It is mandated by the U.S. Department of Transportation but is used worldwide. 
+The first three characters indicate the manufacturing plant and are assigned by the NHTSA (tires made before 2015 had only two characters).
+Following the manufacturer's plant code, the next two digits within a DOT code signify the tire size. For instance, the size code "WC" might correspond to the tire size 205/55 R16. However, these size codes aren't standardized. Each tire manufacturer may assign these codes as they see fit, provided they maintain a consistent and explainable system within their coding. 
+After the size code, the next sequence in a DOT number consists of three or four digits that designate the tire type. This coding, though optional, is widely used by tire manufacturers for internal tracking purposes, such as managing returns and quality control. The decision on how exactly to code the tire type lies with each manufacturer, leading to a variety of coding systems across the industry.
+The last four numbers of the DOT marking on tires tell you the week (1 through 53, according to ISO 8601) and year the tire was made. So, a tire with the last four digits of 0121 was made the first week of January 2021, 0221 is second week of January 2021, and so on.
+
+=== E-mark ===
+
+All tires sold for road use in Europe after July 1997 must carry an E-mark. 
+Items type-approved according to a UN Regulation are marked with an E and the country's Distinguishing Number, within a circle. A capital (E) in a circle indicates compliance with 
+ UN regulation 30, while a lower case [e] in a box indicates compliance with a  EU directive (e.g. issued by EC, EU). This number indicates which country approved the item, and other surrounding letters and digits indicate the precise version of the regulation met and the type approval number, respectively. A (lower case) "e" indicates that the tire is certified to comply with the dimensional, performance and marking requirements of Directive 92/23/EEC.
+
+== Light truck (LT) tire codes ==
+
+Flotation tires keep vehicle tires floating above loosely packed dirt, minimizing soil disturbance in agricultural environments and maximizing vehicle stability on unpaved surfaces in construction environments.  
+Light truck tires are indicated by the letters LT at the end instead of the beginning of the sequence, as follows:
+
+The tire diameter is given for high flotation tires and omitted from numeric tires.
+2-digit number: The diameter of the tire in inches.
+x: Separator character.
+3- or 4-digit number: The section width (cross-section) of the tire in inches. If the tire diameter is not given, section widths ending in zero (e.g., 7.00 or 10.50) indicate the aspect ratio of 92%, while section widths not ending in zero (e.g., 7.05 or 10.55) indicate the aspect ratio of 82%. These aspect ratios often vary from today's tire manufacturer specification.
+Construction of the fabric of the tire:
+B: bias belt
+D: diagonal
+R: radial
+2-digit number: Diameter in inches of the rim that this tire is designed to fit.
+LT: Designates that this is a light truck tire.
+Load index and speed rating are sometimes not mandatory for flotation sizes, but must be for any tire approved for street and highway use.
+2- or 3-digit number: Load index; see table below.
+1- or 2-digit/letter combination: Speed rating; see table below.
+Additional marks: see subheading below.
+As an example, if a tire size has two sets of numbers (6-12, 5.00-15, 11.2-24), then the first number (5.00-15) is the approximate width in inches, and the second number (5.00-15) is the rim diameter in inches.
+If a tire size has three sets of numbers (15x6.00-6, 26x12.00-12, 31x15.50-15), then the first number (26x12.00-12) is the approximate tire diameter in inches, the second number (26x12.00-12) is the approximate width in inches, and the third number (26x12.00-12) is the rim diameter in inches.
+
+=== Load range ===
+The load range letter on light-truck tires indicates their ply rating.
+
+== Wheel/rim widths ==
+To determine the allowable range of rim widths for a specific tire size, the TRA Yearbook or the manufacturer's guide should always be consulted for that specific tire – there is no rule of thumb.   Running a tire on a rim size or type not approved by its manufacturer can result in tire failure and a loss of vehicle control.
+
+== Additional marks ==
+There are numerous other markings on a typical tire, these may include:
+
+"*": BMW-Mini original manufacturer fitment
+030908: Approval number of the tire
+"100T": Commonly appears after tire size. Meaning: standard load inflation table (100) & speed rating (T)
+3PMSF:  or Three Peak Mountain Snow Flake, for tires rated for "severe snow"
+3PMSF with Ш ("Sha"):  or Three Peak Mountain Snow Flake, for studded tires rated for "severe snow" with the addition of the Cyrillic letter "Sha" (Ш), the first letter in the Russian word for studs or spikes (Шипы)
+AMx: Aston Martin OE Fitments
+"AO": Audi original manufacturer fitment
+Arrows: Some tread designs are "directional", and designed to perform better when driven in a specific direction. Such tires will have an arrow showing which way the tire should rotate when the vehicle is moving forwards.
+A/T or AT: All Terrain; Designed for all conditions on and off road, master of none
+B: Bias belted; tires for motorcycles (Example: 150/70 B 17 69 H) – diagonal construction with belt added under the tread
+BSB: Broken serrated band
+BSL: Black serrated letters
+BSW: Black sidewall
+E4: Tire approved according to the ECE-regulations, the number indicating the country of approval.
+"ELT": Pirelli Elect tyres, specific for electric car
+IGS: or ice grip symbol, for tires rated for "ice conditions"
+"J": Jaguar original manufacturer fitment
+LL: Light load; tires for light usage and loads
+"M/C": Only for motorcycle fitment
+M+S, or M&S: Mud and snow; A tire that meets the Rubber Manufacturers Association (RMA) and Rubber Association of Canada (RAC) all-season tire definition. These are commonly found on all-season tires, with self-cleaning tread and average traction in muddy or very snowy conditions, and for low temperatures.
+M+SE: M+S tire with an additional "E" for extreme
+M+T or M&T: Mud and terrain; Designed to perform in mud or on other terrain that requires additional traction such as on rocks, in deeper snow, and in loose gravel.
+M/T or MT: Mud terrain; Designed for deep mud and rock crawl
+Made in ...: Country of production
+MGT: Maserati genuine tire. Original tires for Maserati
+MO: Original tires for Mercedes-Benz
+MOE: Mercedes-Benz Original Extended mobility (sometimes incorrectly referred to as a Run-flat tire)
+N-x: Original tires for Porsche where "x" is a "0" for the first approved in that size, "1" the second, ...
+"NHS": Not highway service
+ORWL: Outlined raised white lettering
+OWL: Outlined white lettering
+RF: Reinforced – for Euro-metric tires, the term 'reinforced' means the same thing as 'extra load'
+RFT: Run-flat tire; Tires designed for vehicles without spare tires. Reinforced sidewalls allow the tire to be driven "flat" for a distance specified by the manufacturer (usually 50 miles)
+RSC (inside a circle): BMW runflat system component
+RWL: Raised white lettering 
+SFI, or Inner: side facing inward; inside of asymmetric tires
+SFO, or Outer: side facing outward; outside of asymmetric tires
+SL: Standard load; tire for normal usage and loads
+(*): Original tires for BMW
+TL: Tubeless
+TPC: General Motors OE fitments
+TT: Tube-type, tire must be used with an inner-tube
+TWI: Tread wear indicator – a device, such as a triangle or a small Michelin Man icon, located where the tread meets the sidewall, and indicating the location of the raised wear bars in the tire tread channels – TWI is also used to refer to the raised wear bars themselves.
+VSB: Vertical serrated band
+WSW: White sidewall
+XL: extra load; a tire that allows a higher inflation pressure than a standard load tire, which increases the tire's maximum load
+ZP: zero-pressure; Michelin's branding for their run-flat models.
+To facilitate proper balancing, most tire manufacturers also mark red circles (uniformity) and/or yellow dots (weight) on the sidewalls of their tires to enable the best possible match-mounting of the tire/wheel assembly.
+
+== Tire geometry ==
+When referring to the purely geometrical data, a shortened form of the full notation is used. To take a common example, 195/55R16 would mean that the nominal width of the tire is approximately 195 mm at the widest point, the height of the sidewall of the tire is 55% of the width (107 mm in this example) and that the tire fits 16-inch-diameter (410 mm) rims. The code gives a direct calculation of the theoretical diameter of the tire. For a size shown as "T/A_W" use (2×T×A/100) + (W×25.4) for a result in millimeters or (T*A/1270)+ W for a result in inches. Take the common example used above; (2×195×55/100)+(16×25.4) = 621 mm or (195×55/1270)+16 = 24.44 inches.
+Less commonly used in the US and Europe (but often in Japan for example) is a notation that indicates the full tire diameter instead of the aspect ratio of the side-wall height. To take the same example, a 16-inch rim would have a diameter of 406 mm. Adding twice the tire height (2×107 mm) makes a total 620 mm tire diameter. Hence, a 195/55R16 tire might alternatively be labelled 195/620R16.
+Whilst this is theoretically ambiguous, in practice these two notations may easily be distinguished because the height of the side-wall of an automotive tire is typically much less than the width. Hence when the height is expressed as a percentage of the width, it is almost always less than 100% (and certainly less than 200%). Conversely, vehicle tire diameters are always larger than 200 mm. Therefore, if the second number is more than 200, then it is almost certain the Japanese notation is being used – if it is less than 200 then the U.S./European notation is being used.
+The diameters referred to above are the theoretical diameter of the tire. The actual diameter of a specific tire size can only be found in the TRA Yearbook or the manufacturer's data books. Note that the tire's cross-section and diameter are always specified when measured on a rim of a specified width; different widths will yield different tire dimensions.
+
+=== Examples ===
+The tires on a BMW Mini Cooper might be labeled: P195/55R16 85H
+
+P – these tires are for a passenger vehicle. However 'P' denotes P metric size load and speed rating changes for P tire & non-P tires
+195 – the nominal width of the tire is approximately 195 mm at the widest point
+55 – indicates that the height of the sidewall of the tire is 55% of the width (107 mm)
+R – this is a radial tire
+16 – this tire fits 16 in (410 mm) rims
+85 – the load index, a maximum of 515 kg (1,135 lb) per tire in this case
+H – the speed index, this means the maximum permitted speed, here 210 km/h (130 mph)
+The tires on a Hummer H1 might be labeled: 37X12.5R17LT
+
+37 – the tire is 37 in (940 mm) in diameter
+12.5 – the tire has a cross section of 12.5 in (320 mm)
+R – this is a radial tire
+17 – this tire fits 17 in (430 mm) rims
+LT – this is a light truck tire
+
+== Historical tire codes ==
+
+=== North America ===
+Prior to 1964, tires were all made to a 90% aspect ratio. Tire size was specified as the tire width in inches and the diameter in inches – for example, 6.50-15.
+From 1965 to the early 1970s, tires were made to an 80% aspect ratio. Tire size was again specified by width in inches and diameter in inches. To differentiate from the earlier 90-ratio tires, the decimal point is usually omitted from the width – for example, 685-15 for a tire 6.85 inches wide.
+Starting in 1972 tires were specified by load rating, using a letter code. In practice, a higher load rating tire was also a wider tire. In this system a tire had a letter, optionally followed by "R" for radial tires, followed by the aspect ratio, a dash and the diameter – C78-15 or CR78-15 for bias and radial, respectively. Each diameter of rim had a separate sequence of load ratings; thus, a C78-14 and a C78-15 are not the same width. An aspect ratio of 78% was typical for letter-sized tires, although 70% was also common and lower profiles down to 50% were occasionally seen.

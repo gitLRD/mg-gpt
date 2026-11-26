@@ -1,0 +1,151 @@
+# 3. Visibility
+
+## 3.1. Field of vision
+
+You must inspect all windscreens, including windscreens that open.
+
+How to inspect:
+
+-
+Sit in the driver’s seat.
+
+-
+Check the driver’s field of vision through the windscreen.
+
+-
+Check the driver’s field of vision through the front side windows.
+
+You should only fail the windscreen if the view is significantly affected. If only the driver’s view of the sky or the bonnet is affected, it should not be rejected.
+
+You do not need to consider how the field of vision would be affected by tall or short drivers
+
+The following are only considered a defect if they seriously restrict the driver’s view:
+
+- taxi signs to indicate when the vehicle is ‘for hire’
+
+- ‘official’ stickers, such as parking and disabled permits
+
+- sun visor on the driver’s side that cannot be stowed in the ‘off screen’ position
+
+- windscreen wipers that automatically stop in a position obscuring the view
+
+You can remove items such as a sat nav or air fresheners that obstruct the driver’s view of the road. However, make sure you tell the driver.
+
+You must inspect bonnet catches on vehicles with a bonnet, which would obscure the driver’s view of the road if opened. The inspection is only for primary catches - those that hold the bonnet fully closed. Secondary safety catches are not part of the inspection.
+
+You must accept manufacturer’s original design characteristics, such as:
+
+- opaque edging
+
+- split windscreens
+
+- modifications to security type vehicles, for example additional windscreen protection and strengthening supports
+
+Additional interior mirrors and externally mounted items such as mascots and spare wheels are not part of the test.
+
+## 3.2. Condition of glass
+
+You must check the condition of:
+
+- the windscreen
+
+- windows on either side of the driver’s seat
+
+To inspect the condition of glass:
+
+-
+Sit in the driver’s seat.
+
+-
+Check the view of the road.
+
+-
+Check the view of mandatory external mirrors.
+
+Check for:
+
+- damage in windscreen zone A more than 10mm in diameter
+
+- damage in the remainder of the windscreen’s swept area more than 40mm in diameter
+
+- damage to windows on either side of the driver’s seat
+
+- excessive tinting or discolouration of the windscreen or windows on either side of the driver’s seat
+
+Failure for damage is only justified if the damage significantly affects the driver’s view of the road. You do not need to consider the effects on tall or short drivers.
+
+Failure for tinting or discolouration is only justified if the driver’s view is significantly affected.
+
+Zone A is:
+
+- in the swept area of the windscreen
+
+- 290mm wide
+
+- centred on the steering wheel
+
+Repaired windscreens must be judged solely on whether the repair interferes with vision. An ‘invisible’ or barely detectable repair, finished flush with the surrounding glass, does not count as damage.
+
+## Class 5 glazing
+
+Vehicles first used from 1 June 1978 must have:
+
+- windscreens and windows on either side of the driver’s seat made from safety glass
+
+- all other windows made from safety glass or safety glazing
+
+Safety glass can be identified by one of the following markings:
+
+- BS 857
+
+- BS 5282 – but not acceptable on vehicles first used on or after 1 April 1985
+
+- TP GS or TP GSE – but not acceptable on vehicles first used on or after 1 October 1986
+
+- BS AU 178
+
+- an ‘E’ mark (including the number 43R)
+
+- an ‘e’ mark followed by a number, such as e11, inside a square
+
+Safety glazing means material other than glass constructed or treated not fly into fragments that would cause severe cuts if it’s fractured. There is no marking requirement for safety glazing.
+
+## 3.3. View to rear
+
+You must check that all mandatory rear-view mirrors or indirect vision devices provide an adequate view to the rear from the driver’s seat.
+
+You do not need to adjust mirrors or devices for this check.
+
+Indirect vision cameras may replace mirrors on some vehicles. If such devices are fitted, you must inspect the camera(s) and the screen.
+
+Rear view mirrors and indirect vision devices can be any of the following positions:
+
+- a. an exterior mirror or device that provides a view along the offside of the vehicle
+
+- b. an exterior mirror or device that provides a view along the nearside of the vehicle
+
+- c. an interior mirror or device which provides a view to the rear of the vehicle
+
+## Obligatory mirror or device fitment positions
+
+## 3.4. Windscreen wipers
+
+You do not need to inspect windscreen wipers on vehicles with:
+
+- an opening windscreen
+
+- some other means of giving the driver an adequate view through the windscreen to the front, left and right
+
+You only need to reject a windscreen wiper if it’s clearly damaged or worn.
+
+Windscreen wipers must continue to operate automatically when switched on.
+
+## 3.5. Windscreen washers
+
+You do not need to inspect windscreen washers on vehicles with:
+
+- an opening windscreen
+
+- some other means of providing the driver with an adequate view through the windscreen to the front, left and right
+
+Washers must provide enough fluid for the wipers to clear the windscreen effectively.

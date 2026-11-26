@@ -1,0 +1,62 @@
+Magneto
+
+A magneto is an electrical generator that uses permanent magnets to produce periodic pulses of alternating current. Unlike a dynamo, a magneto does not contain a commutator to produce direct current. It is categorized as a form of alternator, although it is usually considered distinct from most other alternators, which use field coils rather than permanent magnets.
+Hand-cranked magneto generators were used to provide ringing current in telephone systems. Magnetos were also adapted to produce pulses of high voltage in the ignition systems of some gasoline-powered internal combustion engines to provide power to the spark plugs. Use of such ignition magnetos for ignition is now limited mainly to engines without a low-voltage electrical system, such as lawnmowers and chainsaws, and to aircraft engines, in which keeping the ignition independent of the rest of the electrical system ensures that the engine continues running in the event of alternator or battery failure. For redundancy, virtually all piston engine aircraft are fitted with two magneto systems, each supplying power to one of two spark plugs in each cylinder.
+Magnetos were used for specialized isolated power systems such as arc lamp systems or lighthouses, for which their simplicity was an advantage. They have never been widely applied for the purposes of bulk electricity generation, for the same purposes or to the same extent as either dynamos or alternators. Only in a few specialised cases have they been used for power generation.
+
+== History ==
+Production of electric current from a moving magnetic field was demonstrated by Faraday in 1831. The first machines to produce electric current from magnetism used permanent magnets; the dynamo machine, which used an electromagnet to produce the magnetic field, was developed later. The machine built by Hippolyte Pixii in 1832 used a rotating permanent magnet to induce alternating voltage in two fixed coils.
+
+=== Electroplating ===
+
+The first electrical machine used for an industrial process was a magneto, the Woolrich Electrical Generator. In 1842 John Stephen Woolrich was granted UK patent  9431 for the use of an electrical generator in electroplating, rather than batteries. A machine was built in 1844 and licensed to the use of the Elkington Works in Birmingham. Such electroplating expanded to become an important aspect of the Birmingham toy industry, the manufacture of buttons, buckles and similar small metal items.
+The surviving machine has an applied field from four horseshoe magnets with axial fields. The rotor has ten axial bobbins. Electroplating requires DC and so the usual AC magneto is unworkable. Woolrich's machine, unusually, has a commutator to rectify its output to DC.
+
+=== Arc lighting ===
+
+Most early dynamos were bipolar and so their output varied cyclically as the armature rotated past the two poles.
+To achieve an adequate output power, magneto generators used many more poles; usually sixteen, from eight horseshoe magnets arranged in a ring. As the flux available was limited by the magnet metallurgy, the only option was to increase the field by using more magnets.  As this was still an inadequate power, extra rotor disks were stacked axially, along the axle. This had the advantage that each rotor disk could at least share the flux of two expensive magnets. The machine illustrated here uses eight disks and nine rows of magnets: 72 magnets in all.
+The rotors first used were wound as sixteen axial bobbins, one per pole. Compared to the bipolar dynamo, this did have the advantage of more poles giving a smoother output per rotation, which was an advantage when driving arc lamps. Magnetos thus established a small niche for themselves as lighting generators.
+The Belgian electrical engineer Floris Nollet (1794–1853) became particularly known for this type of arc lighting generator and founded the British-French company Société de l'Alliance to manufacture them.
+The French engineer Auguste de Méritens (1834–1898) developed magnetos further for this purpose. His innovation was to replace the rotor coils previously wound on individual bobbins, with a 'ring wound' armature. These windings were placed on a segmented iron core, similar to a Gramme ring, so as to form a single continuous hoop. This gave a more even output current, which was still more advantageous for arc lamps.
+
+=== Lighthouses ===
+
+De Méritens is best remembered today for his production of magneto generators specifically for lighthouses. These were favoured for their simplicity and reliability, in particular their avoidance of commutators. In the sea air of a lighthouse, the commutator that had been used previously with dynamo generators was a continual source of trouble. The lighthouse keepers of the time, usually semi-retired sailors, were not mechanically or electrically skilled enough to maintain these more complex machines.
+The de Méritens magneto generator illustrated shows the 'ring wound' armature. As there is now only a single rotor disk, each horseshoe magnet comprises a stack of individual magnets, but acts through a pair of pole pieces.
+
+=== Self-exciting dynamos ===
+
+Dynamos and alternators require a source of power to drive their field coils. This could not be supplied by their own generator's output, without some process of 'bootstrapping'.
+Henry Wilde, an electrical engineer from Manchester, England, developed a combination of magneto and electro-magnet generator, where the magneto was used only to supply the field to the larger alternator. These are illustrated in Rankin Kennedy's work Electrical Installations Kennedy himself developed a simpler version of this, intended for lighting use on ships, where a dynamo and magneto were assembled on the same shaft. Kennedy's innovation here was to avoid the need for brushgear at all. The current generated in the magneto is transmitted by wires attached to the rotating shaft to the dynamo's rotating field coil. The output of the dynamo is then taken from the stator coils. This is 'inside-out' compared to the conventional dynamo, but avoids the need for brushgear.
+The invention of the self-exciting field by Varley, Siemens & Wheatstone removed the need for a magneto exciter. A small residual field in the iron armature of the field coils acted as a weak permanent magnet, and thus a magneto. The shunt wiring of the generator feeds some of its output current back into the field coils, which in turn increases output. Because of this, the field 'builds up' regeneratively, though this may take 20–30 seconds to do so fully.
+Use of magnetos here is now obsolete, though separate exciters are still used for high power generating sets, as they permit easier control of output power. These are particularly common with the transmissions of diesel-electric locomotives.
+
+== Power generation ==
+Magnetos have advantages of simplicity and reliability, but are limited in size owing to the magnetic flux available from their permanent magnets. The fixed excitation of a magneto made it difficult to control its terminal voltage or reactive power production when operating on a synchronized grid. This restricted their use for high-power applications. Power generation magnetos were limited to narrow fields, such as powering arc lamps or lighthouses, where their particular features of output stability or simple reliability were most valued.
+
+=== Wind turbines ===
+Small wind turbines, particularly self-build designs, are widely adopting magneto alternators for generation. The generators use rotating neodymium rare-earth magnets with a three-phase stator and a bridge rectifier to produce direct current (DC). This current either directly pumps water, is stored in batteries, or drives a mains inverter that can supply the commercial electricity grid.  A typical design is an axial-flux generator recycled from a car brake disk and hub bearing. A MacPherson strut provides the azimuth bearing to bring the turbine into the wind. The brake disk, with its attached rare-earth magnets, rotates to form the armature. A plywood disk carrying multiple axial coils is placed alongside this, with an iron armature ring behind it.
+In large sizes, from the 100 kW to MW range, the machines developed for modern wind turbines are termed permanent magnet synchronous generators.
+
+== Bicycles ==
+
+One popular and common use of magnetos of today is for powering lights and USB powered devices on bicycles. Most commonly, a small magneto, termed a bottle dynamo, rubs against the tire of the bicycle and generates power as the wheel turns. More expensive and less common but more efficient is the hub dynamo that rotates neodymium magnets around a copper coil in a claw pole cage inside the hub of a wheel. Commonly referred to as dynamos, both devices are in fact magnetos, producing alternating current as opposed to the direct current produced by a true dynamo.
+
+== Medical application ==
+The magneto also had a medical application for treatment of mental illness in the beginnings of electromedicine. In 1850, Duchenne de Boulogne, a French doctor, developed and manufactured a magneto with a variable outer voltage and frequency, through varying revolutions by hand or varying the inductance of the two coils, for clinical experiments in neurology.
+
+== Ignition magnetos ==
+
+Magnetos adapted to produce impulses of high voltage for spark plugs are used in the ignition systems of spark-ignition piston engines. Motor sport vehicles  such as motorcycles and snowmobiles may use magnetos because they are lighter in weight than an ignition system relying on a battery. Small internal combustion engines used for lawn mowers, chain saws, portable pumps and similar applications use magnetos for economy and weight reduction. Magnetos are not used in highway motor vehicles that have a cranking battery, which may need more ignition timing control than a magneto system can provide, though sophisticated solid state controllers are becoming more common.
+Magnetos are used in piston aircraft engines for their reliability and simplicity. Typically, each engine has two magnetos and each cylinder has two spark-plugs, with each magneto powering one of them. This provides two independent ignition systems so the engine will keep running if either fails.
+
+== Telephone ==
+
+Manual telephones for local battery station service in magneto exchanges were equipped with a hand-cranked magneto generator to produce an alternating voltage to alert the central office operator, or to ring the bells of other telephones on the same (party) line.
+
+== Future possibilities ==
+The development of modern rare-earth magnets makes the simple magneto alternator a more practical proposition as a power generator, as these permit a greatly increased field strength. As the magnets are compact and of light weight, they generally form the rotor, so the output windings can be placed on the stator, avoiding the need for brushgear.
+
+=== Guided missiles ===
+By the late 1980s, developments in magnetic materials such as samarium–cobalt, an early rare-earth type, let permanent magnet alternators be used in applications that require an extremely robust generator. In guided missiles, such generators can replace a flux switching alternator. These must operate at high speeds, directly coupled to a turbine. Both types share the advantage of the output coils being part of the stator, thus avoiding the need for brushgear.

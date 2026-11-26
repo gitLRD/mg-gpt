@@ -1,0 +1,44 @@
+Timing belt (camshaft)
+
+In a piston engine, a timing belt (also called a cambelt) is a toothed belt that drives the camshaft and synchronizes its rotation with the crankshaft propelling it. This synchronisation ensures that the engine's valves open and close at the correct times in relation to the position of the pistons. A timing belt is a semidurable component: in many cases it lasts for the service life of the engine, and in other cases it must be replaced during the engine's service life, anywhere from once to several times, depending on how the vehicle is used and how long the vehicle is in service.
+Many modern engines have timing belts; others instead have either a timing chain (which is a roller chain with the same purpose) or a set of timing gears that mesh with one another.
+
+== Design ==
+In most piston engines, the camshaft(s) are mechanically connected to the crankshaft. The crankshaft drives the camshaft (via a timing belt, timing chain or gears), which in turn actuates the intake and exhaust valves. These valves allow the engine to inhale air (or an air/fuel mixture) and exhale the exhaust gasses.
+The most common devices to transfer the drive are toothed rubber belts, metal timing chains or a set of gears. The teeth of the belt/chain/gears mesh with both the crankshaft and camshaft(s), thereby synchronising their motion.
+In many older overhead valve engines, the camshaft is located in the block near the crankshaft, therefore a simple gear system is often used to drive the camshaft. Overhead camshaft engines mostly use timing belts or timing chains, since these are better suited to transferring drive over larger distances. Timing belts were common on mass-production cars until the 1970s and 1980s, however since the 1990s timing chains have become more common due to the replacement intervals required when using timing belts.
+
+== Toothed rubber belts ==
+
+The phrase "timing belt" usually refers to a rubber toothed belt. The advantages of timing belts are typically a lower cost, reduced friction losses, less noise and that belts traditionally do not require lubrication. The main disadvantage is that belts wear over time, therefore belt replacement is recommended at specific intervals. Replacement of the engine's water pump at the same time is often recommended, since the water pump is also subject to wear and easily accessed during the replacement of the timing belt.
+Timing belts are typically located in front of the engine and are often behind a cover for protection against dust and debris. However a few engines since 2008 have used "wet timing belts", whereby the belt is lubricated by engine oil to reduce friction losses by 30% and thus reduce fuel consumption by 1%. In some engine designs the timing belt may also be used to drive other components, such as the water pump and oil pump.
+
+=== Construction ===
+A timing belt is typically made from rubber, although some belts are instead made from polyurethane or neoprene. The structure of the belt is reinforced with corded fibres (acting as tension members) and the toothed surface is reinforced with a fabric covering.
+Rubber degrades with higher temperatures, and with contact with motor oil.  Thus the life expectancy of a timing belt is lowered in hot or leaky engines. Also, the life of the reinforcing cords is also affected by water and antifreeze, so it is important that belt that can be exposed to water is able to drain the water away quickly.
+Older belts have trapezoid shaped teeth leading to high rates of tooth wear. Newer manufacturing techniques allow for curved teeth that are quieter and last longer.
+Manufacturer-specification timing belts may stretch at high rpm, retarding the cam and therefore the ignition.  Stronger aftermarket belts will not stretch and the timing is preserved. When designing the timing belt, a wider belt increases its strength however a narrower belt reduces weight and friction.
+The usual failure modes of timing belts are either stripped teeth (which leaves a smooth section of belt where the drive cog will slip) or delamination and unraveling of the fiber cores.  Breakage of the belt, because of the nature of the high tensile fibers, is uncommon.  Often overlooked, debris and dirt that mix with oil and grease can slowly wear at the belt and materials advancing the wear process, causing premature belt failure.
+
+=== History ===
+Toothed belts were invented in the early 1940s, for use in textile mills. The first known automobile engine to use a timing belt was the American 1954 Devin-Panhard racing car, used an engine converted from pushrods to overhead camshafts through the use of a toothed belt made by the Gilmer Company. This car won the Sports Car Club of America (SCCA) National Championship in 1956.
+The 1962 Glas 1004 was the first mass-produced vehicle to use a timing belt. The 1966 Pontiac OHC Six engine was the first US mass-produced vehicle to use a timing belt, while the 1966 Fiat Twin Cam engine was the first mass-produced engine to use a timing belt with twin camshafts. Carmakers began to adopt timing belts in the 1970s and compared to timing chains are less expensive, smaller, lighter, quieter, isolate harmonics of the crankshaft from the valve train, require less power than chains and can potentially function without lubrication. Timing belts are usually made of Neoprene or HNBR.
+
+== Timing chains ==
+
+Metal timing chains have become more widespread in car engines produced since the 1990s in order to eliminate the regular maintenance interval replacement of a rubber timing belt. While the chains themselves are subject to minimal wear, lubrication of the chain or failure of the tensioner and chain guides can cause excessive wear or premature failure. Unlike typical metal-reinforced rubber timing belts, which give no indication of impending failure, worn timing chain system will produce a telltale rattling noise from the front of the engine.
+Most pushrod engines, where the crankshaft and camshaft are very close together, use a short chain drive rather than a direct gear drive to prevent frequent torque reversal as the cam profiles "kick back" against the drive from the crank, leading to excessive noise and wear.
+
+== Timing gears ==
+
+Timing gears are used in various overhead valve engines, due to the close proximity of the camshaft to the crankshaft.
+Fiber or nylon covered gears, with more resilience, are often used instead of steel gears where direct drive is used. However, commercial engines and aircraft engines use steel gears only, as the other materials can fail suddenly and without warning.
+
+== Effects of failure ==
+
+Failure of the timing system will prevent an engine from running. Many modern cars use  interference engines, which can suffer catastrophic damage in the event of timing system failure, since the loss of synchronization between the crankshaft and the camshaft will cause the valves to collide with the pistons.
+Warning signs that a timing chain needs to be replaced include:
+
+Later model VVT applications will generate engine codes and check engine lights prior to engine rattle
+Older, pre-VVT applications will generate engine rattle
+Aside from the belt/chain itself, also common is a failure of the tensioner, and/or the various gear and idler bearings, causing the belt/chain to derail. Furthermore, in engines where the timing belt drives the water pump, failure of the water pump can cause the pump to seize, which can break the timing belt or chain. For this reason, timing belts and chains are often sold as part of a kit with the water pump, tensioner, and idler pulleys so that these parts can be replaced to prevent timing belt or chain failure due to failure of these parts.

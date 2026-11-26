@@ -1,0 +1,199 @@
+# 6. Body, structure and attachments
+
+## 6.1. Structure and attachments
+
+## 6.1.1. General condition
+
+This sub-section covers the condition of the general structure but does not include prescribed areas. These are checked under sections 1 (brakes), 2 (steering), 5 (axles, wheels, tyres and suspension) and 7 (other equipment).
+
+Vehicles should only be failed under (a), (c) or (d) in this section if the overall structural rigidity of the vehicle is significantly reduced.
+
+You can find guidance on assessing corrosion in Appendix A of this manual.
+
+## 6.1.2. Exhaust system
+
+You must check the exhaust system of all vehicles with an internal combustion engine, including hybrid vehicles.
+You need to assess the overall security of the exhaust system. One or more missing or defective exhaust mountings does not necessarily make the exhaust insecure.
+
+For exhaust noise assessment, see Section 8.1.1.
+
+For assessment of catalytic converters and diesel particulate filters, see Section 8.2.
+
+## 6.1.3. Fuel system
+
+This inspection applies to all fuel tanks which are permanently attached to vehicles, including gas fuel tanks and cylinders, bottles and other types of fuel container for auxiliary appliances including cookers etc.
+
+For Hydrogen Fuel Cell vehicles, hydrogen tanks will be classed as fuel tanks.
+
+You might need to open the luggage compartment to carry out a full inspection of the fuel system.
+
+If a fuel tank has a hole or the filler neck is split and fuel can leak from it, you must fail it for leaking even if the hole or split is above the fuel line.
+
+If you cannot get access to the fuel filler cap, see item 4g in the Introduction.
+
+To check for leaks on gas powered vehicles, use a leak detection product conforming to the standard BS EN 14291-2004. You must follow the manufacturer’s instructions when using leak detection products.
+
+Only fail a vehicle for missing heat shields if there’s a risk of fire with other fuel system components.
+
+## 6.1.4. Bumpers
+
+## 6.1.5. Spare wheel carrier (if fitted)
+
+This inspection is only for externally-mounted spare wheel carriers.
+
+## 6.1.6. Coupling mechanisms and towing equipment
+
+You must inspect all types of coupling mechanisms and towbars fitted to the rear of a vehicle, including fifth-wheel couplings.
+
+You must also inspect the vehicle structure within 30cm of any towbar mounting point and assess its strength and continuity.
+
+Towbar mounting points are not prescribed areas and the vehicle structure should only be rejected if its strength or continuity is significantly reduced.
+
+You do not need to inspect emergency towing eyes.
+
+You must remove tow ball covers to inspect the tow ball.
+
+If coupling mechanisms are behind access panels in the bumper, bodywork or removable panel, you must remove them to inspect the coupling mechanism unless tools are needed to do this.
+
+When checking coupling mechanisms, you may also need to check inside the luggage compartment and lift loose fitting mats or carpet.
+
+You must test retractable towbars in their ‘in-use’ position. However, if you need tools to do this, you do not need to do it.
+
+If a tow ball or pin is not fitted at the time of test - because it’s detachable, it’s been unbolted or otherwise removed - but the attachment brackets are still in place, the brackets should still be assessed unless they have been deliberately rendered unfit for further use.
+
+There might be movement (‘play’) in some detachable tow balls between the receiver socket and the tapered swan neck fitting, with up to 3mm movement measured at the ball end.
+
+You must reject:
+
+- pins, jaws or hooks that have worn by more than 25% of their original thickness
+
+- pin locating holes that have been worn or elongated by more than 25% of their original diameter
+
+- tow balls that are obviously excessively worn
+
+Many ‘bolt-on’ type tow balls have accessory devices between the tow ball and its mounting flange. You should only reject these if their fitment is clearly likely to adversely affect the roadworthiness of the vehicle and its trailer.
+
+## 6.1.7. Transmission
+
+You must inspect all:
+
+- prop shafts
+
+- drive shafts
+
+- prop shaft and drive shaft couplings and bearings
+
+- drive chains or belts
+
+Class 3 vehicles do not need to be inspected for this.
+
+## 6.1.8. Engine mountings
+
+You must inspect engine mountings for all vehicles except for Class 3 vehicles.
+
+The inspection includes mountings bolted to the gearbox that give essential support for the engine.
+
+Body corrosion close to an engine mounting should only be rejected if it’s so severe that it results in excessive movement.
+
+## 6.2. Body and interior
+
+## 6.2.1. Body condition
+
+This inspection is for all vehicles and includes:
+
+- all body panels
+
+- undertrays
+
+- spoilers
+
+- mirror housings
+
+For inspecting bumpers, see Section 6.1.4.
+
+A ‘body pillar’ applies only to the load carrying area of a goods vehicle.
+
+An unsafe modification is one that is likely to cause injury.
+
+## 6.2.2. Cab and body mounting
+
+You only need to inspect vehicles with a separate body and/or cab. Class 3 vehicles do not need to be inspected for cabs and cab mountings.
+
+You should assess for corrosion within 30cm of the mountings of the body or cab and its chassis.
+
+If the cab/body is not of an integral construction, then the mountings are not prescribed areas, if corrosion is found at these mountings you can only reject the body or cab if its overall security is significantly reduced.
+
+Individual body security defects are not a reason for rejection unless their cumulative effect is likely to significantly reduce the overall body security.
+
+## 6.2.3. Doors and door catches
+
+Defects regarding the opening of doors do not apply to passenger doors:
+
+- on goods vehicles modified for the carriage of high value cargoes such as armoured security vehicles
+
+- where the door aperture has been permanently ‘filled’ as part of a specialised customisation provided that there are no obvious aperture gaps
+
+A lack of door handles due to the original design or a specialist modification is not a defect so long as the door can be latched securely in the closed position and the door can still be opened using the relevant control, for example, a button or a fob.
+
+Driver and passenger doors must open from the outside using the relevant control.
+
+Driver and front passenger doors must also open from the inside using the relevant control.
+
+Load space doors must be able to be secured in the closed position.
+
+You should only reject door hinges, catches and pillars for deterioration if it causes the doors not to work as intended.
+
+## 6.2.4. Floor
+
+You must inspect the floor in the driver, passenger and goods carrying compartments.
+
+Areas of floor within a ‘prescribed area’ are covered in sections 1 (brakes), 2 (steering), 5 (axles, wheels, tyres and suspension) and 7 (other equipment).
+
+## 6.2.5. Driver’s seat
+
+Check the security of the driver’s seat.
+
+For manually adjustable seats, check that the seat remains secure in several positions. It is not necessary to check that the seat can be secured in all possible positions. Seat adjustment must incorporate an automatic locking system which operates in all positions provided for normal use. If the mechanism requires manual assistance it should be rejected for not working as intended.
+
+A driver’s seat that is fixed or cannot be adjusted to the manufacturers full range of fore and aft adjustment is not a reason for failure.
+
+For electrically adjusted seats, you do not need to check that any ‘memory position’ function is working.
+
+Original design characteristics and specialised modifications (e.g. to enable wheelchair access, or changed to a fixed seat) are to be accepted.
+
+## 6.2.6. Passenger seats
+
+You should lift folded seats to inspect seat belts unless this requires the use of tools or specialist equipment. This applies to occasional seats that are folded and are designed for occasional use, and seats designed for everyday use with the ability to be folded to provide additional luggage space. Seats already in the upright position do not require the base to be lifted for this examination.
+
+If you cannot lift seats because there are heavy or fragile items on the seat, you can refuse to test the vehicle. For details, see item 4d in the Introduction.
+
+You should only consider a passenger seat structure defective if it’s likely to cause injury.
+
+Original design characteristics and specialised modifications (e.g. to enable wheelchair access, or changed to a fixed seat) are to be accepted.
+
+## 6.2.7. Driving controls
+
+You should inspect Class 5 vehicles for driving controls not covered in other sections of the manual, such as:
+
+- clutch
+
+- accelerator
+
+- gear selector
+
+- engine stop
+
+## 6.2.8. Cab steps (if fitted)
+
+You must only inspect steps that aid entry into the driver’s and/or the front passenger compartment.
+
+## 6.2.9. Not in use
+
+## 6.2.10. Not in use
+
+## 6.2.11. Not in use
+
+## 6.2.12. Handgrips and footrests
+
+You must only inspect tricycles and quadricycles fitted with handgrips and/or footrests for the driver/passenger(s).
+You must reject these if they’re missing or insecure and it’s clear that they’re required for the vehicle to be safely operated.

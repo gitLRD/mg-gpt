@@ -1,0 +1,35 @@
+Coil spring
+
+A coil spring is a mechanical device that typically is used to store energy and subsequently release it, to absorb shock, or to maintain a force between contacting surfaces. It is made of an elastic material formed into the shape of a helix that returns to its natural length when unloaded.
+Under tension or compression, the material (wire) of a coil spring undergoes torsion. The spring characteristics therefore depend on the shear modulus.
+A coil spring may also be used as a torsion spring: in this case the spring as a whole is subjected to torsion about its helical axis. The material of the spring is thereby subjected to a bending moment, either reducing or increasing the helical radius. In this mode, it is the Young's modulus of the material that determines the spring characteristics.
+
+== Spring rate ==
+
+Spring rate is the measurement of how much load (in pounds) a coil spring can hold until it compresses 1 inch (2.54 cm). The spring rate is normally specified by the manufacture. If a spring has a rate of 100 then the spring would compress 1 inch with 100 pounds (45 kg) of load.
+
+== Variants ==
+
+Types of coil spring are:
+
+Tension/extension coil springs, designed to resist stretching. They usually have a hook or eye form at each end for attachment.
+Compression coil springs, designed to resist being compressed. A typical use for compression coil springs is in car suspension systems.
+Volute springs are used as heavy load compression springs. A strip of plate is rolled into the shape of both a helix and a spiral. When compressed, the strip is stiffer edge-on than a wire coil, but the spiral arrangement allows the turns to overlap rather than bottoming out on each other.
+Arc springs (bow springs) are a special form of coil spring which was originally developed for use in the dual-mass flywheel of internal combustion engine drive trains. The force is applied through the ends of the spring. A torque M=F⋅r can be transmitted around an axis via the force F directed along this helical axis and the lever arm to the system center point r.
+Torsion springs, designed to resist twisting actions. Often associated to clothes pegs or up-and-over garage doors.
+
+== Applications ==
+
+Coil springs have many applications; notable ones include:
+
+Buckling springs in computer keyboards
+Mattress coils in innerspring mattresses
+Upholstery coil springs in upholstery
+Coil springs are commonly used in vehicle suspension. These springs are compression springs and can differ greatly in strength and in size depending on application. A coil spring suspension can be stiff to soft depending on the vehicle it is used on. Coil spring can be either mounted with a shock absorber or mounted separately. Coil springs in trucks allow them to ride smoothly when unloaded and once loaded the spring compresses and becomes stiff. This allows the vehicle to bounce less when loaded. Coil spring suspension is also used in high performance cars so that the car can absorb bumps and have low body roll. In off-road vehicles they are used because of their range of travel they allow at the wheel.
+Coil springs used in the engine are compression springs and play an important role in closing the valves that feed air and let exhaust gasses out of the combustion chamber. The spring is attached to a rocker that is connected to the valve.
+Tension and extension coil springs of a given material, wire diameter and coil diameter exert the same force when fully loaded; increased number of coils merely (linearly) increases free length and compressed/extended length.
+
+== Manufacture ==
+Metal coil springs are made by winding a wire around a shaped former –  a cylinder is used to form cylindrical coil springs.
+
+Coil springs for vehicles are typically made of hardened steel. A machine called an auto-coiler takes spring wire that has been heated so it can easily be shaped. It is then fed onto a lathe that has a metal rod with the desired coil spring size. The machine takes the wire and guides it onto the spinning rod as well as pushing it across the rod to form multiple coils. The spring is then ejected from the machine and an operator will put it in oil to cool off. The spring is then tempered to lose the brittleness from being cooled. The coil size and strength can be controlled by the lathe rod size and material used. Different alloys are used to get certain characteristics out of the spring, such as stiffness, dampening and strength

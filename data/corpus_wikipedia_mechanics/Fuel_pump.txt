@@ -1,0 +1,32 @@
+Fuel pump
+
+A fuel pump is a component used in many liquid-fuelled engines (such as petrol/gasoline or diesel engines) to transfer the fuel from the fuel tank to the device where it is mixed with the intake air (such as the carburetor or fuel injector).
+Carbureted engines often use low-pressure mechanical pumps that are mounted on the engine. Fuel injected engines use either electric fuel pumps mounted inside the fuel tank (for lower pressure manifold injection systems) or high-pressure mechanical pumps mounted on the engine (for high-pressure direct injection systems).
+Some engines do not use any fuel pump at all. A low-pressure fuel supply used by a carbureted engine can be achieved through a gravity feed system, i.e. by simply mounting the tank higher than the carburetor. This method is commonly used in carbureted motorcycles, where the tank is usually directly above the engine.
+
+== Low-pressure mechanical pumps ==
+On engines that use a carburetor (e.g. in older cars, lawnmowers and power tools), a mechanical fuel pump is typically used in order to transfer fuel from the fuel tank into the carburetor. These fuel pumps operate at a relatively low fuel pressure of 10–15 psi (0.7–1.0 bar).
+The two most widely used types of mechanical pumps are diaphragm pumps and plunger pumps.
+
+== High-pressure mechanical pumps ==
+Pumps for modern direct-injection engines operate at a much higher pressure, up to 30,000 psi (2,100 bar) and have configurations such as common rail radial piston, common rail two piston radial, inline, port and helix, and metering unit. Injection pumps are fuel lubricated which prevents oil from contaminating the fuel.
+
+=== Port and Helix pumps ===
+Port and Helix pumps are most commonly used in marine diesel engines because of their simplicity, reliability, and its ability to be scaled up in proportion to the engine size. The pump is similar to that of a radial piston-type pump, but instead of a piston it has a machined plunger that has no seals. When the plunger is at top dead center, the injection to the cylinder is finished and it is returned on its downward stroke by a compression spring.
+Due to the fixed height of a cam lobe, the amount of fuel being pumped to the injector is controlled by a rack and pinion device that rotates the plunger, thus allowing variable amounts of fuel to the area above the plunger. The fuel is then forced through a check valve and into the fuel injector nozzle.
+
+=== Plunger-type pumps ===
+Plunger-type pumps are a type of positive-displacement pump used by diesel engines. These pumps contain a chamber whose volume is increased and/or decreased by a moving plunger, along with check valves at the inlet and discharge ports. It is similar to that of a piston pump, but the high-pressure seal is stationary while the smooth cylindrical plunger slides through the seal.
+Plunger-type pumps are often mounted on the side of the injection pump and driven by the camshaft. These pumps usually run at a fuel pressure of 3,600–26,100 psi (250–1,800 bar).
+
+== Electric pumps ==
+In fuel-injected petrol engines, an electric fuel pump is typically located inside the fuel tank. For older port injection and throttle-body injection systems, this "in-tank" fuel pump transports the fuel from the fuel tank to the engine, as well as pressurising the fuel to typically 40–60 psi (3–4 bar). While for direct-injection systems, the in-tank fuel pump transports the fuel to the engine, where a separate fuel pump pressurises the fuel (to a much higher pressure).
+Since the electric pump does not require mechanical power from the engine, it is feasible to locate the pump anywhere between the engine and the fuel tank. The reasons that the fuel pump is typically located in the fuel tank are:
+
+By submerging the pump in fuel at the bottom of the tank, the pump is cooled by the surrounding fuel
+Liquid fuel by itself (i.e. without oxygen present) isn't flammable, therefore surrounding the fuel pump by fuel reduces the risk of fire
+As the pump is submerged in fuel, it won't need to be able to pump air or vapor to draw fuel if the tubes are not filled with fuel, after a fuel accident or on first run.
+In-tank fuel pumps are often part of an assembly consisting of the fuel pump, fuel strainer and fuel level sensor (the latter used for the fuel gauge).
+
+== Turbopumps ==
+Rocket engines use a turbopump to supply the fuel and oxidizer into the combustion chamber.

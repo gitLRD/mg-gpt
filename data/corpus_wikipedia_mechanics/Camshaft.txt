@@ -1,0 +1,63 @@
+Camshaft
+
+A camshaft is a shaft that contains a row of pointed cams in order to convert rotational motion to reciprocating motion. Camshafts are used in piston engines (to operate the intake and exhaust valves), mechanically controlled ignition systems and early electric motor speed controllers.
+Camshafts in piston engines are usually made from steel or cast iron, and the shape of the cams greatly affects the engine's characteristics.
+
+== History ==
+Trip hammers are one of the early uses of a form of cam to convert rotating motion, e.g. from a waterwheel, into the reciprocating motion of a hammer used in forging or to pound grain. Evidence for these exists back to the Han dynasty in China, and they were widespread by the medieval period.
+Camshafts were first described by Ismail al-Jazari in 1206. Once the rotative version of the steam engine was developed in the late 18th century, the operation of the valve gear was usually by an eccentric, which turned the rotation of the crankshaft into reciprocating motion of the valve gear, normally a slide valve. Camshafts more like those seen later in internal combustion engines were used in some steam engines, most commonly where high pressure steam (such as that generated from a flash steam boiler), required the use of poppet valves, or piston valves. For examples see the Uniflow steam engine, and the Gardner-Serpollet steam cars, which also included axially sliding the camshaft to achieve variable valve timing.
+Among the first cars to utilize engines with single overhead camshafts were the Maudslay, designed by Alexander Craig and introduced in 1902 and the Marr Auto Car designed by Michigan native Walter Lorenzo Marr in 1903.
+
+== Piston engines ==
+
+In piston engines, the camshaft is used to operate the intake and exhaust valves. The camshaft consists of a cylindrical rod running the length of the cylinder bank with a number of cams (discs with protruding cam lobes) along its length, one for each valve. As the cam rotates, the lobe presses on the valve (or an intermediate mechanism), thus pushing it open. Typically, a valve spring is used to push the valve in the opposite direction, thus closing the valve once the cam rotates past the highest point of its lobe.
+
+=== Construction ===
+
+Camshafts are made from metal and are usually solid, although hollow camshafts are sometimes used. The materials used for a camshaft are usually either: 
+
+Cast iron: Commonly used in high volume production, chilled iron camshafts have good wear resistance since the chilling process hardens them.
+Billet steel: For high-performance engines or camshafts produced in small quantities, steel billet is sometimes used. This is a much more time-consuming process, and is generally more expensive than other methods. The method of construction is usually either forging, machining, casting or hydroforming.
+
+=== Location in engine ===
+Many early internal combustion engines used a cam-in-block layout (such as flathead, IOE or T-head layouts), whereby the camshaft is located within the engine block near the bottom of the engine. Early flathead engines locate the valves in the block and the cam acts directly on those valves.  In an overhead valve engine, which came later, the cam follower presses on a pushrod which transfers the motion to the top of the engine, where a rocker opens the intake/exhaust valve. Although largely replaced by SOHC and DOHC layouts in modern automobile engines, the older overhead valve layout is still used in many industrial engines, due to its smaller size and lower cost.
+As engine speeds increased through the 20th century, single overhead camshaft (SOHC) engines— where the camshaft is located within the cylinder head near the top of the engine— became increasingly common, followed by double overhead camshaft (DOHC) engines in more recent years. For OHC and DOHC engines, the camshaft operates the valve directly or via a short rocker arm.
+The valvetrain layout is defined according to the number of camshafts per cylinder bank. Therefore, a V6 engine with a total of four camshafts - two camshafts per cylinder bank - is usually referred to as a double overhead camshaft engine (although colloquially they are sometimes referred to as "quad-cam" engines).
+
+=== Drive systems ===
+
+Accurate control of the position and speed of the camshaft is critically important in allowing the engine to operate correctly. The camshaft is usually driven either directly, via a toothed rubber "timing belt"' or via a steel roller "timing chain". Gears have also occasionally been used to drive the camshaft. In some designs the camshaft also drives the distributor, oil pump, fuel pump and occasionally the power steering pump.
+Alternative drive systems used in the past include a vertical shaft with bevel gears at each end (e.g. pre-World War I Peugeot and Mercedes Grand Prix Cars and the Kawasaki W800 motorcycle) or a triple eccentric with connecting rods (e.g. the Leyland Eight car).
+In a two-stroke engine that uses a camshaft, each valve is opened once for every rotation of the crankshaft; in these engines, the camshaft rotates at the same speed as the crankshaft. In a four-stroke engine, the valves are opened only half as often, therefore the camshaft is geared to rotate at half the speed of the crankshaft.
+
+=== Performance characteristics ===
+
+==== Duration ====
+The camshaft's duration determines how long the intake/exhaust valve is open for, therefore it is a key factor in the amount of power that an engine produces. A longer duration can increase power at high engine speeds (RPM), however this can come with the trade-off of less torque being produced at low RPM.
+The duration measurement for a camshaft is affected by the amount of lift that is chosen as the start and finish point of the measurement. A lift value of 0.050 in (1.3 mm) is often used as a standard measurement procedure, since this is considered most representative of the lift range that defines the RPM range in which the engine produces peak power. The power and idle characteristics of a camshaft with the same duration rating that has been determined using different lift points (for example 0.006 or 0.002 inches) could be much different to a camshaft with a duration rated using lift points of 0.05 inches.
+A secondary effect of increased duration can be increased overlap, which determines the length of time that both the intake and exhaust valves are open. It is overlap which most affects idle quality, in as much as the "blow-through" of the intake charge immediately back out through the exhaust valve which occurs during overlap reduces engine efficiency, and is greatest during low RPM operation. In general, increasing a camshaft's duration typically increases the overlap, unless the Lobe Separation Angle is increased to compensate.
+A lay person can readily spot a long duration camshaft by observing the broad surface of the lobe where the cam pushes the valve open for a large number of degrees of crankshaft rotation.  This will be visibly greater than the more pointed camshaft lobe bump that is observed on lower duration camshafts.
+
+==== Lift ====
+The camshaft's lift determines the distance between the valve and the valve seat (i.e. how far open the valve is). The farther the valve rises from its seat the more airflow can be provided, thus increasing the power produced. Higher valve lift can have the same effect of increasing peak power as increased duration, without the downsides caused by increased valve overlap. Most overhead valve engines have a rocker ratio of greater than one, therefore the distance that the valve opens (the valve lift) is greater than the distance from the peak of the camshaft's lobe to the base circle (the camshaft lift).
+There are several factors which limit the maximum amount of lift possible for a given engine. Firstly, increasing lift brings the valves closer to the piston, so excessive lift could cause the valves to get struck and damaged by the piston. Secondly, increased lift means a steeper camshaft profile is required, which increases the forces needed to open the valve. A related issue is valve float at high RPM, where the spring tension does not provide sufficient force to either keep the valve following the cam at its apex or prevent the valve from bouncing when it returns to the valve seat. This could be a result of a very steep rise of the lobe, where the cam follower separates from the cam lobe (due to the valvetrain inertia being greater than the closing force of the valve spring), leaving the valve open for longer than intended. Valve float causes a loss of power at high RPM and in extreme situations can result in a bent valve if it gets struck by the piston.
+
+==== Timing ====
+The timing (phase angle) of the camshaft relative to the crankshaft can be adjusted to shift an engine's power band to a different RPM range. Advancing the camshaft (shifting it to ahead of the crankshaft timing) increases low RPM torque, while retarding the camshaft (shifting it to after the crankshaft) increases high RPM power. The required changes are relatively small, often in the order of 5 degrees.
+Modern engines which have variable valve timing are often able to adjust the timing of the camshaft to suit the RPM of the engine at any given time. This avoids the above compromise required when choosing a fixed cam timing for use at both high and low RPM.
+
+==== Lobe separation angle ====
+The lobe separation angle (LSA, also called lobe centreline angle) is the angle between the centreline of the intake lobes and the centreline of the exhaust lobes. A higher LSA reduces overlap, which improves idle quality and intake vacuum, however using a wider LSA to compensate for excessive duration can reduce power and torque outputs. In general, the optimal LSA for a given engine is related to the ratio of the cylinder volume to intake valve area.
+
+==== Functionality ====
+Camshafts are integral components of internal combustion engines, responsible for controlling the opening and closing of the engine's intake and exhaust valves. As the camshaft rotates, its lobes push against the valves, allowing the intake of air and fuel and the expulsion of exhaust gases. This synchronized process is crucial for optimizing engine performance, fuel efficiency, and emissions control. Without precisely engineered camshafts, the smooth and efficient operation of an engine would be compromised.
+
+=== Alternatives ===
+The most common methods of valve actuation involve camshafts and valve springs, however alternate systems have occasionally been used on internal combustion engines:
+
+Desmodromic valves, where the valves are positively closed by a cam and leverage system rather than springs. This system has been used on various Ducati racing and road motorcycles since it was introduced on the 1956 Ducati 125 Desmo racing bike.
+Camless piston engine, which use electromagnetic, hydraulic, or pneumatic actuators. First used in turbocharged Renault Formula 1 engines in the mid-1980s and slated for road car use in the Koenigsegg Gemera.
+Wankel engine, a rotary engine which uses neither pistons nor valves. Most notably used by Mazda from the 1967 Mazda Cosmo until the Mazda RX-8 was discontinued in 2012.
+
+== Electric motor speed controllers ==
+Before the advent of solid state electronics, camshaft controllers were used to control the speed of electric motors.  A camshaft, driven by an electric motor or a pneumatic motor, was used to operate contactors in sequence.  By this means, resistors or tap changers were switched in or out of the circuit to vary the speed of the main motor.  This system was mainly used in electric train motors (i.e. EMUs and locomotives).

@@ -1,0 +1,86 @@
+Engine tuning
+
+Engine tuning is the adjustment or modification of the internal combustion engine or Engine Control Unit (ECU) to yield optimal performance and increase the engine's power output, economy, or durability. These goals may be mutually exclusive; an engine may be de-tuned with respect to output power in exchange for better economy or longer engine life due to lessened stress on engine components.
+Tuning can include a wide variety of adjustments and modifications, such as the routine adjustment of the carburetor and ignition system to significant engine overhauls. Performance tuning of an engine can involve revising some of the design decisions taken during the development of the engine.
+Setting the idle speed, air-fuel ratio, carburetor balance, spark plug and distributor point gaps, and ignition timing were regular maintenance tasks for older engines and are the final but essential steps in setting up a racing engine. 
+On modern engines equipped with electronic ignition and fuel injection, some or all of these tasks are automated but they still require initial calibration of the controls. The ECU handles these tasks, and must be calibrated properly to match the engine's hardware.
+
+== Engine tune-up ==
+
+The term "tune-up" usually denotes the routine servicing of the engine to meet the manufacturer's specifications. Tune-ups are needed periodically according to the manufacturer's recommendations to ensure the vehicle runs as expected. Modern automobile engines rarely need tune-ups.
+Tune-ups may include the following:
+
+Adjustment of the carburetor idle speed and the air-fuel mixture,
+Inspection and possible replacement of ignition system components like spark plugs, contact breaker points, distributor cap and distributor rotor,
+Replacement of the air filter and other filters,
+Inspection of emission controls,
+Valvetrain adjustment.
+The term  "Italian tuneup" denotes the driving of a performance car, such as a Ferrari, by mechanics finishing the tune-up to burn out any built-up carbon.
+
+== Chip tuning ==
+
+Modern engines are equipped with an engine management system (EMS)/Engine Control Unit (ECU) that can be adjusted to different settings, producing different performance levels. Manufacturers often produce a few engines that are used in a wider range of models and platforms. This allows the manufacturers to sell automobiles in various markets with different regulations without having to spend money developing and designing different engines to fit these regulations. This also allows a single engine tuned to suit the particular buyer's market to be used by several brands.
+
+== Remapping ==
+
+Remapping is the simplest form of stage one engine tuning; it is performed mostly on turbocharged vehicles containing a modern Engine Control Unit (ECU). Almost all modern vehicles have an ECU, primarily supplied by Bosch or Delphi Technologies. The ECU has firmware that controls the various parameters under which the engine runs. These parameters include achieving the appropriate balance between fuel consumption, power, torque, fuel emissions, reliability and service intervals. In seeking this balance, many factory firmware configurations do not prioritize maximum power or torque, meaning that engine performance can sometimes be increased by remapping the ECU.
+Many manufacturers build one engine and use several firmware versions, known as maps, to achieve different power levels to differentiate vehicles that essentially have an identical engine. This gives users an opportunity to unlock more power from the engine with a few changes to the factory software by reading and editing the factory firmware from the ECU using specialist tools plugged into the on-board diagnostics (OBD) port. These tools connect to the vehicle’s on-board diagnostics (OBD) port to read the original firmware stored in the ECU. Software to read specific types of factory files is available.
+Parameters in the factory ECU calibration—such as fuel injection, boost pressure, fuel-rail pressure, fuel-pump pressure, and ignition timing—may be adjusted within limits set by specialists so that increased performance does not significantly compromise reliability, fuel consumption, or emissions. The map may be customized for city use, for on-track performance, or for an overall map giving power throughout the band in a linear manner. Once adjusted, the edited file is written back to the ECU with the same tools used for the initial reading, after which the engine is tested for performance, smoke levels, and any problems. Fine-tuning is done according to the feedback, producing a better-performing and more efficient engine.
+Remapping may increase the temperature of exhaust fumes.
+
+== Performance tuning ==
+
+Performance tuning is the tuning of an engine for motorsports. Many such automobiles may never compete but are built for show or leisure driving. In this context, the power output (e.g. In horsepower), torque, and responsiveness of the engine are of premium importance, but reliability and fuel efficiency are also relevant. In races, the engine must be strong enough to withstand the additional stress placed upon it and the automobile must carry sufficient fuel, so it is often far stronger and has higher performance than the mass-produced design on which it may be based. The transmission, driveshaft and other load-transmitting powertrain components may need to be modified to withstand the load from the increased power.
+There are many techniques that can be used to increase the power and/or efficiency of an engine. This can be achieved by modifying the air-fuel mixture drawn into the engine, modifying the static or dynamic compression ratio of the engine, modifying the fuel used (e.g. higher octane, different fuel types or chemistries), injection of water or methanol, modifying the timing and dwell of ignition events, and compressing the intake air. Air fuel ratio meters are used to accurately measure the amount of fuel in the mixture. Fuel weight will affect the performance of the car, so fuel economy (thus efficiency) is a competitive advantage.
+Ways to increase power include:
+
+Increasing the engine displacement by one or both of two methods: "boring" - increasing the diameter of the cylinders and pistons, or by "stroking" - using a crankshaft with a greater throw.
+Replacing a stock throttle body with either a larger throttle body (Since it increases airflow due to its larger bore size), an electronic throttle body that opens quickly so that it can access airflow sooner (Which improves throttle response), or a combination of both.
+Using larger or multiple carburetors to create a more controllable air/fuel mixture to burn and to get it into the engine more smoothly. Fuel injection is more often used in modern engines, and may be modified in a similar manner.
+Increasing the size of the poppet valves in the engine, thus decreasing the restriction in the path of the fuel–air mixture entering the cylinder and the exhaust gases leaving it. Using multiple valves per cylinder results in the same effect, though it is often more difficult to fit several small valves than to have larger, single valves due to the valve gear required. It can also be difficult to find space for one large valve in the inlet and a large valve on the outlet side, and sometimes a large exhaust valve and two smaller inlet valves are fitted.
+Using larger bored, smoother, less-contorted inlet manifold and exhaust manifolds helps maintain the velocity of gases. The ports in the cylinder head can be enlarged and smoothed to match. This is termed cylinder head porting. Manifolds with sharp turns force the air–fuel mix to separate at high velocities because fuel is denser than air.
+The larger bore may extend through the exhaust system using large-diameter piping and low back pressure mufflers, and through the intake system with larger diameter airboxes and high-flow, high-efficiency air filters. Muffler modifications will change the sound of the engine, usually making it louder.
+Increasing the valve opening height (lift) by changing the profiles of the cams on the camshaft or the lever (lift) ratio of the valve rockers in overhead valve (OHV) engines, or cam followers in overhead cam (OHC) engines.
+Optimizing the valve timing to improve burning efficiency; this usually increases power at one range of operating RPM at the expense of reducing it at others. This can usually be achieved by fitting a differently profiled camshaft.
+Raising the compression ratio by reducing the size of the combustion chamber, which makes more efficient use of the cylinder pressure developed and leading to more rapid burning of fuel by using larger compression height pistons or thinner head gaskets or by using a milling machine to "shave" the cylinder head. High compression ratios can cause engine knock unless high-octane fuels are used.
+Forced Induction; adding a turbocharger or a supercharger. The air/fuel mix entering the cylinders is increased by compressing the air. Further gains may be realized by cooling the compressed intake air (compressing air makes it hotter) with an air-to-air or air-to-water intercooler.
+Using a fuel with higher energy content and by adding an oxidizer such as nitrous oxide.
+Using a fuel with better knock suppression characteristics (race fuel, E85, methanol, alcohol) to increase timing advance.
+Reducing losses to friction by machining moving parts to lower tolerances than would be acceptable for production, or by replacing parts. This is done In overhead valve engines by replacing the production rocker arms with replacements incorporating roller bearings in the roller contacting the valve stem.
+Reducing the rotating mass comprised by the crankshaft, connecting rods, pistons, and flywheel to improve throttle response due to lower rotational inertia and reduce the vehicle's weight by using parts made from alloy instead of steel.
+Changing the tuning characteristics electronically, by changing the firmware of the EMS. This chip tuning often works because modern engines are designed to produce more power than required, which is then reduced by the EMS to make the engine operate smoothly over a wider RPM range, with low emissions. This is called de-tuning and produces long-lasting engines and the ability to increase power output later for facelift models. Recently emissions have played a large part in de-tuning, and engines will often be de-tuned to produce a particular carbon output for tax reasons.
+Lowering the underbonnet temperature to lower the engine intake temperature, thus increasing the power. This is often done by installing thermal insulation – normally a heatshield, thermal barrier coating or other type of exhaust heat management – on or around the exhaust manifold. This ensures more heat is diverted from the under-bonnet area.
+Changing the location of the air intake, moving it away from the exhaust and radiator systems to decrease intake temperatures. The intake can be relocated to areas that have higher air pressure due to aerodynamic effects, resulting in effects similar to forced induction.
+The choice of modification depends on the degree of performance enhancement desired, budget, and the characteristics of the engine to be modified. Intake, exhaust, and chip upgrades are usually among the first modifications made because they are the cheapest and make reasonably general improvements. A change of camshaft, for instance, requires a compromise between smoothness at low engine speeds and improvements at high engine speeds.
+
+== Definitions ==
+
+=== Overhaul ===
+An overhauled engine is one that has been removed, disassembled, cleaned, inspected, repaired as necessary and tested using factory service manual approved procedures. The procedure generally involves honing, new piston rings, bearings, gaskets and oil seals. The engine may be overhauled to 'new limits' or 'service limits', or a combination of the two using used parts, new original equipment manufacturer (OEM) parts, or new aftermarket parts. The engine's previous operating history is maintained and it is returned with zero hours since major overhaul.
+Aftermarket part manufacturers are often the OEM part-suppliers to major engine manufacturers.
+A "top overhaul" is composed of the replacement of components inside the cylinder head without removing the engine from the vehicle, such as valve and rocker arm replacement. It may include a "valve job". A "major overhaul" is composed of the whole engine assembly, which requires the engine to be removed from the vehicle and transferred to an engine stand. A major overhaul costs more than a top overhaul.
+"New limits" are the factory service manual's approved fits and tolerances to which a new engine is manufactured. This may be accomplished by using "standard" or approved "undersized" and "oversized" tolerances. "Service limits" are the factory service manual's allowable wear fits and tolerances that a new-limits part may deteriorate to and still be a usable component. This may also be accomplished using "standard" and approved "undersized" and "oversized" tolerances.
+
+=== Remanufactured ===
+
+Remanufactured engines are used engines that have been rebuilt to something approximating their manufacturers’ specifications.
+In practice, remanufactured engines are typically rebuilt through a standardized process involving complete disassembly, cleaning of the cylinder block and oil passages, inspection for structural defects, and replacement of wear-prone components such as piston rings, bearings, gaskets, and valve train parts. The extent of machining and component replacement can vary depending on whether the rebuild targets "service limits" or restores the engine to "new limits" as defined by manufacturer tolerances.
+In addition to mechanical rebuilding, accurate engine identification and compatibility matching are important when sourcing replacement units, particularly for modern vehicles with multiple engine variants across model ranges. Technical catalogues, manufacturer documentation, and specialist databases are often used to match engine codes, production years, and specifications to ensure correct fitment.
+
+A combination of new and used parts are used, with st least the cylinder block being recycled, typically after having been degreased and steam-cleaned, its coolant passages and oil galleries and passages cleaned, and inspected for cracks and other flaws. High-quality rebuilds will include cylinder honing and typically adjust for standard wear by installing as necessary marginally larger bearings, rings, and other similar wear-prone components, new valve springs and guides, lapping valve seats, and otherwise bringing an engine reasonably close to manufacturer specifications. Better yet remanufacturing may see new pistons and the line-boring of worn crankshaft and camshaft bores to permit larger bushings to be installed.
+
+=== Blueprinting ===
+
+Blueprinting an engine means to build it to exact design specifications, limits and tolerances created by its OEM engineers.
+In spite of that definition, the term is often colloquially used for pursuing better-than-factory tolerances and performance, possibly with custom specifications (as for racing). 
+Common goals include engine re-manufacturing to achieve the rated power for its manufacturer's design, and rebuilding an engine to optimize its performance by adhering to or exceeding exacting manufacturer specifications. Blueprinted components allow for a more exact balancing of reciprocating parts and rotating assemblies so less power is lost through excessive engine vibrations and other mechanical inefficiencies.
+When feasible, as with a factory-sponsored race team, blueprinting is performed on components removed from the production line before normal balancing and finishing. Over-machined, under-cast, and deficiently manufactured parts are rejected, and only those either exactly meeting specifications or allowing removal of excess material are selected.  Aftermarket and private parties must work with  what they have or seek suitable replacements that can be brought to spec, following the same guidelines.
+
+== History ==
+
+Modern engine tuning was spawned by the combination of racing advances, the hands-on post-war hot-rod movement, and then-advanced electronics and technologies developed during World War II. 
+
+=== Tools ===
+The 'Igniscope' electronic ignition tester was produced by English Electric during the 1940s, originally as 'type UED' for military use during World War II. The post-war version, the 'type ZWA' electronic ignition tester, was advertised as "the first of its kind, employing an entirely new technique".
+The Igniscope used a cathode-ray tube, giving an entirely visual method of diagnosis. It was invented by D. Napier & Son, a subsidiary of English Electric. The Igniscope was capable of diagnosing latent and actual faults in both coil and magneto ignition systems, including poor battery supply bonding, points and condenser problems, distributor failure and spark-plug gap. One feature was a "loading" control that made latent faults more visible.
+The UED manual includes the spark plug firing order of tanks and cars used by the British armed forces.

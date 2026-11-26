@@ -1,0 +1,158 @@
+# Appendix A: Structural integrity and corrosion
+
+## 1. Introduction
+
+The effect of corrosion on the safety of a vehicle depends on its extent and the function of the section or component on which the corrosion has occurred.
+
+A relatively small amount of corrosion in an important part of a vehicle structure, where it compromises its load bearing capacity, can make a vehicle unsafe. On the other hand, excessive corrosion on non-structural sections may have little or no effect on the vehicle’s safety.
+
+Corrosion of a particular part, such as a door sill, may be very important on one type of vehicle construction, but less important on another. This is highlighted in Diagrams 1 to 4 at the end of this Appendix, where the shaded portions indicate the important load bearing parts of various typical vehicle constructions.
+
+## 2. Prescribed areas
+
+Certain areas of the vehicle structure are particularly important for the safety of a vehicle and you must pay particular attention to these areas during an inspection. These areas are:
+
+- load-bearing parts of the vehicle to which testable items are mounted – these items are in Sections 1 (brakes), 2 (steering), 5 (axles, wheels, tyres and suspension) and 7 (other equipment) of the inspection manual
+
+- any load-bearing or supporting structure or supporting panelling within 30cm of the mounting location
+
+For example, when examining a seat belt mounting on an inner sill, you must give consideration to the outer sill or the sill reinforcement if the outer sill is a plastic cover, door pillar, floor panel or any other structural part within 30cm of the component’s mounting point.
+
+You do not have to check areas covered by things like body trim.
+
+## 3. Corrosion assessment
+
+Identify the important load bearing members and ‘prescribed areas’ on a vehicle, then check if they are excessively corroded by:
+
+- Visual inspection
+
+- Use finger and thumb pressure to assess the extent of the corrosion
+
+- If necessary, carefully scrape or lightly tap the affected areas with the corrosion assessment tool
+
+Use of the corrosion assessment tool must be restricted to ascertaining that the failure criteria are met and not used for heavy scraping or poking of the affected areas.
+
+## 4. Failure criteria within ‘prescribed areas’
+
+You should reject corrosion in prescribed areas if:
+
+- the corrosion has caused a hole in the metal
+
+- the area does not feel firm when you press it with your finger and thumb
+
+- your finger or thumb, or a corrosion assessment tool, creates a hole
+
+Any fracture or inadequate repair (see items 11 to 14) within a ‘prescribed area’ should also be rejected.
+Modifications or severe distortion within a ‘prescribed area’ should only be rejected if the strength of a component mounting, load bearing member, supporting structure or supporting panelling is significantly reduced.
+
+## 5. Failure criteria not within ‘prescribed areas’
+
+Structural fractures, deformation or corrosion not within a prescribed area is covered in Section 6 of this inspection manual.
+
+You should only reject these defects if:
+
+- braking or steering is adversely affected due to structural misalignment
+
+- the strength or continuity of the overall vehicle structure is significantly reduced
+
+See Diagrams 1 to 4 to see the main load-bearing members for different vehicle types.
+
+## 6. Highly stressed components
+
+The severity of corrosion in highly stressed components, such as steering and suspension arms, rods and levers, can be assessed by lightly tapping or scraping with the corrosion assessment tool.
+
+In places that cannot be reached by the corrosion assessment tool, an alternative blunt instrument may be used.
+
+A highly stressed component should be rejected if corrosion has resulted in serious reduction in the overall thickness of the material or has caused a hole or split.
+
+Welded repairs to highly stressed components are not normally acceptable, other than where the component is made up of sections that are welded together. To pass, the repair should appear to be as strong as the original design.
+
+## 7. Thin gauge steel pressings
+
+It’s common for vehicles to use thin gauge pressings for certain steering and suspension components, mountings, sub-frames and cross members. These are prone to serious and often very localised corrosion.
+
+Corrosion in these components can be difficult to see and may require close inspection.
+
+## 8. Vehicles with separate bodies
+
+Some vehicle types have bodies and many mechanical components attached to a separate under-frame. The frame is the main load bearing structure with a passenger cell and possibly a separate load bed secured on top of the frame, which may also be load bearing or supportive.
+
+You should only reject excessive corrosion in these structures if:
+
+- it’s likely to affect the brakes or steering
+
+- it is within a prescribed area
+
+- body or cab security is significantly reduced
+
+## 9. General guidance
+
+You can refuse to test a vehicle if excessive deformation or corrosion could result in injury or cause further damage to the vehicle or your testing facility.
+
+You should tell the vehicle presenter about any corrosion or deformation that is not bad enough to justify rejection.
+
+## 10. Acceptable methods of repair
+
+Repairs to structural components must be properly carried out and appear to be as strong as the original structure. This requires the use of suitable materials and any plating or welding extends to a sound part of a load-bearing member.
+
+You can only pass spot welded repairs if the original panel was spot welded and the original panel or section has been removed. Stitch or plug welding can be used instead of spot welding.
+
+In all other circumstances, patch repairs must be continuously seam welded.
+
+Some vehicle manufacturers have recommended repair methods that use MIG brazing, a combination of adhesive bonding and riveting, or amalgamations of these with other joining methods. Such repairs are therefore acceptable unless they are clearly inadequate.
+
+## 11. Unacceptable methods of repair
+
+You cannot accept the following bonding processes for repairs to load-bearing members:
+
+- gas brazing
+
+- soldering
+
+- adhesive bonding
+
+- fibre reinforcement
+
+- body filler
+
+Sometimes it’s difficult to identify the repair method, especially after the repair has been covered in paint or underseal. If you are not sure what the method of repair is, you should pass and advise.
+
+## 12. Testable items mounted to plastic structures
+
+Check all testable items that are mounted directly onto plastic structures. This could include steering racks, sub frames and seat belts.
+
+You must fail:
+
+- any cracks, separation or delamination in a prescribed area
+
+- any components where the mounting could become loose or break away
+
+## 13. Repairs to non-metallic load-bearing structures
+
+Repairs to non-metallic structures in prescribed areas are not acceptable.
+
+Any other repairs to non-metallic structures must appear to be as strong as the original structure.
+
+## 14. Panel removal or replacement with different materials
+
+On a vehicle of integral construction, the strength and stiffness of the structure may be seriously affected by any panel being removed or replaced by a panel of different material.
+
+You should reject any modification of panels if:
+
+- it has significantly reduced the original strength and stiffness of a prescribed area
+
+- plastics have been used to replace metal in prescribed areas or load-bearing areas
+
+If you’re not sure if a modification has affected the strength or stiffness of a prescribed area, you should accept the modification and tell the vehicle presenter.
+
+## 15. Diagrams to show main load bearing areas
+
+The pictures are for guidance only and should be used in conjunction with the information provided within Appendix A.
+
+Diagram 1. Chassis with coil spring suspension
+
+Diagram 2. Chassis with leaf spring suspension
+
+Diagram 3. Structural body components
+
+Diagram 4. Structural body components, from underneath

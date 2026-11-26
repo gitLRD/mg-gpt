@@ -1,0 +1,878 @@
+# 4. Lamps, reflectors and electrical equipment
+
+## 4.1. Headlamps
+
+## 4.1.1. Presence, condition and operation
+
+You must test all mandatory headlamps.
+
+‘Mandatory headlamps’ are a matched pair of main beam headlamps and a matched pair of dipped-beam headlamps. These can be separate or a single pair of headlamps.
+
+Lamps are matched if they:
+
+- emit light of substantially the same colour and intensity
+
+- are the same size and shape that they are symmetrical to each other
+
+You do not need to test headlamps on vehicles that are not fitted with position lamps, or have such lamps permanently disconnected, painted over or masked, that are:
+
+- only used during daylight hours, and
+
+- not used at times of seriously reduced visibility
+
+Vehicles first used before 1 January 1931 do not need headlamps.
+
+Buses first used before 1 October 1969 only need one headlamp. If 2 are fitted, neither the main beam or dipped beams need to be a matched pair.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+Tricycle and quadricycle headlamps must be:
+
+- mounted centrally - if there’s only one lamp
+
+- mounted symmetrically about the centre - if they’re adjacent to another lamp, such as there’s one dipped beam lamp and one main beam lamp
+
+- mounted symmetrically - if there’s 2 lamps
+
+The following must have a pair of main beam headlamps and a pair of dipped beam headlamps – can be separate or a single pair of headlamps:
+
+- tricycles and quadricycles with a maximum width over 1,300mm
+
+- motorcycle derived tricycles with a maximum width over 1,700mm
+
+Tricycles and quadricycles classed as mopeds do not need a main beam headlamp.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+## 4.1.2. Headlamp alignment
+
+You must inspect all dipped beam headlamps fitted.
+
+The type of headlamp will determine whether the aim must be checked on dipped or main beam (see Diagrams 1, 2 and 3).
+
+A flat top or other alternative headlamp dipped beam pattern is acceptable as long as all of the beam upper edge, including any ‘peak’ is contained within the appropriate tolerance band.
+
+It’s acceptable for masks or converter kits to be fitted to right hand dip headlamps to temporarily alter the lamp for use in the UK by removing the beam ‘kick-up’ to the right.
+
+If driver’s beam aim controls are fitted, you should test the beam aim without altering the control setting. If this would result in failure for beam aim being too low, you should re-check the beam aim with the control set at its ‘highest’ position.
+
+On vehicles with hydro-pneumatic suspension systems, it’s necessary to have the engine running when checking headlamp aim.
+
+To check the aim:
+
+-
+Position the vehicle on the designated headlamp aim standing area.
+
+-
+Align the headlamp aim testing equipment to the vehicle in accordance with the manufacturer’s instructions.
+
+-
+Determine the appropriate headlamp beam image and its aim (see Diagrams 1, 2 and 3).
+
+For complex lens systems - meaning those that have more than one lamp behind a single lens - make sure the test equipment is aligned exactly on the centre of the dipped beam pocket.
+
+You must not carry out repairs during an MOT test, but you can make minor adjustments to the headlamp aim.
+
+## European type - check on dipped beam
+
+European type lamps have one of the following:
+
+- an asymmetric dipped beam pattern with
+
+- a horizontal cut-off on the right
+
+- a wedge of light above the horizontal towards the left, known as the ‘kick up’
+
+- lens may have European approval mark
+
+For European type lamp to pass, you must make sure that:
+
+- beam image ‘kick up’ is visible on the screen, unless it has been masked or it has a flat top beam pattern
+
+- for headlamps with centres at 850mm or less from the ground, the beam image horizontal cut-off is between the 0.5% and 2.75% horizontal lines
+
+- for headlamps with centres more than 850mm from the ground, the beam image horizontal cut-off is between the 1.25% and 2.75% horizontal lines
+
+- white light does not show in the zone formed by the 0% vertical and 0.5% horizontal line
+
+Diagram 1. Criteria for European beam headlamp aim
+
+## British American headlamp - check on main beam
+
+British American type headlamps are checked on main beam if they have an asymmetric main beam pattern with a central area of maximum intensity, known as a ‘hot spot’.
+
+The generally also have a circular lens marked with a figure ‘1’ followed by an arrow indicating the direction of dip.
+
+You must fail a British American type lamp if its ‘hot spot’ centre is any of the following:
+
+- above the horizontal 0% line
+
+- below the horizontal 2% line for headlamps with centres at 850mm or less from the ground
+
+- below the horizontal 2.75% line for headlamps with centres more than 850mm from the ground
+
+- to the right of the vertical 0% line
+
+- to the left of the vertical 2% line
+
+For a British American type lamp to pass, you must also make sure the brightest part of the image moves downwards when the lamp is dipped.
+
+Diagram 2. Main beam image
+
+## British American headlamp - check on dipped beam
+
+Check British American headlamps on dipped beam if they have:
+
+- an asymmetric dipped beam pattern with a flat-topped area of high intensity extending above and parallel with the horizontal 0% line on the nearside
+
+- a circular lens marked with the figure 2 – it might also have an arrow showing the direction of dip
+
+You must fail this lamp if the upper edge of the ‘hot spot’ is:
+
+- above the horizontal 0% line
+
+- below the horizontal 2.75% line
+
+You must fail this lamp if the right-hand edge of the ‘hot spot’ is:
+
+- to the right of the vertical 0% line
+
+- to the left of the vertical 2% line
+
+Diagram 3. Dipped beam image
+
+“Not tested” or “Unable to be tested” must only be used where it becomes apparent during the test that the particular item cannot be tested, and this could not have been identified prior to starting the test. The reason for selecting the failure must be included in the additional information box.
+
+## 4.1.3. Switching
+
+Dipped or main beam headlamps must immediately light up when they’re switched on (depending on the position of the dip switch).
+
+Headlamps must switch immediately between main beam and dipped beam when you move the dip switch.
+
+Moving the dip switch must do one of the following:
+
+- extinguish all main beam headlamps and leave on at least one pair of dipped-beam headlamps
+
+- deflect the main beams to make them dipped beams
+
+Dipped beam headlamps can remain on or switch off when main beam is selected.
+
+Headlamps are not needed on vehicles first used before 1 January 1931.
+
+When optional headlamps are fitted:
+
+- if one is fitted it must dip
+
+- if 2 are fitted, either both must dip or one must dip and the other switch off
+
+## 4.1.4. Compliance with requirements
+
+You must inspect all ‘mandatory’ headlamps fitted.
+
+Mandatory headlamps consist of a matched pair of main beam headlamps and a matched pair of dipped-beam headlamps. These can be separate or a single pair of headlamps.
+
+Lamps are matched if they:
+
+- emit light of substantially the same colour and intensity
+
+- are the same size and shape that they are symmetrical to each other
+
+Vehicles first used before 1 January 1931 do not need headlamps.
+
+Buses first used before 1 October 1969 only need one headlamp. If 2 are fitted, neither the main beam or dipped beams need to form matched pair.
+
+The colour of the light headlamps emit must be one of the following:
+
+- white
+
+- predominantly white with blue tinge
+
+- yellow
+
+In a four-headlamp system the outer headlamps do not need to emit the same colour light as the inner pair.
+
+The precise position of lamps is not part of the inspection, but you should check visually that they are at about the same height and the same distance from each side of the vehicle.
+
+## Headlamp conversions and replacement light sources
+
+For vehicles first used before 1 April 1986, light source compatibility with the headlamp unit is not assessed as part of the MOT test and is not a reason for rejection.
+
+For vehicles first used on or after 1 April 1986, existing halogen headlamp units must not be converted to be used with either:
+
+- high intensity discharge (HID) light sources
+
+- an LED replacement light source (LEDr) that has not been approved for use in that lamp
+
+A halogen headlamp unit fitted with an LED replacement light source (LEDr) may be accepted where the LEDr light source has been approved for use in that lamp and is supported by a corresponding manufacturer-issued approval sticker.
+
+The approval sticker must:
+
+- be permanently affixed to the vehicle
+
+- be readily visible to the tester during inspection
+
+- incorporate an anti-counterfeit security feature, such as a hologram
+
+- display the LEDr category designation (for example, H11 LEDr)
+
+- display the rated voltage
+
+- display the ECE approval number
+
+- display the manufacturer’s name
+
+An example of an approval sticker with a security hologram. It shows the LEDr type, variant, voltage, ECE approval number and manufacturer.
+
+Approval markings located on the LEDr light source are not normally visible during a standard MOT inspection. Testers are not expected to remove lamp covers, lighting units or light sources to determine whether a light source is ECE approved. The approval sticker provides evidence that an ECE approved LEDr light source has been fitted.
+
+If an LEDr light source is fitted and the required approval sticker is missing, illegible, damaged, appears to have been tampered with, or does not correspond with the fitted LEDr light source, the headlamp must be rejected for ‘light source and lamp not compatible’.
+
+This does not refer to complete replacement headlamp units which may be constructed with HID, LED or other approved light sources.
+
+If a complete headlamp unit has been replaced with a unit that was manufactured with HID or LED light sources, it must not be failed for ‘Light source and lamp not compatible’ but it must meet all other requirements detailed in section 4 of this manual specific to the type fitted at the time of test.
+
+You can identify HID headlamps from:
+
+- ‘DCR’ mark on the headlamp lens or body
+
+- an igniter module or inverter behind the headlamp
+
+- taking a few seconds to reach full intensity
+
+- a bluish tinge to the light
+
+HID headlamps use high voltage. You should take care when inspecting these headlamps.
+
+Tricycle and quadricycle headlamps must be:
+
+- mounted centrally - if there’s only one lamp
+
+- mounted symmetrically about the centre - if they’re adjacent to another lamp, such as there’s one dipped beam lamp and one main beam lamp
+
+- mounted symmetrically - if there’s 2 lamps
+
+The following must have a pair of main beam headlamps and a pair of dipped beam headlamps – can be separate or a single pair of headlamps:
+
+- tricycles and quadricycles with a maximum width over 1,300mm
+
+- motorcycle derived tricycles with a maximum width over 1,700mm
+
+Tricycles and quadricycles classed as mopeds do not need main beam headlamps.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+## 4.1.5. Levelling devices
+
+Make sure any manual headlamp levelling devices (driver controls) work by:
+
+- switching on the dipped beam headlamps
+
+- operating the manual levelling device
+
+- checking that the headlamp beams move up and down
+
+- returning the levelling device control to its original position
+
+Vehicles with high intensity discharge (HID) or LED dipped beam headlamps may be fitted with a suspension or headlamp self-levelling system. If these systems have been fitted, they must work.
+
+Sometimes it is not easy to determine if the self-levelling systems work. In such cases you should give the benefit of the doubt.
+
+You can identify HID headlamps from:
+
+- ‘DCR’ mark on the headlamp lens or body
+
+- an igniter module or inverter behind the headlamp
+
+- taking a few seconds to reach full intensity
+
+- a bluish tinge to the light
+
+HID headlamps use high voltage. You should take care when inspecting these headlamps.
+
+The check of headlamp levelling devices does not apply to motor caravans.
+
+## 4.1.6. Headlamp cleaning devices
+
+You must inspect vehicles first used on or after 1 September 2009 equipped with headlamp washers.
+
+You can identify HID headlamps from:
+
+- ‘DCR’ mark on the headlamp lens or body
+
+- an igniter module or inverter behind the headlamp
+
+- taking a few seconds to reach full intensity
+
+- a bluish tinge to the light
+
+HID headlamps use high voltage. You should take care when inspecting these headlamps.
+
+## 4.2. Front and rear position lamps, daytime running lamps and end-outline marker lamps
+
+## 4.2.1. Presence, condition and operation
+
+This inspection is for:
+
+- mandatory position lamps
+
+- mandatory end-outline marker lamps
+
+- daytime running lamps (DRLs) fitted to M1 vehicles first used on or after 1 March 2018
+
+Vehicles do not need to be fitted with position lamps, or may have such lamps permanently disconnected, painted over or masked if they are:
+
+- only used during daylight hours, and
+
+- not used at times of seriously reduced visibility
+
+In this situation, you should issue an advisory. These vehicles do not need end-outline marker lamps.
+
+## All lamps
+
+Check the presence, condition, security and function of the required lamps.
+
+Assess any damaged or repaired lamps for security, colour, light output and durability.
+
+## Front and rear position lamps
+
+Vehicles must have 2 front and 2 rear position lamps, except for tricycles or quadricycles that are less than 1,300mm wide.
+
+Daytime running lamps (DRLs) or headlamps may function as front position lamps. If the DRLs function as front position lamps, they may or may not dim when rear position lamps are switched on and may dim or turn off when headlamps are switched on.
+
+Front position lamps can switch off when the front fog lamps are switched on.
+
+The front and rear position lamps must light up at the same time with the registration plate lamps and end-outline marker lamps.
+
+Tricycles and quadricycles less than 1,300mm wide must have at least one front and one rear position lamp. However, if the maximum vehicle width is more than 1,300mm, it must have 2 front and 2 rear position lamps.
+
+Tricycle and quadricycle lamps must be:
+
+- mounted centrally - if there’s one lamp
+
+- mounted symmetrically - if there’s 2 lamps
+
+- mounted symmetrically about the centre - if there’s a single front position lamp next to another front lamp, such as a headlamp
+
+Buses first used before 1 April 1955 only need one rear position lamp. The lamp must be on the centre line or to the offside.
+
+## End-outline marker lamps
+
+You must inspect end-outline marker lamps on vehicles first used on or after 1 April 1991 that are wider than 2,100mm, excluding side mirrors.
+
+Class 3 vehicles do not need end-outline marker lamps.
+
+The front and rear end outline marker lamps on each side can be combined in one lamp.
+
+## Daytime running lamps
+
+You only need to inspect daytime running lamps (DRLs) if they’re fitted as original equipment to vehicles first used on or after 1 March 2018.
+
+## 4.2.2. Switching
+
+It must be possible to switch on the position lamps from the driver’s seat with a single operation of the switch. The position lamps must light up at the same time as the registration plate lamps and any end-outline marker lamps where they are fitted.
+
+Some vehicles have position lamps that come on automatically when the engine is running.
+
+Daytime running lamps (DRLs) or headlamps may function as front position lamps. If the DRLs function as front position lamps, they may or may not dim when rear position lamps are switched on and may dim or turn off when headlamps are switched on.
+
+The front position lamps may turn off when the headlamps or front fog lamps are switched on.
+If position lamps are combined with direction indicators, position lamps may or may not switch off when the relevant direction indicator is flashing.
+
+The front and rear position lamps must light up at the same time with the end-outline marker lamps where they are fitted.
+
+You only need to inspect daytime running lamps (DRLs) if they’re fitted as original equipment to vehicles first used on or after 1 March 2018.
+
+DRLs must switch on and off when the engine is switched on and off.
+
+DRLs might not operate when:
+
+- the parking brake is on
+
+- the park position is selected on automatic transmissions
+
+If DRLs have been manually switched off, sometimes they do not light up until the vehicle is travelling faster than 10 kilometres per hour (6.2mph) or the vehicle has travelled 100m (328ft).
+
+Military vehicles may have a multi-position switch which cannot turn the front and rear position lamps on with a single operation of the switch. This should not be regarded as a defect.
+
+## 4.2.3. Compliance with requirements
+
+You must inspect:
+
+- mandatory position lamps
+
+- mandatory end-outline marker lamps
+
+- daytime running lamps (DRLs) fitted to M1 vehicles first used on or after 1 March 2018
+
+## All lamps
+
+The precise position of lamps is not part of the inspection. You should check visually that they are at about the same height and distance from each side of the vehicle.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+Switch on the position lamps and daytime running lamps and operate all the other lamps in turn. Check if the position lamps, end-outline marker lamps or daytime running lamps are adversely affected.
+
+## Position lamps
+
+Rear position lamps must emit a steady red light.
+
+For front position lamps, the following colour of light is acceptable:
+
+- white light
+
+- predominantly white light with a blue tinge
+
+- yellow light - if combined in a yellow headlamp
+
+If position lamps are combined with direction indicators, position lamps may or may not switch off when the relevant direction indicator is flashing.
+
+Daytime running lamps (DRLs) or headlamps may function as front position lamps. If the DRLs function as front position lamps, they may or may not dim when rear position lamps are switched on and may dim or turn off when headlamps are switched on.
+
+## End-outline marker lamps
+
+Vehicles first used on or after 1 April 1991 that are wider than 2,100mm, excluding the side mirrors, must have their end-outline marker lamps inspected.
+
+Class 3 vehicles do not need end-outline marker lamps.
+
+There must be:
+
+- 2 white lamps visible from the front and positioned at windscreen upper edge level or higher
+
+- 2 red lamps visible from the rear and positioned as high as is practicable
+
+The front and rear end outline marker lamps on each side can be combined in one lamp.
+
+## Daytime running lamps
+
+You only need to inspect daytime running lamps (DRLs) fitted as original equipment to M1 vehicles first used on or after 1 March 2018.
+
+Vehicles do not need to be fitted with daytime running lamps, that do not have front and rear position lamps, or have such lamps permanently disconnected, painted over or masked that are only used during daylight hours and not used at times of seriously reduced visibility.
+
+There must not be more than 2 DRLs fitted and they must emit white light.
+
+DRLs might not operate when:
+
+- the engine is not running
+
+- the parking brake is on
+
+- the park position is selected on automatic vehicles
+
+If DRLs have been manually switched off, sometimes they do not light up until the vehicle is travelling faster than 10km/h (6.2mph) or the vehicle has travelled 100m (328ft).
+
+A DRL is permitted to switch off when the same side indicator is operating.
+
+## 4.3. Stop lamps
+
+## 4.3.1. Presence, condition and operation
+
+You must inspect all stop lamps fitted.
+
+Stop lamps must show a steady red light.
+
+Stop lamps are not required on vehicles:
+
+- first used before 1 January 1936
+
+- that do not have front and rear position lamps, or have such lamps permanently disconnected, painted over or masked that are only used during daylight hours and not used at times of seriously reduced visibility.
+
+Vehicles first used on or after 1 January 1971 must have 2 stop lamps, one on each side.
+
+Vehicles first used before 1 January 1971 may be fitted with only 1 stop lamp, which can be mounted centrally or towards the offside.
+
+Additional stop lamps, over and above the mandatory requirements, must be tested. However, if you are not sure if they are connected, you should give the benefit of the doubt.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+On some vehicles with LED rear lamps, a proportion of the stop lamp LED’s may extinguish when the rear fog lamp is illuminated. This is not to be regarded as a defect.
+
+Tricycles and quadricycles:
+
+- not wider than 1,300mm can have only one stop lamp
+
+- with 2 service brake controls - both controls must operate the stop lamp(s)
+
+- with 2 stop lamps - must be mounted symmetrically
+
+- with 1 stop lamp - must be mounted centrally
+
+## 4.3.2. Switching
+
+All stop lamps must light up immediately when the brake is applied and switch off immediately when the brake is released.
+
+Vehicles first used on or after 1 January 1971 must have 2 stop lamps, one on each side.
+
+Vehicles first used before 1 January 1971 can be fitted with only 1 stop lamp. The lamp can be mounted centrally or towards the offside.
+
+Additional stop lamps, over and above the mandatory requirements, must be tested. However, if you are not sure that they’re connected, you should give the benefit of the doubt.
+
+Vehicles first used before 1 September 1965 may have a stop lamp combined with a direction indicator lamp.
+
+Tricycles and quadricycles:
+
+- not wider than 1,300mm can have only one stop lamp
+
+- with 2 service brake controls - both controls must operate the stop lamp(s)
+
+- with 2 stop lamps - must be mounted symmetrically
+
+- with 1 stop lamp - must be mounted centrally
+
+## 4.3.3. Compliance with requirements
+
+You must inspect all stop lamps.
+
+Stop lamps must show a steady red light.
+
+Stop lamps are not required on vehicles:
+
+- first used before 1 January 1936
+
+- that do not have front and rear position lamps, or have such lamps permanently disconnected, painted over or masked that are only used during daylight hours and not used at times of seriously reduced visibility
+
+Vehicles first used on or after 1 January 1971 must have 2 stop lamps, one on each side.
+
+Vehicles first used before 1 January 1971 can be fitted with only one stop lamp. The lamp can be mounted centrally or towards the offside.
+
+Additional stop lamps, over and above the obligatory requirements, must be tested. However, if you are not sure that they’re connected, you should give the benefit of the doubt.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+On some vehicles with LED rear lamps, a proportion of the stop lamp LED’s may extinguish when the rear fog lamp is illuminated. This is not to be regarded as a defect.
+
+Tricycles and quadricycles:
+
+- not wider than 1,300mm can have only one stop lamp
+
+- with 2 service brake controls - both controls must operate the stop lamp(s)
+
+- with 2 stop lamps - must be mounted symmetrically
+
+- with 1 stop lamp - must be mounted centrally
+
+Press the brake pedal to light up the stop lamps and operate all the other lamps in turn to see if the stop lamps are adversely affected.
+
+## 4.4. Direction indicators and hazard warning lamps
+
+## 4.4.1. Presence, condition and operation
+
+You must inspect all direction indicators and hazard warning lamps.
+
+Direction indicators and hazard warning lamps are not required on vehicles:
+
+- first used before 1 January 1936
+
+- that do not have front and rear position lamps, or have such lamps permanently disconnected, painted over or masked that are only used during daylight hours and not used at times of seriously reduced visibility
+
+Direction indicators must be amber.
+
+Vehicles first used before 1 September 1965 may have white front indicators and red rear indicators, if the direction indicators are combined with stop lamps or combined with front or rear position lamps.
+
+Vehicles first used before 1 April 1986 do not need to have hazard warning devices.
+
+Vehicles first used on or after 1 April 1986 must be fitted with an amber side repeater indicator on each side.
+
+The side repeater can be part of the front direction indicator if it has one of the following:
+
+- a wraparound lens marked either with an ‘E’ mark in a circle or an ‘e’ mark in a rectangle with a number 5 above it
+
+- an amber light coming through the front lens when viewed from 1m to the side of the rear bumper
+
+Semaphore arms may flash but do not need to.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+Direction indicators that function sequentially/dynamically are not to be considered a reason to fail.
+
+Tricycles and quadricycles do not need side repeaters.
+
+Tricycles and quadricycles classed as mopeds do not need hazard warning lamps. Only ‘bodied’ mopeds must have direction indicators.
+
+## 4.4.2. Switching
+
+Hazard warning lamps must operate using only one switch and with the engine or ignition switch in both the on and off positions.
+
+For tricycles and quadricycles, hazard warning lamps must work both with the engine running and switched off. This may be by use of an engine kill switch or by turning the ignition off.
+
+## 4.4.3. Compliance with requirements
+
+Direction indicators must be amber.
+
+Vehicles first used before 1 September 1965 may have white front indicators and red rear indicators, if the direction indicators are combined with stop lamps or combined with front or rear position lamps.
+
+Switch on the direction indicator lamps and operate all the other lamps in turn to see if the direction indicator lamps are adversely affected.
+
+On vehicles first used on or after 1 September 1965 with direction indicators combined with position lamps, the position lamp may or may not go out when its direction indicator is flashing. The direction indicator must flash amber only, with no white or red light.
+
+A semaphore arm must light up when switched on, but it does not need to flash.
+
+The precise position of lamps is not part of the inspection. You should check visually that they are at about the same height and distance from each side of the vehicle.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+Direction indicators that function sequentially/dynamically are not to be considered a reason to fail.
+
+## 4.4.4. Flashing frequency
+
+Indicators must flash at between 60 and 120 times per minute. Semaphore type direction indicators do not need to flash.
+
+## 4.5. Front and rear fog lamps
+
+## 4.5.1. Presence, condition and operation
+
+You only need to inspect:
+
+- front fog lamps fitted to vehicles first used on or after 1 March 2018
+
+- the 1 rear fog lamp which must be fitted to the centre or offside of vehicles first used on or after 1 April 1980
+
+Fog lamps are not needed on:
+
+- vehicles not fitted with front and rear position lamps
+
+- vehicles with permanently disconnected, painted over or masked front and rear position lamps
+
+- tricycles and quadricycles
+
+Front and rear fog lamps are permitted to operate independently of any other lamps or ignition systems.
+
+Fog lamps must produce a steady light which is:
+
+- white - for front fog lamps
+
+- red - for rear fog lamps
+
+Front fog lamps that are not wired up and do not have a corresponding switch are not required to work. If you are not sure that they’re connected, you should give the benefit of the doubt.
+
+Rear fog lamps may be combined with the rear position lamps.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+## 4.5.2. Not in use
+
+## 4.5.3. Switching
+
+Front and rear fog lamp switches may be combined or independent switches.
+
+The switch or switches must:
+
+- be secure
+
+- be able to be operated from the normal driving position
+
+- operate the fog lamps as intended
+
+Rear fog lamps may be combined with the rear position lamps.
+Front and rear fog lamps are permitted to operate independently of any other lamps or ignition systems.
+
+## 4.5.4. Compliance with requirements
+
+You must inspect:
+
+- all front fog lamps fitted to vehicles first used on or after 1 March 2018
+
+- the 1 rear fog lamp which must be fitted to the centre or offside of vehicles first used on or after 1 April 1980
+
+Fog lamps must produce a steady light which is:
+
+- white - for front fog lamps
+
+- red - for rear fog lamps
+
+Rear fog lamps may be combined with the rear position lamps.
+
+A rear fog lamp is not needed on:
+
+- vehicles not fitted with front and rear position lamps
+
+- vehicles with permanently disconnected, painted over or masked front and rear position lamps that are
+
+- tricycles and quadricycles
+
+Switch on the rear fog lamps and operate all the other lamps in turn to see if the rear fog lamps are adversely affected.
+
+Rear fog lamps may extinguish when main-beam is switched on or when dipped beam headlamps are switched off.
+
+You must assess damaged or repaired lamps for security, colour, light output and durability.
+
+## 4.6. Reversing lamps
+
+## 4.6.1. Condition and operation
+
+You must inspect all reversing lamps fitted to vehicles first used from 1 September 2009 other than quadricycles and three-wheeled vehicles.
+
+Reversing lamps must show a white light to the rear. On some vehicles it may be necessary to have the engine running before the reversing lamps will work.
+
+At least one reversing lamp must be fitted.
+
+Buses over 6m long may have 4 reversing lamps which may be:
+
+- all showing white light to the rear
+
+- 2 showing white light to the rear and one on each side
+
+## 4.6.2. Compliance with requirements
+
+You must inspect all reversing lamps fitted to vehicles first used from 1 September 2009 other than quadricycles and Class 3 vehicles.
+
+Vehicles do not need to be fitted with reversing lamps, that do not have front and rear position lamps, or have such lamps permanently disconnected, painted over or masked that are only used during daylight hours and not used at times of seriously reduced visibility.
+
+Reversing lamps must show a white light to the rear. On some vehicles it may be necessary to have the engine running before the reversing lamps will work.
+
+At least one reversing lamp must be fitted.
+
+Buses over 6m long may have 4 reversing lamps which may be:
+
+- all showing white light to the rear
+
+- 2 showing white light to the rear and 1 on each side
+
+## 4.6.3. Switching
+
+You must inspect all reversing lamps fitted to vehicles first used from 1 September 2009 other than quadricycles and Class 3 vehicles.
+
+Reversing lamps must operate automatically when reverse gear is selected and extinguish when reverse gear is deselected.
+
+On some vehicles it may be necessary to have the engine running before the reversing lamps will work.
+
+## 4.7. Rear registration plate lamps
+
+## 4.7.1. Presence, condition and operation
+
+You must inspect the registration plate lamps on all vehicles fitted with front and rear position lamps.
+
+Registration plate lamps must light up the rear registration plate. Some vehicles may have these lamps fitted behind the number plate.
+
+A ‘light source’ means any bulb, LED or other means of emitting light.
+
+Tricycles and quadricycles classed as mopeds do not need a rear registration plate lamp.
+
+## 4.7.2. Compliance with requirements
+
+You must inspect the registration plate lamps on all vehicles fitted with front and rear position lamps.
+
+Registration plate lamps must operate at the same time as the position lamps.
+
+Tricycles and quadricycles classed as mopeds do not need a rear registration plate lamp.
+
+## 4.8. Rear reflectors
+
+## 4.8.1. Presence, condition and operation
+
+You must inspect the 2 mandatory red rear reflectors that must be fitted.
+
+Rear reflectors are not required on vehicles not fitted with front and rear position lamps, or have such lamps permanently disconnected, painted over or masked that are:
+
+- only used during daylight hours, and
+
+- not used at times of seriously reduced visibility
+
+Reflective tape is not an acceptable substitute for a rear reflector.
+
+## 4.8.2. Compliance with requirements
+
+You must inspect the 2 mandatory red rear reflectors that must be fitted.
+
+Rear reflectors are not required on vehicles not fitted with front and rear position lamps, or have such lamps permanently disconnected, painted over or masked and are:
+
+- only used during daylight hours, and
+
+- not used at times of seriously reduced visibility
+
+Reflectors must be symmetrically mounted. Although the precise position of mandatory rear reflectors is not part of the inspection, check visually that they are at about the same height and distance from each side of the vehicle.
+
+Tricycles and quadricycles:
+
+- wider than 1,000mm must have 2 rear reflectors mounted symmetrically
+
+- not more than 1,000mm wide only need one centrally mounted rear reflector
+
+## 4.9. ‘Tell-tales’ mandatory for lighting equipment
+
+## 4.9.1. Presence, condition and operation
+
+You must inspect the following lighting ‘tell-tales’:
+
+- headlamp main beam
+
+- direction indicators
+
+- hazard warning lamps
+
+- rear fog lamps
+
+A main beam ‘tell-tale’ is only required on vehicles first used on or after 1 April 1986. Class 3 vehicles do not need to have the main-beam tell-tale inspected.
+
+A direction indicator ‘tell-tale’ can be audible or visual.
+
+A hazard warning ‘tell-tale’ must be a flashing light.
+
+A rear fog ‘tell-tale’ is only required where a rear fog lamp is mandatory.
+
+## 4.9.2. Compliance with requirements
+
+You must inspect the ‘tell-tale’ for hazard warning lamps, which must be a flashing light.
+
+## 4.10. Trailer electrical socket
+
+You must only inspect the trailer electrical socket on vehicles fitted with a towing coupling.
+
+If there’s no tow ball or pin, but the attachment brackets are still in place, you must assess the electrical sockets if the tow ball or pin has been:
+
+- detached
+
+- unbolted
+
+- otherwise removed
+
+You do not need to assess the electrical sockets if the attachment brackets have been deliberately made unfit for further use.
+
+You do not need to assess the trailer electrical socket if you need tools or specialist equipment to remove access panels in the bumper or bodywork to gain access to the socket.
+
+A trailer electrical socket with a defective or missing cover flap that incorporates a lug and spring to hold the plug in place is not considered to be a defect.
+
+## 13 pin Euro-socket
+
+On vehicles fitted with a trailer 13 pin Euro-socket, use an approved device to check that the socket is wired to correctly operate the trailer:
+
+- position lamps
+
+- stop lamps
+
+- direction indicators
+
+Some 13-pin test tools may continually flicker when plugged into the socket of a vehicle that uses controller area network bus (CANbus) systems.
+
+Where this happens, it generally indicates that there’s continuity at each pin on the vehicle’s socket. When the lamps are operated in turn you will usually see that each individual LED will function correctly.
+
+Provided the self-test facility on your tester does not show any faults, then you should pass the socket test.
+
+## 4.11. Electrical wiring
+
+You must carry out a visual only inspection of all visible electrical wiring. The check does not apply to Class 3 vehicles.
+
+You should be mindful of high voltage components and cabling as if these are damaged they may be capable of delivering a fatal electric shock.
+
+This inspection does not apply to electrical wiring to brake pads.
+
+## 4.12. Not in use
+
+## 4.13. Battery(ies)
+
+You must inspect the battery(ies) on all vehicles including electric and hybrid vehicles. The check does not apply to Class 3 vehicles.
+
+Batteries used for propulsion of electric or hybrid electric vehicles carry high voltage and additional care should be taken when testing them.
+
+The propulsion batteries are unlikely to be accessible, but if they are they should be assessed visually only. If the batteries are leaking, you should refuse to test the vehicle using Item 4 reason ‘h’ of the Introduction section.
+
+You should be mindful of high voltage components and cabling as if these are damaged they may be capable of delivering a fatal electric shock.

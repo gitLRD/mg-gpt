@@ -1,0 +1,109 @@
+# 0. Identification of the vehicle
+
+## 0.1. Registration plates
+
+You must check the registration plates on all vehicles except for:
+
+- unregistered vehicles
+
+- foreign registered vehicles
+
+- diplomatic vehicles
+
+- military vehicles
+
+You do not need to check:
+
+- the supplier’s name
+
+- postcode
+
+- BS number
+
+- logos or emblems outside the minimum margin around the registration number
+
+Three-wheeled vehicles that do not have a body type which is characteristic of the body of a four-wheeled vehicle do not require a front number plate. All other vehicles, including quadricycles, must be fitted with front and rear registration plates, which must both be checked to ensure the registration number displayed is the same.
+
+Registration plates must not:
+
+- be obscured, excessively damaged, deteriorated or delaminated. Where a registration plate is obviously obscured by objects or attachments this will be a deficiency under defect reference (b). Registration plates obscured by tow bars are covered by section 6.1.6.
+
+- have background overprinting
+
+- have any feature or fixing that has the effect of changing the appearance or legibility of any of the characters including the use of tints or films
+
+- have a honeycomb or similar effect background on vehicles first registered on or after 1 September 2001 - back lit registration plates may have a honeycomb type construction which should not be confused with a honeycomb effect background
+
+You should pay particular attention to the position of any fixing screws or bolts as well as any delamination of the number plate as this can prevent identification of the vehicle by automatic number plate recognition (ANPR) cameras which ‘see’ any non-reflective material as being black.
+
+Registration plates may:
+
+- have an optional non-reflective border displayed within the margin which must be:
+
+- no wider than 6mm and not within 5mm of the characters on vehicles first used before 1 September 2021
+
+- no wider than 5mm and not within 10mm of the characters on vehicles first used on or after 1 September 2021
+
+- display white, grey or silver characters on a black background - only on vehicles manufactured before 1 January 1980
+
+Registration plate characters:
+
+- may contain grey, possibly to achieve a 3D or highlighting effect (only on vehicles first used before 1 September 2021)
+
+- may be raised or 3D
+
+- must be the correct size, stroke width and spacing
+
+- must not be italic, sloping or formed using broken or multiple strokes
+
+- must be laid out in the correct format for the age of vehicle
+
+- must be formed using the prescribed font or be substantially similar to the prescribed font - as shown below
+
+You do not have to physically measure the characters or their spacing and you should only reject them if they are obviously incorrect.
+
+Registration plates fitted to vehicles manufactured on or after 1 January 1980 must:
+
+- have black characters on a white background when fitted to the front
+
+- have black characters on a yellow background when fitted to the rear
+
+- be fitted vertically, or as close to vertical as is reasonably practicable
+
+Registration plates fitted to vehicles first registered on or after 1 September 2021:
+
+- all characters must be a single shade of black
+
+- may be raised, but the entire surface of the characters, including the sides, must be a single shade of black
+
+- may have an integral raised or depressed border around the number plate periphery, not more than 5mm wide and 2mm high
+
+Registration plates may be in a single or two line formats. Additionally, a three line format is permitted on vehicles first used before 1 September 2001.
+
+Registration plates must meet the dimensional requirements shown in the example below. However, the space between a number ‘1’ or a letter ‘I’ and another character is permitted to be proportionately greater.
+Vehicles with non-date related plates, such as those issued before 1963 and Northern Ireland plates must still meet the separation requirement between groups of characters where relevant.
+
+Unless 3 line format then there should be no more than 2 groups i.e. only one treble spacing of 33mm on any plate.
+
+Vehicles registered before 1 September 2001 can have larger plates fitted with characters 89mm high and other relevant dimensions that are subsequently larger.
+
+Tricycles, quadricycles and imported vehicles that do not have the space for standard sized registration plates can have smaller registration plates.
+
+## 0.2. Vehicle identification number (VIN)
+
+You must check the vehicle is displaying a legible vehicle identification number.
+
+A vehicle identification number (VIN or chassis number) is required on:
+
+- kit cars and amateur built vehicles first used on or after 1 September 2001
+
+- all other vehicles first used on or after 1 August 1980
+
+Vehicles may have the VIN displayed in more than one location, but only one VIN is required to be complete and legible.
+
+Check that a vehicle does not have more than one VIN displayed, other than for multi-stage build vehicles. Multi-stage build vehicles can have 2 VINs, both of which may have the same last 8 digits.
+
+When registering a multi-stage build vehicle for test, enter the last 6 digits of either VIN, along with the registration number. If the MOT testing service finds a match against either full VIN this should be accepted.
+
+If you do not find a match in the MOT testing service, create a new vehicle record using the converter’s VIN.
+A converter’s serial number is not a VIN.

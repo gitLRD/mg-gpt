@@ -1,0 +1,87 @@
+Chrome plating
+
+Chrome plating (less commonly chromium plating) is a technique of electroplating a thin layer of chromium onto a metal object. A chrome plated part is called chrome, or is said to have been chromed. The chromium layer can be decorative, provide corrosion resistance, facilitate cleaning, and increase surface hardness. Sometimes a less expensive substitute for chrome, such as nickel, may be used for aesthetic purposes.
+Chromium compounds used in electroplating are toxic. In most countries, their disposal is tightly regulated. Some fume suppressants used to control the emission of airborne chromium from plating baths are also toxic, making disposal even more difficult.
+
+== Process ==
+
+The preparation and chrome plating of a part typically includes some or all of these steps:
+
+Surface preparation
+Manual cleaning to remove dirt and surface impurities
+Removal of remaining organic contaminants using emulsion cleaning, alkaline cleaning, anodic electrocleaning, or solvent cleaning by immersion, spray, manual application, or vapor condensation
+Rinsing
+Activation or electroetching
+Rinsing (not necessary if the activation and plating steps are done in the same bath)
+Immersion in the chrome plating bath, where the part is allowed to warm to solution temperature
+Application of plating current for the required time to attain the desired thickness
+Rinsing
+There are many variations to this process, depending on the type of substrate being plated. Different substrates need different etching solutions, such as hydrochloric, hydrofluoric, and sulfuric acids. Ferric chloride is also popular for the etching of nimonic alloys. Sometimes the component enters the chrome plating vat while electrically live. Sometimes the component has a conforming anode made from lead/tin or platinized titanium. A typical hard chrome vat plates at about 0.001 inches (25 μm) per hour.
+Some common industry specifications governing the chrome plating process are AMS 2460, AMS 2406, and MIL-STD-1501.
+
+== Hexavalent chromium ==
+Hexavalent chromium plating, also known as hex-chrome, Cr6+, and chrome(VI) plating, uses hexavalent chromium (CrVI) as the main ingredient. Hexavalent chromium plating solution is used for both decorative and hard plating, as well as bright dipping of copper alloys, chromic acid anodizing, and chromate conversion coating.
+A typical hexavalent chromium plating process is:
+
+Activation bath
+Chromium bath
+Rinse
+Second rinse
+The activation bath is typically a tank of chromic acid with a reverse current run through it. This etches the work-piece surface and removes any scale. In some cases, the activation step is done in the chromium bath. The chromium bath is a mixture of chromium trioxide and sulfuric acid, the ratio of which varies greatly between 75:1 to 250:1 by weight. This results in an extremely acidic bath (pH 0). The temperature and current density in the bath affect the brightness and final coverage. For decorative coating the temperature ranges from 35 to 45 °C (100 to 110 °F), but for hard coating it ranges from 50 to 65 °C (120 to 150 °F). Temperature is also dependent on the current density, because a higher current density requires a higher temperature. Finally, the whole bath is agitated to keep the temperature steady and achieve a uniform deposition.
+
+=== Disadvantages ===
+One functional disadvantage of hexavalent chromium plating is low cathode efficiency, which results in bad throwing power. This means it leaves a non-uniform coating, with more on edges and less in inside corners and holes. To overcome this problem the part may be over-plated and ground to size, or auxiliary anodes may be used around the hard-to-plate areas. Hexavalent chromium is also considerably more toxic than trivalent chromium, rendering it a major health risk both in manufacturing and disposal if not handled with care.
+
+== Trivalent chromium ==
+Trivalent chromium plating, also known as tri-chrome, Cr3+, and chrome(III) plating, uses chromium sulfate or chromium chloride as the main ingredient. Trivalent chromium plating is an alternative to hexavalent chromium in certain applications and thicknesses (e.g. decorative plating).
+A trivalent chromium plating process is similar to the hexavalent chromium plating process, except for the bath chemistry and anode composition. There are three main types of trivalent chromium bath configurations:
+
+A chloride- or sulfate-based electrolyte bath using graphite or composite anodes, plus additives to prevent the oxidation of trivalent chromium to the anodes.
+A sulfate-based bath that uses lead anodes surrounded by boxes filled with sulfuric acid (known as shielded anodes), which keeps the trivalent chromium from oxidizing at the anodes.
+A sulfate-based bath that uses insoluble catalytic anodes, which maintains an electrode potential that prevents oxidation.
+The trivalent chromium-plating process can plate the workpieces at a similar temperature, rate and hardness, as compared to hexavalent chromium. Plating thickness ranges from 5 to 50 μin (0.13 to 1.27 μm).
+
+=== Advantages and disadvantages ===
+The functional advantages of trivalent chromium are higher cathode efficiency and better throwing power. Better throwing power means better production rates. Less energy is required because of the lower current densities required. The process is more robust than hexavalent chromium because it can withstand current interruptions.
+One of the disadvantages when the process was first introduced was that decorative customers disapproved of the color differences. Companies now use additives to adjust the color. In hard coating applications, the corrosion resistance of thicker coatings is not quite as good as it is with hexavalent chromium. The cost of the chemicals is greater, but this is usually offset by greater production rates and lower overhead costs. In general, the process must be controlled more closely than in hexavalent chromium plating, especially with respect to metallic impurities. This means processes that are hard to control, such as barrel plating, are much more difficult using a trivalent chromium bath.
+
+== Divalent chromium ==
+Divalent chromium plating is done from liquids comprising Cr2+ species. Such solutions were avoided prior to ca. 2020, because of air-sensitivity and hydrogen evolution from aqueous Cr2+ solutions. In the 2020s, it was discovered that chromous chloride has ca. 4.0 M solubility in water at room temperature (i.e. with H2O:Cr molar ratio around 14:1), and such liquids behave like supersaturated electrolytes with a reduced propensity toward hydrogen evolution. The best quality bright deposits are produced at relatively high current density of 20 mA/cm2.
+
+== Types ==
+
+=== Decorative ===
+
+Decorative chrome is designed to be aesthetically pleasing and durable. Thicknesses range from 2 to 20 μin (0.05 to 0.5 μm), however, they are usually between 5 and 10 μin (0.13 and 0.25 μm). The chromium plating is usually applied over bright nickel plating. Typical base materials include steel, aluminium, plastic, copper alloys, and zinc alloys. Decorative chrome plating is also very corrosion resistant and is often used on car parts, tools and kitchen utensils.
+
+=== Thin Dense Chrome ===
+Thin dense chrome (TDC) differs from decorative chrome. While decorative chrome is applied primarily for aesthetic purposes with thin layers that provide a shiny finish, TDC, such as Armoloy, focuses on enhancing surface performance. It delivers wear resistance, corrosion protection, and hardness without adding significant thickness. TDC also avoids the microcracking associated with decorative chrome, making it ideal for industrial applications where durability and friction reduction are necessary. Thin dense chrome is commonly used in precision tools, aerospace, medical, and food processing equipment.
+
+=== Hard ===
+
+Hard chrome, also known as industrial chrome or engineered chrome, is used to reduce friction, improve durability through abrasion tolerance and wear resistance in general, minimize galling or seizing of parts, expand chemical inertness to include a broader set of conditions (such as oxidation resistance), and bulking material for worn parts to restore their original dimensions. It is very hard, measuring between 65 and 69 HRC (also based on the base metal's hardness). Hard chrome tends to be thicker than  decorative chrome, with standard thicknesses in non-salvage applications ranging from 20 to 40 μm, but it can be an order of magnitude thicker for extreme wear resistance requirements, in such cases 100 μm or thicker provides optimal results. Unfortunately, such thicknesses emphasize the limitations of the process, which are overcome by plating extra thickness then grinding down and lapping to meet requirements, or to improve the overall aesthetics of the chromed piece. Increasing plating thickness amplifies surface defects and roughness in proportional severity, because hard chrome does not have a leveling effect. Pieces that are not ideally shaped in reference to electric field geometries (nearly every piece sent in for plating, except spheres and egg shaped objects) require even thicker plating to compensate for non-uniform deposition, and much of it is wasted when grinding the piece back to desired dimensions.
+Modern engineered coatings do not suffer such drawbacks, which often price hard chrome out due to labor costs alone. Hard chrome replacement technologies outperform hard chrome in wear resistance, corrosion resistance, and cost. Hardness up to 80 HRC is not extraordinary for such materials. Modern engineered coatings applied using spray deposition can form layers of uniform thickness that often require no further polishing or machining. These coatings are often composites of polymers, metals, and ceramic powders or fibers as proprietary formulas protected by patents or as trade secrets, and thus are usually known by brand names.
+Hard chromium plating is subject to different types of quality requirements depending on the application; for instance, the plating on hydraulic piston rods are tested for corrosion resistance with a salt spray test.
+
+== Automotive use ==
+
+Most bright decorative items affixed to cars are referred to as "chrome", meaning steel that has undergone several plating processes to protect it from weathering and moisture but the term passed on to cover any similar-looking shiny decorative auto parts, including silver plastic trim pieces in casual terminology. Triple plating is the most expensive and durable process, which involves plating the steel first with copper and then nickel before the chromium plating is applied.
+Prior to the application of chrome in the 1920s, nickel electroplating was used. In the short production run prior to the US entry into World War II, the government banned plating to save chromium and automobile manufacturers painted the decorative pieces in a complementary color. In the last years of the Korean War, the US contemplated banning chrome in favor of several cheaper processes (such as plating with zinc and then coating with shiny plastic).
+In 2007, a Restriction of Hazardous Substances Directive (RoHS) was issued banning several toxic substances for use in the automotive industry in Europe, including hexavalent chromium, which is used in chrome plating. However, chrome plating is metal and contains no hexavalent chromium after it is rinsed, so chrome plating is not banned.
+
+== Arms use ==
+Chrome-lining protects the barrel or chamber of arms from corrosion and makes these parts also easier to clean, but this is not the main purpose for lining a barrel or chamber. Chrome-lining was introduced in machine guns to increase the wear resistance and service life of highly stressed arms parts like barrels and chambers, allowing more rounds to be fired before a barrel is worn and needs to be replaced. The end of the chamber, freebore and leade (the unrifled portion of the barrel just forward of the chamber), as well as the first few centimeters or few inches of rifling, in rifles are subject to very high temperatures—as the energy content of rifle propellants can exceed 3500 kJ/kg—and pressures that can exceed 380 MPa (55,114 psi). The propellant gases act similarly as the flame from a cutting torch, the gases heating up the metal to red-hot state and the velocity tearing away metal. Under slow fire conditions, the affected areas are able to cool sufficiently in between shots. Under sustained rapid fire or automatic/cyclic fire there is no time for the heat to dissipate. The heat and pressure effects exerted by the hot propellant gases and friction by the projectile can quickly cause damage by washing away metal at the end of the chamber, freebore, leade and rifling. Hard chrome-lining protects the chamber, freebore, leade and rifling with a thin coat of wear resistant chrome. This significantly extends barrel life in arms that are fired for prolonged periods in full-auto or sustained rapid fire modes. Some arms manufacturers use Stellite-lining alloy as an alternative to hard chrome-lining to further increase the wear resistance and service life of highly stressed arms parts.
+
+== Health and environmental concerns ==
+Hexavalent chromium is the most toxic form of chromium. In the U.S., the Environmental Protection Agency regulates it heavily. The EPA lists hexavalent chromium as a hazardous air pollutant because it is a human carcinogen, a "priority pollutant" under the Clean Water Act, and a "hazardous constituent" under the Resource Conservation and Recovery Act. Due to its low cathodic efficiency and high solution viscosity, a toxic mist of water and hexavalent chromium is released from the bath.  Wet scrubbers are used to control these emissions. The liquid from the wet scrubbers is treated to precipitate the chromium and remove it from the wastewater before it is discharged.
+Additional toxic waste created from hexavalent chromium baths include lead chromates, which form in the bath because lead anodes are used. Barium is also used to control the sulfate concentration, which leads to the formation of barium sulfate (BaSO4).
+Trivalent chromium is intrinsically less toxic than hexavalent chromium. Because of the lower toxicity it is not regulated as strictly, which reduces overhead costs. Other health advantages include higher cathode efficiencies, which lead to less chromium air emissions; lower concentration levels, resulting in less chromium waste and anodes that do not decompose.
+Maintaining a bath surface tension less than 35 dyn/cm is necessary to prevent plating solution from becoming airborne when bubbles rise to the surface and pop. This requires a frequent cycle of treating the bath with a wetting agent fume suppressant and confirming the effect on surface tension. Usually, surface tension is measured with a stalagmometer or tensiometer. This method is, however, tedious and suffers from inaccuracy (errors up to 22 dyn/cm have been reported), and is dependent on the user's experience and capabilities.
+While they are effective for the control of toxic airborne chromium, many widely used wetting agent fume suppressants are toxic themselves because they contain perfluoroalkyl substances (PFAS), which are hazardous chemicals that can cause long-term health effects. This makes electroplating one of the jobs with the highest risk of occupational exposure to PFAS, but not as high as firefighters using fluorinated aqueous film forming foams. In addition to their detrimental effects on human health, PFAS are persistent pollutants that cause significant bioaccumulation and biomagnification, putting animals at the highest trophic level at the highest risk for toxic effects.
+
+== Mechanism of chromium electroplating ==
+It has been known for over a century, that chromium electroplating is relatively easy from (di)chromate solutions, but difficult from Cr3+ solutions. Several theories have been proposed to explain this finding.
+An earlier view suggested, that  an active Cr3+ species (perhaps, with a ligand rather than water) forms initially from electroreduced Cr6+.  This active Cr3+ species can be reduced into metallic chromium relatively easy. However, the "active Cr3+" also undergoes within less than 1 second a transition into "inactive Cr3+", which is believed to be a polymeric hexa-aqua complex. Some complexes of Cr3+ with ligand other than water can undergo relatively fast electroreduction to metallic chromium, and they are used in chromate-free chromium plating methods.
+A different school of thought suggests, that the main problem with chromium plating from Cr3+ solution is hydrogen evolution reaction (HER), and the role of chromate is to scavenge H+ ions in a reaction that competes with H2 evolution:
+
+The shine of plated chrome depends on whether microscopic cracks in the plating are visible on the surface. The dull appearance of some chrome layers is due to continuous cracks that propagate through the whole plated metal layer, while bright deposits appear in the case of small microcracks that are confined to inner depth of the deposit. This HER side-reaction mechanism seems more acceptable by the electrochemistry community at present. Methods of plating  chromium from Cr3+ solutions that rely on reversed current pulses have been commercialized (allegedly, to reoxidize the H2).

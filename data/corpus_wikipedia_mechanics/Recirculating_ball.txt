@@ -1,0 +1,13 @@
+Recirculating ball
+
+Recirculating ball, also known as recirculating ball and nut or worm and sector, is a ball screw steering mechanism commonly found in older automobiles, off-road vehicles, and some trucks.  Most newer cars use the more economical rack and pinion steering instead, but some upmarket manufacturers (such as BMW and Mercedes-Benz) held on to the design until well into the 1990s for the durability and strength inherent in the design. A few, including Chrysler, General Motors, Lada and Ineos, still use this technology in certain models including the Jeep Wrangler, the Ineos Grenadier Quartermaster and the Lada Niva.
+
+== Mechanism ==
+The recirculating ball steering mechanism contains a worm gear within an internally  threaded block: the block has external gear teeth which engage a sector shaft (also called a sector gear), moving the connected Pitman arm.  
+The worm gear is cut into one end of a threaded shaft, with a steering wheel on the opposite. Turning the steering wheel rotates the worm gear inside the block, moving it forward and backward along the teeth of the sector gear attached to the Pitman arm, causing the roadwheels to turn.
+
+=== Bearing balls ===
+The worm gear is similar in design to a ball screw; the threads are filled with steel balls that recirculate through the gear and rack as it turns.  The balls serve to reduce friction and wear in the gear, and reduce slop.  Slop, when the gears come out of contact with each other, would be felt when changing the direction of the steering wheel, causing the wheel to feel loose.
+
+== Power assistance ==
+Power steering in a recirculating-ball system works similarly to that in a rack-and-pinion system. Assistance is provided by supplying higher-pressure fluid to one side of the block.

@@ -10,6 +10,8 @@ journey.
 
 ## In progress
 
+- **Car-specific data fetched, not yet used** (`data/fetch_mot_manual.py`, `data/fetch_wikipedia_mechanics.py`, `data/corpus_mot_manual/`, `data/corpus_wikipedia_mechanics/`).
+  UK MOT inspection manual (OGL v3.0, text only, ~47K tokens) + 119 Wikipedia mechanics articles (CC BY-SA 4.0, ~0.5M tokens), aimed at brakes/suspension/electrical/body. Why: the MG corpus (~2.9M tokens) is the knowledge ceiling and v7 under-produces those topics; Internet Archive has no reuse-licensed MG manuals. Raw text only, Q&A not yet generated.
 - **Topic-collapse analysis + size-comparison design** (`LEARNINGS.md`, `docs/superpowers/specs/2026-11-26-size-comparison-eval-design.md`).
   v7 says fuel/cooling words ~2-3x more than its training data does (not data-skew; same in v6-v9); 124M timing measured at 5.5 s/step (~24 h total). Why: the existing metrics missed the collapse the owner saw live, so the next evals need a topic-spread check before any bigger model is trained. Design awaiting approval; nothing built.
 - **Longer pretrain + v9 fine-tune: no gain** (not deployed). Resumed the pretrain 12K -> 24K steps

@@ -1,0 +1,11 @@
+Oil pressure
+
+Oil pressure is an important factor in the longevity of most internal combustion engines. With a forced lubrication system (invented by Frederick Lanchester), oil is picked up by a positive displacement oil pump and forced through oil galleries (passageways) into bearings, such as the main bearings, big end bearings and camshaft bearings or balance shaft bearings. Other components such as cam lobes and cylinder walls are lubricated by oil jets.
+Sufficient oil pressure ensures that the metal of the rotating shaft (journal) and the bearing shell can never touch, and wear is therefore confined to initial start-up and shutdown. The oil pressure, combined with the rotation of the shaft, also hydrodynamically centers the journal in its shell and cools the bearings. Such a bearing is known as a fluid bearing.
+Oil pressure is higher when the engine is cold due to the increased viscosity of the oil, and also increases with engine speed until the relief valve in the oil pump opens to divert excess flow. Oil pressure is lowest under hot idling conditions, and the minimum pressure allowed by the manufacturer's tolerances is usually given at this point. Excessive oil pressure may indicate a blocked filter, blocked oil gallery or the wrong grade of oil. Low oil pressure indicates worn bearings or a broken oil pump.
+Some vehicle engines have an oil pressure switch that switches a warning light on at low oil pressure. Some vehicles have an oil pressure gauge in the dashboard or instrument cluster.
+Oil pressure is created by a fluid flow restriction in the outlet line of the pump, not by the pump itself. Examples of such restrictions include big end and main bearings, as well as camshaft and rocker gear if fitted.
+
+== Marine ==
+In legacy marine applications, a common configuration is a resistive sender feeding an analog gauge. In more modern systems, the sender issues data to a display via an NMEA 2000 network. Some larger engines send data via the automotive J1939 network.
+Standards vary for resistive senders:

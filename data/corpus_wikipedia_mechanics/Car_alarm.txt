@@ -1,0 +1,47 @@
+Car alarm
+
+A car alarm is an electronic device installed in a vehicle in an attempt to discourage theft of the vehicle itself, its contents, or both.  Car alarms work by emitting high-volume sound (often a vehicle-mounted siren, klaxon, pre-recorded verbal warning, the vehicle's own horn, or a combination of these) when the conditions necessary for triggering it are met.  Such alarms may also cause the vehicle's headlights to flash, may notify the car's owner of the incident via a paging system, and may interrupt one or more electrical circuits necessary for the car to start.  Although inexpensive to acquire and install, the effectiveness of such devices in deterring vehicle burglary or theft when their only effect is to emit sound appears to be negligible.
+
+== History ==
+An early version of a car alarm for use as a theft deterrent was invented by an unknown prisoner from Denver in 1913. This version was manually armed, and triggered when someone tried to crank the engine. A later alarm inspired by an early version of a remote starter was published in 1916. This version had the car owner carry a receiver, which would buzz if the car ignition system was tampered with.
+
+== Features ==
+Car alarms should not be confused with immobilizers; although the purpose of both may be to deter car theft, they operate in a dissimilar fashion. An immobilizer generally will not offer any audible or visual theft deterrence, nor require any more input from the driver than from the driver of a non-immobilizer car.
+Car alarms can be divided into two categories:
+
+OEM (built into the vehicle at the factory)
+Aftermarket (installed at any time after the car has been built, such as by the new car dealer, an auto accessories store, or the vehicle's owner)
+Alarms often come with a mix of features. Remote car alarms typically consist of an additional radio receiver that allows the owner to wirelessly control the alarm from a key fob. Remote car alarms typically come equipped with an array of sensors along with immobilizers and motion detectors.
+Keyless remote car alarms are typically based on strong cryptography authentication methods:
+
+Radio receiver
+Immobilizer
+Motion detector
+Wireless USB
+
+== Arming and disarming of car alarms ==
+
+=== Remotes ===
+Typically car alarms are disarmed or armed by a remote. The remotes recently use rolling code.
+
+=== OEM alarms ===
+Almost all OEM alarms are typically armed and disarmed with the vehicle's keyless entry remote. On many vehicles the key cylinders in the driver or front passenger door activate switches, so that when a key is used in the door the alarm will arm or disarm.
+Some vehicles will arm when the power door lock switch is pressed with the driver's door open, and the door is subsequently closed.
+Some vehicles will disarm if the ignition is turned on; often when the vehicle is equipped with a key-based immobilizer and an alarm, the combination of the valid key code and the ignition disarms the system.
+
+=== Aftermarket alarms ===
+Like OEM alarms, aftermarket systems are usually armed and disarmed via remote. Usually they do not have provisions for external disarming from the key cylinder, but will typically have an override switch mounted in a hidden location.
+
+== Triggers ==
+
+The individual triggers for a car alarm vary widely, depending on the make and model of the vehicle, and the brand and model of the alarm itself (for aftermarket alarms). Since aftermarket alarms are designed to be universal (i.e. compatible with all 12-volt negative ground electrical systems as opposed to one carmaker's vehicles), these commonly have trigger inputs that the installer/vehicle owner chooses not to connect, which additionally determines what will set the alarm off.
+Generally, OEM alarms monitor the doors and trunk/hatch for unauthorized entry. On some vehicles this is done through pin switches, mercury switches, or microswitches integrated into the latch. On others, the doorlock mechanisms have switches built into them. Some OEM alarms additionally will trigger if the hood is opened, or if the ignition is turned on. A few systems have a shock sensor which will trigger upon a significant impact to the vehicle's body, such as window glass being broken. Motion sensors monitoring the vehicle's interior are installed in some higher end models.
+The simplest aftermarket alarms are one-piece units with a siren and control module. The most common type of sensor is a shock sensor and two wires (12-volt constant power and ground) which are connected to the car's battery. This type of alarm is triggered by vibration transferred to the shock sensor, or by voltage changes on the input (the alarm assumes that a sudden change in voltage is due to a door or trunk being opened, or the ignition being turned on); however, it is very prone to false triggers on late-model vehicles with many electronic control modules, which can draw current with the ignition off.
+More sophisticated aftermarket alarms are wired into the vehicle's electronics individually. Typically, these alarms have inputs for power and ground, as well as for positive- and negative-switched door open circuits, negative trunk and/or hood circuits, and ignition-switched circuits to detect the ignition  being turned on; aftermarket alarms also usually have a shock sensor which may be built into the control module or external to it.
+In addition, some aftermarket alarms have provisions for optional sensors (these must be purchased separately). The tilt sensor can sense the vehicle being tilted (alerting to towing). Tilt sensors come in digital or mercury. A digital sensor is more accurate since it sets itself, allowing for the vehicle to be placed on a hill and not cause false triggers. A sound discriminator or glass breakage sensor senses only the sound of glass breaking. Typically, a sound discriminator sensor can be eliminated using a shock sensor. Proximity, infrared, or motion sensors sense motion inside or outside the vehicle; these are typically installed on convertible or T-top vehicles.  These sensors are usually adjustable in order to avoid false alarms. For example, a shock sensor will sometimes vibrate due to loud noises in the area such as heavy trucks, loud vehicle exhaust, or an accidental bump to the car from a passerby. Proximity sensors often cause false alarms in parking lots when a passerby is entering or exiting a vehicle parked next to the armed car. These often cause the alarm to falsely sense an attempted break-in.
+
+== Effectiveness ==
+
+Although car alarms of some kind have been available since the beginning of the automobile era, the dramatic increase in their installation in the 1980s and 1990s coupled with the fact that nearly all types of car alarms are easily triggered accidentally (frequently because of high sensitivity settings) means that people who hear them often ignore them. In 1994, the New York City Police Department claimed that car alarms may actually be making car theft and break-in crimes more frequent. There is one account in 1992 of a thief in New York City rocking a car to deliberately trigger its alarm in order to help conceal the sound of a breaking window.
+Because of the large number of false alarms with car alarms, many vehicle manufacturers no longer factory-fit simple noise-making alarms, instead offering silent immobilizers. Alternatively, an aftermarket vehicle tracking system can easily trace stolen vehicles. Most police tracking systems require the user to pay a recurring fee, whereas factory immobilizers are included in the purchase price of the vehicle. GPS locating systems enable the owner of the vehicle to lock and unlock, track, and disable the starter of the vehicle online.
+Frequently, false alarms occur because car alarm owners use high sensitivity settings. This may be the main reason why loud bass frequency sound (loud music, other cars or motorcycles with loud exhaust systems, thunderstorms, etc.) can set off car alarms. The second possible reason is that some parts of the alarm system may be improperly installed.

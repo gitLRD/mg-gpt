@@ -1,0 +1,101 @@
+Exhaust system
+
+An exhaust system is used to guide reaction exhaust gases away from a controlled combustion inside an engine or stove. The entire system conveys burnt gases from the engine and includes one or more exhaust pipes. Depending on the overall system design, the exhaust gas may flow through one or more of the following:
+
+Cylinder head and exhaust manifold
+A turbocharger to increase engine power.
+A catalytic converter to reduce air pollution.
+A muffler (North America/Australia) / silencer (UK/India), to reduce noise.
+
+== Design criteria ==
+An exhaust pipe must be carefully designed to carry toxic and noxious gases away from the users of the machine. Indoor generators and furnaces can quickly fill an enclosed space with poisonous exhaust gases such as hydrocarbons, carbon monoxide and nitrogen oxides, if they are not properly vented to the outdoors. Also, the gases from most machines are scorching; the pipe must be heat-resistant and not pass through or near anything that can burn or be damaged by heat. A chimney is an exhaust pipe in a stationary structure. For the internal combustion engine, it is important to have the exhaust system "tuned" (refer to tuned exhaust) for optimal efficiency. Also, this should meet the norms of the regulations in each country. In China, China 5; In European countries, EURO 5; In India, BS-4, etc.,
+
+=== Motorcycles ===
+
+In most motorcycles, all or most of the exhaust system is visible and may be chrome plated as a display feature. Aftermarket exhausts may be made from steel, aluminium, titanium, or carbon fiber.
+Motorcycle exhausts come in many varieties depending on the type of engine and its intended use. A twin-cylinder bike may have independent exhaust sections, as seen in the Kawasaki EX250 (also known as the Ninja 250 in the US, or the GPX 250), or a single exhaust section known as a two-into-one (2-1). Four-cylinder machines, super-sport bikes like Kawasaki's ZX series, Honda's CBR series, Yamaha's YZF series, latterly titled R6 and R1, and Suzuki's GSX-R, often have a twin exhaust system. A "full system" may be bought as an aftermarket accessory, also called a 4-2-1 or 4–1, depending on its layout. In the past, these bikes would come as standard with a single exhaust muffler. This practice lasted until the early 2000s when EU noise and pollution regulations effectively forced companies to use other methods to increase the motorcycle's performance.
+
+=== Trucks ===
+In many trucks / lorries, all or most of the exhaust system is visible, often with a vertical exhaust pipe. Usually, in such trucks, the silencer is surrounded by a perforated metal sheath to avoid people getting burnt from touching the hot silencer. This sheath may be chrome plated as a display feature. 
+Part of the pipe between the engine and the silencer is often flexible metal industrial ducting, which helps to avoid vibration from the engine being transferred into the exhaust system. Sometimes, a large diesel exhaust pipe is vertical to blow the hot, toxic gas well away from people; in such cases, the end of the exhaust pipe often has a hinged metal flap to stop debris, birds, and rainwater from falling inside.
+In former times, exhaust systems of trucks / lorries in Britain were usually out of sight underneath the chassis.
+
+=== Two-stroke engines ===
+In a two-stroke engine, such as that used on dirt bikes, a bulge in the exhaust pipe known as an expansion chamber uses the pressure of the exhaust to create a pump that squeezes more air and fuel into the cylinder during the intake stroke. This provides greater power and fuel efficiency. See Kadenacy effect.
+
+=== Marine engines ===
+With an onboard diesel or petrol (gasoline) engine, below-decks on marine vessels:-
+
+Lagging the exhaust pipe stops it from overheating the engine room where people must work to service the engine.
+Feeding water into the exhaust pipe cools the exhaust gas and thus lessens the back-pressure at the engine's cylinders. In marine service, the exhaust manifold is often integral to a heat exchanger that allows seawater to cool a closed system of freshwater circulating within the engine.
+
+=== Outboard motors ===
+In outboard motors, the exhaust system is usually a vertical passage through the engine structure, and to reduce out-of-water noise, it blows out underwater, sometimes through the middle of the propeller.
+
+== Terminology ==
+
+=== Manifold or header ===
+
+In most production engines, the manifold is an assembly designed to collect exhaust gas from two or more cylinders into one pipe. In stock production cars, manifolds are often made of cast iron. They may have material-saving design features such as using the least metal, occupying the least space necessary, or having the lowest production cost. These design restrictions often result in a cost-effective design that does not do the most efficient job of venting the gases from the engine. Inefficiencies generally occur due to the nature of the combustion engine and its cylinders. Since cylinders fire at different times, exhaust leaves them at different times, and pressure waves from gas emerging from one cylinder might not be completely vacated through the exhaust system when another comes. This creates back pressure and restriction in the engine's exhaust system, restricting the engine's performance.
+Regardless of the negative attributes of steel tube exhaust outlet configurations, engineers who design engine components choose conventional cast iron exhaust manifolds because they list positive attributes, such as an array of heat management properties and superior longevity to any other type of exhaust outlet design.
+A header is a manifold specifically designed for performance. During design, engineers create a manifold without regard to weight or cost but instead for optimal flow of the exhaust gases. This design results in a header that is more efficient at scavenging the exhaust from the cylinders. Headers are generally circular steel tubing with bends and folds calculated to make the paths from each cylinder's exhaust port to the common outlet all equal length and joined at narrow angles to encourage pressure waves to flow through the outlet, not back towards other cylinders. In a set of tuned headers the pipe lengths are carefully calculated to enhance exhaust flow in a particular engine revolutions per minute range.
+A common method of increasing an engine's power output is using upgraded headers. The increased power output is often due to a result of a larger cross-section area of the pipes (reducing the resistance on the exhaust gasses) and designing the pipe lengths so that the pressure wave assists in exhaust scavenging. For inline-four engines and V8 engines, exhaust manifolds are usually either a 4-2-1 design (where the four pipes merge into two, followed by a separate merge of these two pipes into one) or a 4-1 design (where the four pipes directly merge into one).
+Headers are generally made by aftermarket automotive companies, but sometimes can be bought from the high-performance parts department at car dealerships. Generally, most car performance enthusiasts buy aftermarket headers made by companies solely focused on producing reliable, cost-effective, well-designed headers specifically for their cars. Headers can also be custom-designed by a specialty shop. Due to the advanced materials that some aftermarket headers are made of, this can be expensive. An exhaust system can be custom-built for many vehicles and generally is not specific to the car's engine or design except for needing to properly connect solidly to the engine. This is usually accomplished by correct sizing in the design stage and selecting a proper gasket type and size for the engine.
+
+=== Catalytic converter ===
+Some systems (called catless or de-cat systems) eliminate the catalytic converter. It is a U.S. legal requirement to have a catalytic converter. Converters may not be removed from a vehicle that is used only for "off-road" driving in the United States. The main purpose of a catalytic converter on an automobile is to reduce harmful emissions of hydrocarbons, carbon monoxide, and nitrogen oxides into the atmosphere. They work by transforming the polluted exhaust components into water and carbon dioxide. There is a light-off temperature from which catalytic converters start to be efficient and work properly.
+Catalytic converters can cause back pressure if clogged or not designed for the required flow rate. In these situations, upgrading or removal of the catalytic converter can increase power at high revs. However, the catalytic converter is vital to the vehicle's emission control systems. Therefore, a non-standard product can cause a vehicle to be unroadworthy.
+
+=== Piping ===
+The piping that connects all of the individual components of the exhaust system is called the exhaust pipe. If the diameter is too small, power at high RPM will be reduced. Piping diameter that is too large can reduce torque at low RPM and can cause the exhaust system to be lower to the ground, increasing the risk of it being hit and damaged while the car is moving.
+On cars with two sets of exhaust pipes, a crossover pipe is often used to connect the two pipes. Typical designs of crossover pipes are a perpendicular pipe ('H-pipe', due to their shape) or angled pipes that slowly merge and separate ('X-pipe').
+
+=== Muffler ===
+
+Original-equipment mufflers typically reduce the noise emitted from the tailpipe by reflecting sound waves within the muffler. They are designed to comply with government noise regulations. However, original-equipment mufflers can contribute significantly to exhaust backpressure.
+Glasspack mufflers (also called 'cannons' or 'hotdogs') are straight-through design mufflers that consist of an inner perforated tube, an outer solid tube, and fiberglass sound insulation between the two tubes. They often have less back pressure than original equipment mufflers, but are relatively ineffective at reducing sound levels. Another common type of muffler is the chambered muffler, which consists of a series of concentric or eccentric pipes inside the expansion chamber cavity. These pipes allow sound to travel into them and cause the sound waves to bounce off the closed, flat ends of the pipe. These reflections partially cancel each other out, reducing the sound level.
+Resonators are sections of pipe that expand to a larger diameter and allow the sound waves to reflect off the walls and cancel out, reducing the noise level. Resonators can be used inside mufflers or as separate components in an exhaust system.
+
+=== Tailpipe and exhaust ===
+
+With trucks, sometimes the silencer is crossways under the front of the cab, and its tailpipe blows sideways to the offside (right side if driving on the left, left side if driving on the right). The side of a passenger car on which the exhaust exits beneath the rear bumper usually indicates the market for which the vehicle was designed, i.e., Japanese and British vehicles have exhausts on the right so they are furthest from the curb in countries which drive on the left, while European vehicles have exhausts on the left.
+The end of the final length of the exhaust pipe where it vents to open air, generally the only visible part of the exhaust system part on a vehicle, often ends with a straight or angled cut but may include a decorative tip. The tip is sometimes chromed. It frequently has a larger pipe than the rest of the exhaust system. This produces a final reduction in pressure and is sometimes used to enhance the car's appearance.
+In the late 1950s, in the United States, manufacturers had a fashion in car styling to form the rear bumper with a hole at each end through which the exhaust would pass. Two outlets symbolized V8 engines. Many expensive cars (Cadillac, Lincoln, Imperial, Packard) were fitted with this design. One justification for this was that luxury cars in those days had such an extended rear overhang that the exhaust pipe scraped the ground when the car traversed ramps. The fashion disappeared after customers noted that the rear end of the vehicle is a low-pressure area that collected soot from the exhaust, and its acidic content ate into the chrome-plated rear bumper.
+When a bus, truck or tractor or excavator has a vertical exhaust pipe (called stacks or pipes behind the cab), sometimes the end is curved, or has a hinged cover flap which the gas flow blows out of the way, to try to prevent foreign objects (including feces from a bird perching on the exhaust pipe when the vehicle is not being used) getting inside the exhaust pipe.
+In some trucks, when the silencer (muffler) is front-to-back under the chassis, the end of the tailpipe turns and blows downwards. That protects anyone near a stationary truck from getting a direct blast of the exhaust gas but often raises dust when driving on a dry, dusty surface such as on a building site.
+
+=== Lake pipes ===
+A consequence of the problematic nature of the adaptation of large-diameter exhaust tubing to the undercarriage of ladder-frame or body-on-frame chassis architecture vehicles with altered geometry suspensions, lake pipes evolved to become a front-engined vehicle exhaust archetype crafted by specialty motorsport engine specialists of the 1930s, 1940s, and 1950s, whose focus was the optimization of the acoustic effect associated with high-output internal combustion engines. The name is derived from their use on the vast, empty, dry lake beds northeast of Los Angeles County, where engine specialists custom-crafted, interchanged, and evaluated one-piece header manifolds of various mil thicknesses, a function of temperature, humidity, elevation, and climate they anticipated.
+No intrinsic performance gain to be derived, per se, lake pipes evolved a function of practicality. In typical instances, their manifolds routed straight out the front wheel wells posing an asphyxiation risk to the race driver, "lake pipes" were fashioned, extending from the header flange along the rocker panels, bottom side of the vehicle, beneath the doors, thus allowing (1) suspension tuners a lower ride height sufficient for land speed record attempts, and (2) engine tuners ease and flexibility of interchanging different exhaust manifolds without hoisting the vehicle, thus precluding having to wrench undercarriage of the vehicle.
+Body-on-frame chassis architecture ceding to superleggera, unibody, and monocoque archetypes, in tandem with smog abatement legislation rendered lake pipes obsolete as a performance option. There is no meaningful performance gain for contemporary vehicles; lake pipes are aesthetic accessories usually chrome-plated. Some allow the driver to control whether the exhaust gas is routed to the standard exhaust system or through the lake pipes. Some are equipped with laker caps which, affixed by fasteners at the terminal end of exhaust tips, serve to (1) "cap" the exhaust system when not in use and/or (2) indicate that the presence of lake pipes is merely cosmetic.
+
+=== Header-back ===
+The Header-back (or  header back) is part of the exhaust system from the header outlet to the final vent to open air — everything from the header back. Header-back systems are generally produced as aftermarket performance systems for cars without turbochargers.
+
+=== Turbo-back ===
+The Turbo-back (or turbo back) is part of the exhaust system from the outlet of a turbocharger to the final vent to open air. Turbo-back systems are generally produced as aftermarket performance systems for cars with turbochargers. Some turbo-back (and header-back) systems replace stock catalytic converters, while others have less flow restriction.
+
+=== Cat-back ===
+Cat-back (also cat back and catback) refers to the portion of the exhaust system from the outlet of the catalytic converter to the final vent to open air. This generally includes the pipe from the converter to the muffler, the muffler, and the final length of the pipe to open air.
+Cat-back exhaust systems generally use pipes of larger diameters than the stock system. To reduce backpressure, the mufflers included in these kits are often glasspacks. If the system is engineered more for show than functionality, it may be tuned to enhance the lower sounds from high-RPM low-displacement engines.
+
+== Exhaust aftertreatment ==
+Exhaust aftertreatments are devices or methods to meet emission regulations.
+
+Catalytic converter
+Exhaust gas recirculation (EGR)
+Diesel particulate filter (DPF)
+Diesel exhaust fluid (DEF or AdBlue)
+Carbon capture and storage
+Selective non-catalytic reduction (SNCR)
+Scrubber
+
+== Exhaust system tuning ==
+
+Aftermarket exhaust parts can increase peak power by reducing the back pressure of the exhaust system. These parts sometimes can void factory warranties, however the European Union Block Exemption Regulations 1400/2002 prevents manufacturers from rejecting warranty claims if the aftermarket parts are of matching quality and specifications to the original parts.
+Many automotive companies offer aftermarket exhaust system upgrades as a subcategory of engine tuning. This is often relatively expensive as it usually includes replacing the entire exhaust manifold or other significant components. These upgrades, however, can improve engine performance by reducing the exhaust back pressure and reducing the amount of heat from the exhaust being lost into the underbonnet area. This reduces the underbonnet temperature and consequently lowers the intake manifold temperature, increasing power. This also has a positive side effect of preventing damage to heat-sensitive components.
+Backpressure is most commonly reduced by replacing exhaust manifolds with headers, which have smoother bends and normally wider pipe diameters.
+Exhaust heat management helps reduce exhaust heat radiating from the exhaust pipe and components. One dominant solution to aftermarket upgrades is the use of a ceramic coating applied via thermal spraying as a heat shield. This not only reduces heat loss and lessens back pressure, but also provides an effective way to protect the exhaust system from wear and tear, thermal degradation, and corrosion.
+Tuning can change the noise of the exhaust system, known as exhaust notes.
+
+== Images ==

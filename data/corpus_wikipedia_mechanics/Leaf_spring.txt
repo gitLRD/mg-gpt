@@ -1,0 +1,87 @@
+Leaf spring
+
+A leaf spring is a simple form of spring commonly used for suspension in wheeled vehicles.  Originally called a laminated or carriage spring, and sometimes referred to as a semi-elliptical spring, elliptical spring,  or cart spring, it is one of the oldest forms of vehicle suspension. A leaf spring is one or more narrow, arc-shaped, thin plates that are attached to the axle and chassis in a way that allows the leaf spring to flex vertically in response to irregularities in the road surface. Lateral leaf springs are the most commonly used arrangement, running the length of the vehicle and mounted perpendicular to the wheel axle, but numerous examples of transverse leaf springs exist as well.
+Leaf springs can serve multiple suspension functions: location, springing, and to some extent damping as well, through interleaf friction. However, this friction is not well controlled, resulting in stiction and irregular suspension motions. For this reason, some manufacturers have used mono-leaf springs.
+
+== Operation and basic design ==
+	
+A leaf spring takes the form of a slender arc-shaped length of spring steel of a rectangular cross-section.  In the most common configuration, the centre of the arc provides the location for the axle, while loops formed at either end provide for attaching to the vehicle chassis. For very heavy vehicles, a leaf spring can be made from several leaves stacked on top of each other in several layers, often with progressively shorter leaves. The longest leaf is also known as the main, master, or No. 1 leaf, with leaves numbered in descending order of length. The eyes at the end of the leaf spring are formed into the master leaf. In general, aside from the main leaf, the other leaves are tapered at each end. Sometimes auxiliary or rebound leaves are part of the main spring pack, in which case the auxiliary leaf closest to the main leaf is No. 1, the next closest is No. 2, etc. The leaves are attached to each other through the centre bolt, which is at or near the mid-point along the length of the leaf spring. To ensure that leaves remain aligned laterally, several methods can be used, including notches and grooves between leaves or external clips.
+Spring steels were discovered to be most efficient at approximately 1% carbon content. Individual leaf thickness is specified by the Stubbs or Birmingham gauge, with typical thicknesses ranging between 0.203 to 0.375 in (5.2 to 9.5 mm) (6 to 3/8 or 00 gauge). The material and dimensions should be selected such that each leaf is capable of being hardened to have a fully martensitic structure throughout the entire section. Suitable spring steel alloys include 55Si7, 60Si7, 65Si7, 50Cr4V2, and 60Cr4V2.
+
+=== Characteristics ===
+
+The two ends of a leaf spring usually are formed into round eyes or eyelets, through which a fastener connects each end of the spring to the vehicle frame or body. Some springs terminated in a concave end, called a spoon end (seldom used now), to carry a swivelling member instead. One eye is usually fixed but allowed to pivot with the motion of the spring, whereas the other eye is fastened to a hinge mechanism that allows that end to pivot and undergo limited movement. A leaf spring can either be attached directly to the frame at both eyes or attached directly at one end, usually the front, with the other end attached through a shackle: a short swinging arm. The shackle takes up the tendency of the leaf spring to elongate when compressed and thus makes the suspension softer. The shackle provides some degree of flexibility to the leaf spring so that it does not fail when subjected to heavy loads. The axle is usually fastened to the middle of the spring by U-bolts.
+The leaf spring acts as a linkage to hold the axle in position and thus separate linkages are not necessary. The result is a suspension that is simple and strong. Inter-leaf friction dampens the spring's motion and reduces rebound, which, until shock absorbers were widely adopted, was a very significant advantage over helical springs. However, because the leaf spring is also serving to hold the axle in position, soft springs—i.e. springs with low spring constant—are not suitable. The consequent stiffness, in addition to inter-leaf friction, makes this type of suspension not particularly comfortable for the riders.
+
+=== Types ===
+
+There are a variety of leaf springs, usually employing the word "elliptical". "Elliptical" or "full elliptical" leaf springs, patented in 1804 by the British inventor Obadiah Elliott, referred to two circular arcs linked at their tips. This was joined to the frame at the top centre of the upper arc, the bottom centre was joined to the "live" suspension components, such as a solid front axle. Additional suspension components, such as trailing arms, would usually be needed for this design, but not for "semi-elliptical" leaf springs as used in the Hotchkiss drive. That employed the lower arc, hence its name. 
+"Quarter-elliptic" springs often had the thickest part of the stack of leaves stuck into the rear end of the side pieces of a short ladder frame, with the free end attached to the differential, as in the Austin Seven of the 1920s. As an example of non-elliptic leaf springs, the Ford Model T had multiple leaf springs over its differential that were curved in the shape of a yoke. As a substitute for dampers (shock absorbers), some manufacturers laid non-metallic sheets in between the metal leaves, such as wood.
+Elliot's invention revolutionized carriage design and construction, removing the need for a heavy perch and making transportation over rough roadways faster, easier, and less expensive.
+
+A more modern implementation is the parabolic leaf spring. This design is characterized by fewer leaves whose thickness varies from centre to ends following a parabolic curve. The intention of this design is to reduce inter-leaf friction, and therefore there is only contact between the leaves at the ends and at the centre, where the axle is connected. Spacers prevent contact at other points. Aside from weight-saving, the main advantage of parabolic springs is their greater flexibility, which translates into improved ride quality, which approaches that of coil springs; the trade-off is reduced load carrying capability. They are widely used on buses for improved comfort.
+A further development by the British GKN company and by Chevrolet, with the Corvette, among others, is the move to composite plastic leaf springs. Nevertheless, due to the lack of inter-leaf friction and other internal dampening effects, this type of spring requires more powerful dampers/shock absorbers.
+Typically when used in automobile suspension the leaf both supports an axle and locates/partially locates the axle. This can lead to handling issues (such as "axle tramp"), as the flexible nature of the spring makes precise control of the unsprung mass of the axle difficult. Some suspension designs use a Watts link (or a Panhard rod) and radius arms to locate the axle and do not have this drawback. Such designs can use softer springs, resulting in a better ride. Examples include the various rear suspensions of Austin-Healey 3000s and Fiat 128s.
+
+== History ==
+
+The earliest known leaf springs began appearing on carriages in France in the mid-17th century in the form of the two-part elbow spring (as the illustrated example from Lisbon), and later migrated to England and Germany, appearing on the carriages of the wealthy in those countries around 1750. Dr. Richard Lovell Edgeworth was awarded three gold medals by the Society of English Arts and Manufacturers in 1768 for demonstrating the superiority of sprung carriages. By 1796, William Felton's A Treatise on Carriages showed that leaf springs were being marketed regularly by the late 18th century carriage industry.
+Obadiah Elliot is credited with inventing the modern leaf spring with his 1804 patent on elliptical leaf springs, which brought him significant recognition and revenue, and engineers began studying leaf springs to develop improved designs and manufacturing processes. The mechanics and deflection of leaf springs were developed by Clark (1855), Franz Reuleaux (1861), and G.R. Henderson (1894). Improved steel rolling processes, process instruments, and spring steel alloys were developed during the latter half of the 19th century as well, making the manufacture of leaf springs more consistent and less expensive.
+
+Leaf springs were very common on automobiles until the 1970s when automobile manufacturers shifted primarily to front-wheel drive, and more sophisticated suspension designs were developed using coil springs instead. Today leaf springs are still used in heavy commercial vehicles such as vans and trucks, SUVs, and railway carriages. For heavy vehicles, they have the advantage of spreading the load more widely over the vehicle's chassis, whereas coil springs transfer it to a single point. Unlike coil springs, leaf springs also locate the rear axle, eliminating the need for trailing arms and a Panhard rod, thereby saving cost and weight in a simple live axle rear suspension. A further advantage of a leaf spring over a helical spring is that the end of the leaf spring may be guided along a definite path. In many late 1990s and early 2000s trucks, the leaf spring is connected to a Hinkle Beam ball joint.
+
+The leaf spring also has seen modern applications in cars. For example, the 1963 Chevrolet Corvette Sting Ray uses a transverse leaf spring for its independent rear suspension. Similarly, 2016 Volvo XC90 has a transverse leaf spring using composite materials for its rear suspension, similar in concept to the front suspension of the 1984 Corvette. This arrangement uses a straight leaf spring that is tightly secured to the chassis at the centre; the ends of the spring are bolted to the wheel suspension, allowing the spring to work independently on each wheel. This suspension is smaller, flatter and lighter than a traditional setup.
+
+== Manufacturing process ==
+Multi-leaf springs are made as follows.
+
+Pre-heat treatment process:
+thearing
+taper rolling
+trimming
+end cutting and pressing
+second warping
+scarfing and eye rolling
+nipping
+C’SKG punching
+centre hole drilling.
+Heat treatment processes:
+heating for hardening
+cambering
+quenching
+tempering.
+Post-heat treatment processes:
+rectification
+side bend removing
+bushing
+reaming
+clamp riveting.
+Assembly and surface finishes:
+shot peening
+painting
+assembling
+scragging
+marking and packing.
+
+=== Heat treatment ===
+Heating for hardening: Any metal, or alloy which can be hard drawn, or rolled to fairly high strength and retains sufficient ductility to form, may be used for springs, or any alloy which can be heat treated to high strength and good ductility before, or after forming may be used. For special spring properties such as good fatigue life, non-magnetic characteristics, resistance to corrosion, elevated temperatures and drift require special considerations. leaves are heated to critical temperature in an oil-fired hardening furnace. Usually temperature maintained is between 850°C and 950°C.
+Cambering: The top leaf is known as the master leaf. The eye is provided for attaching the spring with another machine member. The amount of bend that is given to the spring from the central line, passing through the eyes, is known as camber. The camber is provided so that even at the maximum load the deflected spring should not touch the machine member to which it is attached. The camber shown in the figure is known as positive camber. The central clamp is required to hold the leaves of the spring. Machine used for this operation is hydraulic press. Leaves are bent to required radius using a press. All the leaves are tested for required radius using cambering gauges.
+Quenching : Hot bent leaves kept in tray and quenched in oil bath to get martensite structure. Martensite is the hardest form of steel crystalline structure. Martensite is formed in carbon steels by rapid cooling that is quenching of austenite form of iron. The machine used is a conveyorised quench oil bath. The fire point of quenching oil is about 200°C and it is seen to that the oil temperature does not exceed 80°C. After quenching, the structure of the leaf spring becomes very hard and this property is not required. But this process is required to set the leaves to the correct radius after cambering. To remove hardness, tempering is done.
+Tempering: Tempering is a process of heat treating, which is used to increase the toughness. Quenched leaves are reheated to drop hardness to the required level. An electrically heated temperature furnace is used for this process. Hardness of the leaves is determined using Brinell hardness testing, a process that also relieves stresses. The temperature inside the machine is maintained between 540 and 680°C. The tempering process involves heating of leaves below their re-crystallization temperature then cooling them using water or air.
+
+== Other uses ==
+
+=== By blacksmiths ===
+Because leaf springs are made of relatively high quality steel, they are a favourite material for blacksmiths. In countries such as India, Nepal, Bangladesh, Philippines, Myanmar and Pakistan, where traditional blacksmiths still produce a large amount of the country's tools, leaf springs from scrapped cars are frequently used to make knives, kukris, and other tools. They are also commonly used by amateur and hobbyist blacksmiths.
+
+=== In trampolines ===
+Leaf springs have also replaced traditional coil springs in some trampolines (known as soft-edge trampolines), which improves safety for users and reduces risk of concussion. The leaf springs are spaced around the frame as "legs" that branch from the base frame to suspend the jumping mat, providing flexibility and resilience.
+
+=== Clutches ===
+The "diaphragm" common in automotive clutches is a type of leaf spring.
+
+== Modernization ==
+Tuning (from English to tune, to adjust, to harmonise, to fine-tune) in the field of vehicles is a term that denotes the modification of a vehicle relative to mass production standards in order to adapt it to personal tastes or specific needs. Suspension tuning includes changing springs, shock absorbers, sway bars, and other related components. Many trucks are supported by leaf spring suspension. Leaf spring suspensions provide exceptional articulation, higher load capacity, and can withstand significant abuse. With the right methods, they can be modified to help the vehicle carry heavier loads, have better articulation, or fit larger oversized tires. Some vehicles may be equipped with front and rear leaf springs or only rear leaf springs with independent front suspension. There are two main ways to upgrade leaf springs. The first is budget-friendly but very effective — adding a leaf to the factory leaf spring pack. This provides increased ground clearance and incremental load capacity. The second option is to replace the factory leaf spring pack entirely with a heavier duty pack. This provides increased ground clearance, significant additional load carrying capacity, and can increase the travel (droop/compression) of the rear end for improved performance. The third option is to replace the factory leaf spring packs with coil springs. Overall, this approach changes every aspect of the rear suspension dynamics, giving you more control over outcomes including height, load capacity, wheel travel, etc. 
+Some lifting methods are good for the rear but not for the front, such as lift blocks. Lifting the rear using blocks is a common way to achieve the desired height. This is done by installing a block of the desired lift height between the leaf spring and the leaf spring perch and fitting longer U-bolts. This is a poor method for the front, primarily due to safety issues during braking. When braking, the front wheels generate most of the braking force. The block moves this lateral force caused by braking higher above the axle than in its standard form. This can cause the block to shift out of place and a complete loss of control.  
+A more acceptable way to build up leaf springs is using add-a-leafs. This is done by inserting an additional leaf into the vehicle’s leaf spring pack. Using add-a-leafs will increase height but sometimes leads to a stiff suspension travel due to the added spring stiffness.  
+For off-road vehicles, the emphasis is on extending suspension travel and fitting larger tires. Larger tires — with bigger wheels or without — increase ground clearance, provide a smoother ride over rough terrain, offer additional cushioning, and reduce ground pressure (which is important on soft surfaces). Often, the rear suspension of off-road vehicles is represented by leaf springs.

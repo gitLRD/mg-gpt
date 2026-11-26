@@ -1,0 +1,304 @@
+# Introduction
+
+## 1. Abbreviations and definitions
+
+## 2. Application (Classes 3, 4, 5 and 7)
+
+This manual is a detailed guide to the inspection for statutory MOT testing of the following classes:
+
+Diagram 1. Example of a class 4 manufacturer’s plate
+
+Some plates may not state the axle number, but vehicle weights will generally be displayed in this order.
+
+Some manufacturers plates may not display a Design Train Weight (DTW) as they have not been designed or constructed to tow trailers.
+
+Some Class 7 testing stations are approved to test Class 5 vehicles with a DGW up to 5,000kg referred to as Class 5L (category M2). Class 5L does not include any vehicle that must have a seatbelt installation check. Such vehicles must be presented at a Class 5A testing station.
+
+Definitions of sub-Classes 4A and 5A are given in the MOT Testing Guide.
+
+Dual purpose vehicles are defined in the MOT testing guide. The unladen weight of a dual-purpose vehicle must not exceed 2,040kg. However, 4 × 4 pickup and crew cab type vehicles with a DGW over 3,000kg up to and including 3,500kg are considered dual purpose vehicles for test purposes if information about the unladen weight is not available.
+
+Diagram 2. Flow chart to identify a dual purpose vehicle test class
+
+American pickup means a motor vehicle manufactured in the United States of America or Canada that meets all of the following criteria:
+
+- it’s capable of carrying a driver and at least one passenger
+
+- it’s capable of carrying goods in an open load bed separate from the driver/passenger compartment, with or without a removable cover
+
+- it has a gross design weight over 3,000kg but does not exceed 6,500kg
+
+Pickup vehicles with a fifth-wheel should not be considered articulated vehicles. They should be tested as normal.
+
+To determine the seating capacity of a passenger vehicle, the number of occupied wheelchairs that can be carried should be added to the number of seats.
+
+Other than for the inspection of tyres, any 2 wheels of a vehicle shall be regarded as one wheel if the distance between the centres of the areas of contact between such wheels and the road surface is less than 460mm. You should be aware that this may affect the test class. For example, a three-wheeled vehicle with a wheel layout meeting this criterion must be tested as a motorcycle.
+
+## Tricycle and quadricycle test classes
+
+If any of the above vehicles are electrically powered, their unladen weight must not include the weight of the batteries.
+
+If there is significant doubt about the power output or the weight of the vehicle, the presenter must provide documentary evidence.
+
+If the vehicle is too heavy or powerful to qualify as an L7e quadricycle it is an M1 vehicle and must be tested as if it was a car, for example, it must meet the full lighting, brake efficiency and emissions requirements
+
+## 3. Vehicles of historical interest (over 40 years old)
+
+Some vehicles of historical interest may be exempt from statutory MOT testing. Such vehicles must be over 40 years old and not substantially changed.
+
+Owners of these vehicles may still request a statutory test be conducted. In these circumstances, you must register the test on the MOT testing service and carry it out in the usual way and issue the appropriate documentation.
+
+You should remember that certain components on historic vehicles may have been manufactured to have a greater degree of play or tolerance than is found in modern vehicles.
+
+## 4. Refusal to test
+
+Legislation permits testers to refuse to test vehicles in certain circumstances. If any of the reasons for refusal (see below) apply, you should not carry out the test and must return any fee paid for the test. You should carry out appropriate pre-checks before starting the test, to ensure the suitability and general condition of the vehicle.
+
+If the vehicle presenter needs written confirmation of why the test cannot be carried out, you should register the test using the MOT testing service and issue a VT30 clearly showing the reason(s) why the test could not be carried out.
+
+If reason to refuse ‘i’ applies, you should issue a handwritten CT30 containing as many of the vehicle details as possible. A copy of the CT30 should be retained by the VTS.
+
+The reasons for refusing to carry out the test are:
+
+- a. The V5C or other evidence of the date of first use is not produced. Normally this evidence is only necessary if the vehicle has a ‘cherished’ registration mark (also referred to as personalised registration number) or if the registration mark’s year letter does not make it clear which standard should be applied.
+
+- b. The vehicle or any part or equipment on the vehicle is so dirty that examination is unreasonably difficult.
+
+- c. The vehicle is not fit to be driven when necessary to complete the test because of a lack of fuel, or oil, or for any other reason.
+
+- d. The tester considers a load or other items, or insecurity of a load or other items, would prevent a proper test being carried out - unless the load is secured or removed.
+
+- e. The VTS asks for the fee to be paid in advance and this is not done.
+
+- f. The vehicle emits substantial quantities of avoidable smoke.
+
+- g. A proper examination cannot be carried out because any door, tailgate, boot, engine cover, fuel cap or other device designed to be easily opened cannot be easily opened.
+
+- h. The condition of the vehicle is such that, in the opinion of the tester, a proper examination would involve a danger of injury to any person or damage to the vehicle or other property.
+
+- i. The vehicle has neither a registration mark nor VIN/chassis number or frame number by which it can be identified, or that all such identifications are illegible or use letters and numbers not normally used in the English language.
+
+If despite due care initially, it becomes apparent during a test that the test cannot be completed for any of the above reasons, the test must be abandoned, or the vehicle failed because the test could not be satisfactorily completed. Any subsequent re-examination and fee must be in line with normal policy. See the MOT fees and appeals poster (VT9A) for further information.
+
+In addition to the above reasons you must decline to test any vehicle:
+
+- that is not of a class you are authorised to test
+
+- if there is doubt about the power output (when required) or the weight of the vehicle
+
+- if it is of such a size, weight or configuration that it cannot be properly or safely tested on the approved facilities
+
+There are exceptions for narrow track vehicles.
+
+## 5. Narrow track vehicles
+
+If a vehicle has a track width that is too narrow for the vehicle to be safely tested on the approved pit or hoist, the inspection can be carried out on an area of hard standing within the testing facility. However, this only applies where the headlamp aim test can be conducted using the approved equipment and with the vehicle placed in the headlamp aim standing area.
+
+You should use appropriate test methods covering all testable items set out in the inspection manual. For checks where wheels must be raised clear of the ground, you should use a suitable jack. Turning plate checks will need to be carried out on hard standing as best as possible.
+
+If a roller/plate brake test cannot be carried out, due to the narrow track width or the transmission type, then a decelerometer test must be conducted.
+
+If you have health and safety concerns regarding these procedures or the suitability of the test equipment, you should decline to test the vehicle.
+
+## 6. Vehicle ‘first used’ dates - Application of test criteria
+
+Usually you’ll be given the vehicle details as part of the registration process. This will usually include the vehicle’s ‘first used’ date. If the ‘first used’ date is known, you should only use defects applicable to the vehicle’s age.
+
+When the ‘first used’ date is not known or incorrect, you should determine the vehicle’s ‘first used’ date as follows:
+
+- a. Its date of manufacture, if the vehicle was originally used without being registered in Great Britain, such as an imported vehicle or ex-HM Forces vehicle.
+
+- b. Vehicles having a Q plate registration when presented for MOT are to be treated as follows:
+
+- -for emission purposes only, they are to be considered as first used before 1 August 1975
+
+- -for all other testing purposes, they are to be considered as being first used on 1 January 1971
+
+- c. In any other case, the earlier of either its date of first registration or the date 6 months after it was manufactured, for example, vehicles first used before 1 September 2001 do not need to have anti-theft device. However, a vehicle first used after that date, but manufactured at least 6 months before that date (before March 2001) would still not need an anti-theft device to be fitted.
+
+You should enter this information onto the MOT testing service so that you can select the appropriate defects.
+
+## 7. The MOT inspection manual
+
+Although this manual is publicly available, it’s specifically written for MOT testers. It specifies the applications, procedures and standards to be used for MOT testing. You must read it with any current special notices relevant to the class or type of vehicle under test.
+
+You should familiarise yourself with the contents of the manual and any amendments to it, including special notices which affect test procedures or standards.
+
+Defects found during the MOT test will be categorised in one of the following groups:
+
+- minor - defects that have no significant effect on the safety of the vehicle or impact on the environment and other minor non-compliances
+
+- major - defects that may prejudice the safety of the vehicle, have an impact on the environment, put other road users at risk or other more significant non-compliances
+
+- dangerous - defects that are a direct and immediate risk to road safety or having an impact on the environment
+
+If a vehicle has only minor defects, it will pass its MOT inspection and a test certificate will be issued. If a vehicle has any major or dangerous defects, it must be failed and a refusal notice issued.
+
+## 8. Vehicle technical data
+
+The MOT testing service may give testers technical information about certain vehicles under test. This is to help testers choose the correct the test methods and/or apply the correct standards.
+
+## 9. The MOT testing guide
+
+The MOT testing guide explains what is required of persons and organisations authorised to conduct statutory tests on certain motor vehicles. It also includes, among other things, information on the administration of the MOT scheme, disciplinary procedures and equipment calibration requirements.
+
+## 10. Assessment of component condition
+
+It is not practical to lay down limits of wear and tolerance for all types of components on different models of vehicle, or to define acceptable amounts of damage, deterioration and effectiveness.
+
+You are therefore expected to use your knowledge, experience and judgement to assess if the condition of a component has reached the stage where it’s obviously adversely affecting its functionality or likely to adversely affect the roadworthiness of the vehicle.
+
+## 11. Definition of insecure
+
+The term ‘insecure’ is used throughout this manual to describe a defective condition. This term should be taken to mean one of the following:
+
+- a component has relative movement (looseness) at its fixings where there should be none
+
+- a component has relative movement (looseness) to an associated component where there should be none
+
+- a safety critical component (braking, steering or suspension system component) is not safely or completely attached at its fixing or to an associated component
+
+In determining whether a component in a safety critical system is safely attached, consideration must be given to the function of the component and the overall number of securing devices. For example:
+
+- a missing brake pipe clip does not necessarily mean the brake pipe is insecure if the brake pipe remains adequately supported
+
+- a suspension bracket with one of many securing bolts loose does not necessarily mean the bracket is insecure if it remains adequately secured with no signs of visible movement
+
+Certain components, such as wheel fixings, batteries, body mountings have specific criteria detailed in the manual.
+
+## 12. Unsafe modification
+
+Modifications to vehicles must be assessed on their merits, taking account of the nature of the modification and whether the component is critical to safety.
+
+A modification is unsafe if it:
+
+- adversely affects the roadworthiness of the vehicle
+
+- is likely to cause injury, such as modification to the body
+
+- has a disproportionately adverse effect on the environment
+
+## 13. Extensively modified vehicles
+
+If a vehicle has been extensively modified or converted, certain defects, such as for components ‘missing where fitted as standard’ should not be applied, for example:
+
+- a car converted for competition rally use must have the rear seats removed, be fitted with a roll cage and full harness seat belts, may not be fitted with components such as brake servo, power steering or airbags
+
+- a car converted to a stretch limousine may no longer be fitted with items such as curtain airbags or a functional electronic stability control system
+
+This exemption does not apply to vehicles with minor modifications. Therefore, a car fitted with rally style seats, body kit and a sports steering wheel would not be exempt from the requirement to have a driver’s airbag if one was fitted as standard equipment.
+
+Vehicles modified for disabled use must be assessed on their merits. For example, it’s acceptable for the driver’s airbag to be removed for a wheelchair user, but the SRS warning lamp must not indicate a system malfunction.
+
+## 14. Inspection procedure
+
+You are advised to carry out pre-checks to ensure the general condition and suitability of the vehicle for test. Other than when using a CT code, a test must not commence until you have registered the vehicle for test in the MOT testing service (see MOT Testing Guide).
+
+When registering a vehicle for test, the actual details from the vehicle must be used. It is not acceptable to use details from other sources such as the V5C, job card or previous electronic record.
+
+The tester who registered the vehicle for test must personally carry out the test, using the approved equipment, without avoidable distraction or interruption and only the tester is empowered to make decisions about the test results. Unless the test facility is approved for one-person testing, the tester must use a suitable assistant for certain parts of the inspection.
+
+Although no assistant is generally required for one person test lanes, one must be used if it is necessary to conduct a proper inspection.
+
+If you, or your assistant, are not familiar with the controls of a vehicle, you should ask the vehicle presenter to operate or demonstrate the controls.
+
+It may be convenient to conduct the emissions test at the beginning of the inspection if the engine is still warm.
+
+Small tools, such as pinch bars, levers and the corrosion assessment tool must be used where necessary. A hand-held inspection mirror may be used to facilitate the inspection but is not mandatory.
+
+The MOT test must be carried out without dismantling, so it is not always possible to inspect some testable items. Bonnets, engine covers, luggage compartments, access flaps and passenger compartment doors must be opened when it’s necessary to inspect testable items.
+
+Some access panels are secured with twist lock clips or similar and are designed to be opened easily to allow access to serviceable components and testable items. Where it is necessary to gain access to testable items covered by this type of access panel, a tester must open and close these access panels as part of the inspection.
+
+If for example a bonnet, door or access panel designed to be easily opened cannot be opened, so preventing access to a testable item, you must either abandon or refuse to carry out the test.
+
+You should take care when jacking up vehicles to avoid causing damage and refer to manufacturers’ information if available. Particular care is needed when jacking vehicles fitted with pneumatic, hydraulic or self-levelling suspension.
+
+Once the inspection is completed, you must record the test results using the MOT testing service (see MOT Testing Guide).
+
+If testing under CT, you must calculate the brake efficiencies and retain the readings for later data entry. You should record all results on the VT29 and retain any printout. Refer to the MOT testing guide for a full explanation of CT procedures.
+
+## Recommended inspection routine
+
+Diagrams 2 and 3 (see below) show a typical inspection routine. These routines may need to be varied to suit different test bay layouts and equipment types. It’s recommended that you do not carry out the brake performance test until after the rest of the inspection to prevent an unknown defect causing injury to a person, damage to the vehicle or other property.
+
+Diagram 3. Topside inspection routine
+
+Diagram 4. Underside inspection routine
+
+## Operations
+
+-
+With the wheels in the straight-ahead position and supporting the vehicle weight, inspect the vehicle underside following the routine shown. If using a lift for the underside inspection, it’s recommended that the rear wheels are chocked whilst the lift is raised.
+
+-
+Jack up the front and rear wheels to check relevant items. For vehicles with a DGW exceeding 5,000kg only jack the front wheels.
+
+-
+Carry out the headlamp aim check and brake performance test at a convenient point in the routine depending on the layout of the equipment.
+
+## 15. Road testing
+
+The statutory test does not specifically include a road test of the vehicle. However, one is permitted if you think it’s necessary to check the results of an inspection. You must be properly licensed to drive the vehicle and ensure the vehicle is in a safe condition to conduct the road test.
+
+## 16. Disabled driver’s controls
+
+If a disabled driver’s controls or fitments are additional to the standard driver’s controls and they do not adversely affect the standard vehicle equipment, they are not testable items. However, if any such equipment is seen to be defective it should be reported to the vehicle presenter.
+
+Disabled driver’s controls or fitments that replace or affect the standard controls should be tested in the normal way and any defects should be recorded in the normal way.
+
+## 17. Health and safety
+
+AEs and their staff are reminded of their obligation to adhere to all relevant health and safety legislation while MOT testing. Further advice can be obtained from your local health and safety enforcement officer or local authority environmental health officers as appropriate.
+
+When testing vehicles with gas, fluid or air suspension, you should be aware that clearance between components can suddenly and unexpectedly change. This can present a crushing hazard if, for example, your arm is between the suspension and the body.
+
+You should also be aware of the hazards of sudden component failure in pressurised systems
+
+## 18. Recording defects
+
+Defects covered in this manual are selected from a component-based menu system in the MOT testing service. You will first select the appropriate component from the main component list and then make further selections from the sub-menu(s). Once you’ve selected the appropriate component, a list of defects will be available for selection.
+
+Various categories of defect may be available for the same item depending on the nature or severity of the defect - minor, major or dangerous. You must select the appropriate category, guided by the defect wording and using your knowledge, experience and judgement.
+
+When an item is not sufficiently deteriorated to justify rejection, there may be an option to select ‘advisory’ to inform the presenter of this fact.
+
+When only minor defects have been selected, a test certificate will still be issued. Unlike advisory items, the use of minor defects, where appropriate, is mandatory.
+
+If you think that a defect on a non-testable item is dangerous, you should explain it to the vehicle presenter.
+Some defects listed in the inspection manual may not be accessible if they are not relevant due to the age or test class of the vehicle. However, advisory items (if appropriate) for these defects may still be selectable.
+
+It is considered best practice to advise the vehicle presenter of:
+
+- any items which are near to, but which have not yet reached the point of test failure
+
+- any peculiarities of the vehicle identified during the inspection
+
+- any defects on non-testable items which are found during the inspection procedure
+
+## 19. Retest following failure
+
+Information on retest fees and procedures can be found in the current MOT Testing Guide and on the ‘MOT fees and appeals’ poster (VT9A).
+When carrying out a partial retest you must:
+
+- examine all the previously failed item(s)
+
+- examine item(s) that may have been affected by repairs
+
+- carry out another brake performance test and record the results in the MOT testing service, where the braking system may have been affected by the repairs
+
+- examine any minor defect or item advised on at the time of the initial test
+
+If during a retest it’s clear that the vehicle has any major or dangerous defects, you must issue a new VT30.
+
+## 20. Testing electric and hybrid vehicles
+
+The high voltage components on these vehicles are often inaccessible. However, where they are accessible, they are well insulated and do not present a high risk.
+
+It is considered best practice when testing these vehicles to avoid touching any high voltage components and wiring. High voltage wiring insulation is orange in colour so it can be easily identified, though some imported vehicles may have high voltage wiring insulation of a different colour.
+
+Many mild hybrids only use 48V systems which may use blue coloured insulation, rather than orange, as these are not regarded as being high voltage. However, the wiring on these systems should still be avoided.
+
+You should be mindful, especially during the under-bonnet and under vehicle inspections, that the internal combustion engine may start without warning when electrical equipment is operated or if the battery voltage drops.
+
+Guidance for MOT testers testing hybrid, electric and hydrogen fuel cell systems.

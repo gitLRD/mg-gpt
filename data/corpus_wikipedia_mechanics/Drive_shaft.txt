@@ -1,0 +1,96 @@
+Drive shaft
+
+A drive shaft, driveshaft, driving shaft, tailshaft (Australian English), propeller shaft (prop shaft), or Cardan shaft (after Girolamo Cardano) is a component for transmitting mechanical power, torque, and rotation, usually used to connect other components of a drivetrain that cannot be connected directly because of distance or the need to allow for relative movement between them.
+As torque carriers, drive shafts are subject to torsion and shear stress, equivalent to the difference between the input torque and the load. They must therefore be strong enough to bear the stress, while avoiding too much additional weight as that would in turn increase their inertia.
+To allow for variations in the alignment and distance between the driving and driven components, drive shafts frequently incorporate one or more universal joints, jaw couplings, or rag joints, and sometimes a splined joint or prismatic joint.
+
+== History ==
+The term driveshaft first appeared during the mid-19th century.  In Stover's 1861 patent reissue for a planing and matching machine, the term is used to refer to the belt-driven shaft by which the machine is driven.  The term is not used in his original patent.  Another early use of the term occurs in the 1861 patent reissue for the Watkins and Bryson horse-drawn mowing machine.
+Here, the term refers to the shaft transmitting power from the machine's wheels to the gear train that works the cutting mechanism.
+In the 1890s, the term began to be used in a manner closer to the modern sense.  In 1891, for example, Battles referred to the shaft between the transmission and driving trucks of his Climax locomotive as the drive shaft, and Stillman referred to the shaft linking the crankshaft to the rear axle of his shaft-driven bicycle as a drive shaft.  In 1899, Bukey used the term to describe the shaft transmitting power from the wheel to the driven machinery by a universal joint in his Horse-Power.  In the same year, Clark described his Marine Velocipede using the term to refer to the gear-driven shaft transmitting power through a universal joint to the propeller shaft.  Crompton used the term to refer to the shaft between the transmission of his steam-powered Motor Vehicle of 1903 and the driven axle.
+The first gasoline-powered car with a drive shaft was the 1898 Renault Voiturette. Autocar was the first American company to use a drive shaft in a gasoline-powered car. Built in 1901, today this vehicle is in the collection of the Smithsonian Institution.
+
+== Automotive drive shaft ==
+
+=== Vehicles ===
+An automobile may use a longitudinal shaft to deliver power from an engine/transmission to the other end of the vehicle before it goes to the wheels. A pair of short drive shafts is commonly used to send power from a central differential, transmission, or transaxle to the wheels.
+
+==== Front-engine, rear-wheel-drive ====
+
+In Front-engine, rear-wheel-drive vehicles, a longer drive shaft is also required to send power the length of the vehicle. Two forms dominate: the torque tube with a single universal joint and the more common Hotchkiss drive with two or more joints. This system became known as Système Panhard after the automobile company Panhard et Levassor which patented it.
+Most of these vehicles have a clutch and gearbox (or transmission) mounted directly on the engine, with a drive shaft leading to a final drive in the rear axle. When the vehicle is stationary, the drive shaft does not rotate. Some vehicles (generally sports cars, such as the Chevrolet Corvette C5/C6/C7, Alfa Romeo Alfetta and Porsche 924/944/928), seeking improved weight balance between front and rear, use a rear-mounted transaxle. In some non-Porsche models, this places the clutch and transmission at the rear of the car and the drive shaft between them and the engine. In this case the drive shaft rotates continuously with the engine, even when the car is stationary and out of gear. However, the Porsche 924/944/928 models have the clutch mounted to the back of the engine in a bell housing and the drive shaft from the clutch output, located inside of a hollow protective torque tube, transfers power to the rear mounted transaxle (transmission + differential). Thus the Porsche driveshaft only rotates when the rear wheels are turning as the engine-mounted clutch can decouple engine crankshaft rotation from the driveshaft. So for Porsche, when the driver is using the clutch while briskly shifting up or down (manual transmission), the engine can rev freely with the driver's accelerator pedal input, since with the clutch disengaged, the engine and flywheel inertia is relatively low and is not burdened with the added rotational inertia of the driveshaft. The Porsche torque tube is solidly fastened to both the engine's bell housing and to the transaxle case, fixing the length and alignment between the bell housing and the transaxle and greatly minimizing rear wheel drive reaction torque from twisting the transaxle in any plane.
+A drive shaft connecting a rear differential to a rear wheel may be called a half-shaft. The name derives from the fact that two such shafts are required to form one rear axle.
+Early automobiles often used chain drive or belt drive mechanisms rather than a drive shaft. Some used electrical generators and motors to transmit power to the wheels.
+
+==== Front-wheel drive ====
+In British English, the term drive shaft is restricted to a transverse shaft that transmits power to the wheels, especially the front wheels. The shaft connecting the gearbox to a rear differential is called a "propeller shaft", or "prop-shaft". A prop-shaft assembly consists of a propeller shaft, a slip joint and one or more universal joints. Where the engine and axles are separated from each other, as on four-wheel drive and rear-wheel drive vehicles, it is the propeller shaft that serves to transmit the drive force generated by the engine to the axles.
+Several different types of drive shaft are used in the automotive industry:
+
+One-piece drive shaft
+Two-piece drive shaft
+Slip-in-tube drive shaft
+The slip-in-tube drive shaft is a new type that improves crash safety. It can be compressed to absorb energy in the event of a crash, so is also known as a "collapsible drive shaft".
+
+==== Four wheel and all-wheel drive ====
+These evolved from the front-engine rear-wheel drive layout. A new form of transmission called the transfer case was placed between transmission and final drives in both axles. This split the drive to the two axles and may also have included reduction gears, a dog clutch or differential. At least two drive shafts were used, one from the transfer case to each axle. In some larger vehicles, the transfer box was centrally mounted and was itself driven by a short drive shaft. In vehicles the size of a Land Rover, the drive shaft to the front axle is noticeably shorter and more steeply articulated than the rear shaft, making it a more difficult engineering problem to build a reliable drive shaft, and which may involve a more sophisticated form of universal joint.
+Modern light cars with all-wheel drive (notably Audi or the Fiat Panda) may use a system that more closely resembles a front-wheel drive layout. The transmission and final drive for the front axle are combined into one housing alongside the engine, and a single drive shaft runs the length of the car to the rear axle. This is a favoured design where the torque is biased to the front wheels to give car-like handling, or where the maker wishes to produce both four-wheel drive and front-wheel drive cars with many shared components.
+
+=== Research and development ===
+The automotive industry also uses drive shafts at testing plants.
+At an engine test stand, a drive shaft is used to transfer a certain speed or torque from the internal combustion engine to a dynamometer.
+A "shaft guard" is used at a shaft connection to protect against contact with the drive shaft and
+for detection of a shaft failure.
+At a transmission test stand a drive shaft connects the prime mover with the transmission.
+
+=== Symptoms of a bad drive shaft ===
+An automotive drive shaft can typically last about 120,000 km (75,000 miles). However, if a vehicle exhibits any of the signs below, it needs to be checked as soon as possible.
+
+Clicking or squeaking noise: Driver can hear a clicking, squeaking, or grinding noise coming from underneath the vehicle when driving.
+Clunking sounds: Driver can hear clunking noises when turning, accelerating or putting the vehicle into reverse.
+Vibration: An early and common symptom of a failing drive shaft is an intense vibration coming from underneath the vehicle. Worn-out couplings, u-joints or bearings may cause excessive drive-shaft vibration.
+Turning problems: Problems with turning the vehicle during slow and high-speed drives may be caused by a defective drive shaft.
+
+== Cardan shaft park brakes ==
+A cardan shaft park brake works on the drive shaft rather than the wheels. These brakes are commonly used on small trucks. This type of brake is prone to failure and has led to incidents where the truck has run away on a slope, leading to safety alerts being issued. Heavy vehicles that have this type of park brake usually have a ratchet handle similar to a car's hand brake or parking brake, as opposed to an air brake button or lever.
+Risk factors for drivers include parking on a steep slope when heavily loaded, not applying the brake with enough force, changing the load or load balance while parked on a slope, or parking where one side of the vehicle is able to slip. Using chocks on the wheels is one way of preventing the vehicle from moving on a slope.
+
+== Motorcycle drive shafts ==
+
+Drive shafts have been used on motorcycles since before WW1, such as the Belgian FN motorcycle from 1903 and the Stuart Turner Stellar motorcycle of 1912. As an alternative to chain and belt drives, drive shafts offer long-lived, clean, and relatively maintenance-free operation. A disadvantage of shaft drive on a motorcycle is that helical gearing, spiral bevel gearing or similar is needed to turn the power 90° from the shaft to the rear wheel, losing some power in the process.
+BMW has produced shaft drive motorcycles since 1923; and Moto Guzzi have built shaft-drive V-twins since the 1960s. The British company, Triumph and the major Japanese brands, Honda, Suzuki, Kawasaki and Yamaha, have produced shaft drive motorcycles.
+Lambretta motorscooters type A up to type LD are shaft-driven the NSU Prima scooter is also shaft-driven
+Motorcycle engines positioned such that the crankshaft is longitudinal and parallel to the frame are often used for shaft-driven motorcycles. This requires only one 90° turn in power transmission, rather than two. Bikes from Moto Guzzi and BMW, plus the Triumph Rocket III and Honda ST series all use this engine layout.
+Motorcycles with shaft drive are subject to shaft effect, where the chassis climbs when power is applied. This effect, which is the opposite of that exhibited by chain-drive motorcycles, is counteracted with systems such as BMW's Paralever, Moto Guzzi's CARC and Kawasaki's Tetra Lever.
+
+== Marine drive shafts ==
+
+On a power-driven ship, the drive shaft, or propeller shaft, usually connects the propeller outside the vessel to the driving machinery inside, passing through at least one shaft seal or stuffing box where it intersects the hull. The thrust, the axial force generated by the propeller, is transmitted to the vessel by the thrust block or thrust bearing, which, in all but the smallest of boats, is incorporated in the main engine or gearbox. Shafts can be made of stainless steel or composite materials depending on what type of ship will install them.
+The portion of the drive train which connects directly to the propeller is known as the tail shaft.
+
+== Locomotive drive shafts ==
+
+The Shay, Climax and Heisler locomotives, all introduced in the late 19th century, used quill drives to couple power from a centrally mounted multi-cylinder engine to each of the trucks supporting the engine. On each of these geared steam locomotives, one end of each drive shaft was coupled to the driven truck through a universal joint while the other end was powered by the crankshaft, transmission or another truck through a second universal joint. A quill drive also has the ability to slide lengthways, effectively varying its length. This is required to allow the bogies to rotate when passing a curve.
+Cardan shafts are used in some diesel locomotives (mainly diesel-hydraulics, such as British Rail Class 52) and some electric locomotives (e.g. British Rail Class 91). They are also widely used in diesel multiple units.
+
+== Drive shafts in bicycles ==
+
+The drive shaft has served as an alternative to a chain-drive in bicycles for the past century, never becoming very popular. A shaft-driven bicycle (or "Acatène", from an early maker) has several advantages and disadvantages:
+
+=== Advantages ===
+Drive system is less likely to become jammed.
+The rider cannot become dirtied from chain grease or injured by "chain bite" when clothing or a body part catches between an unguarded chain and a sprocket.
+Lower maintenance than a chain system when the drive shaft is enclosed in a tube.
+More consistent performance. Dynamic Bicycles claims that a drive shaft bicycle can deliver 94% efficiency, whereas a chain-driven bike can deliver anywhere from 75 to 97% efficiency based on condition.
+
+=== Disadvantages ===
+A drive shaft system weighs more than a chain system, usually 0.5–1 kg (1–2 lb) heavier.
+Many of the advantages claimed by drive shaft's proponents can be achieved on a chain-driven bicycle, such as covering the chain and sprockets.
+Use of lightweight derailleur gears with a high number of ratios is impossible, although hub gears can be used.
+Wheel removal can be complicated in some designs (as it is for some chain-driven bicycles with hub gears).
+
+== PTO drive shafts ==
+
+Drive shafts are one method of transferring power from an engine and PTO to vehicle-mounted accessory equipment, such as an air compressor. Drive shafts are used when there is not enough space beside the engine for the additional accessory; the shaft bridges the gap between the engine PTO and the accessory, allowing the accessory to be mounted elsewhere on the vehicle.
+
+== Drive shaft production ==
+Nowadays new possibilities exist for the production process of drive shafts. The filament winding production process is gaining popularity for the creation of composite drive shafts. Several companies in the automotive industry are looking to adopt this knowledge for their high volume production process.

@@ -1,0 +1,26 @@
+Caster angle
+
+The caster angle or castor angle is the angular displacement of the steering axis from the vertical axis of a steered wheel in a car, motorcycle, bicycle, other vehicle or a vessel, as seen from the side of the vehicle. The steering axis in a car with dual ball joint suspension is an imaginary line that runs through the center of the upper ball joint to the center of the lower ball joint, or through the center of the kingpin for vehicles having a kingpin. 
+Caster causes a wheel to align with the direction of travel, and can be accomplished either by caster displacement or caster angle.  Caster displacement moves the steering axis ahead of the axis of wheel rotation, as with the front wheels of a shopping cart.  Caster angle moves the steering axis from vertical.
+In automobile racing, the caster angle may be adjusted to optimize handling characteristics for a particular venue. This is all connected to the front wheels.
+
+== History ==
+Arthur Krebs proposed placing the front axle of a car at a positive caster angle in his UK patent of 1896, entitled Improvements in mechanically propelled vehicles. In it he stated it was intended "To ensure stability of direction by means of a special arrangement of fore-carriage, that is to say, to re-establish automatically the parallelism of the two axles of the vehicle when there is no tendency to keep them in any other direction, or after a temporary effort has caused them to diverge from said parallelism. [...] The axle of the fore-carriage is situated a suitable distance behind the projection of the axis of the pivot-pin in order to ensure the stability of direction above referred to."
+
+== Positive caster angle ==
+The steering axis is angled such that a line drawn through it intersects the road surface slightly ahead of the center of the contact patch of the tire on the pavement by a distance called trail. The purpose of this is to provide a degree of self-centering for the steering—the wheel casters around in order to trail behind the axis of steering. This makes a vehicle easier to control and improves its directional stability (reducing its tendency to wander). Excessive caster angle will make the steering heavier and less responsive, although in racing large caster angles are used for improving camber gain in cornering. Caster angles over 7 degrees with radial tires are common. Power steering is usually necessary to overcome the jacking effect from the high caster angle.
+Some front-end alignment calls for different right-side and left-side caster. This is called cross caster, and the difference is called the spread. Cross camber may also be specified, but not usually both.
+
+== Trail or trailing ==
+The steering axis (the red dotted line in the diagram above) does not have to pass through the center of the wheel, so the caster can be set independently of the trail, which is the distance between where the steering axis intersects the ground, in side view, and the point directly below the axle. 
+Caster angle and trail both influence the steering, albeit in different ways: caster tends to add damping, while trail adds "feel" and returnability. 
+The caster wheel on shopping carts are an extreme case –  the system is undamped but stable, as the wheel oscillates around the "correct" path. The construction has relatively high trail, but no caster, which allows changing of direction with minimal force. 
+In this case the lateral forces at the tire do not act at the center of the contact patch, but at a point behind the center. This distance is called the pneumatic trail and varies with speed, load, steer angle, surface, tire type, tire pressure and time. A good starting point for this is 30 mm behind the center of the contact patch.
+
+== Front-end alignment ==
+When the front suspension of a vehicle is aligned, caster is adjusted to achieve a self-centering action in the steering, which affects the vehicle's straight-line stability. Improper caster settings will require the driver to move the steering wheel both into and out of each turn, making it difficult to maintain a straight line.
+
+== Two-wheeled vehicles ==
+
+In the context of bicycles and motorcycles, caster is more commonly referred to as "head angle", "rake angle" or "rake and trail", especially in American English. The terms caster or castor angle are still predominantly used in British English.
+Some bicycle constructors refer to the angle subtended by the mechanical trail at the wheel center as caster.
