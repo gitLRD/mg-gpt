@@ -220,6 +220,8 @@
             z-index: 2;
         }
 
+        .log-opt { display: block; margin-top: 8px; font-size: 0.8rem; opacity: 0.7; cursor: pointer; }
+        .log-opt input { margin-right: 6px; }
         .input-label {
             font-size: 12px;
             font-variant: small-caps;
@@ -417,6 +419,10 @@
                 />
                 <button id="send" disabled>Send</button>
             </div>
+            <label class="log-opt">
+                <input type="checkbox" id="logq" checked />
+                log questions for training and eval
+            </label>
         </div>
     </div>
 
@@ -637,7 +643,7 @@
             startWarmup();
 
             try {
-                ws.send(JSON.stringify({ message: text }));
+                ws.send(JSON.stringify({ message: text, log: document.getElementById("logq").checked }));
             } catch (e) {
                 stopWarmup();
                 showError("Failed to send message");

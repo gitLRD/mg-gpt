@@ -436,6 +436,11 @@ def lambda_handler(event, context):
                 handle_set_persona(apigw, connection_id, persona)
 
             user_message = body.get("message", "")
+            if user_message and body.get("log") is True:
+                # Opt-in (ticked by default on the site): question text only, no connection id.
+                # Find them with: aws logs filter-log-events --filter-pattern QLOG
+                print("QLOG " + json.dumps({"t": int(time.time()), "q": user_message[:500]}))
+
             if user_message:
                 # Send fast "thinking" ack so client knows we received it,
                 # then fire-and-forget the slow generation work.

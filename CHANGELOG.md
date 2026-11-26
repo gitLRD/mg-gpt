@@ -10,6 +10,8 @@ journey.
 
 ## In progress
 
+- **"log questions for training and eval" tick box (ticked by default), NOT DEPLOYED (`frontend/index.html`, `lambda/handler.py`).** When ticked, the question text only (no connection id) is printed to CloudWatch as `QLOG {...}`. Why: the site kept no questions, so we couldn't see what real users ask. Deploy needed: new Lambda image + frontend upload.
+
 - **Topic evals built (`evals/`: topics, topic_report, questions, label_questions, release_gate; 30 tests).** Why: val loss and the judge never noticed a topic problem; these measure it directly. Gate thresholds committed (`a9e0993`) before any baseline existed.
 - **Balanced question set: 143 questions, 13-18 per topic (`data/eval/balanced_questions.jsonl`).** Held-out threads supply most; brakes (8 clean) and oil (7) were topped up with 19 hand-written questions (`source: written`). Labels come from Qwen once, then are saved (keyword labeller was ~77-83% right on spot-checks, Qwen 28/30).
 - **Live v7 baseline, 3 seeds (`eval_runs/bal_v7_*`).** Cooling words leak into 16.7% of replies to other topics and oil into 16.4% (oil is over its 15.7% cap). Fuel does NOT: 5.4%, versus the ~23% earlier figure. See LEARNINGS.
