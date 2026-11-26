@@ -277,4 +277,4 @@ Time budget from the spec: 82M pretrain ~12.7 h + fine-tune ~4 h; 124M pretrain 
 
 - Spec coverage: topic-spread + intrusion (T1), ~150 balanced set (T2), judge validation (T5), gate coded (T3), data arm (T7), three sizes at fixed budget with exact commands, save interval, pruning, LM Studio closed (T6, T9), docs (T10). 51M uses existing v7.
 - STOP points: 1 gate thresholds, 2 hand-scoring, 3 kappa threshold, 4 data-arm fine-tune, 5 82M pretrain, 6 124M run, 7 optional extra seeds.
-- The gate's check 1 follows the spec literally: intrusion rate vs 1.5x the topic's share among questions. With 9 balanced topics the share is ~11%, so the cap is ~17%; v7's ~23% fuel figure would fail it. That is likely the intent, but it is an interpretation.
+- The gate's check 1 follows the spec literally: intrusion rate vs 1.5x the topic's share among questions. With 9 balanced topics the share is ~11%, so the cap is ~17%; v7's ~23% fuel figure would fail it. **Confirmed by owner 2026-11-26: absolute cap** (not "no worse than previous live"), so v7 is expected to fail it.

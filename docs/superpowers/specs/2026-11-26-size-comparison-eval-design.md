@@ -136,7 +136,8 @@ manifests must carry the OGL line and the Wikipedia revisions.
 A model version ships only if, against the previous live version, on the balanced
 question set with 3 seeds:
 1. Off-topic intrusion rate for any single topic is no higher than 1.5x that topic's
-   share in the questions.
+   share in the questions. **Absolute cap, confirmed by owner 2026-11-26**: with ~9 topics
+   that is ~17%, so live v7 (~23% fuel) is expected to fail it.
 2. Judge mean >= previous live (within the measured seed noise counts as a tie, not a win).
 3. Empty-reply rate <= 5%; val loss no worse than +0.05.
 4. Judge agrees with hand scores well enough to be quoted (threshold set after the
