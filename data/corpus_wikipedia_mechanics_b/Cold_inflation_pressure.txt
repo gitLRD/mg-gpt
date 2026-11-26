@@ -1,0 +1,45 @@
+Cold inflation pressure
+
+Cold inflation pressure is the inflation pressure of a tire as measured before a car is driven and the tires warmed up. Recommended cold inflation pressure is displayed in the owner's manual and on the Tire Information Placard attached to the vehicle door edge, pillar, glovebox door or fuel filler flap. 
+Cold inflation pressure is a gauge pressure and not an absolute pressure. 
+Tire pressure is commonly measured in psi in the imperial and US customary systems, in the metric unit bar, or in kilopascals (kPa), an SI unit. 
+Under-inflated tires reduce fuel economy, decrease performance, cause increased wear on the edges of the tread surface, and can lead to overheating and premature failure of the tire. 
+Over-inflated tires on the other hand may lead to discomfort, decreased performance, and increased wear on the center part of the tread surface. 
+A 2001 NHTSA study found that 40% of passenger cars have at least one tire under-inflated by 0.4 bar (6 psi) or more. The number one cause of tire failure was determined to be under-inflation. Drivers are encouraged to make sure their tires are adequately inflated at all times.
+
+== Calculating Cold Inflation Pressure ==
+Changing tire size (diameter, width, aspect ratio or load index) or vehicle load requires calculation of a new cold inflation pressure. Four possible calculation methods are shown below.  
+These calculations return the optimal tire pressure for a single tire; however, as most vehicles have more than one tire, adjustments may be required to optimize handling. For example, one could raise the tire pressure in the rear of the vehicle to correct for understeer, or raise the tire pressure in the front of the vehicle to correct for oversteer. In any case, tire pressures should remain above the calculated cold inflation pressure and below the sidewall max cold inflation pressure.   
+As the methods shown below are all rather involved, a tire pressure calculator may be used instead.  
+
+=== 1. Tables Lookup ===
+This is the simplest method, but the tables sometimes include compounded rounding errors.  
+Values may be looked up in the tables provided by the European Tyre and Rim Technical Organisation (ETRTO), or by the Tire and Rim Association, Inc. (TRA), or by the Japan Automobile Tyre Manufacturers' Association, Inc. (JATMA).  
+
+=== 2. Simple Ratio Calculation ===
+This is a medium complexity method but may sometimes yield an inflation pressure slightly higher than required.  
+Pressure = Load x (Max Pressure / Max Load) 
+where Load is the weight on the tire plus a margin of 10%; Max Load is the maximum load indicated on the tire sidewall; and Max Pressure is the pressure used to determine the maximum load.  
+Note that Max Pressure is the maximum pressure listed in the relevant tables for the maximum load for that particular tire, and is not necessarily equal to the maximum pressure listed on the tire sidewall.  
+
+=== 3. Power Rule Calculation ===
+This is a medium complexity method but may sometimes yield an inflation pressure slightly lower than required.  
+Pressure = Load x (Max Pressure / Max Load) ˆ(1/n)  
+where Load is the weight on the tire plus a margin of 10%; Max Load is the maximum load indicated on the tire sidewall; and MaxPressure is the pressure used to determine the maximum load. For passenger car tires standardized after January 1, 2006, the value of n is 0.8 for tires with Load Index (LI) less than 100, and 0.65 for tires with LI greater than 100.  
+
+=== 4. Stiffness Model Calculation ===
+This is a complex method but it gives the most accurate results. 
+Pressure = (((Load / Max Load) x ((Max Pressure x F) + 3.45)) - 3.45) / F
+where Load is the weight on the tire plus a margin of 10%, and where
+F = 0.00028 x sqrt((1.03 - 0.004 x AR) x SN x ((SN x AR / 50) + DR))
+where AR is the aspect ratio expressed as a decimal, SN is the section width in mm, and DR is the rim diameter in mm. 
+
+== Variation of tire pressure with temperature ==
+
+Daily temperature fluctuations can result in appreciable changes in tire pressure. Cold inflation pressure should therefore be measured in the morning, as this is usually the coldest time of day. This will ensure a tire meets or exceeds the required inflation pressure throughout the day. 
+Seasonal temperature fluctuations can also result in appreciable changes in tire pressure, and a tire that is properly inflated in the summer is likely to become underinflated in the winter. Because of this, it is important to check tire pressures whenever the local seasons change.
+
+== Variation of tire pressure with altitude ==
+Atmospheric pressure will decrease around 0.5 psi for every 1000 feet above sea level (0.11 bar/km). As a vehicle descends from a high altitude location, the absolute pressure inside the tire remains the same, but the atmospheric pressure increases; therefore the gauge pressure will decrease. 
+Take for example a vehicle which had its cold inflation tire pressure set near Denver (altitude 5,300 feet or 1,600 metres), and is descending towards Los Angeles (altitude 300 feet or 90 metres). The tires could become underinflated by as much as 2.5 psi (0.2 bar).
+Cold inflation pressure should therefore be readjusted after any significant changes in altitude.

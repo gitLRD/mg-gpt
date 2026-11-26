@@ -1,0 +1,169 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 30
+
+SUSPENSION SYSTEMS IN WHEELED
+
+30-1. Purpose. The suspension system’s main purpose is to support the weight of the vehicle. Military vehicles, which are often very heavy and must be able to cross all types of terrain, depend heavily on their suspension systems. In wheeled vehicles, the suspension must not only be effective over a wide range of speed and land conditions, but also must allow for steering geometry and changes in terrain. In tracked vehicles, such as a tank, the suspension system must support the vehicle so that the immense weight will not sink down, even in soft ground. The suspension system also must absorb
+
+bumps and jolts.
+
+30-2. Spring Configurations.
+
+a. Leaf Springs. Leaf springs usually are semielliptical in shape and are made of high quality alloy steel. There are two types of leaf springs. The single leaf spring, or monoleaf (A, fig. 30-1), is a single layer spring that is thick in the center and tapers down at each end.
+
+Single leaf springs generally are used on lighter suspension systems that do not have to carry great loads. A multileaf spring (B, fig. 30-1) is made up of a single leaf with additional leaves attached to it using spring clamps. The additional leaves make the spring stiffer, allowing it to carry greater loads. As a multileaf spring operates, there is a friction generated between the leaves, causing it to have a dampening quality. These types of springs may not require the use of a shock absorber in some applications. The multileaf spring uses a frictional material laminated between the leaves to reduce wear and eliminate any squeaks that might develop. To keep the leaves equally spaced lengthwise, the multileaf spring uses a center bolt. The center bolt rigidly holds the leaves together in the middle of the spring, pre- venting the leaves from moving off center. Leaf springs are attached to the vehicle using a bracket usually mounted rigidly to the frame in the front, and a shackle in the rear, which allows the spring to expand and contract without binding as it moves through its arc.
+
+b. Coil Springs. These springs usually are made of round spring steel wound into a coil (fig. 30-2). Because of their simplicity, they are less costly to manufacture and also have the widest application. Spring stiffness is changed on coil springs by toughening them. Coil springs, like torsion bars and volute (or spiral-shaped)
+
+springs, are frictionless and require the use of a shock absorber to dampen vibrations. Their cylindrical shape requires less space to operate in. Pads sometimes are used between the spring and chassis to eliminate transferring vibrations to the body. Coil springs are not able to absorb any torque when employed in the suspension system. Therefore, control arms and stabilizers are required to maintain the proper geometry between the body and suspension system (fig. 30-2).
+
+c. Torsion Bars. The torsion bar consists of a steel rod usually made of spring steel. It is treated with heat or pressure to make it elastic, so it will retain its original shape after being twisted. Torsion bars, like coil springs, are frictionless and require the use of shock absorbers. The torsion bar is serrated on each end and is attached to the torsion bar anchor at one end and to the suspension system at the other (fig. 30-3). Torsion bars are marked to indicate proper installation by an arrow stamped into the metal. It is essential that they be installed properly because they are designed to take stress in one direction only. The elasticity of the rod is utilized and as long as the elastic limit is not exceeded, the torque resistance will return the suspension to its normal position in the same manner as a spring arrangement.
+
+Section II. SOLID AXLE SUSPENSION SYSTEMS
+
+30-3. Purpose. The axle of the suspension is a cross support on which the wheels turn. Axles that provide only support for the vehicle weight are called dead axles. Those that also incorporate means for driving the wheel are called live axles. The term live axle applies to the entire axle assembly, which consists of the housing that contains the drive gears, differential, and power transmitting shafts. Until recently, wheeled mili- tary vehicles have employed the solid axle suspension, both front and rear, almost exclusively. This is because of the basic ruggedness, low manufacturing cost, and wide use on heavy commercial vehicles of the solid axle suspension.
+
+30-4. Live Axle Suspension.
+
+a. The Hotchkiss drive is the conventional front and rear live axle suspension that once was used exclusively in American military vehicles. In this drive, a propeller
+
+shaft (drive shaft) is employed with two universal joints and a slip joint, as shown in figure 30-4. The torque reaction, drive thrust, and alinement of the axle housings are resisted by the suspension springs.
+
+The suspension springs are pivoted on brackets at their forward ends and shackled to the frame at their rear ends. The rear spring brackets are the point of application of the driving thrust to the frame. Because the suspension springs must resist the torque reaction of the drive, stiffer springs are required than are used with some of the other live axle suspensions. In addition, because the springs must transmit the driving thrust, they must be fairly flat. Because of these torque and force transmission requirements, the Hotchkiss drive has been criticized as providing
+
+poor riding qualities, thereby limiting vehicle mobility. However, this drive system is in extensive use because of simplicity, low cost, and ruggedness.
+
+An advantage of the Hotchkiss drive is that the flexible connection between axle and frame throws less strain on the driving mechanism than do other types. When sudden loads are applied, as in suddenly engaging the clutch, the axle housing can rock around the drive shaft slightly, which cushions the shock transmitted through the driving mechanism and reduces the load between the teeth of the final driving mechanism.
+
+b. The torque tube drive, while not common on heavy military vehicles, is used on a limited number of passenger and light commercial vehicles. In this type of drive, the propeller shaft (drive shaft) is housed in a steel tube called the torque tube (fig. 30-5). The rear end of the torque tube is bolted rigidly to the rear axle housing by means of a flange. Its front end is connected to the transmission or a frame crossmember by means of a ball-and-socket joint. One universal Joint is used in the propeller shaft and is located at the ball-and-socket Joint of the torque tube. A slip Joint is placed in the propeller shaft to take up end play arising when the driven axle moves up and down. A center bearing generally is used to support the drive shaft in the torque tube.
+
+Two suspension system radius rods are used to connect the outboard ends of the axle housing with the transmission end of the torque tube. This will keep the axle housing alined at right angles to the torque tube.
+
+The suspension springs are shackled at both ends. In a torque tube drive, both the torque reaction and the driving thrust are resisted by the torque tube. Because the suspension springs do not resist the torque reaction and drive thrust, they can be made more flexible and give better riding qualities than a Hotchkiss drive.
+
+In a torque tube drive, the driving thrust is applied to the frame at the engine mounting or at a frame crossmember. In a torque rod or Hotchkiss drive, the force is applied at the suspension springs. The torque tube drive seldom is used in contemporary designs.
+
+c. The torque arm drive rarely is used. It consists of a solid or tubular arm, rigidly connected to the driving axle housing at its rear end and to a frame crossmem- ber, through a ball-and-socket Joint or spring bracket, at its front end (fig. 30-6). An open propeller shaft is used on a torque arm drive. The torque arm drive is similar to the torque tube drive. The main difference is that it uses an open propeller shaft running parallel to the torque arm, instead of a drive shaft housed within a torque tube.
+
+d. Coil Spring and Control Rod Drive. This type of live axle suspension commonly is used in modern vehicles. In this configuration (fig. 30-7), the coil springs are placed between the axle housing and the frame. Their sole purpose is to support the weight of the vehicle. All torque reaction due to accelerating and braking and all
+
+driving thrust is absorbed and transmitted through control rods. The control rods, four in all, also are used to maintain the rear axle housing alinement to the frame. Two of the rods are mounted below the centerline of the axle, toward the outside of the rear axle housing and attached to the frame with bushings in the front. The remaining two are mounted inboard, above the centerline of the axle. As the vehicle accelerates, the axle housing will try to wind up, the upper control arms will be under tension, and the lower arms will be in compression, delivering the driving force to the frame. Under braking conditions, the opposite happens; the upper control arms are in compression and the lower arms are in tension, holding the body back.
+
+e. Dead Front Axle. The dead front axle (fig. 30-8) supports the vehicle weight and resists the torsional
+
+stresses that occur during braking. To resist these stresses, as well as those resulting from impacts experienced during travel, and still maintain reasonable wheel alinement and directional stability, the dead front axle usually is attached to the frame by means of rather stiff semielliptic leaf springs. These springs produce a harsh ride and limit the vehicle speed over irregular terrain. Softer springs may be employed, in which case the axle guidance and torque resistance must be taken by separate linkages or other mechanisms.
+
+To permit steering, the dead front axles are equipped with pivoting wheel spindles. The axles are usually i- sections of drop-forged alloy steel. The unsprung mass may be reduced, and the torque-resistance properties improved, by using more expensive tubular axles of molybdenum steel.
+
+Section III. INDEPENDENT AXLE SUSPENSION SYSTEMS
+
+30-5. Purpose. The term independent suspension is applied to a method of vehicle suspension in which each wheel supports its share of the vehicle load without the intermediary axle. Each wheel is free to oscillate independently of the other wheels. Either the front or rear wheels, or both, may be suspended independently. They may be driven or freewheeling. No one type of spring is used for independent suspensions. Leaf, coil torsion bar, torsi-elastic, and pneumatic springs have been used. A variety of mechanisms have been devised in implementing the independent suspension.
+
+30-6. Freewheeling Independent Suspensions. A typical independent front suspension for a light vehicle is shown in figure 30-9. In this design, each wheel is held in alinement by a pair of stiff control arms, commonly called parallel wish-bones. The vehicle weight is transferred from the frame to the rigidly attached crossmember, through the coil spring, to the lower wishbone. It may be noted that the control arms are of unequal lengths. The vehicle designer may achieve certain desirable suspension and cornering characteristics by selecting the control arm lengths
+
+carefully.
+
+30-7. Driven Independent Suspensions. The engine power is transmitted from the gearcase, which is attached to the vehicle frame rigidly, through half shafts, to each wheel. The geometry of the guiding linkage dictates the use of two universal joints. Because the gearbox is fastened to the frame rigidly, the driving torque reactions are taken through the frame and do not affect the suspension spring.
+
+This design is similar to that of figure 30-11, except that torsion bar springs are used in place of coil springs.
+
+An independent rear suspension employing coil springs is shown in figure 30-12. In this design, the alinement of each wheel is maintained by a
+
+swinging-arm type of linkage. The arm consists of a rigid wishbone whose pivot axis is not necessarily parallel to the longitudinal axis of the vehicle. The wheel spindle is attached rigidly to the arm, which results in a tilting of the plane of the wheel, both longitudinally and vertically,
+
+when the suspension is displaced. The location of the swinging-arm pivot axis causes the rear wheels to produce a steering effort that improves the cornering characteristics of the vehicle. Two
+
+universal joints are necessary in the power shafts of this design, because the swinging-arm pivot axis is out of line with the power shaft. The pivot axis, however, does pass through the inboard universal joint to minimize the relative sliding motion of the splined coupling.
+
+30-8. MacPherson Struts. The MacPherson suspension system uses a tubular strut, which houses the shock absorber mechanism and links the wheel and body together (fig. 30-13). The strut usually is surrounded by a coil spring attached to the top of the strut, which is mounted to the body. The lower half of the spring is mounted by a flange that is attached to the bottom half of the strut, which is mounted to the spindle or control arm. There are also other types of configurations in which the spring is mounted next to the strut; this type makes replacement of the strut relatively easy.
+
+30-9. Comparison. The development of the independent suspensions came about mostly to reduce the unsprung mass, thereby improving the handling and traction of high-speed road cars. However, the demand for greater speed and mobility for military vehicles warrants the use of independent suspension on such vehicles. In addition to the improved performance associated with reduced unsprung mass, the use of independent suspensions increases the speed and mobility of the military vehicle by reducing front end vibration (wheel shimmy and axle tramp), permitting the use of softer suspension springs, providing more ground clearance, and permitting more optimum wheel spacing.
+
+The disadvantages of independent suspensions for military vehicles are primarily those of cost and
+
+maintenance. The separate rigid members used to maintain wheel alinement require more careful design, expensive machining, and costlier bearings than the simple solid axle, leaf-spring suspension. The pivot bearings must be lubricated properly so that excessive clearances will not cause vibrations and disturbances in the steering and suspension systems. The independent suspension is not as rugged as the solid axle type, although continuing development of the independent suspension for military vehicles may minimize these disadvantages.
+
+Section IV. HEAVY VEHICLE SUSPENSION
+
+30-10. Springs. Several configurations of spring suspension have been used for vehicles that carry widely varying loads, to provide the necessary variable load rate.
+
+a. Auxiliary springs, often called secondary springs (fig. 30-14), commonly are used in addition to the mainspring to accomplish this purpose. When the load on the spring reaches a certain amount, the deflection of the mainspring brings the free ends of the secondary spring against bearing plates on the frame, or on the axle
+
+if the secondary spring is secured to the frame. From that point on, the two springs carry the load jointly and their load ratings are added. This allows the vehicle to carry heavy loads without deflecting the mainsprings.
+
+b. Another method of suspension that also provides a spring with variable load rating is shown in figure 30- 15. The spring is made with flat ends that bear against curved bearing plates.
+
+With a light load, the springs make contact with the outer edges of the bearing plates; hence, the effective length of the spring is comparatively large and has a low load rating. Heavy loads deflect the spring, causing the points of contact to move toward the inner edges of the bearing plates. The effective length of the spring then becomes shorter, giving a higher load rating.
+
+30-11. Axles. Two rear axles are used on numerous heavy vehicles to decrease the load on each rear wheel, decrease the effect of road shocks, and increase traction. A typical rear end on six-wheel vehicles consists of an axle mounted on each end of the rear springs. The load of the vehicle is applied at the center of the spring by means of a spring seat supported on the frame. The drive is applied to the foremost of the two axles, with the rear axle trailing, or it is applied to both axles by means of an interaxle differential, which ensures equal driving effort on both axles. The rear springs carry the same load they do with a single rear axle, but the load is distributed over two axles instead of one.
+
+30-12. Bogie Axles. A large proportion of six-wheel vehicles have bogie axles. A bogie is a suspension unit, such as shown in figures 30-15 and 30-16, consisting of
+
+two axles joined by a single cross support (trunnion axle) that acts as a pivot for the entire unit. The tubular trunnion axle is attached rigidly to the frame through the mounting pads by two support brackets and the girder crossmember. The ends of each spring rest on hardened steel bearing plates on the two axle housings, the spring being supported on the vehicle frame by means of a spring seat on each end of the trunnion axle. Both springs are clamped on their spring seats by means of spring clips.
+
+Both spring seats are mounted on a spindle on each end of the trunnion axle. Tapered roller bearings take side thrust imposed on the spring and allow it to pivot easily. Springs with very high load ratings must be used with this suspension because they carry the entire weight of the rear end. Mounting the springs on central pivots enables them to distribute half of the rear end load to each axle. As a result, the load on the rear of the vehicle is distributed over four wheels, allowing a vehicle to carry much heavier loads than a single rear axle vehicle without exceeding the safe tire load. When one wheel is deflected from a road shock, the spring pivots about its center so that both ends of the spring deflect to absorb the
+
+energy of the road shock, rather than just one end. Thus, the effect of road shocks is cut in half. When only one axle is deflected up or down from its normal loaded position, the trunnion axle and the vehicle frame are
+
+raised or lowered half this amount. In this manner, bogie axles reduce by half the impact or shock not only to the vehicle, but also to the road.
+
+Section V. AIR-OVER-HYDRAULIC SUSPENSION
+
+30-13. Purpose. The air-over-hydraulic suspension system is designed to keep the body level under different loading conditions. When the vehicle weight is increased, either by adding cargo or passengers, the body will become lower to the ground. The leveling system then will sense a low condition and allow pressure to increase in the special shock absorbers, raising the body with respect to the ground. When the weight is removed, the system will allow air pressure to bleed from the air shock absorbers, restoring the vehicle to its normal riding height.
+
+30-14. Components of Air-Over-Hydraulic Suspension.
+
+a. Air Compressor. The air compressor (fig. 30- 17) is commonly a vacuum-operated two-stage unit requiring no lubrication. The sliding distributor valve directs intake manifold vacuum alternately to the right or left side of the diaphragm, moving it from side to side. When the diaphragm, which is connected to a double piston, moves to the right, it allows air to enter the first stage chamber. At the end of the stroke, the check valve on that chamber closes, and the distributor valve diverts the vacuum to the opposite side of the diaphragm. As the piston then moves to the left, the air in the first stage moves through the air passage in the center of the piston to the second stage chamber. At the end of that stroke, the check valve on the air passage closes and, as the piston moves to the right again, the check valve on the second stage cylinder opens, allowing the compressed air to enter the air reservoir tank. As pressure in the reservoir tank builds up to a predetermined amount, it puts an equal force on the second stage piston and the pumping action stops.
+
+b. Pressure Regulator Valve. This component (fig. 30-18) regulates the air pressure to the height control valve to a predetermined amount, regardless of the pressure in the reservoir. The valve is nonadjustable and must be replaced if proper pressure is not maintained.
+
+c. Height Control Valve. This valve (fig. 30-19) is attached to the frame of the vehicle, and linkage is used to attach the valve to the suspension system. When the frame moves downward because of additional weight,
+
+the intake valve is opened by the linkage, allowing pressure to increase in the shock absorber. This, in turn, raises the vehicle to its normal position. As soon as the vehicle is level, the intake valve closes and a steady pressure is maintained in the shocks. When weight is removed from the vehicle, the linkage opens the exhaust valve and pressure is released in the shocks, restoring the vehicle to a normal riding position. The linkage also is dampened through the use of a fluid to prevent the control valve from reacting to bumps and changes in road conditions.
+
+1. VACUUM LINE 8. AIR PASSAGE 2. DIAPHRAGM 9. SECOND-STAGE CYLINDER 3. PISTON 10. CHECK VALVE 4. CHECK VALVE 11. SECOND-STAGE HOUSING 5. FIRST-STAGE HOUSING 12. AIR RESERVOIR TANK 6. CHECK VALVE 13. SLIDING DISTRIBUTOR 7. SECOND-STAGE END VALVE OF PISTON 14. ARM
+
+30-15. Air Shock Absorbers. Air shock absorbers (fig. 30-20) are conventional hydraulic shock absorbers with an additional air chamber added to establish load- carrying capabilities. The air inlet to the shock absorber is connected to the air output of the height control valve. The air shock absorber uses a rubber boot to form the air chamber between the dust boot and reservoir tube. When the pressure is increased in the air chamber, it makes the shock absorber extend. When air is released, the shock is allowed to contract. The shock absorbers are connected by a crossover air line to keep the pressure in each the same. A small amount of pressure is maintained in the system to minimize boot friction. Figure 30-20. Air Shock Absorber.
+
+Section VI. SHOCK ABSORBERS
+
+30-16. Purpose. The primary function of the shock absorber is to regulate the suspension spring rebound so that the primary vibrations are damped out, thereby permitting greater vehicle speeds and mobility. These benefits are achieved by virtue of reduced bouncing and pitching of the body or hull and reduced variations of the traction with the terrain. Additional benefits derived from the use of shock absorbers are: improved ride quality, reduction of wheel dance, prevention of excessive sidesway, reduction of wheel shimmy, and general improvement of the desirable vehicle traveling qualities, collectively termed roadability.
+
+30-17. Classification of Shock Absorbers.
+
+a. Single Acting. Shock absorbers are of two general classes: single acting and double acting. Those that check only spring rebound are termed single acting. They are so designed, or attached to the suspension system in such a manner, that the damping force is not generated during spring deflection. Their main disadvantage is that they provide damping only part of the time, imposing the requirement of stiffer springs in the system. Also, a slight preload on the suspension spring is experienced due to the shock absorber return spring. This has a tendency to stiffen the suspension spring out of proportion for mild terrain irregularities.
+
+b. Double Acting. Those shock absorbers that provide damping during spring deflection as well as during rebound are termed double acting. They permit the use of softer suspension springs and allow optimum damping in both directions. In most cases, the damping force developed by the double-acting shock absorber during spring compression is much lower than is developed during rebound. This is desirable because a high damping force during spring compression would have the same effect on impact isolation as would a very stiff spring; that is, it would transmit the shock to the vehicle body, causing it to displace vertically. It is desirable not to interfere with the impact-isolating properties of the spring during its compression stroke, because there is no upper limit to the amount of acceleration that the vehicle body can experience when the ground-contacting elements pass over a vertical obstacle at high speed. For this reason, the larger damping force is exerted during rebound; that is, when
+
+the spring is being extended from the position to which it was compressed by the vertical impact.
+
+There is some disadvantage in this arrangement when the moving vehicle hits a hole. The spring extends so that the ground-contacting elements can maintain good contact with the ground. The high damping force exerted by the shock absorber interferes with this action, resulting in a downward acceleration of the vehicle body. This is an acceptable condition, because the downward acceleration of the sprung mass cannot exceed the acceleration of gravity because no other downward force is acting on the sprung mass.
+
+30-18. Types of Shock Absorbers.
+
+a. Single Acting, Cam Operated. A typical single- acting, cam-operated shock absorber is shown in figure 30-21. When the sprung and unsprung masses of the suspension system move toward each other, the shock absorber arm rotates counterclockwise, moving the cam to the right, thereby permitting the piston spring to move the piston to the right. This causes the intake valve in the piston to open, allowing oil to flow from the reservoir into the increasing cylinder volume. Because the piston motion and oil flow are caused by the piston spring, the shock absorber has little effect upon the spring action of the vehicle. During rebound, the cam moves to the left, forcing the piston to the left against the oil in the cylinder. The intake valve closes, and the oil in the cylinder is forced out through the relief valve. The restricted passage of the oil through the relief valve orifice is the primary factor in generating the damping force during rebound.
+
+b. Vane Type. The housing of the vane-type shock absorber, shown in figure 30-22, is divided into two working chambers by stationary partitions, each of which contains a check valve. The central shaft is connected to the unsprung mass through the arm and link, and has a pair of vanes attached to it that extend into each working chamber. As the suspension spring is compressed, the central shaft rotates, and the vanes develop a pressure in the chamber that causes oil to flow unrestricted through the opened check
+
+valves in the stationary partitions. On the rebound stroke, the vanes develop a pressure on the opposite side, closing the check valves. Because oil cannot flow through tire check valves, it is forced through the needle valve in the center of the shaft, thereby producing a resistance to motion of the arm. The vane-type shock absorber is not used widely, primarily because of the high cost and poor reliability resulting from the difficulty in sealing this type.
+
+c. Direct Acting. The direct-acting shock absorber (fig. 30-23) consists of an inner cylinder filled with a special shock absorber oil, divided into an upper and lower chamber by a double-acting piston. The shock absorber is mounted by studs and rubber bushings inserted through the eye on each end so that it is acted directly upon by spring action. The piston push rod, therefore, is forced up and down within the inner cylinder. A reservoir that contains an ample supply of oil surrounds the inner cylinder and is joined to it by a reservoir check valve. When the vehicle spring is compressed, the piston is forced down, and some of the oil below the piston is forced through compression valves (only one is illustrated in figure 30-23) inside the piston to the upper chamber. These valves operate only on the downstroke. Because the push rod moves into the cylinder on the downstroke, some of the oil in the lower chamber is forced through the check valve at the bottom of the cylinder into the reservoir.
+
+When the vehicle spring rebounds, the piston is moved up, and oil from the upper chamber is forced into the lower chamber through spring-loaded rebound valves inside the piston. These valves control the rebound of the vehicle spring.
+
+As the piston moves out of the cylinder, oil is drawn into the lower chamber from the reservoir through the reservoir check valve. An outer metal cover protects the shock absorber from damage by stones that may be kicked up by the wheels. Rubber bushings are fitted on
+
+both sides of the eye to prevent metal-to-metal contact with the mounting stud or bolt. Direct-acting shock absorbers require no care and attention and are not repairable.
+
+Section VII. AUXILIARY UNITS
+
+30.19. Torque Arms. When power and brake effort are applied, there is a tendency for the entire axle and spring assembly to rotate. To prevent this, strengthening arms are added to the axles. These are known as torque arms, torque rods, and torque tubes. The function of these three is the same, the major difference being that the torque tubes connect with the power train, whereas the other two connect with the frame of the vehicle. Parallel torque arms (fig. 30-6), used between axles in bogie suspensions, ensure correct spacing and alinement of the axles, prevent transfer of weight from
+
+one axle to the other (or the tendency of one axle to dig in more than the other), and help to avoid uneven tire wear and Jumping axle when brakes are applied.
+
+30-20. Swaybars. A vehicle tends to roll outward when turning, particularly at high speeds. To prevent this roll, swaybars or stabilizers (fig. 30-9) are used. The swaybar consists of a bar of alloy steel mounted across the chassis and secured to the frame through rubber bushings with arms on each end connected to the axle or
+
+independent suspension arms. When one side of the vehicle rises faster than the other, the twist set up on the swaybar reacts on the axle or independent suspension arms, tending to keep the frame level. If both sides rise equally, no twist is set up in the swaybar.
+
+30-21. Pusher Axle. The pusher axle (fig. 30-24) is a nondriving axle. It is used in Conjunction with the standard suspension to increase the load-bearing capabilities of larger vehicles. The axle is raised and lowered by the operator using controls located inside the cab.
+
+It is operated by varying air pressure in air suspension bags, mounted between the axle and the frame. The air bags serve to lower the pusher axle, force the axle against the road, and distribute loads evenly between wheels. Because of a lack of inherent dampening capa- bilities, shock absorbers also are used with the pusher axle. The shock absorbers stabilize fluctuations in the air bags caused by road surface characteristics. Air cylinders are used to raise the axle, and chains are used to secure the axle in a stowed position when not in use.

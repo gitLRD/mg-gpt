@@ -1,0 +1,19 @@
+Main bearing
+
+A main bearing is a bearing in a piston engine which holds the crankshaft in place and allows it to rotate within the engine block.
+The number of main bearings per engine varies between engines, often in accordance with the forces produced by the operation of the engine. Main bearings are usually plain bearings or journal bearings, held in place by the engine block and bearing caps.
+
+== Number of main bearings ==
+The number of main bearings is primarily determined by the overall load factor and maximum engine speed. Increasing the number of bearings in an engine will generally increase the size and cost of the engine, but also reduces bending stress and deflection caused by the distance from the crank pins to the nearest bearings. 
+Most engines have at least two main bearings— one at each end of the crankshaft. Additional bearings may be located along the crankshaft, sometimes as many as one bearing per crank pin, as used on many modern diesel engines and petrol engines designed for high RPM.
+Some small single-cylinder engines have only one main bearing, in which case it must withstand the bending moment created by the offset distance from the connecting rod to the main bearing.
+When describing a crankshaft design, the number of main bearings is generally quoted, as the number of crank pins is determined by the cylinder layout. For example, the Toyota VZ V6 engine is described as having a "four bearing crankshaft" and the Jaguar XK6 straight-six engine has a "seven bearing crankshaft".
+
+== Bearing caps ==
+The lower half of the main bearings are typically held in place by 'bearing caps' which are secured to the engine block using bolts. The basic arrangement is for each bearing cap to have two bolts, but some engines may have four or six bolts per bearing cap (often referred to as "four-bolt mains" or "six-bolt mains" engines). The additional bolts result in increased strength, allowing the engine to withstand higher power output or RPM.
+
+=== 4 bolt main ===
+The first car engine to use four-bolt main bearings was the V12 Maybach Zeppelin of 1928, that used them on three of its eight main bearings.
+
+=== 6 bolt main ===
+The typical design for a six-bolt main bearing is four vertical bolts (two on each side of the crankshaft) from the bottom extending into the block and two lateral cross-bolts coming from the left and right side pan rails into the side of the main caps to provide additional lateral strength.

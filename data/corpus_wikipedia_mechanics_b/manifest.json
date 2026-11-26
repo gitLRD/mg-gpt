@@ -1,0 +1,1153 @@
+{
+ "source": "en.wikipedia.org",
+ "licence": "CC BY-SA 4.0 (text)",
+ "retrieved": "2026-11-26",
+ "pages": [
+  {
+   "title": "Ackermann steering geometry",
+   "file": "Ackermann_steering_geometry.txt",
+   "chars": 3641,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Ackermann_steering_geometry",
+   "revid": 1387689499,
+   "timestamp": "2026-11-25T03:24:28Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Air filter",
+   "file": "Air_filter.txt",
+   "chars": 14637,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Air_filter",
+   "revid": 1387331653,
+   "timestamp": "2026-11-23T13:03:22Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Antifreeze",
+   "file": "Antifreeze.txt",
+   "chars": 18785,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Antifreeze",
+   "revid": 1387362623,
+   "timestamp": "2026-11-23T16:40:47Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Automobile repair shop",
+   "file": "Automobile_repair_shop.txt",
+   "chars": 6164,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/Automobile_repair_shop",
+   "revid": 1372822066,
+   "timestamp": "2026-09-02T12:58:27Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Axle",
+   "file": "Axle.txt",
+   "chars": 11488,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Axle",
+   "revid": 1380144896,
+   "timestamp": "2026-10-14T01:41:32Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "BMC A-series engine",
+   "file": "BMC_A_series_engine.txt",
+   "chars": 15037,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/BMC_A-series_engine",
+   "revid": 1380658747,
+   "timestamp": "2026-10-17T02:58:18Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "BMC B-series engine",
+   "file": "BMC_B_series_engine.txt",
+   "chars": 13451,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/BMC_B-series_engine",
+   "revid": 1384694493,
+   "timestamp": "2026-11-09T17:01:46Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Bendix drive",
+   "file": "Bendix_drive.txt",
+   "chars": 2566,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Bendix_drive",
+   "revid": 1210807868,
+   "timestamp": "2024-02-28T12:22:45Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Car controls",
+   "file": "Car_controls.txt",
+   "chars": 13920,
+   "topic": "brakes",
+   "url": "https://en.wikipedia.org/wiki/Car_controls",
+   "revid": 1386589712,
+   "timestamp": "2026-11-19T09:25:37Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Brake shoe",
+   "file": "Brake_shoe.txt",
+   "chars": 1647,
+   "topic": "brakes",
+   "url": "https://en.wikipedia.org/wiki/Brake_shoe",
+   "revid": 1373824913,
+   "timestamp": "2026-09-08T04:02:10Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "British Leyland",
+   "file": "British_Leyland.txt",
+   "chars": 50576,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/British_Leyland",
+   "revid": 1383412634,
+   "timestamp": "2026-11-02T15:24:42Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "British Motor Corporation",
+   "file": "British_Motor_Corporation.txt",
+   "chars": 14335,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/British_Motor_Corporation",
+   "revid": 1379045705,
+   "timestamp": "2026-10-07T16:02:07Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Bulb",
+   "file": "Bulb.txt",
+   "chars": 3580,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Bulb",
+   "revid": 1384210224,
+   "timestamp": "2026-11-07T04:14:18Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Bump steer",
+   "file": "Bump_steer.txt",
+   "chars": 6382,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Bump_steer",
+   "revid": 1368870929,
+   "timestamp": "2026-08-11T15:12:32Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Service (motor vehicle)",
+   "file": "Service_motor_vehicle.txt",
+   "chars": 3359,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/Service_(motor_vehicle)",
+   "revid": 1310397069,
+   "timestamp": "2025-09-09T10:08:11Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Carburetor icing",
+   "file": "Carburetor_icing.txt",
+   "chars": 2437,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Carburetor_icing",
+   "revid": 1376339952,
+   "timestamp": "2026-09-23T15:19:20Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Coachbuilder",
+   "file": "Coachbuilder.txt",
+   "chars": 9639,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Coachbuilder",
+   "revid": 1374729270,
+   "timestamp": "2026-09-13T20:10:46Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Coilover",
+   "file": "Coilover.txt",
+   "chars": 5948,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Coilover",
+   "revid": 1377158400,
+   "timestamp": "2026-09-28T03:21:46Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Connecting rod",
+   "file": "Connecting_rod.txt",
+   "chars": 8776,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Connecting_rod",
+   "revid": 1385154929,
+   "timestamp": "2026-11-12T04:13:10Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Control arm",
+   "file": "Control_arm.txt",
+   "chars": 2528,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Control_arm",
+   "revid": 1354549031,
+   "timestamp": "2026-05-17T02:31:32Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Coolant",
+   "file": "Coolant.txt",
+   "chars": 12461,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Coolant",
+   "revid": 1385640395,
+   "timestamp": "2026-11-14T12:02:14Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Crankcase ventilation system",
+   "file": "Crankcase_ventilation_system.txt",
+   "chars": 12775,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Crankcase_ventilation_system",
+   "revid": 1387802905,
+   "timestamp": "2026-11-25T14:44:24Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "De Dion suspension",
+   "file": "De_Dion_suspension.txt",
+   "chars": 6277,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/De_Dion_suspension",
+   "revid": 1384932538,
+   "timestamp": "2026-11-10T21:53:07Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Detonation",
+   "file": "Detonation.txt",
+   "chars": 6185,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Detonation",
+   "revid": 1387535686,
+   "timestamp": "2026-11-24T11:47:07Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Drag link",
+   "file": "Drag_link.txt",
+   "chars": 1960,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Drag_link",
+   "revid": 1360744082,
+   "timestamp": "2026-06-23T09:16:46Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Dubonnet suspension",
+   "file": "Dubonnet_suspension.txt",
+   "chars": 2288,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Dubonnet_suspension",
+   "revid": 1379624564,
+   "timestamp": "2026-10-11T01:14:23Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Engine balance",
+   "file": "Engine_balance.txt",
+   "chars": 29248,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Engine_balance",
+   "revid": 1384592490,
+   "timestamp": "2026-11-09T01:20:01Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Fan clutch",
+   "file": "Fan_clutch.txt",
+   "chars": 2857,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Fan_clutch",
+   "revid": 1375891653,
+   "timestamp": "2026-09-20T18:30:16Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Fender (vehicle)",
+   "file": "Fender_vehicle.txt",
+   "chars": 7710,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Fender_(vehicle)",
+   "revid": 1348860920,
+   "timestamp": "2026-04-14T17:05:14Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Float chamber",
+   "file": "Float_chamber.txt",
+   "chars": 1952,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Float_chamber",
+   "revid": 1314896608,
+   "timestamp": "2025-10-03T19:52:47Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Fluid coupling",
+   "file": "Fluid_coupling.txt",
+   "chars": 11231,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Fluid_coupling",
+   "revid": 1362368143,
+   "timestamp": "2026-07-03T13:54:03Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Flywheel",
+   "file": "Flywheel.txt",
+   "chars": 10381,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Flywheel",
+   "revid": 1382741972,
+   "timestamp": "2026-10-30T01:40:00Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Fuel tank",
+   "file": "Fuel_tank.txt",
+   "chars": 9823,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Fuel_tank",
+   "revid": 1377883239,
+   "timestamp": "2026-10-01T18:54:38Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Galvanic corrosion",
+   "file": "Galvanic_corrosion.txt",
+   "chars": 15308,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+   "revid": 1381042693,
+   "timestamp": "2026-10-19T17:12:39Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Electric generator",
+   "file": "Electric_generator.txt",
+   "chars": 22577,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Electric_generator",
+   "revid": 1381436191,
+   "timestamp": "2026-10-22T13:47:31Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Harmonic damper",
+   "file": "Harmonic_damper.txt",
+   "chars": 8234,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Harmonic_damper",
+   "revid": 1387578766,
+   "timestamp": "2026-11-24T17:08:05Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Heater core",
+   "file": "Heater_core.txt",
+   "chars": 7084,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Heater_core",
+   "revid": 1365442622,
+   "timestamp": "2026-07-22T12:48:43Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Hill-holder",
+   "file": "Hill_holder.txt",
+   "chars": 4259,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Hill-holder",
+   "revid": 1327993722,
+   "timestamp": "2025-12-17T07:43:43Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Hood (car)",
+   "file": "Hood_car.txt",
+   "chars": 2680,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Hood_(car)",
+   "revid": 1368184368,
+   "timestamp": "2026-08-07T14:39:47Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Horn (acoustic)",
+   "file": "Horn_acoustic.txt",
+   "chars": 4932,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Horn_(acoustic)",
+   "revid": 1371647415,
+   "timestamp": "2026-08-27T16:44:17Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Hubcap",
+   "file": "Hubcap.txt",
+   "chars": 10615,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Hubcap",
+   "revid": 1347940037,
+   "timestamp": "2026-04-09T18:48:38Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Hydrolastic",
+   "file": "Hydrolastic.txt",
+   "chars": 6868,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Hydrolastic",
+   "revid": 1318375952,
+   "timestamp": "2025-10-23T14:53:07Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Ignition timing",
+   "file": "Ignition_timing.txt",
+   "chars": 15191,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Ignition_timing",
+   "revid": 1304303895,
+   "timestamp": "2025-08-05T06:22:48Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Straight-four engine",
+   "file": "Straight_four_engine.txt",
+   "chars": 10833,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Straight-four_engine",
+   "revid": 1380418206,
+   "timestamp": "2026-10-15T16:25:58Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Inner tube",
+   "file": "Inner_tube.txt",
+   "chars": 2434,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Inner_tube",
+   "revid": 1367507511,
+   "timestamp": "2026-08-03T14:06:11Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Jaguar independent rear suspension",
+   "file": "Jaguar_independent_rear_suspension.txt",
+   "chars": 13209,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Jaguar_independent_rear_suspension",
+   "revid": 1383546528,
+   "timestamp": "2026-11-03T07:16:56Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Kingpin (automotive part)",
+   "file": "Kingpin_automotive_part.txt",
+   "chars": 5724,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Kingpin_(automotive_part)",
+   "revid": 1387106834,
+   "timestamp": "2026-11-22T15:46:57Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Layshaft",
+   "file": "Layshaft.txt",
+   "chars": 6762,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Layshaft",
+   "revid": 1364916293,
+   "timestamp": "2026-07-19T07:15:51Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Gasoline",
+   "file": "Gasoline.txt",
+   "chars": 41774,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Gasoline",
+   "revid": 1387686515,
+   "timestamp": "2026-11-25T03:08:08Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Lever arm shock absorber",
+   "file": "Lever_arm_shock_absorber.txt",
+   "chars": 4000,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Lever_arm_shock_absorber",
+   "revid": 1332597643,
+   "timestamp": "2026-01-12T19:27:05Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Limited-slip differential",
+   "file": "Limited_slip_differential.txt",
+   "chars": 21236,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Limited-slip_differential",
+   "revid": 1382997926,
+   "timestamp": "2026-10-31T12:29:16Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Lubrication",
+   "file": "Lubrication.txt",
+   "chars": 5246,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Lubrication",
+   "revid": 1368801522,
+   "timestamp": "2026-08-11T04:46:05Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Lucas Industries",
+   "file": "Lucas_Industries.txt",
+   "chars": 20047,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Lucas_Industries",
+   "revid": 1384381961,
+   "timestamp": "2026-11-08T00:12:40Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG Cars",
+   "file": "MG_Cars.txt",
+   "chars": 17750,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_Cars",
+   "revid": 1384821712,
+   "timestamp": "2026-11-10T05:23:33Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG MGA",
+   "file": "MG_MGA.txt",
+   "chars": 8298,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_MGA",
+   "revid": 1371082305,
+   "timestamp": "2026-08-24T13:27:59Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG MGB",
+   "file": "MG_MGB.txt",
+   "chars": 24478,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_MGB",
+   "revid": 1386572218,
+   "timestamp": "2026-11-19T05:43:48Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG Magnette",
+   "file": "MG_Magnette.txt",
+   "chars": 5072,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_Magnette",
+   "revid": 1376840703,
+   "timestamp": "2026-09-26T15:23:00Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG Midget",
+   "file": "MG_Midget.txt",
+   "chars": 10026,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_Midget",
+   "revid": 1377440305,
+   "timestamp": "2026-09-29T11:25:20Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG T-type",
+   "file": "MG_T_type.txt",
+   "chars": 9436,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_T-type",
+   "revid": 1376958717,
+   "timestamp": "2026-09-27T03:51:56Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MG Y-type",
+   "file": "MG_Y_type.txt",
+   "chars": 9648,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/MG_Y-type",
+   "revid": 1385629933,
+   "timestamp": "2026-11-14T09:38:58Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "MacPherson strut",
+   "file": "MacPherson_strut.txt",
+   "chars": 7884,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/MacPherson_strut",
+   "revid": 1360602334,
+   "timestamp": "2026-06-22T14:32:36Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Main bearing",
+   "file": "Main_bearing.txt",
+   "chars": 2447,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Main_bearing",
+   "revid": 1376335414,
+   "timestamp": "2026-09-23T14:42:44Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Marles steering gear",
+   "file": "Marles_steering_gear.txt",
+   "chars": 5712,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Marles_steering_gear",
+   "revid": 1360892737,
+   "timestamp": "2026-06-24T08:48:59Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Morris Motors",
+   "file": "Morris_Motors.txt",
+   "chars": 14033,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/Morris_Motors",
+   "revid": 1384821775,
+   "timestamp": "2026-11-10T05:23:57Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Octane rating",
+   "file": "Octane_rating.txt",
+   "chars": 43195,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Octane_rating",
+   "revid": 1387195738,
+   "timestamp": "2026-11-23T00:16:11Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Overhead camshaft engine",
+   "file": "Overhead_camshaft_engine.txt",
+   "chars": 11832,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Overhead_camshaft_engine",
+   "revid": 1376335451,
+   "timestamp": "2026-09-23T14:43:01Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Overhead valve engine",
+   "file": "Overhead_valve_engine.txt",
+   "chars": 6695,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Overhead_valve_engine",
+   "revid": 1376335468,
+   "timestamp": "2026-09-23T14:43:13Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Panhard rod",
+   "file": "Panhard_rod.txt",
+   "chars": 2568,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Panhard_rod",
+   "revid": 1383910062,
+   "timestamp": "2026-11-05T14:48:50Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Pitman arm",
+   "file": "Pitman_arm.txt",
+   "chars": 1915,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Pitman_arm",
+   "revid": 1305148711,
+   "timestamp": "2025-08-10T09:53:05Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Plain bearing",
+   "file": "Plain_bearing.txt",
+   "chars": 18439,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Plain_bearing",
+   "revid": 1381150080,
+   "timestamp": "2026-10-20T08:39:03Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Poppet valve",
+   "file": "Poppet_valve.txt",
+   "chars": 10564,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Poppet_valve",
+   "revid": 1376335545,
+   "timestamp": "2026-09-23T14:43:41Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Pre-ignition",
+   "file": "Pre_ignition.txt",
+   "chars": 4761,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Pre-ignition",
+   "revid": 1377703715,
+   "timestamp": "2026-09-30T17:54:52Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Preselector gearbox",
+   "file": "Preselector_gearbox.txt",
+   "chars": 17190,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Preselector_gearbox",
+   "revid": 1386957699,
+   "timestamp": "2026-11-21T18:21:13Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Valvetrain",
+   "file": "Valvetrain.txt",
+   "chars": 3056,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Valvetrain",
+   "revid": 1362874050,
+   "timestamp": "2026-07-06T19:18:55Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Hood ornament",
+   "file": "Hood_ornament.txt",
+   "chars": 8969,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Hood_ornament",
+   "revid": 1382219204,
+   "timestamp": "2026-10-27T10:51:32Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Radius rod",
+   "file": "Radius_rod.txt",
+   "chars": 2034,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Radius_rod",
+   "revid": 1233767421,
+   "timestamp": "2024-07-10T19:59:35Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Ride quality",
+   "file": "Ride_quality.txt",
+   "chars": 2187,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Ride_quality",
+   "revid": 1327694354,
+   "timestamp": "2025-12-15T19:02:10Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Rim (wheel)",
+   "file": "Rim_wheel.txt",
+   "chars": 7645,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Rim_(wheel)",
+   "revid": 1286347829,
+   "timestamp": "2025-04-19T09:24:14Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Rocker arm",
+   "file": "Rocker_arm.txt",
+   "chars": 3215,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Rocker_arm",
+   "revid": 1376335576,
+   "timestamp": "2026-09-23T14:43:59Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Running board",
+   "file": "Running_board.txt",
+   "chars": 2301,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Running_board",
+   "revid": 1355688344,
+   "timestamp": "2026-05-23T08:58:40Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Rust converter",
+   "file": "Rust_converter.txt",
+   "chars": 1627,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Rust_converter",
+   "revid": 1342050584,
+   "timestamp": "2026-03-06T18:03:00Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "SU carburettor",
+   "file": "SU_carburettor.txt",
+   "chars": 14322,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/SU_carburettor",
+   "revid": 1373221760,
+   "timestamp": "2026-09-04T17:40:33Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Scrub radius",
+   "file": "Scrub_radius.txt",
+   "chars": 4961,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Scrub_radius",
+   "revid": 1383006743,
+   "timestamp": "2026-10-31T13:47:21Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Parabolic aluminized reflector",
+   "file": "Parabolic_aluminized_reflector.txt",
+   "chars": 8880,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Parabolic_aluminized_reflector",
+   "revid": 1379006816,
+   "timestamp": "2026-10-07T09:45:09Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Flathead engine",
+   "file": "Flathead_engine.txt",
+   "chars": 7110,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Flathead_engine",
+   "revid": 1384429641,
+   "timestamp": "2026-11-08T05:06:38Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Sliding pillar suspension",
+   "file": "Sliding_pillar_suspension.txt",
+   "chars": 3260,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Sliding_pillar_suspension",
+   "revid": 1383082735,
+   "timestamp": "2026-10-31T22:16:46Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Slip angle",
+   "file": "Slip_angle.txt",
+   "chars": 3969,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Slip_angle",
+   "revid": 1245478106,
+   "timestamp": "2024-09-13T06:47:00Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Starter solenoid",
+   "file": "Starter_solenoid.txt",
+   "chars": 2819,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Starter_solenoid",
+   "revid": 1291234660,
+   "timestamp": "2025-05-19T22:50:15Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Steering",
+   "file": "Steering.txt",
+   "chars": 25268,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Steering",
+   "revid": 1385182474,
+   "timestamp": "2026-11-12T07:14:12Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Steering column",
+   "file": "Steering_column.txt",
+   "chars": 2920,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Steering_column",
+   "revid": 1369690466,
+   "timestamp": "2026-08-16T14:53:57Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Steering knuckle",
+   "file": "Steering_knuckle.txt",
+   "chars": 2026,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Steering_knuckle",
+   "revid": 1383621921,
+   "timestamp": "2026-11-03T19:19:33Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Steering ratio",
+   "file": "Steering_ratio.txt",
+   "chars": 2888,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Steering_ratio",
+   "revid": 1291361462,
+   "timestamp": "2025-05-20T18:47:58Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Straight-six engine",
+   "file": "Straight_six_engine.txt",
+   "chars": 26264,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Straight-six_engine",
+   "revid": 1373275423,
+   "timestamp": "2026-09-05T00:54:27Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Swing axle",
+   "file": "Swing_axle.txt",
+   "chars": 9507,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Swing_axle",
+   "revid": 1375364017,
+   "timestamp": "2026-09-17T10:46:26Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Tire balance",
+   "file": "Tire_balance.txt",
+   "chars": 5801,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Tire_balance",
+   "revid": 1357378597,
+   "timestamp": "2026-06-02T08:10:05Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Cold inflation pressure",
+   "file": "Cold_inflation_pressure.txt",
+   "chars": 5244,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Cold_inflation_pressure",
+   "revid": 1359304029,
+   "timestamp": "2026-06-14T13:57:14Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Torque converter",
+   "file": "Torque_converter.txt",
+   "chars": 20434,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Torque_converter",
+   "revid": 1387324628,
+   "timestamp": "2026-11-23T12:07:59Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Torque steer",
+   "file": "Torque_steer.txt",
+   "chars": 5866,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Torque_steer",
+   "revid": 1371029134,
+   "timestamp": "2026-08-24T05:17:04Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Torque wrench",
+   "file": "Torque_wrench.txt",
+   "chars": 12189,
+   "topic": "classic_car_ownership",
+   "url": "https://en.wikipedia.org/wiki/Torque_wrench",
+   "revid": 1385554159,
+   "timestamp": "2026-11-13T22:41:16Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Torsion bar suspension",
+   "file": "Torsion_bar_suspension.txt",
+   "chars": 12435,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Torsion_bar_suspension",
+   "revid": 1382056731,
+   "timestamp": "2026-10-26T09:00:56Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Trailing-arm suspension",
+   "file": "Trailing_arm_suspension.txt",
+   "chars": 2478,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Trailing-arm_suspension",
+   "revid": 1251537449,
+   "timestamp": "2024-10-16T17:21:00Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Transverse leaf spring front suspension",
+   "file": "Transverse_leaf_spring_front_suspension.txt",
+   "chars": 3377,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Transverse_leaf_spring_front_suspension",
+   "revid": 1317502227,
+   "timestamp": "2025-10-18T12:17:22Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Tubeless tire",
+   "file": "Tubeless_tire.txt",
+   "chars": 5828,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Tubeless_tire",
+   "revid": 1379164106,
+   "timestamp": "2026-10-08T08:36:43Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Underseal",
+   "file": "Underseal.txt",
+   "chars": 1796,
+   "topic": "body_tyres",
+   "url": "https://en.wikipedia.org/wiki/Underseal",
+   "revid": 1343046921,
+   "timestamp": "2026-03-11T23:49:37Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Understeer and oversteer",
+   "file": "Understeer_and_oversteer.txt",
+   "chars": 8208,
+   "topic": "steering",
+   "url": "https://en.wikipedia.org/wiki/Understeer_and_oversteer",
+   "revid": 1368121810,
+   "timestamp": "2026-08-07T03:45:57Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Valve seat",
+   "file": "Valve_seat.txt",
+   "chars": 2765,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Valve_seat",
+   "revid": 1326364876,
+   "timestamp": "2025-12-08T15:54:38Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Vapor lock",
+   "file": "Vapor_lock.txt",
+   "chars": 6235,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Vapor_lock",
+   "revid": 1372532076,
+   "timestamp": "2026-09-01T03:36:27Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Watt's linkage",
+   "file": "Watt_s_linkage.txt",
+   "chars": 6858,
+   "topic": "suspension",
+   "url": "https://en.wikipedia.org/wiki/Watt%27s_linkage",
+   "revid": 1380711462,
+   "timestamp": "2026-10-17T11:18:33Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Wheel cylinder",
+   "file": "Wheel_cylinder.txt",
+   "chars": 1614,
+   "topic": "brakes",
+   "url": "https://en.wikipedia.org/wiki/Wheel_cylinder",
+   "revid": 1363902670,
+   "timestamp": "2026-07-13T05:30:57Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Windscreen wiper",
+   "file": "Windscreen_wiper.txt",
+   "chars": 21715,
+   "topic": "electrical",
+   "url": "https://en.wikipedia.org/wiki/Windscreen_wiper",
+   "revid": 1387785828,
+   "timestamp": "2026-11-25T12:32:55Z",
+   "licence": "CC BY-SA 4.0"
+  },
+  {
+   "title": "Zenith Carburettor Company (British)",
+   "file": "Zenith_Carburettor_Company_British.txt",
+   "chars": 4833,
+   "topic": "engine_drivetrain_classic",
+   "url": "https://en.wikipedia.org/wiki/Zenith_Carburettor_Company_(British)",
+   "revid": 1359653974,
+   "timestamp": "2026-06-16T12:51:38Z",
+   "licence": "CC BY-SA 4.0"
+  }
+ ],
+ "missing_titles": [
+  "Amal (company)",
+  "Ash frame",
+  "Axle stand",
+  "Cable (mechanical)",
+  "Condenser (electrical)",
+  "Cutout relay",
+  "Dual-circuit braking",
+  "Hub (wheel)",
+  "MG B-series engine",
+  "Soft-top",
+  "Solex carburettor",
+  "Stromberg carburetor",
+  "Valve stem seal",
+  "Wheel balancing"
+ ],
+ "duplicates_of_batch_a_removed": [
+  "Beam axle",
+  "Disc brake",
+  "Drum brake",
+  "Contact breaker",
+  "Leaf spring",
+  "Motor oil",
+  "Parking brake",
+  "Manual transmission"
+ ],
+ "dropped_off_topic": [
+  "Barn find",
+  "Capacitor",
+  "Fiberglass",
+  "Jack (device)",
+  "Relay",
+  "Sheet metal",
+  "Used car",
+  "Windshield"
+ ]
+}

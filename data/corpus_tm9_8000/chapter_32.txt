@@ -1,0 +1,155 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 32
+
+WHEELS, TIRES, AND TRACKS
+
+Section I. WHEEL CENTER SECTION
+
+32-1. Disk Wheels. The center disk of a wheel (fig. 32- 1) may be a solid plate or of a slotted steel construction. In both cases, the disk is welded or riveted to the rim, and the wheels are demountable at the hub. The disk is dished to bring the point of ground contact under the large wheel bearing, and to permit the mounting of dual wheels. Modern passenger cars almost exclusively use the steel-disk type wheel.
+
+32-2. Pressed and Cast Spoked Wheels. On light vehicles, the wheel center section and rim are connected by spokes and the wheels are demountable at the hub. For heavier trucks, the spokes are integrated with the center section and a demountable rim is used. Another form of cast wheel (fig. 32-2), sometimes called a mag wheel, is a one-piece design made of lightweight alloys. These types of wheels are very popular on modern automobiles and are made in many sizes and styles. Great care must be taken when mounting and demounting tires on these rims, because the wheel assemblies are soft and brittle, which causes them to crack easily.
+
+32-3. Wire Wheels. This type of wheel consists of a pressed-steel hub and rim connected by welded spokes (fig. 32-3). This design allows greater amounts of air to flow past the brake assemblies, therefore keeping them cool and minimizing brake fade. Wire wheels, however, are hard to clean, require the use of full-circle antiskid chains only, and are not adapted for use with dual wheels.
+
+32-4. Drop Center. The drop center rim (fig. 32-4) is made . n one piece and is fastened to the wheel permanently. Its important feature is a well that permits the mounting and demounting of tires. Bead seats are tapered to match a corresponding taper on the beads of the tire. Drop center rims are used generally on smaller vehicles, such as 114-ton 4 x 4 trucks.
+
+32-5. Semidrop Center. The semidrop center rim (fig. 32-5) is also fastened permanently to the wheel. This rim has a shallow-well, tapered-head seat to fit the taper of the beads of the tire. It also has a demountable flange or side ring, which fits into a gutter on the outside edge of the rim,
+
+holding the tire in place. This type of rim is standard equipment on 3/4-ton 4 x 4 trucks.
+
+32-6. Safety. Safety rims (fig. 32-6) are similar to drop center rims. The major difference is that safety rims have a slight hump at the edge of the bead ledge that holds the bead in place when the tires go flat. These rims currently are used on many passenger cars and light trucks.
+
+32-7. Split. A split rim (fig. 32-7) is a rim that has a removable bead seat on one side of the rim. The seat is split to allow for its removal so tires can be changed. Some bead seats also require the use of a lockring to retain the seat. These rims are found usually on large vehicles.
+
+Section III. BEAD LOCKS AND BEAD CLIPS
+
+32-8. Bead Locks. A metal device called a bead lock (fig. 32-8) fits between the beads of the tire so that pressure can be applied by tightening the rim flanges against the outside of the bead. The bead lock is slightly wider than the space between the tire beads when mounted on the rim. Thus, a compression fit is obtained that locks the beads in place so they will not slip on the rim and will hold
+
+the tire in position. This is necessary in combat to support the load when operating tires without air pressure.
+
+32-9. Bead Clips. Bead clips (fig. 32-9) are used instead of bead locks on certain sizes of tires. Bead clips are used in multiples; five to six clips are spaced equally on each bead of the tire.
+
+32-10. Tire Assembly Construction.
+
+a. Radial. Radial tires (fig. 32-10) are constructed with casing plies perpendicular to the tread direction, with several layers of tread-reinforcing plies (steel or fabric) just under the tread area. This construction permits flexing of the tire with a minimum of tread distortion, better traction, and a softer ride.
+
+b. Bias. Bias-ply tires (fig. 32-11) are constructed of rayon, nylon, or polyester casing plies in a crisscross pattern wrapped around steel bead wires. These bead wires prevent the tire from opening up and separating from the rim at high speeds. The casing plies give the tire its shape. This construction may be found in use today for standard commercial tires.
+
+c. Solid. Solid tires (fig. 32-12) generally are not used in transportation vehicles because of their harsh riding characteristics. They usually do not roll as freely as pneumatic tires and therefore require more power to drive them.
+
+32-11. Types of Tires.
+
+a. Tactical Tires. Tactical tires give good traction in either direction in mud, snow, or on dirt; on temporary roads; and for cross-country use. They also are practical for hard-surface roads. These tires have a nondirectional, mud-and-snow or cross-country tread design with bar-type lugs. A nondirectional tread design indicates the tread pattern is the same, no matter which way the tire is mounted. A nondirectional tread gives good traction in both directions.
+
+b. Combat Tires. Combat tires are made of much heavier construction than commercial-type tires. They have more rigid sidewalls and heavily cushioned plies that are spaced wider apart than the commercial type. They are designed to operate without air pressure for a limited distance when the tactical situation requires it. They have a nondirectional mud-and-snow tread, which provides good traction in either direction on dirt, on temporary roads, and for cross-country use.
+
+c. Truck and Bus Tires. Truck and bus tires are of standard construction like those used on commercial- type vehicles. Regular tread is common on truck and bus tires and will provide satisfactory traction and long life on highways.
+
+d. Passenger Tires. Passenger tires are of standard construction and provide good traction on wet and dry roads. In areas where there is snowfall, a nondirectional snow tire sometimes is used on the driving wheels for added traction.
+
+e. Rock-Service Tires. Rock-service tires are large tires of standard construction like those used on commercial-type vehicles for off-road service and on unpaved roads.
+
+f. Earthmover Tires. Earthmover tires are large tires of standard construction like those used on commercial-type vehicles for off-road service. This tread is considered nondirectional. The earthmover tread design also may be directional, similar to tread on grader tires, or nondirectional, similar to tread on rock-service tires.
+
+g. Grader Tires. Grader tires are similar to earthmover tires except that they are designed for lower Inflation pressures and for service Involving extreme angular ground contact. The directional mud-and-snow tread design provides good traction In mud and snow, on dirt or temporary roads, and for cross-country use.
+
+h. Run Flat Tires. Run flat tires are constructed of a thick sidewall with an air chamber Inside the center section of the tire. It is pressurized the same as a standard tire, but if a puncture should occur, the thick sidewalls help support the weight of the vehicle until the repair can be made. This type of tire generally is used on a combat vehicle.
+
+32-12. Types of Treads.
+
+a. Mud and Snow(MS) Tread.
+
+(1) Directional. The directional mud an( snow tread (fig. 32-13) is of a V-design with large spaces between the lugs. The spaces between the lugs are kept free from snow because of tire rotation and flexing, therefore improving traction. A directional tire may be mounted on the rim only one way and will deliver traction in one direction only. The point of the V-design must contact the ground first when traction is required A directional tread also may be called a traction tread.
+
+(2) Nondirectional. The nondirectional mud and snow tread design (fig. 32-14) also has large spaces between the lugs. The lugs are placed perpendicular to the centerline of the tire This design provides good traction in both directions.
+
+b. Cross-Country Tread. The cross-country tread (fig. 32-15) is the same as the mud and snow tread, except that the cross-country tread has rounded shoulders.
+
+c. Regular Tread. Regular tread (fig. 32-16 consists of small spaces between tread patterns This allows for a quiet ride and safe operation or wet and dry roads. This tread commonly is used on modern highway- operated tires.
+
+d. Rock Service Tread. Rock service tread (fig. 32-17) is characterized by narrow voids between lugs so that loose rock cannot be caught and tear the tread lugs loose from the tire body
+
+This tread design is used on tires for service on rough terrain and is of the nondirectional type.
+
+e. Earthmover Tread. This tread design (fig. 32-18) may be like either of those used on commercial-type vehicles for off-road service, which are nondirectional or similar to grader tires, which are directional.
+
+f. Traction Tread. Traction tread is similar to the V- design of the mud and snow directional tread. This design provides maximum traction in soft soil.
+
+g. Desert Tread. Desert tread patterns generally are wider than average to distribute the weight of the vehicle over a larger area. The tread pattern may be either directional or nondirec-
+
+tional, depending upon the application. Most desert tread patterns are similar to the tactical tire with cross-country tread.
+
+32-13. Ozone-Resistant Rubber. Factors contributing to the deterioration of tires in storage include sunlight, heat, air in motion, ozone, oil, grease, dust, dirt, and water. Ozone is a gas
+
+found in the atmosphere and is very harmful to rubber. Military tires are specified to contain certain oils and waxes known as antiozoants, which migrate to the surface of the tire when it is flexed in operation. These substances protect the rubber from ozone. When the tire is in storage, the antiozoants stay inside the tire, causing it to deteriorate.
+
+32-14. Types of Tubes.
+
+a. Standard. Standard tubes (fig. 32-19) are circular rubber containers that fit inside the tire and hold the air that supports the vehicle. Though it is strong enough to stand only a few pounds of air pressure when not confined, the tube bears extremely high pressures when enclosed in a tire and wheel assembly. Because the tube is made of comparatively soft rubber to fulfill its function, it is easily chafed, pinched, punctured, or otherwise damaged. Standard tubes generally are made of butyl, a synthetic rubber that has air-retention properties superior to natural rubber. Standard tubes are made of one layer of rubber molded in the shape of a doughnut. They are used regularly for standard tires.
+
+b. Combat. Combat tubes (fig. 32-20) are constructed the same as standard tubes except that they are smaller than standard tubes with the same size markings. Because the inside cross section of combat tires is smaller, combat tubes only will be used with combat tires. However, in the event that combat tubes are not available, it is permissible to use the next size smaller standard tube.
+
+c. Bullet Resisting. Bullet-resisting tubes (fig. 32- 21) are of a heavy, thick construction that automatically seals bullet punctures. Bullet-resisting tubes are identified by their extra weight and thickness and generally have green-painted valve stems.
+
+32-15. Tube Flaps. Tube flaps (fig. 32-22) usually are constructed of a strip of semihard rubber with tapered ends that form a circle. Flaps are required in tube-type tires that are used on flat-base rims. They protect the tube from being pinched between the tire bead and the rim and from irregularities on the base of the rim.
+
+32-16. Types of Valves.
+
+a. Cured-On Valve.
+
+(1) Rubber-Covered Valve. Cured-on valve stems (fig. 32-23) have a rubber base that is vulcanized on the outer surface of the tube and cannot be removed unless it is cut off for replacement. The rubber-covered stem is bendable when the stem is longer than 3 inches.
+
+(2) All-Metal-Stem Cured-On Valve. This valve (fig. 32-24) is mounted to the tube the same way as the rubber-covered valve, but this type uses a nonbendable, all metal stem.
+
+b. Cured-On Large-Bore Valve. Cured-on large- bore valve stems generally are used on tubes for very large tires such as for earthmovers. The large bore permits rapid inflation and deflation of tubes. Except for size, they are similar to the cured-on valve described above.
+
+c. Cured-In Valve. Cured-in valve stems (fig. 32- 25) are similar to cured-on valve stems except that the rubber base is inverted and vulcanized to the inner surface of the tube. The rubber base also may be vulcanized directly to the rubber body of the tube.
+
+d. Spud-Mounted Valve. Spud-mounted valves (fig. 32-26) are constructed in two parts for attaching to the tube. These valves are airtight at the base because of the clamping action between the spud and stem base. They are identified readily by the absence of a bridge washer and hex nut. The eger spud valve no longer is used, but the principle of two-part construction has been continued by some manufacturers. The eger spud has been replaced by a cured-in spud, whose outside thread accepts a valve stem replacement with a preformed packing.
+
+e. Snap-In Tubeless Tire Valve. Snap-in tubeless tire valve stems (fig. 32-27) are used
+
+with many passenger car and light truck tires. This type of valve stem is mounted on tubeless tire rims through a circular hole of controlled dimension. The valve stem is encased in a heavy, pear-shaped, rubber cover. The base of the valve is shaped like a mushroom head and below the threaded shank there is a slight ridge. When the valve is installed properly, the edge of the rim valve hole will be between the mushroom head and the ridge, forming an airtight seal.
+
+f. Clamp-In Tubeless Tire Valve. Clamp-in tubeless tire valve stems are used with passenger
+
+car and light truck tubeless tires. This valve stem Is mounted on tubeless tire rims through a circular hole of a controlled dimension. The valve Is airtight at the base because of the clamping action of the ring washer and the hex nut.
+
+g. Clamp-In, Large-Bore Tubeless Tire Valve. Clamp-In, large-bore tubeless valve stems are available In three types: straight-type, swivel-type, and nonswivel- type valves. Large-bore valves are used on rims for very large earthmover tires. They permit rapid Inflation and deflation of tires. An airtight seal Is formed by the rubber washer when the mounting hex nut is tightened
+
+h. Clamp-In, Double-Bent Tubeless Tire Valve. Clamp-In, double-bent tubeless valve stems have an extra low vertical height. They are attached to the rim by tightening the hex nut against the rim. This ensures an airtight seal at the base of the valve.
+
+32-17. Valve Accessories.
+
+a. Valve Core. The valve core (fig. 32-28) Is that part of the valve that Is screwed into the valve stem and permits air, under pressure, to enter, but prevents it from escaping. There are two types of valve cores and two sizes of each type. The two types are the visible spring type and concealed spring type. The two types are Interchangeable. Two sizes are provided for the standard bore and the large bore valve stems. The core shell has a rubber washer when the mounting hex nut is rubber washer that provides an airtight seal against the tapered seat Inside the stem. Directly below the shell Is a cup that contains a rubber
+
+seat, which, in the closed position, is forced against the bottom of the shell, forming an airtight seal. The pin on top of the valve core, when pushed down, forces the cup away from the shell, permitting air to flow.
+
+b. Valve Caps. The valve cap (fig. 32-29) is also a component part of the valve and is
+
+screwed onto the end of the stem, providing a second airtight seal. The cap also protects the threads on the end of the stem and keeps dirt and moisture out of the valve body. The screwdriver-type cap has a forked tip that may be used to install or remove the valve core. The plain cap generally is used on rubber-covered valves and has a skirt that contacts the rubber covering on the valve stem. Screwdriver and plain-type caps are interchangeable with each other.
+
+32-18. Identification of Tires and Tubes. All tire identification markings and codes generally are in raised letters and numbers on the sidewall of the tire. Combat tires are marked COMBAT on the serial number side. Tubes for combat tires also are stamped COMBAT. See paragraph 32-14c for identifying features of bullet- resisting tubes.
+
+32-19. Track Characteristics. The track is a circular flat-band assembly that is mounted under the road wheels and driven by sprockets in the rear of the vehicle. The track is designed to distribute the weight of the vehicle over a large area so that the vehicle will not sink on soft surfaces. The assembly also is able to bridge large gaps in terrain that would render a wheeled vehicle immobile.
+
+32-20. Sectional Band Tracks. Sectional band tracks (fig. 32-30) are designed so that sections of this type track are replaced when worn or damaged, rather than replacing the whole track assembly. In this design, parallel cable reinforced bands are clamped between the cover plates and track bars by means of through bolts and self-locking nuts. Each track section is made to a convenient length for ease of handling and is connected to adjacent sections by connector plates. The joint is made between the track bars. However, some designs provide for the joint to be made at the track bar.
+
+32-21. Pin Connected Tracks.
+
+a. Double-Pin Tracks. Double-pin tracks (fig. 32- 31) consist of a pair of track blocks assembled onto two rubber-bushed pins. The
+
+blocks are linked together by the end connectors, which engage the track pins. The end connectors are secured to the pins by means of wedges and wedge nuts.
+
+b. Single-Pin Tracks. Except for the single-pin arrangement, the general design features are similar to the double-pin track links. Component nomenclature is somewhat different in that the single-pin track (fig. 32- 32) has no blocks. The basic metal and rubber structure is called the body. The addition of the bushings completes the link, which is comparable to the link of the double-pin track. The link, pin, nuts, and washers make up the shoe assembly.
+
+32-22. Shoe Types.
+
+a. Integral Center Guide. An integral center or track guide (fig. 32-32) is cast into the track shoe itself. It engages the road wheel so that the alinement of the track is maintained and also absorbs lateral forces caused by steering and side slope conditions.
+
+b. Detachable Center Guide. The detachable center guide (fig. 32-31) serves the same function as the integral center guide but is detachable from the shoe.
+
+a. Integral Rubber Pad. Integral rubber pads frequently are placed on the ground-engaging surface of the track to cushion the interaction of the track with the ground and improve traction on hard surfaces. The integral rubber pad is vulcan-
+
+Ized permanently or cemented to the track shoe assembly, and when worn out, must be replaced as a unit.
+
+b. Detachable Rubber Pad. This type of pad (fig. 32-32) serves the same purpose as the integral pad but is detachable from the shoe.

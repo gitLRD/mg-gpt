@@ -1,0 +1,69 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 26
+
+AUXILIARY TRANSMISSIONS, SUBTRANSMISSIONS, AND OVERDRIVES
+
+Section I. AUXILIARY TRANSMISSIONS
+
+26-1. Purpose. An auxiliary transmission (fig. 26-1) is used to compound the number of gear ratios that are available from the main transmission. It usually is a separate two-speed transmission that mounts in series between the transmission and the driving axle by utilizing two propeller shafts. By providing two speeds, the auxiliary transmission effectively will double the number of gear ratios available from the main transmission. Vehicles equipped with auxiliary transmissions generally are more versatile than vehicles without
+
+them because a low-speed range is available for pulling power and a high-speed (direct-drive) range is available for highway usage.
+
+26-2. Operation (Fig. 26-2). The auxiliary transmission is controlled by a lever in the driver’s compartment. The gear ratios usually are selected in the box by a sliding dog clutch. The gear ratios of the auxiliary transmission must be selected while the vehicle is not in motion.
+
+Section II. SUBTRANSMISSIONS
+
+28-3. Purpose. A subtransmission (fig. 26-3) serves the same purpose as the auxiliary transmission (para 26-1). The subtransmission, however, is attached directly to the rear of the main transmission.
+
+26-4. Configuration.
+
+a. Manual. The manual subtransmission operates much the same as the auxiliary transmission, using a control lever in the driver’s
+
+compartment. The manual subtransmission is used in conjunction with a manual or an automatic transmission.
+
+b. Automatic. The automatic subtransmission is used by some manufacturers, not as an auxiliary transmission, but as a unit that becomes an integral part of the main transmission. In this configuration, a basic light-vehicle type automatic transmission design is integrated with a subtransmlsslon. The resulting transmission
+
+provides four forward gear ratios and sufficient strength for heavy-duty use. In this case, the subtransmission uses a planetary gearset with hydraulically actuated holding elements whose operating principles are much the same as the drive train of an automatic transmission (para 23-5). The shifting of the subtransmlssion is integrated into the control system of the main transmission and shifting is programmed so that both transmissions function as one.
+
+26-5. Purpose. A transmission overdrive (fig. 26-4) provides a gear ratio less than 1:1. It reduces engine wear by requiring less revolutions of the engine for a given mileage than required if direct drive is used, and reduces gasoline consumption by providing a more suitable gear ratio for high speeds on level roads. When In operation, the overdrive reduces the engine rear-axle gear ratio by approximately 30 percent. A freewheeling device usually Is Incorporated in the overdrive, which also helps to save gasoline. The overdrive usually Is a separate unit bolted to
+
+the rear of the transmission case. In some transmissions, an overdrive is obtained by the gear ratios provided in the transmission.
+
+26-6. Configurations. The overdrive unit sometimes Is Installed in the vehicle as an integral part of the transmission, much like a subtransmission (para 26-4). In other applications, the overdrive unit is located between the transmission and the driving axle, In series with the drive shaft. The configuration Is similar to an auxiliary transmission (para 26-1).
+
+26-7. Unit Construction (Fig. 26-5). The basic overdrive unit is a planetary gear-overrunning clutch combination. This combination is necessary in an overdrive unit because the unit must be able to shift while the vehicle is moving. This contrasts with the sliding gears or dog clutches that are used In auxiliary and subtransmissions that can be operated only while the vehicle is not moving. The two factors that control the overdrive modes of operation are:
+
+a. The sun gear is locked to or released from the pinion gear cage. This is accomplished by a mechanical linkage from the operator’s controls that, through a fork and collar, slide the sun gear in or out of mesh with the gear teeth cut into the pinion carrier.
+
+b. The sun gear is held stationary or allowed to rotate freely. This Is accomplished by a solenoid- operated pawl that engages a notched plate that is attached to the sun gear. The solenoid is actuated by an electrical control system (para 26-9).
+
+Various combinations of the above factors are used to produce the three modes of operation that will be discussed in the next paragraph.
+
+26-8. Operation. The overdrive unit is semi-automatic in operation. When a minimum speed is reached (usually about 25 miles per hour) the overdrive unit automatically will engage if the driver releases the accelerator pedal momentarily. A control lever also is provided that locks out the overdrive unit mechanically. The modes of operation are:
+
+a. Locked Out (Fig. 26-5). The locked-out mode of the overdrive is used whenever the use of overdrive is not desired. The locked-out mode is selected by the operator through the movement of an instrument panel mounted lever. The movement of this lever slides the sun gear into mesh with the internal gear teeth in the pinion carrier, resulting in the two members locking together. The locking of the sun gear to the pinion carrier
+
+results in the entire planetary gearset rotating as a solid unit.
+
+b. Overdrive (Fig. 26-6). When the operator desires overdrive, the control lever is moved to the overdrive position. This lever movement slides the sun gear out of mesh with the pinion carrier, allowing the planetary gearset to operate. The control system of the overdrive unit will semiautomatically select between the two following modes of operation:
+
+(1) At speeds below approximately 30 mph, the solenoid pawl is disengaged. This combination results in all planetary gearset members being free to rotate. The result will be direct drive through the roller clutch when engine torque is applied. When the accelerator is released, the roller clutch will retract and the vehicle will freewheel.
+
+(2) At speeds above approximately 30 mph (48 kmlh), the solenoid is energized and the pawl tries to engage the sun gear plate. The pawl will be blocked by the bulk ring, however, until the engine power flow is interrupted (the operator momentarily releases the accelerator). As the accelerator is released, the sun gear, which is being driven by the pinions, slows down and reverses direction as the overdrive unit begins to freewheel. This reversal of the sun gear causes it to pull back the bulk ring, allowing the pawl to engage the sun gear plate, locking the sun gear. The locking of the sun gear results in the planetary gearset causing the overdrive effect.
+
+26-9. Overdrive Control System.
+
+a. General (Fig. 26-7). The overdrive unit is semiautomatically operated by an electrical control system that is influenced by vehicle speed, throttle position, and the position of the lockout control lever. The following components make up this system:
+
+(1) Solenoid. The solenoid, when energized, operates the sun gear locking pawl. Inside
+
+the solenoid are two electromagnetic coils: the pull-in and the hold-in coils. The pull-in coil initially actuates the sun gear locking pawl. To do this, the pull-in coil must be very powerful and, therefore, will use a lot of electic current. Because of this, the pull-in contacts are situated to deenergize the pull-in coil when the solenoid is actuated fully. The hold-in coil, which is somewhat lighter, then is utilized to hold the solenoid in the fully actuated position for the duration of overdrive operation.
+
+(2) Solenoid Relay. The solenoid relay provides power to the solenoid whenever a signal current is applied to it from the signal circuit.
+
+(3) Governor. The governor is a centrifugal- type switch that completes the single circuit to the solenoid relay whenever the vehicle reaches approximately 30 mph (48 kml/h).
+
+(4) Rail Switch. The rail switch interrupts the signal circuit whenever the overdrive unit is locked out, preventing engagement.
+
+(5) Throttle Switch. The throttle switch interrupts the signal circuit whenever the accelerator is pressed to the floor, allowing the operator extra power. The throttle switch, in conjunction with the ground-out contacts, also will disable the engine temporarily. This interruption of engine power is necessary to allow the locking pawl to disengage from the sun gear wheel. The process of disengaging the overdrive unit by the action of the throttle switch takes only a fraction of a second.
+
+b. Reverse Lockout. The linkage of the overdrive lockout mechanism is integrated with the transmission so that the lockout is engaged whenever the transmission is shifted to reverse. This arrangement is necessary because the roller clutch will not drive the vehicle in reverse.

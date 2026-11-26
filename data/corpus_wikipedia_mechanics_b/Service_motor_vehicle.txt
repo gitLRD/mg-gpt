@@ -1,0 +1,28 @@
+Service (motor vehicle)
+
+A motor vehicle service or tune-up is a series of maintenance procedures carried out at a set time interval or after the vehicle has traveled a certain distance. The service intervals are specified by the vehicle manufacturer in a service schedule and some modern cars display the due date for the next service electronically on the instrument panel. A tune-up should not be confused with engine tuning, which is the modifying of an engine to perform better than the original specification, rather than using maintenance to keep the engine running as it should.
+
+== Common tasks involved in maintaining a vehicle ==
+Inspection - vehicle components are visually inspected for wear or any leaks. A diagnostic is performed to identify any electrical components reporting a failure or a part operating outside of normal conditions.
+Replacement - Given certain lubricants break down over time due to heat and wear, manufacturers recommend replacement. Any parts that are close to their expected failure are replaced too to avoid a failure while operating the vehicle.
+Adjustments - as vehicle components wear, they may need adjustment over time. Example: parking brake cable.
+The completed services are usually recorded in a service book or digital service record upon completion of each service. A digital service record is an online record of a vehicle's maintenance history. A complete service history usually adds to the resale value of a vehicle.
+Difference between major and full service: a major service is more comprehensive than a full service; although it covers all the same checks that a full service does, a major service will be more detailed and will include more replacements of wearable parts, such as pollen filters, and changing brake fluid if required.
+As a guideline, minor car services are carried out every 10,000 to 15,000 kilometres (6,200 to 9,300 miles), and major car services every 30,000 to 45,000 kilometres (19,000 to 28,000 miles) – or every twelve months, whichever comes first.
+
+== Scheduling ==
+The actual schedule of car maintenance varies depending on the year, make, and model of a car, its driving conditions, and driver behavior. Carmakers recommend the so-called extreme or the ideal service schedule based on impact parameters such as
+
+the number of trips and distance traveled per trip per day
+extreme hot or cold climate conditions
+mountainous, dusty, or DE-iced roads
+heavy stop-and-go vs. long-distance cruising
+towing a trailer or other heavy load
+Service advisers in dealerships and independent shops recommend schedule intervals, which are often in between the ideal or extreme service schedule.
+In addition, drivers may be penalized for not regularly servicing their cars. For example, in many states in the U.S., a car has to pass a safety inspection test every year or two years to remain legal, and can incur fines for continuing to drive cars that have failed.
+
+== Common maintenance ==
+Maintenance tasks commonly carried out during a motor vehicle service include:
+
+Mechanical parts that may cause the car to cease transmission or prove unsafe for the road are also noted and advised upon.
+In the United Kingdom, few parts that are not inspected on the MOT test are inspected and advised upon a Service Inspection, including clutch, gearbox, car battery, and engine components (further inspections than MOT).

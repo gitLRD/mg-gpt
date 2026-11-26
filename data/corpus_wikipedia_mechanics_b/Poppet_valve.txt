@@ -1,0 +1,58 @@
+Poppet valve
+
+In internal combustion engines, a poppet valve (also sometimes called mushroom valve) is a valve typically used to control the timing and quantity of petrol (gas) or vapour flow into or out of an engine, but with many other applications.
+It consists of a hole or open-ended chamber, usually round or oval in cross-section, and a plug, usually a disk shape on the end of a shaft known as a valve stem. The working end of this plug, the valve face, is typically ground at a 45° bevel to seal against a corresponding valve seat ground into the rim of the chamber being sealed. The shaft travels through a valve guide to maintain its alignment.
+A pressure differential on either side of the valve can assist or impair its performance. In exhaust applications higher pressure against the valve helps to seal it, and in intake applications lower pressure helps open it.
+
+== Etymology ==
+The word poppet shares etymology with "puppet": it is from the Middle English popet ("youth" or "doll"), from Middle French poupette, which is a diminutive of poupée. The use of the word poppet to describe a valve comes from the same word applied to marionettes, which, like the poppet valve, move bodily in response to remote motion transmitted linearly. In the past, "puppet valve" was a synonym for poppet valve; however, this usage of "puppet" is now obsolete.
+
+== Design ==
+
+The poppet valve is different from both slide and oscillating valves. Instead of sliding or rocking over a seat to uncover a port, the poppet valve lifts from the seat with a movement perpendicular to the plane of the port. The main advantage of the poppet valve is that it has no movement on the seat, thus requiring no lubrication.
+In most cases it is beneficial to have a "balanced poppet" in a direct-acting valve. Less force is needed to move the poppet because all forces on the poppet are nullified by equal and opposite forces. The solenoid coil has to counteract only the spring force.
+Poppet valves are best known for their use in internal combustion and steam engines, but are used in general pneumatic and hydraulic circuits where a pulsed flow control is wanted. The pulse can be controlled by a combination of differential pressure and spring load as required.
+Presta and Schrader valves used on pneumatic tyres are examples of poppet valves. The Presta valve has no spring and relies on a pressure differential for opening and closing while being inflated.
+Poppet valves are employed extensively in the launching of torpedoes from submarines. Many systems use compressed air to expel the torpedo from the tube, and the poppet valve recovers a large quantity of this air (along with a significant amount of seawater) in order to reduce the tell-tale cloud of bubbles that might otherwise betray the boat's submerged position.
+
+== Usage in internal combustion engines ==
+
+Poppet valves are used in most piston engines to control the flow of intake and exhaust gasses through the cylinder head and into the combustion chamber. The side of the poppet valve which sits inside the combustion chamber is a flat disk, while the other side tapers from the disk shape to a thin cylindrical rod called a "valve stem".
+
+=== Materials and durability ===
+In typical modern mass-production engines, the valves are solid and made from steel alloys. However some engines use hollow valves filled with sodium, to improve heat transfer.
+Many modern engines use an aluminium cylinder head. Although this provides better heat transfer, it requires steel valve seat inserts to be used; in older cast iron cylinder heads, the valve seats are often part of the cylinder head. A gap of 0.4–0.6 mm (0.016–0.024 in) is present around the valve stem, therefore a valve stem oil seal is used to prevent oil being drawn into the intake manifold and combustion chamber. Typically, a rubber lip-type seal is used. A common symptom of worn valve guides and/or defective oil seals is a puff of blue smoke from the exhaust pipe at times of increased intake manifold vacuum, such as when the throttle is abruptly closed.
+Historically, valves had two major issues, both of which have been solved by improvements in modern metallurgy. The first was that in early internal combustion engines, high wear rates of valves meant that a valve job to regrind the valves was required at regular intervals. Secondly, lead additives had been used in petrol (gasoline) since the 1920s, to prevent engine knocking and provide lubrication for the valves. Modern materials for the valves (such as stainless steel) and valve seats (such as stellite and inconel) allowed for leaded petrol to be phased out in many industrialised countries by the mid-1990s.
+
+=== Sodium cooled exhaust valves ===
+Exhaust valves are subject to very high temperatures and in extreme high performance applications may be sodium cooled. The valve is hollow and filled with sodium, which melts at a relatively low temperature and, in its liquid state, convects heat away from the hot valve head to the stem where it may be conducted to the cylinder head. Common in second world war piston engines, now normally only found in high performance engines.
+1960s and 70s Dodge truck engines came with sodium filled valves in the 413-1 and 440-3, #1859-623.
+
+=== Actuation method ===
+
+Early engines in the 1890s and 1900s used an "automatic" intake valve, which was opened by the vacuum in the combustion chamber and closed by a light spring. The exhaust valve had to be mechanically driven to open it against the pressure in the cylinder. Use of automatic valves simplified the mechanism, but valve float limited the speed at which the engine could run, and by about 1905 mechanically operated inlet valves were increasingly adopted for vehicle engines.
+Mechanical operation is usually by pressing on the end of the valve stem, with a spring generally being used to return the valve to the closed position. At high engine speeds (RPM), the weight of the valvetrain means the valve spring cannot close the valve as quickly enough, leading to valve float or valve bounce. Desmodromic valves use a second rocker arm to mechanically close the valves (instead of using valve springs) and are sometimes used to avoid valve float in engines that operate at high RPM.
+In most mass-produced engines, the camshaft(s) control the opening of the valves, via several intermediate mechanisms (such as pushrods, roller rockers and valve lifters). The shape of the cams on the camshaft influence the valve lift and determine the timing of when the valves open.
+
+=== Number and location of valves ===
+
+Early flathead engines (also called L-head engines) saw the valves located beside to the cylinder(s), in an "upside down" orientation parallel to the cylinder. Although this design made for simplified and cheap construction, the twisting path of the intake and exhaust gasses had major drawbacks for the airflow, which limited engine RPM and could cause the engine block to overheat under sustained heavy load. The flathead design evolved into intake over exhaust (IOE) engine, used in many early motorcycles and several cars. In an IOE engine, the intake valves were located directly above the cylinder (like the later overhead valve engines), however the exhaust valve remains beside the cylinder in an upside down orientation.
+These designs were largely replaced by the overhead valve (OHV) engine between 1904 until late-1960s/early-to-mid 1970s, where the intake and exhaust valves are both located directly above the cylinder (with the camshaft located at the bottom of the engine). In turn, OHV engines were largely replaced by the overhead camshaft (OHC) engines between 1950s until 1980s. The location of the valves is broadly the same between OHV and OHC engines, however OHC engines saw the camshaft located to the top of the engine with the valves and OHC engines often have more valves per cylinder. Most OHC engines have an extra intake and an extra exhaust valve per cylinder (four-valve cylinder head), compared with the design of two valves per cylinder used by most OHV engines. However some OHC engines have used three or five valves per cylinder.
+
+== Usage in steam engines ==
+
+James Watt was using poppet valves to control the flow of steam into the cylinders of his beam engines in the 1770s. A sectional illustration of Watt's beam engine of 1774 using the device is found in Thurston 1878:98, and Lardner (1840) provides an illustrated description of Watt's use of the poppet valve.
+When used in high-pressure applications, for example, as admission valves on steam engines, the same pressure that helps seal poppet valves also contributes significantly to the force required to open them. This has led to the development of the balanced poppet or double beat valve, in which two valve plugs ride on a common stem, with the pressure on one plug largely balancing the pressure on the other. In these valves, the force needed to open the valve is determined by the pressure and the difference between the areas of the two valve openings. Sickels patented a valve gear for double-beat poppet valves in 1842. Criticism was reported in the journal Science in 1889 of equilibrium poppet valves (called by the article the "double or balanced or American puppet valve") in use for paddle steamer engines, that by its nature it must leak 15 percent.
+
+Poppet valves have been used on steam locomotives, often in conjunction with Lentz or Caprotti valve gear. British examples include:
+
+LNER Class B12
+LNER Class D49
+LNER Class P2
+LMS Stanier Class 5 4-6-0
+BR standard class 5
+BR standard class 8 71000 Duke of Gloucester.
+Sentinel Waggon Works used poppet valves in their steam wagons and steam locomotives. Reversing was achieved by a simple sliding camshaft system.
+Many locomotives in France, particularly those rebuilt to the designs of Andre Chapelon, such as the SNCF 240P, used Lentz oscillating-cam poppet valves, which were operated by the Walschaert valve gear the locomotives were already equipped with.
+The poppet valve was also used on the American Pennsylvania Railroad's T1 duplex locomotives, although the valves commonly failed because the locomotives were commonly operated in excess of 160 km/h (100 mph), and the valves were not meant for the stresses of such speeds. The poppet valves also gave the locomotive a distinctive "chuffing" sound.
+One poppet valve design was invented in 1833 by American E.A.G. Young of the Newcastle and Frenchtown Railroad. Young had patented his idea, but the U.S. Patent Office fire of 1836 destroyed all records of it.

@@ -1,0 +1,135 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 9
+
+Section I. COOLING ESSENTIALS
+
+9-1. Need for Cooling. All internal combustion engines are equipped with some type of cooling system because of the high temperatures they generate during operation. High temperatures are necessary to generate the high gas pressures that act on the head of the piston. Power cannot be produced efficiently without high temperatures. However, it is not possible to use all of the heat of combustion without harmful results. The temperature in the combustion chamber during the burning of the fuel is well above the melting point of iron. Therefore, if nothing is done to cool the engine during operation, valves will burn and warp, lubricating oil will break down, and bearings and pistons will overheat, resulting in engine seizure.
+
+9-2. Cooling Mediums.
+
+a. Liquid. Liquid is the most popular coolant in automotive use. A liquid cooling system provides the most positive cooling and is best for maintaining an even engine temperature.
+
+b. Air. Air cooling is most practical for small
+
+vehicles and equipment because no radiator or hoses are required. Air cooling generally will not be used wherever water cooling is practical. This is because air- cooled engines do not run at even temperatures and require extensive use of aluminum to dissipate heat.
+
+c. Other Sources of Engine Cooling. There are other sources of heat dissipation for the engine in addition to the cooling system.
+
+(1) The exhaust system dissipates as much, if not more, heat than the cooling system, although that is not its purpose.
+
+(2) The engine oil, as stated in paragraph 81, removes heat from the engine and dissipates it to the air from the sump.
+
+(3) The fuel provides some engine cooling through vaporization. (4) A measurable amount of heat is dissipated to the air through radiation from the engine.
+
+Section II. LIQUID COOLING SYSTEMS
+
+9-3. Flow of Coolant (Fig. 9-1). A simple liquid-cooled cooling system consists of a radiator, coolant pump, piping, fan, thermostat, and a system of jackets and passages in the cylinder head and cylinder block through which the coolant circulates. Some engines are equipped with a water distribution tube inside the cooling passages that directs additional coolant to the points where the temperatures are highest. Cooling of the engine parts is accomplished by keeping the coolant circulating and in contact with the metal surfaces to be cooled. The pump draws the coolant from the bottom of the radiator, forces it through the jackets and passages, and ejects it into the upper tank on the top of the radiator. The coolant then passes through a set of tubes to the bottom of the radiator from which the cooling cycle begins again. The radiator is situated in front of a fan that is driven either by the water pump or an electric motor. The fan ensures an airflow through the radiator at times when there is no
+
+vehicle motion. It should be noted that the downward flow of coolant through the radiator creates what is known as a thermosiphon action. This simply means that as the coolant is heated in the jackets of the engine, it expands. As it expands, it becomes less dense and therefore lighter. This causes it to flow out of the top outlet of the engine and into the top tank of the radiator. As the coolant is cooled in the radiator, it again becomes more dense and heavier. This causes the coolant to settle to the bottom tank of the radiator. The heating in the engine and the cooling in the radiator therefore creates a natural circulation that aids the water pump. The earliest automotive vehicles relied on thermosiphon action and used no water pump.
+
+9-4. Engine WaterJackets (Fig. 9-1).
+
+a. The water passages in the cylinder block and cylinder head form the engine water jacket. In
+
+the majority of cylinder blocks the water jacket completely surrounds all cylinders along their full length. Within the Jacket, narrow passages are provided between cylinders for coolant circulation. However, in some engine configurations the cylinder bores are attached to each other and a coolant passageway is not provided between bores. An engine of this design often is referred to as having siamese cylinders. This type of engine tends to operate with cylinder temperatures slightly higher between the bores, and cooler where water Jackets come in contact with the bores. In addition, all engines are provided with water passages around the exhaust valve seat. This provides cooling for the valve when it comes in contact with the seat.
+
+b. In the cylinder head, the water jacket covers the combustion chambers at the top of the cylinders and contains water passages around the valve seats when they are located in the head.
+
+The coolant flows from the cylinder block up into the cylinder head through passages called water transfer ports. A tight seal at the ports between the cylinder head and block is very important. The watertight seal at the ports, as well as the gastight seal at the combustion- chamber openings, is obtained with one large gasket called the cylinder-head gasket.
+
+9.5. Coolants. Water is by far the most popular coolant for liquid-cooled engines. It is plentiful, inexpensive, and its boiling point is within the efficient operational temperature range of the engine.
+
+a. Antifreeze Protection. When a vehicle is operated in areas where the temperature falls below 32°F (0°C), an antifreeze solution must be added if water is used as the coolant. The most common antifreeze is ethylene glycol. Other antifreezes that are little used are glycerin, TA233492
+
+methyl alcohol, and ethyl alcohol. Ethyl and methyl alcohol provide adequate protection as an antifreeze when used in sufficient quantities. The main objection to these liquids, however, is that they evaporate below the operating temperature of modern automotive engines, making them impractical. Glycerin offers the same degree of protection as alcohol, but does not evaporate in use because of its high boiling point. Ethylene glycol (antifreeze compound) has an extremely high boiling point, does not evaporate in use, is noncorrosive, has no odor, and gives complete protection against freezing in normal use. Ethylene glycol gives a maximum protection against freezing to - 65°F ( - 53.8°C) when it is mixed to a solution of 60 percent with 40 percent water.
+
+If the proportions of ethylene glycol are raised in the solution, it will result in a higher freezing point for the solution, consequently giving less protection. If a 100- percent solution of ethylene glycol were used, its freezing point would not be much below that of water. Other antifreeze solutions, however, do not show this increase of freezing point with increasing concentration. Two good examples are methyl alcohol, which freezes
+
+at -144°F (-97.8°C) and ethyl alcohol, which freezes at - 174°F (-114.3°C).
+
+b. Corrosion Resistance. The cooling system must be free of rust and scale in order to maintain its efficiency. The use of inhibitors or rust preventatives will reduce or prevent corrosion and the formation of scale. Inhibitors are not cleaners and therefore will not remove rust and scale that have already accumulated. Most commercially available antifreeze solutions contain inhibitors. If water alone is used as a coolant, an inhibitor should be added.
+
+9-6. Radiators (Fig. 9-2). Radiators for automotive vehicles using liquid cooling systems consist of two tanks with a heat exchanging core between them. The upper tank contains an outside pipe called an inlet. The filler neck generally is placed on the top of the upper tank; attached to this filler neck is an outlet to the overflow pipe. The lower tank also contains an outside pipe that serves as the radiator's outlet. Operation of the radiator is as follows.
+
+a. The upper tank collects incoming coolant
+
+and, through the use of an internal baffle, distributes it across the top of the core.
+
+b. The core is made up of numerous rows of small vertical tubes that connect the upper and lower radiator tanks. Sandwiched between the rows of tubes are thin sheet metal fins. As the coolant passes through the tubes to the lower tank the fins conduct the heat away from it and dissipate this heat into the atmosphere. The dissipation of the heat from the fins is aided by directing a constant airflow between the tubes and over the fins.
+
+c. The lower tank collects the coolant from the core and discharges it to the engine through the outlet pipe
+
+d. The overflow pipe provides an opening from the radiator for escape of coolant or steam if pressure in the system exceeds the regulated maximum. This will prevent rupture of cooling system components. Some radiators are designed with their tanks on the sides in a vertical position. They are connected by a core that contains horizontal tubes. This radiator configuration is called a crossflow radiator and operates in the same manner as the conventional vertical flow radiator, though it should be noted that there is no thermosiphon effect (para 9-3) with a cross flow radiator.
+
+9-7. Water Pump (Fig. 9-3). All modern cooling systems have water pumps to circulate the coolant. The pump, usually located on the front side of the engine block, receives coolant from the lower tank and force sit through the water jacket into the upper radiator tank. The pump is a centrifugal type and has an impeller with blades that force coolant outward as the impeller rotates. It usually is driven by the engine crankshaft through a V- belt. Advantages of a centrifugal pump as a water pump are that it is inexpensive, circulates great quantities of coolant for its size, and is not clogged by small amounts of foreign matter. Another advantage is that a centrifugal pump permits a limited amount of thermosiphon action after the engine is shut down to help prevent boil over. The pump housing usually is cast from iron or aluminum. The impeller can be made from iron, aluminum, or plastic. It rides on a shaft that is supported in the housing on a sealed double row ball bearing. The pump shaft also has a spring-
+
+loaded seal to prevent coolant leakage.
+
+9-8. Fan and Shrouding (Fig. 9-1). The fan pulls a large volume of air through the radiator core so that engine heat can be dissipated effectively. In most cases the fan works in an enclosure called a shroud to ensure maximum efficiency of the fan. There are two methods of driving a fan. One method is to attach it to the end of the water pump shaft. The other method that is becoming increasingly popular is to utilize an electric motor.
+
+a. Thermostatically Controlled Engine-Driven Fan. Some vehicles are equipped with a seven-blade fan, particularly those for heavy-duty use or those with air conditioning. This fan configuration will move tremendous amounts of air through the radiator to provide extra cooling capacity. The problem with a high- capacity fan is that it can cause the radiator core to freeze in cold weather. Other problems that are associated with a high output fan are excessive power consumption and noise at highway speeds. Most seven- blade fans are driven by the water pump through a viscous (fluid) clutch (fig. 9-4) to correct these conditions. The fan clutch is designed to limit the fan speed based on the
+
+temperature of the air drawn through the radiator. The clutch will provide controlled slippage if the temperature of this air is below a preset minimum. A fan clutch also will control the noise and the power consumption of the fan by limiting its speed to a preset maximum.
+
+b. Electrically Motorized Fan (Fig. 95). The electrically motorized fan is gaining popularity in
+
+automotive use. In the newer configurations of front- wheel drive vehicles with transversely mounted engines, the electric fan is a necessity because the end of the engine is not located directly behind the radiator. Description and operation of the fan is as follows:
+
+(1) The fan blade is mounted on the motor shaft. The motor and fan blade assembly then is mounted directly behind the radiator core.
+
+(2) The fan receives electric current through the ignition switch and a temperature sensitive switch located at the bottom of the radiator. The purpose of this radiator thermal switch is to turn on the fan to provide cooling whenever the temperature of the coolant reaches approximately 210°F (98.8°C). This serves to allow the fan to run only when needed.
+
+(3) Some models incorporate a timed relay that allows the fan to run for a short time after engine shutdown. This, in conjunction with thermosiphon action (para 9-3) in the cooling system, helps to prevent boilover after engine shutdown.
+
+c. Variable Pitch (Flexible) Fan Blades (Fig. 9-6). Some vehicles are equipped with blades that are made of flexible aluminum or fiberglass. These fan blades are made to change pitch as the speed of the fan increases so that the fan will not create excessive noise or draw excessive engine power at highway speeds.
+
+9-9. Thermostats.
+
+a. Purpose. The water pump starts the coolant circulating through the system as soon as the engine is started, no matter how low the temperature. Therefore, it is necessary to install a thermostat to ensure quick warmup and prevent overcooling in cold weather. A thermostat regulates engine temperature by controlling automatically the amount of coolant flowing from the engine block to the radiator core.
+
+b. Operation. The thermostat is merely a heat- operated unit that controls a valve between the engine block and the radiator. It usually is located in series with the engine coolant outlet in a casing called the thermostat housing. The thermostat, by design, is made so that if it fails, it will be in the opened position so as to allow the free circulation of coolant through the engine.
+
+c. Configurations. The two configurations of the thermostat are:
+
+(1) The bellows type (fig. 9-7), which consists of a flexible metal bellows attached to a valve. The bellows, which is sealed and expandable, is filled with a highly volatile liquid such as ether. The bellows chamber is contracted when the coolant is cold, holding the valve closed. The liquid in the bellows vaporizes as the coolant is heated, causing the bellows to expand.
+
+The bellows pull the valve open as they expand, allowing coolant to circulate. The bellows-type thermostat is little used in modern equipment because it is sensitive to the pressure around it, making it inaccurate in modern pressurized cooling systems.
+
+(2) The pellet type (fig. 9-8), which is the currently used thermostat because its accuracy is unaffected by modern pressurized cooling systems. The thermostat consists of a valve that is operated by a piston or a steel pin that fits into a small case containing a copper impregnated wax pellet. When the engine is cold, the wax pellet is contracted and the spring pushes the valve closed. The wax pellet expands as the engine heats up, pushing the valve open against the force of the spring. The pellet-type thermostat will maintain a constant temperature by varying the size of the valve opening.
+
+d. Thermostat Heat Ranges. A variety of thermostats are available that allow the coolant to operate at different temperatures. The standard heat ranges available are from 160°F (71°C) to 210°F (99.8° C).
+
+e. Coolant Bypass (Fig. 9-9). The engine is designed so that the water pump will circulate coolant within the water jackets whenever the thermostat is closed. This is important to keep pistons and valves from overheating even though the engine is below operating temperature.
+
+9-10. Radiator Pressure Cap.
+
+a. Purpose. Modern automotive vehicles use pressurized cooling systems that allow a certain amount of pressure to develop within the system as its temperature goes up. The increase in pressure will raise the boiling point of the coolant proportionally, helping to prevent boilover.
+
+b. Operation (Fig. 9-10). The cap contains two spring-loaded valves that are normally
+
+closed, sealing the system. The larger of these two valves is the pressure valve and the smaller is the vacuum valve. The pressure valve acts as a safety valve that will vent any pressure over the rated maximum through the overflow pipe. The vacuum valve allows air to enter the system as the engine cools down. This is to prevent atmospheric pressure from collapsing the hoses.
+
+9-11. Expansion Tank (Fig. 9-11). Some vehicles use an expansion tank in their cooling systems. The expansion tank is mounted in series with the upper radiator hose. It is used to supply extra room for coolant expansion and generally takes the place of the upper radiator tank. The radiator pressure cap and the overflow line also are mounted on the expansion tank.
+
+9-12. Closed Cooling System (Fig. 9-12).
+
+a. Purpose. The purpose of a closed cooling system is twofold. First, the system is designed to maintain a completely full radiator at all times. This will increase the efficiency of the system by allowing a maximum amount of coolant in the system during all operating conditions. Second, during an overheating condition, the closed cooling system prevents coolant loss through the overflow line by collecting it in the recovery tank.
+
+b. Operation. As the temperature of the cooling system rises, the pressure also will rise. This will open the pressure valve in the pressure cap, causing coolant to exit through the overflow tube, thus venting excess pressure. An open-type cooling system will empty coolant onto the road, causing a low coolant level after the temperature returns to normal. When a closed cooling system is used, the overflow line is connected to the bottom of a coolant recovery tank to catch and hold any expelled coolant. As the temperature of the coolant drops, the corresponding drop in pressure causes atmospheric pressure to push the coolant in the recovery tank back into the cooling system through the open vacuum valve in the pressure cap.
+
+Section III AIR COOLING SYSTEMS
+
+9-13. Principles (Fig. 9-13).
+
+a. An air-cooled engine uses air as the principal cooling medium. Air-cooled engines are very easily identified by separate finned cylinders, finned cylinder heads, and in most cases, large cooling fans and extensive duct work.
+
+b. The primary means of removing heat from an air- cooled engine is by dissipation to the air. The duct work and the cooling fans cause a constant flow of air over and around the cylinders and cylinder heads. The finned design of these components add a tremendous amount of surface area to them so that they are able to dissipate an adequate amount of heat.
+
+c. An air cooling system, like a liquid cooling system, must be controlled to prevent overcooling of the engine. To accomplish this, a system of thermostatically controlled doors are usually incorporated into the ducting. The thermostat is usually a bellows that is filled with butyl alcohol. As the thermostat heats up, it opens the temperature control doors through linkage. When the doors are open, all of the cooling air is diverted through the engine cooling fins. When the doors are closed, all cooling air bypasses the engine and no cooling takes place. To maintain uniform engine
+
+temperature, the thermostat, in most cases, will position the doors so that part of the cooling air bypasses and part of it cools. The thermostat, in the event of failure, is designed to open the doors fully to prevent overheating.
+
+d. Because an air cooling system does not employ a liquid coolant, it often is assumed that air alone acts as the cooling medium. However, this is not true because, as was pointed out in paragraph 9-2, the fuel and the lubrication systems also help in cooling the engine.
+
+The lubrication system of an air-cooled engine always utilizes an air cooling system. There is also a certain amount of cooling as the fuel vaporizes in the intake manifolds and combustion chambers.
+
+e. Virtually all air-cooled engines utilize an oil cooler to help in the cooling process. The oil cooler unit usually is located in the ducting so that it is exposed to the forced air from the cooling fan. Its operation is the same as that described in paragraph 8-14.

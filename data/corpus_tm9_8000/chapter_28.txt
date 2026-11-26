@@ -1,0 +1,81 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 28
+
+PROPELLER SHAFTS, SLIP JOINTS, AND UNIVERSAL JOINTS
+
+Section I. PROPELLER SHAFTS AND SLIP JOINTS
+
+28-1. Propeller Shafts (Fig. 28-1).
+
+a. Purpose. The power, having been transmitted through an angle by means of a universal Joint, is next carried along the power train by a device known as a propeller, or drive, shaft. Propeller shaft is the most commonly used term; however, either may be used. In amphibious vehicles, both terms are used: propeller shaft, to indicate the device that transmits power to the propeller; and drive shaft, to Indicate that which transmits
+
+power to the wheels.
+
+b. Construction. Propeller shafts may be solid or tubular. The torsional stress In a shaft varies from zero at the axis to a maximum at the outside. Because the center of the shaft resists only a small portion of the load, hollow shafts are used wherever practicable. A solid shaft is somewhat stronger than a hollow shaft of the same diameter,
+
+but a hollow shaft is much stronger than a solid shaft of the same weight.
+
+28-2. Slip Joints(Fig. 28-1).
+
+a. Purpose. Because flexing of the springs causes the axle housing to move forward and backward, some provision must be made to allow the propeller shaft to contract and expand. A device known as a slip joint provides the necessary telescopic action for the propeller
+
+shaft.
+
+b. Construction. A slip joint consists of a male and female spline, a grease seal, and a lubrication fitting. The male spline is an integral part of the propeller shaft and the female portion is fixed to the universal joint directly behind the transmission or transfer case. As the axle housing moves forward and backward, the slip joint gives freedom of movement in a horizontal direction and yet is capable of transmitting rotary motion.
+
+Section II. CONVENTIONAL UNIVERSAL JOINTS
+
+28-3. Purpose (Fig. 28-2). A universal joint is a flexible coupling between two shafts that permits one shaft to drive another at an angle to it. It is flexible in the sense that it will permit power to be transmitted while the angle between the shaft is being varied continually. A simple universal joint is composed of three fundamental units consisting of one journal and two yokes. The two yokes are set at right angles to each other, and their open ends are joined by the journal. This construction permits each yoke to pivot on the axis of the journal and also permits the transmission of the rotary motion from one yoke to the other. As a result, the universal joint can transmit the power from the engine through the shaft to the drive axle, even though the engine is mounted rigidly in the frame at a higher level than the axle, which is constantly moving up and down in relation to the frame.
+
+28-4. Characteristics of Operation (Fig. 28-3). A peculiarity of the conventional universal joint is that it causes a driven shaft to rotate at a variable speed in respect to the driving shaft. It has been found that there is a cyclic variation, in the form of an acceleration and a deceleration of
+
+the speed, twice during each revolution. The extent of such fluctuation depends on the amount of angularity, roughly about 7 percent for an angle of 15 degrees, and about 30 percent for an angle of 30 degrees. This fact is shown graphically in figure 28-3, where the variations of the angular velocity during one revolution of a shaft driven through a conventional universal joint are plotted. The driving shaft is running at a constant velocity of 1,000 rpm, and the angle between the shafts is 30 degrees. Sketches of the universal joint positions at the minimum and maximum velocity fluctuation points are placed above the corresponding portions of the curve to enable the reader to correlate the curve with the action of the universal joint yoke and journal.
+
+a. In a quarter of a revolution, the speed of the driven shaft varies from a minimum of 866 to a maximum of 1,155 rpm. The speed of the driven shaft equals that of the driving shaft at four points during the revolution; that is, 45, 135, 225, and 315 degrees, where the curve intersects the constant velocity (dotted) line. The extent of each fluctuation depends on the size of the angle between the shafts; the greater the angle, the greater the variation in the speed of the two shafts.
+
+b. This variation of velocity cannot be eliminated with a simple universal joint, but its effect can be minimized by using two universal joints, one at each end of the shaft. If only one joint is used between the transmission and the rear axle, the acceleration and deceleration caused by the joint is resisted on one end by the engine and on the other end by the inertia of the vehicle. The combined action of these two forces produces great stress on all parts of the power train and, in addition, results in a nonuniform force being applied to the wheels. When two universal joints
+
+are employed, the second joint is used to compensate for the speed fluctuations caused by the first. In order to accomplish this, the angle between the transmission shaft and the propeller shaft must be the same as the angle between the propeller shaft and the final drive of the rear axle. Another requirement is that the two yokes of the universal joint that are attached to the propeller shaft be in the same plane. If the yokes of the joints attached to the propeller shaft are in the same plane, the driving yoke of the first joint will be at an angle of 90 degrees with the driving yoke of the second. The two yokes attached to the propeller shaft act as the driven yoke of the first joint and the driving yoke of the second joint, respectively. With this arrangement, the first joint is producing its maximum fluctuation at the same time the second joint is producing its minimum fluctuation. This results in a nonvarying wheel speed for a given engine speed, even though the speed of the shaft between the joints is changing constantly.
+
+28-5. Types (Fig. 28-4). In an actual universal joint, bearings are included at the four points where the journal is attached to the yokes. In addition, one of the yokes usually incorporates a splined slip joint. In one type of universal joint (the ball-and-trunnion type), the universal joint itself incorporates a feature that permits variations in length of the propeller shaft.
+
+a. Journal-Type Universal Joint. There are several variations of this type of universal joint, two of
+
+which are shown in A and B, figure 28-4. The different universal joints of this type vary from each other mainly in the manner in which the journal is attached to the driving and driven yokes. For example, in the universal joint shown in A, figure 28-4, the journal is assembled in the shaft and slip yokes, the bearing assemblies inserted from the outside and secured by spring bearing retainers inside the yokes. The bearings on the transverse ends of the journal are clamped to the flange yokes and secured from outward movement by bearing retainers. The universal joint shown in A, figure 28-4, differs from that shown in B, figure 28-4, in the manner in which the journal is attached to the flange yoke. In this universal joint, the bearing assembly is contained in bearing blocks. The blocks are mounted against the flange yokes and secured with bolts extending longitudinally through the yokes.
+
+b. Ball and Trunnion. Two universal joints of the ball-and-trunnion type are used in an application, one on each end of the propeller shaft. This type of joint is shown in C, figure 28-4. There is a trunnion pin through the end of the propeller shaft. The pin is fitted with balls that ride in grooves in the flanged body. The balls are assembled on bearings so they can rotate with little friction. Compensated springs at each end of
+
+the propeller shaft hold it in a centered position. Variations in length are permitted by the longitudinal movement of the balls in the body grooves, and angular
+
+displacement is allowed by outward movement of the balls on the trunnion pins. This type of universal joint is recognized easily by the flexible dust boot that covers it.
+
+Section III. CONSTANT VELOCITY JOINTS
+
+28-6. Characteristics of Operation.
+
+a. The speed fluctuations caused by the conventional universal joints described in paragraph 28-5 do not cause much difficulty in automotive propeller shafts where they have to drive through small angles only. In front-wheel drives where the wheels are cramped up to 30 degrees in steering, velocity fluctuations present a serious problem. Conventional universal joints would cause hard steering, slippage, and tire wear each time the vehicle turned the corner. Constant-velocity universal joints, which eliminate the pulsations, are used exclusively to connect the front axle shaft to the driving wheels.
+
+b. The conventional universal joint produces velocity fluctuations because the journal connecting the two yokes does not allow free movement other than a pivoting action. Velocity fluctuations occur because the journal tilts back and forth (wobbles) as the joint rotates. This tilting movement is translated into rotary movement and, when the journal tilts toward the output shaft, it adds to the speed of the output; and when the journal tilts away from the output shaft, it subtracts from the speed and the output shaft rotates slower than the input shaft. The only time that the speeds of the two shafts are equal is when the journal lies in the plane that bisects the angle between the two shafts. As stated in paragraph 28-5, this occurs only four times during each revolution.
+
+c. It can be seen that a universal joint transmitting constant velocity must be designed to permit the point of driving contact between the two halves of the coupling to remain in a plane that bisects the angle between the two shafts. If this is accomplished, some arrangements must be made for the points of the driving contact to move laterally as the joint rotates. Keeping this in mind, it will be easier to understand the principles of constant- velocity joints that are in universal use today. Three types used in Army vehicles are: Rzeppa, Bendix-Weiss, and Tracta. These types are discussed separately to show that, in all, a plane passed through the points of the
+
+driving engagement will, at all times, bisect the angle between the driving and the driven shaft.
+
+28-7. Types.
+
+a. Rzeppa (Fig. 28-5). The Rzeppa joint is a ball- bearing type in which the balls furnish the only points of driving contact between the two halves of the coupling. The details of the component parts, adapted for use in a front driving axle, are shown In figure 28-5. The inner race (driving member) is splined to the inner axle shaft; the outer race (driven member) is a spherical housing that is an integral part of the outer shaft; the ball cage is fitted between the two races. The close spherical fit between the three main members supports the inner shaft whenever it is required to slide in the inner race, relieving the balls of any duty other than the transmission of power. The movement of the six balls is controlled by the cage. The cage positions the balls in a plane at right angles to the two shafts when the shafts are in the same line. A pilot pin, located in the outer shaft, moves the pilot and the cage by a simple leverage in such a manner that the angular movement of the cage and the balls is one-half the angular movement of the driven shaft. When the driven shaft is moved 20 degrees, the cage and the balls move 10 degrees. As a result, the balls of the constant-velocity universal joint are positioned from the top view, to bisect the angle formed.
+
+b. Bendix-Weiss (Fig. 28-6). The Bendix-Weiss joint also uses balls that furnish points of driving contact, but its construction differs from that of the Rzeppa in that the balls are a tight fit between the two halves of the coupling and no cage is used. The center ball rotates on a pin inserted in the outer race, and serves as a locking medium for the four other balls. The driving contact remains on the plane that bisects the angle between the two shafts, but it is the rolling friction between the four balls and the universal
+
+joint housing that positions the balls. The manner in which this action is accomplished can be illustrated by placing a ruler across a round pencil on a table; if the ruler is moved to cause the pencil to roll without slipping, the pencil travel is exactly half that of the ruler. In this example there are three objects: the table top, the pencil, and the ruler; two of which are movable members, and the third stationary. The inner race can be considered as the stationary table top, the ball as the pencil, and the driven race as the ruler. The same relative motion between the pencil and the ruler occurs between the outer (driven) race and the balls in the constant-velocity joint because the balls fit tight enough in the coupling to prevent slippage. The only difference is that motion of
+
+the pencil was limited to rolling in a direction perpendicular to the long axis of the pencil, whereas the balls may move in any direction. When both shafts of the constant-velocity joint are in line, that Is, at an angle of 180 degrees, the balls lie in a plane that is at 90 degrees to the shafts. If it is assumed that the driving shaft remains in the original position, any movement of the driven shaft out of this line will cause the balls to move one-half the angular distance. Therefore, if the driven shaft moves through an angle of 20 degrees, the angle between the shafts will be reduced to 160 degrees, the balls will move 10 degrees in the same direction, and the angle between the driving shaft
+
+1. HUBCAP 7. BRAKE LOCKING PLATE 13. KINGPIN LOCKPIN 2. DRIVE FLANGE SCREW 8. KINGPIN BEARING CUP 14. WHEEL BEARING SPINDLE BEARING 3. FRONT WHEEL BEARING CUP 9. KINGPIN 15. BRAKE SHOE ANCHOR PIN 4. WHEEL BEARING SPINDLE 10. OIL SEAL 16. HUB OIL SEAL 5. BRAKE DRUM 11. BENDIX-WEISS UNIVERSAL JOINT 17. HUB BOLT NUT 6. WHEEL BRAKE CYLINDER 12. WHEEL SPINDLE BEARING THRUST 18. FRONT WHEEL BEARING CONE WASHER
+
+and the plane in which the balls lie will be reduced to 80 degrees, fulfilling the requirement that the balls must lie In the plane that bisects the angle of drive.
+
+c. Tracta Joint (Fig. 28-7). The Tracta universal joint is the simplest to Install and service. It is, in effect, one universal joint within another, with points of driving contact on the outer portions of the Joint. This universal Joint consists of four main parts: a forked driving shaft, a forked driven shaft, a female (or slotted) Joint, and a male (or spigot) Joint. The complete Inner Joint, consisting of the female Joint and the male Joint, floats between the forks; movement between the Individual halves of the Inner Joint is permitted In a direction perpendicular to that permitted by the slotted forks, by the action of the spigot moving In the slot. With this arrangement, the points of driving contact are allowed to move as the universal joint rotates, thereby
+
+remaining in a plane that bisects the angle between the two shafts. The fork ends subtend an angle greater than 180 degrees so as to be self-locking once the joint is assembled to the inner parts of the joint. A flat surface is milled on the cylindrical section of the joint to permit the Joint to be Inserted in place.
+
+d. Double Cross and Roller (Flg. 28-8). The double cross and roller Joint uses two cross and roller Joints in tandem to form a single joint. The joints are linked through a centering yoke that works In conjunction with specially designed, spring-loaded centering ball. The components are contained within the center coupling yoke. As the shaft rotates, the action of the centering ball and yoke act to maintain an equally divided drive angle between the connected shafts, resulting In a constant drive velocity.

@@ -1,0 +1,60 @@
+Overhead camshaft engine
+
+An  overhead camshaft (OHC) engine is a  piston engine in which the camshaft is located in the cylinder head above the combustion chamber. This contrasts with earlier overhead valve engines (OHV), where the camshaft is located below the combustion chamber in the engine block.
+Single overhead camshaft (SOHC) engines have one camshaft per bank of cylinders. Dual overhead camshaft (DOHC, also known as "twin-cam") engines have two camshafts per bank. The first production car to use a DOHC engine was built in 1910. Use of DOHC engines slowly increased from the 1940s, leading to many automobiles by the early 2000s using DOHC engines.
+
+== Design ==
+In an OHC engine, the camshaft is located at the top of the engine, above the combustion chamber. This contrasts with the earlier overhead valve engine (OHV) and flathead engine configurations, where the camshaft is located down in the engine block. The valves in both OHC and OHV engines are located above the combustion chamber; however, an OHV engine requires pushrods and rocker arms to transfer the motion from the camshaft up to the valves, whereas an OHC engine has the valves directly actuated by the camshaft.
+Compared with OHV engines with the same number of valves, there are fewer reciprocating components and less valvetrain inertia in an OHC engine. This reduced inertia in OHC engines results in less valve float at higher engine speeds (RPM). A downside is that the system used to drive the camshaft (usually a timing chain in modern engines) is more complex in an OHC engine, such as the 4-chain valvetrain of the Audi 3.2. Another disadvantage of OHC engines is that during engine repairs where the removal of the cylinder head is required, the camshaft engine timing needs to be reset. In addition, an OHC engine has a large cylinder head to accommodate the camshaft or an extra set of valves to increase the volumetric efficiency, so that with the same displacement as an OHV engine, the OHC engine will end up being the physically larger of the two mostly due to the enlarged cylinder head.
+The other main advantage of OHC engines is that there is greater flexibility to optimise the size, location and shape of the intake and exhaust ports, since there are no pushrods that need to be avoided. This improves the gas flow through the engine, increasing power output and fuel efficiency.
+
+=== Single overhead camshaft (SOHC) ===
+
+The oldest configuration of overhead camshaft engine is the single overhead camshaft (SOHC) design. A SOHC engine has one camshaft per bank of cylinders, therefore a straight engine has a total of one camshaft and a V engine or flat engine has a total of two camshafts (one for each cylinder bank).
+Most SOHC engines have 2 valves per cylinder (sometimes 3 or 4), 1 intake valve and one exhaust valve. Motion of the camshaft is usually transferred to the valves either directly (using a tappet) or indirectly via a rocker arm.
+
+=== Dual overhead camshaft (DOHC) ===
+
+A dual overhead cam, double overhead cam, or twin-cam engine has two camshafts over each bank of the cylinder head, one for the intake valves and another for the exhaust valves. Therefore there are two camshafts for a straight engine and a total of four camshafts for a V engine or a flat engine. 
+A V engine or flat engine requires four camshafts to function as a DOHC engine, since having two camshafts in total would result in only a single camshaft per cylinder bank for these engine layouts. Some V engines with four camshafts have been marketed as "quad-cam" engines, however technically "quad-cam" would require four camshafts per cylinder bank (i.e. eight camshafts in total), therefore these engines are merely dual overhead camshaft engines. 
+Many DOHC engines have 4 valves per cylinder (sometimes 5, Audi or Volkswagen for instance). The camshaft usually operates the valves directly via a bucket tappet. A DOHC design permits a wider angle between intake and exhaust valves than in SOHC engines, which improves the air-fuel mixture's flow through the engine. A further benefit is that the spark plug can be placed at the optimum location, which in turn improves combustion efficiency. Another newer benefit of DOHC engine design is the ability to independently change/phase the timing between each camshaft and the crankshaft. This affords better fuel economy by allowing a broader torque curve. Although each major manufacturer has their own trade name for their specific system of variable cam phasing systems, overall they are all classified as variable valve timing.
+
+== Components ==
+
+=== Timing belt / timing chain ===
+
+The rotation of a camshaft is driven by a crankshaft. Many 21st century engines use a toothed timing belt made from rubber and kevlar to drive the camshaft. Timing belts are inexpensive, produce minimal noise and have no need for lubrication. A disadvantage of timing belts is the need for regular replacement of the belt; recommended belt life typically varies between approximately 50,000–100,000 km (31,000–62,000 mi). If the timing belt is not replaced in time and fails and the engine is an interference engine, major engine damage is possible. The engines timing will most likely also have to be restored or reconfigured if repaired, since the timings such as ignition and valve movement will usually be off.
+The first known automotive application of timing belts to drive overhead camshafts was the 1953 Devin Panhard racing specials built for the SCCA H-modified racing series in the United States. These engines were based on Panhard OHV flat-twin engines, which were converted to SOHC engines using components from Norton motorcycle engines. The first production car to use a timing belt was the 1962 Glas 1004 compact coupe.
+Another camshaft drive method commonly used on modern engines is a timing chain, constructed from one or two rows of metal roller chains. By the early 1960s most production automobile overhead camshaft designs used chains to drive the camshaft(s). Timing chains do not usually require replacement at regular intervals, however the disadvantage is that they are noisier than timing belts.
+
+=== Gear train ===
+A gear train system between the crankshaft and the camshaft is commonly used in diesel overhead camshaft engines used in heavy trucks. Gear trains are not commonly used in engines for light trucks or automobiles.
+
+=== Other camshaft drive systems ===
+
+Several OHC engines up until the 1950s used a shaft with bevel gears to drive the camshaft. Examples include the 1908–1911 Maudslay 25/30, the Bentley 3 Litre, the 1917-? Liberty L-12, the 1929–1932 MG Midget, the 1925–1948 Velocette K series, the 1931–1957 Norton International and the 1947–1962 Norton Manx. In more recent times, the 1950–1974 Ducati Single, 1973–1980 Ducati L-twin engine, 1999–2007 Kawasaki W650 and 2011–2016 Kawasaki W800 motorcycle engines have used bevel shafts. The Crosley four cylinder was the last automotive engine to use the shaft tower design to drive the camshaft, from 1946 to 1952; the rights to the Crosley engine format were bought by a few different companies, including General Tire in 1952, followed by Fageol in 1955, Crofton in 1959, Homelite in 1961, and Fisher Pierce in 1966, after Crosley closed the automotive factory doors, and they continued to produce the same engine for several more years.
+A camshaft drive using three sets of cranks and rods in parallel was used in the 1920–1923 Leyland Eight luxury car built in the United Kingdom. A similar system was used in the 1926–1930 Bentley Speed Six and the 1930–1932 Bentley 8 Litre. A two-rod system with counterweights at both ends was used by many models of the 1958–1973 NSU Prinz.
+
+== History ==
+
+=== 1900–1914 ===
+Among the first overhead camshaft engines were the 1902 Maudslay SOHC engine built in the United Kingdom and the 1903 Marr Auto Car SOHC engine built in the United States. The first DOHC engine was a Peugeot inline-four racing engine which powered the car that won the 1912 French Grand Prix. Another Peugeot with a DOHC engine won the 1913 French Grand Prix, followed by the Mercedes-Benz 18/100 GP with an SOHC engine winning the 1914 French Grand Prix.
+The Isotta Fraschini Tipo KM — built in Italy from 1910–1914 — was one of the first production cars to use an SOHC engine.
+
+=== World War I ===
+
+During World War I, both the Allied and Central Powers; specifically those of the German Empire's Luftstreitkräfte air forces, sought to quickly apply the overhead camshaft technology of motor racing engines to military aircraft engines. The SOHC engine from the Mercedes 18/100 GP car (which won the 1914 French Grand Prix) became the starting point for both Mercedes' and Rolls-Royce's aircraft engines. Mercedes created a series of six-cylinder engines which culminated in the Mercedes D.III. Rolls-Royce reversed-engineered the Mercedes cylinder head design based on a racing car left in England at the beginning of the war, leading to the Rolls-Royce Eagle V12 engine. Other SOHC designs included the Spanish Hispano-Suiza 8 V8 engine (with a fully enclosed-drivetrain), the American Liberty L-12 V12 engine, which closely followed the later Mercedes D.IIIa design's partly-exposed SOHC valvetrain design; and the Max Friz-designed; German BMW IIIa straight-six engine. The DOHC Napier Lion W12 engine was built in Great Britain beginning in 1918.
+Most of these engines used a shaft to transfer drive from the crankshaft up to the camshaft at the top of the engine. Large aircraft engines— particularly air-cooled engines— experienced considerable thermal expansion, causing the height of the cylinder block to vary during operating conditions. This expansion caused difficulties for pushrod engines, so an overhead camshaft engine using a shaft drive with sliding spline was the easiest way to allow for this expansion. These bevel shafts were usually in an external tube outside the block, and were known as "tower shafts".
+
+=== 1919–1944 ===
+
+An early American overhead camshaft production engine was the SOHC straight-eight engine used in the 1921–1926 Duesenberg Model A luxury car.
+In 1926, the Sunbeam 3 litre Super Sports became the first production car to use a DOHC engine. 
+In the United States, Duesenberg added DOHC engines (alongside their existing SOHC engines) with the 1928 release of the Duesenberg Model J, which was powered by a DOHC straight-eight engine. The 1931–1935 Stutz DV32 was another early American luxury car to use a DOHC engine. Also in the United States, the DOHC Offenhauser racing engine was introduced in 1933. This inline-four engine dominated North American open-wheel racing from 1934 until the 1970s.
+Other early SOHC automotive engines were the 1920–1923 Wolseley Ten, the 1928–1931 MG 18/80, the 1926–1935 Singer Junior and the 1928–1929 Alfa Romeo 6C Sport. Early overhead camshaft motorcycles included the 1925–1949 Velocette K Series and the 1927–1939 Norton CS1.
+
+=== 1945–present ===
+
+The 1946–1948 Crosley CC Four was arguably the first American mass-produced car to use an SOHC engine. This small mass-production engine powered the winner of the 1950 12 Hours of Sebring.
+Use of a DOHC configuration gradually increased after World War II, beginning with sports cars. Iconic DOHC engines of this period include the 1948–1959 Lagonda straight-six engine, the 1949–1992 Jaguar XK straight-six engine and the 1954–1994 Alfa Romeo Twin Cam inline-four engine. The 1966–2000 Fiat Twin Cam inline-four engine was one of the first DOHC engines to use a toothed timing belt instead of a timing chain.
+In the 1980s, the need for increased performance while reducing fuel consumption and exhaust emissions saw increasing use of DOHC engines in mainstream vehicles, beginning with Japanese manufacturers. By the mid-2000s, most automotive engines used a DOHC layout.

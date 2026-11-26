@@ -1,0 +1,58 @@
+Parabolic aluminized reflector
+
+A parabolic aluminized reflector lamp (PAR lamp or simply PAR) is a type of electric lamp that is widely used in commercial, residential, and transportation illumination. It produces a highly directional beam. Usage includes theatrical lighting, locomotive headlamps, aircraft landing lights, and residential and commercial recessed lights ("cans" in the United States).
+Many PAR lamps are of the sealed beam variety, with a parabolic reflector, one or more filaments, and a glass or plastic lens sealed permanently together as a unit. Originally introduced for road vehicle headlamp service, sealed beams have since been applied elsewhere. Halogen sealed beam lamps incorporate a halogen lamp within a quartz or hard glass envelope.
+
+== Construction ==
+
+A PAR lamp consists of a light source, with lens and a parabolic reflector with a smooth aluminium surface determining the spread of the beam. The most common sealed beam type combines these three elements into an integral unit. The light source usually approximates a point source that can be focused on; tungsten filaments and halogen lamps are common, but some theatrical usage that requires a higher color temperature may use hydrargyrum medium-arc iodide (HMI) instead.
+
+=== Sizes ===
+PAR lamps come in a variety of standardized sizes. The size of a round PAR lamp is expressed as the nominal diameter of the mouth of the reflector, in eighths of an inch, so the approximate nominal lamp bell diameter in inches can be found by dividing the PAR size by 8. A PAR56, for example, is 56 eighths of an inch (7 inches) in diameter; a PAR36 is 36 eighths (4.5 inches) in diameter, and so on. Similarly, the diameter in millimeters can be found by multiplying the PAR designation by 3.175. For example, a PAR16 lamp is approximately 2 inches or 50.8 mm in diameter.
+The size of rectangular PAR lamps is expressed as the letters REC followed by the reflector's mouth height, the letter "X", and the reflector's mouth width, with both dimensions in millimeters. For example, REC142X200 lamps are 142 mm high and 200 mm wide.
+
+== Light beams ==
+Depending on the parabolic reflector geometry, the configuration of the filament and its placement within the paraboloid, PAR lamps can achieve a wide range of beams, from narrow spot to wide flood. The following suffixes are commonly used with PAR lamps to indicate their beam width:  PAR lamps are also manufactured to produce beam patterns specific to the needs of particular applications, such as low-beam and high-beam headlamps and fog and driving lights for vehicles, and warning lamps for school buses.
+
+The suffixes given are for 1000-watt PAR64 lamps only. The focused beam can be oval and is sometimes specified in two numbers.
+
+== Uses ==
+
+=== Automotive headlamps ===
+
+In the United States of America, sealed-beam headlamps were introduced in 1939, becoming standard equipment across all American-market vehicles starting in 1940 and remaining the only type allowed for almost four and a half decades, until the 1984 model year. Before and after those years, vehicles could have model-specific, non-standard-shape headlamps, using any of a wide variety of replaceable light bulbs.
+Between 1940 and 1956, all U.S. cars had to have two 7-inch (178 mm) round headlamps with dual filaments, so each lamp provided both a high and a low beam light distribution. In 1957, a system of four sealed-beam headlamps—two per side, of 5+3/4 inches (146 mm) diameter, was allowed in some U.S. states. The following year in 1958, all states allowed the new system. Two of the lamps contained two filaments and served as low and high beam, while the other two lamps contained only one filament and were active only during high-beam operation.
+From the 1975 model year, a rectangular version of the four-lamp system was legalized. The new lamps were 165 mm (6+1/2 in) wide and 100 mm (4 in) tall. For 1978, a rectangular version of the two-lamp system became legal; these measured 200 mm (8 in) wide and 142 mm (5+1/2 in) tall.
+With only two round and two rectangular lamp sizes allowed, the sealed-beam headlamp mandate greatly restricted styling possibilities for automobiles.
+Halogen sealed-beam headlamps appeared on U.S. cars in 1979, providing greater high-beam intensity, recently permitted by Federal Motor Vehicle Safety Standard 108, without unreasonably high lamp wattage. Eventually, halogen sealed-beam lights came to dominate the (U.S.) automotive lamp market.
+
+=== Aircraft ===
+
+Aircraft landing (ACL) lights are often sealed beams that have a very narrow beam spread. They typically have a size of PAR36 or PAR64, and run on 28 V DC. They have found some use in stage lighting as well.
+
+=== Outdoor and stage lighting ===
+PAR lamps and their fixtures are widely used in theatre, concerts and motion picture production when a substantial amount of flat lighting is required for a scene. They are often mounted in can-shaped fixtures known as PARCANs, which can be used to generate colours by fitting them with colored sheets called gels. The cans are arranged into rows of different colours and identical rows placed on different sides of the stage; such assemblies made from aluminum bars are known as PARbars. Due to their affordability, they are ideal for colour washes in several different colours. However, because of the lack of dynamic control over the beam diameter, shape and sharpness, PARs are rarely used as Front of House lights other than for front washes but can be used for special effect lighting such as lighting from directly above or from extreme angles as well as general wash lights overhead/above stage. If used cleverly, par cans can provide low budget productions with good effects.
+PAR64 sealed beam lamps are often used for these purposes; they are typically available with 250, 500 or 1000 watt power ratings. Beam spreads are designated as FL (flood), SP (spot), NSP (narrow spot), and VNSP (very narrow spot), as stamped on the back of the lamp's reflector.
+
+PAR38 lamps, with an E27 base and with ratings up to 150W, were often used for domestic outdoor floodlight illumination for patios, backyards, and often combined with a PIR sensor switch as a security/convenience light, for example, in a driveway. Coloured versions were popular with discos and mobile DJs, however were usually only available up to 100w in coloured form and were considerably more expensive than standard PAR38 globes. In domestic applications, halogen and later on LED largely replaced the incandescent PAR38.
+In situations where sunlight or other specular light is available, a white foam reflector is often used to accomplish the same effect as a PAR array. PAR cans are being replaced in some stage applications by LED stage lighting, which use less electric power and produce a wide array of saturated colors without the use of color filters, when white light is not needed.
+
+=== Indoor lighting ===
+Smaller sealed beam PAR lamps (PAR 38 and smaller) with an Edison screw base are common in indoor lighting. They can be found in recessed fixtures mounted in the ceiling or on tracks.
+
+=== Lighthouses ===
+Sealed beam lamp arrays are also in use by modern lighthouses.
+
+=== Electrical connector ===
+High-power, mains-voltage, theatrical PARs usually use the bi-pin GX16d "Mogul" lamp connector; G9.5 and variants are common too. Theater metal-halide lamps use G12. In addition to being used on light bulbs themselves, the G38 connectors are also found as a part of the Raylite reflector assembly, although some Raylite reflectors have "tails" which then require connection to the mains flex with the use of a ceramic connector block (ideally fixed to the can's body).
+In residential and office use, the usual connector for the lamp's voltage is often used. This includes Edison screw or a bayonet connector for mains-supplied PARs, or small bi-pin connectors for low voltage applications.
+
+== Variations ==
+
+=== LED ===
+
+LED retrofit equipment that match PAR lamp dimensions is made by some manufacturers. As with the case of LED MR lamps, LED PAR lamps generally use an array of individual LED elements that are unsuitable for reflector operation. Nevertheless, some degree of beam control can be obtained with aperture or lens, and LED PAR 38 replacements with a 40° spread is common.
+Models built for stage lighting may use less similar dimensions. They often use a RGB color model for color-tuning abilities, though some higher-end fixtures use a 5-primary colour system (with cool and warm white LEDs) instead for better color reproduction.
+
+=== PAR moving lights ===
+Intelligent, moving PARs allow for the ability to pan and tilt the instruments through a lighting control console. These have been generally superseded by dedicated intelligent lighting fixtures, which use a different light source and offer more control over the colour and shape of the beam.

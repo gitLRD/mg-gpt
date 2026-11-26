@@ -1,0 +1,239 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 29
+
+DIFFERENTIALS, FINAL DRIVES, AND DRIVING AXLES
+
+Section I. CONVENTIONAL DIFFERENTIALS
+
+29-1. Purposes (Fig. 29-1).
+
+a. Transmit Torque to Axles. One of the purposes of the differential is to transmit engine torque to the drive axles. The drive axles usually are on a rotational axis that is 90 degrees different than the rotational axis of the propeller shaft.
+
+b. Divide Engine Torque. Another purpose of the differential is to divide engine torque between the driving wheels so that they are free to rotate simultaneously at varying speeds. This is important particularly if the vehicle is not moving in a straight line.
+
+29-2. Principles of Operation (Fig. 29-2). The
+
+bevel drive pinion rotates the bevel drive ring gear and the differential case to which the final drive gear is bolted. The axle shafts are splined to the differential side gears. Were it not for the differential pinions, each wheel, with its respective axle shaft and side gear, would rotate freely with respect to the differential case and bevel drive gear.
+
+a. Straight Ahead. When both wheels are rotating at the same speed, as they do on a smooth, straight road, the differential pinions do not rotate around their own axis but serve only to
+
+lock all the parts, making them rotate as a unit when the drive differential ring gear is turned by the differential drive pinion.
+
+b. Turns. When the wheels rotate at different speeds, as’ they do when making a turn, the slowing down of the inner wheel decreases the rotation of its axle shaft and differential side gear with respect to the differential drive ring gear and the differential case. The case forces the differential pinions to rotate along the inner differential side gear, advancing the opposite side gear an equivalent amount with respect to the differential case. The outer wheel thus turns at a higher speed than the inner wheel. If the differential drive ring gear makes four revolutions while the inner wheel is making one, the outer wheel will rotate seven times.
+
+29-3. High-Traction Differential Gears (Fig. 29-3). A fault in the conventional differential is that if one driving wheel loses traction and spins, the other wheel, which has more traction, remains stationary and does not drive the vehicle. In order to overcome this, several devices have been employed from time to time. One device is the hand-controlled differential lock. This is a dog clutch, controlled by a hand lever, that clutches one
+
+axle shaft fast to the differential case and differential drive ring gear. This forms a rigid connection between the two axle shafts and makes both wheels rotate at the same speed as the differential drive ring gear while the differential lock is engaged. This device is used very seldom, probably because a driver often forgets to disengage the differential lock before the differential action is required again. Automatic devices for doing almost the same thing have been designed. One of these, which is used rather extensively today, is the high- traction differential. It consists of a set of differential pinions and side gears, which have fewer teeth, and a different tooth form from the conventional gears. Figure 29-3 shows a comparison between these and standard gears. These differential pinions and side gears depend on a variable radius from the center of the differential pinion to the point where it comes in contact with the side gear teeth, which is, in effect, a variable lever arm. As long as there is relative motion between the pinions and side gears, the torque is divided unevenly between the two driving shafts and wheels; whereas, with the usual differential, the torque is divided evenly at all times. With the high traction differential, the torque becomes greater
+
+on one wheel and less on the other as the pinions move around, until both wheels start to rotate at the same speed. When this occurs, the relative motion between the pinion and side gears stops and the torque on each wheel is again equal. This device assists considerably In starting the vehicle or keeping it rolling In cases where
+
+one wheel encounters a slippery spot and loses traction while the other wheel is on a firm spot and has traction. It will not work, however, when one wheel loses traction completely. In this respect, it is Inferior to the differential lock.
+
+Section II. NO-SPIN DIFFERENTIALS
+
+29-4. Purpose. To provide a means of improving tractive effort at the driving wheels when one wheel tends to slip from loss of traction, It is necessary that the differential prevent actual slippage and supply torque to the driving wheels only to the extent that the wheels can utilize the torque without slipping. The no-spin differential does this by using various types of clutches between the driving axles.
+
+29-5. Sprag-Type No-Spln Differential (Fig. 29- 4). The sprag-type no-spin differential does not contain pinion gears and side gears as does the conventional differential. Instead, it consists essentially of a spider attached to the differential drive ring gear through four trunnlons, plus two driven clutch members with side teeth that are indexed by spring pressure with side teeth In the spider. Two side members are splined to the wheel axles and, In turn, are splined into the driven clutch members.
+
+a. Operation in Turning. The center cam in the spider is held in place by a snap ring that permits the center cam to rotate but does not permit it to move laterally. When making a right turn, the right-driven
+
+clutch member remains fully engaged with the spider clutch teeth. The spider clutch teeth (the driving teeth) drive the right (inside) wheel at differential drive ring gear speed. The left wheel (outside) covers a greater distance and must turn faster than differential drive ring gear speed. The differential must permit this action because, as the left wheel begins to turn faster, the left- driven clutch member also turns faster than differential drive ring gear and spider speed. As the left-driven clutch member begins to turn faster, the cam lobes or ramps on its edge ride up on the cam lobes on the center cam. This action pushes the left-driven clutch member away from the spider so the clutch teeth disengage. As the crest of the ramp is passed, spring pressure forces the teeth of the driven clutch member back Into full engagement with the teeth on the spider. But the action is repeated as long as the left wheel turns more rapidly than the right wheel. Full drive is applied to the right wheel; no drive is applied to the left wheel. But as soon as the vehicle completes the turn and the left wheel slows down to right wheel speed, driving power is applied equally to
+
+both. For a left turn, the action is similar except that full drive is applied to the left wheel; the right wheel turns more rapidly than the left wheel.
+
+b. Tractive Effort. With this differential, one wheel cannot spin because of loss of tractive effort and thereby deprives the other wheel of driving effort. For example, one wheel is on ice and the other wheel is on dry pavement. The wheel on ice is assumed to have no traction. However, the wheel on dry pavement will pull to the limit of its tractional resistance at the pavement. The wheel on ice cannot spin because wheel speed is governed by the speed of the wheel applying tractive effort.
+
+29-6. Silent-Type No-Spin Differential (Fig. 29- 5). In the silent-type no-spin differential, the construction is very similar to the unit described above. However, the center cam has wider teeth to carry the two sets of cams in each driven clutch member. One set is fixed, the other is able to rotate in one direction or the other a few degrees with respect to the fixed set. The rotatable or holdout cam ring is slotted, and a key in the spider fits this slot to limit the independent rotation of the cam. The key also limits the rotation of the center cam. In operation, when one wheel is turning faster than the other (as in rounding a turn), the faster-turning splined side member and driven clutch member cause the ramps on the center cam and driven clutch member cam to push the driven clutch member away from the spider. This action is similar to that described above for the
+
+other no-spin differential. The teeth are separated so that no driving can take place. In this unit, however, the teeth do not index repeatedly because the rotatable cam, left slightly behind, prevents this. The ramps on the rotatable cam are halfway between the ramps on the fixed cam of the driven clutch member. The staggered ramps will not permit teeth engagement. As soon as the turn is completed, the driven clutch member slows down to spider speed, the ramps realign, and teeth engagement takes place. Where a vehicle has a tandem driving axle unit or multiple axles, a no-spin differential may be placed in the transfer case between the output shafts to the driving axles. The differential prevents loss of tractive effort from slippage or tractive loss of one set of wheels. Also, it tends to balance torque and prevents interaxle trapped torque, which reduces total tractive effort.
+
+29-7. Clutch-Type No-Spin Differential.
+
+a. General. The clutch-type no-spin differential uses friction clutches to lock the axles together whenever one drive wheel experiences uncontrolled slippage. The clutch configurations that are used commonly are the cone or the multiple plate type.
+
+b. Multiple Plate Clutch Type (Fig. 29-6). This type of no-spin differential uses four side gear pinions on two shafts that are at right angles to each other. The shafts, which are V-shaped on
+
+their ends, engage similar V-shaped slots In the differential case. Each side gear is backed by a series of multiple disk clutches. Operation is as follows:
+
+(1) Stralght Ahead (A, Fig. 29-6). Whenever the differential case attempts to rotate the side gears through the side gear pinions and shafts, the shafts will slide up their V-shaped ramps and exert outward pressure. This outward pressure will tend to lock the side gears to the differential case through the clutches.
+
+(2) Around Corners (B, Fig. 29-6). As the vehicle turns a corner, the Inner drive wheel must slow down. The unequal speed between the side gears will cause the side gear pinions to walk around the side gears. This walking will cause the outer axle shaft to rotate faster than the differential case, allowing the pinion shaft on that side to slide down Its ramp. This releases the outer clutches, causing the differential to act like a conventional unit.
+
+c. Cone Clutch Type (Flg. 29-7). The cone clutch no-spin differential uses two spirally grooved cones that fit into the housing. These cones fit behind the side gears and are splined to the axle shafts. Coil springs are
+
+situated between the side gears to wedge the clutches into the case.
+
+(1) Straight Ahead. In a straight-ahead position, the axle shafts will turn at the same speed, and operation virtually will be the same as a conventional differential.
+
+(2) Around Comers. Around a corner, the Inner drive wheel must slow down. The unequal speed between the side gears will cause the side gear pinions to walk around the side gears. This walking will cause the outer axle shaft to rotate faster than the differential case. Because the cones have spiral grooves cut Into their clutch surfaces, the Inner cone clutch will draw Itself Into the case and lock tight and the outer cone clutch will back itself out of the case and allow the outer drive axle to freewheel. The end result is the majority of the engine torque being sent to the Inner drive wheel.
+
+(3) Slippage of One Wheel. If one wheel loses traction, all engine torque will be transferred
+
+immediately to the opposite wheel via the cone clutches.
+
+(4) Slippage of One Wheel in Reverse. Because the spiral grooves that are cut into the cone clutches are directional, the cone clutch no-spin differential will not work in reverse because the cone clutches will unscrew themselves from the case, causing the no-spin feature to be inoperative.
+
+Section III. 29-8. Overview.
+
+a. A final drive is that part of a power transmission system between the propeller shaft and the differential. Its function is to change the direction of the power transmitted by the propeller shaft through 90 degrees to the driving axles. At the same time, it provides a fixed reduction between the speed of the propeller shaft and the axle driving the wheels. In passenger cars, this speed reduction varies from about 3:1 to 5:1. In trucks, it varies from about 5:1 to 11:1.
+
+b. The gear ratio of the bevel gear final drive is found by dividing the number of teeth on the bevel drive gear by the number of teeth on the pinion. For a worm gear, it is found by dividing the number of teeth on the worm gear by the number of threads on the worm. In the case of chain drives, the sprockets are considered gears, and the number of teeth on the driven sprocket is divided by the number of teeth on the driving sprocket.
+
+29-9. Gear Drives.
+
+a. General (Fig. 298). All the final drives in general use are geared. The most common of these consists of a pair of bevel gears; that is, a drive pinion connected to the propeller shaft and a bevel drive gear attached to the differential case on the driving axle. These bevel gears may be spur, spiral-bevel, or hypoid. Spur gears have straight teeth, while spiral-bevel and hypoid
+
+gears have curved teeth. Spur gears are used very little for this purpose because they are noisy. Spiral-bevel gears are used most often. Hypoid gears are used in several passenger cars and in light trucks because they permit the bevel drive pinion to be placed below the center of the bevel drive gear, thereby lowering the propeller shaft to give more body clearance. This gear also operates more quietly. Worm gears are used extensively in trucks because they allow a large speed reduction. These consist of helical worm, similar to screws, and meshing teeth gears. The worms have single, double, triple, or quadruple threads. These type gears are shown in figure 29-8. Internal gear drives were once popular and still are used in rare instances. They permit a large speed reduction like the double chain drive, which they resemble. A jackshaft is driven by the propeller shaft through bevel gears and the differential as it is in the double-chain drive, except that the jackshaft is mounted on the dead rear axle and parallel to it. Spur pinions keyed on the ends of the jackshaft drive internal gears attached to the wheels. The first gear reduction takes place in the bevel pinion and differential drive ring gear and the second in the internal gears.
+
+b. Worm (Fig. 29-9). The worm gear rear axle is used in some trucks because it allows a large speed reduction. The threads on the worm are similar to screw threads and may be single, double, triple, or quadruple. The worm meshes with a worm gear having helical teeth cut in its outside circumference. The worm may be compared to a screw and the worm gear to a nut. As the worm rotates, it pulls the worm gear around. The worm usually is made of steel and the worm gear of bronze. The driving worm may be mounted at either the top or the bottom of the worm gear. But, usually it is necessary to place the worm at the top in order to allow sufficient road clearance under the rear axle housing. The rear worm bearing must be very strong and rugged because it takes the entire thrust reaction from driving the worm gear. If play develops in the worm because of wear, this bearing also must withstand repeated impact. When the vehicle is operated in reverse, or when the road wheels are driving the mechanism, the front bearing resists these forces. Sometimes a worm of hourglass form is used in the worm gear as it provides more tooth bearing surface and, consequently, less stress in the teeth.
+
+c. Hypoid (Fig. 29-10). Hypoid gearing has come into rather extensive use recently, mainly for passenger cars. A portion of a hypoid rear axle is shown in figure 29-10. This rear axle is almost the same as the spiral- bevel gear rear axle, except that the drive pinion and bevel drive gear are cut with a somewhat different tooth form, which permits the drive pinion to mesh with the bevel drive gear below the center of the latter. This construction allows the propeller shaft to be lowered and sometimes makes a shaft tunnel in the floor of the rear compartment of the vehicle unnecessary. Due to their design, hypoid gears operate under extremely high tooth pressure and require a special hypoid lubricant.
+
+29-10. Live Axle Configurations.
+
+a. General. A live axle is one that supports part of the weight of a vehicle and also drives the wheels connected to it. The term is applied to the entire assembly, which consists of a housing containing a bevel drive pinion, bevel drive gear differential and axle shafts together with their bearings, and sometimes additional mechanisms. The term live axle is opposed to the term dead axle. A dead axle is one that carries part of the weight of a vehicle but does not drive the wheels. The wheels rotate on the ends of the dead axle. The usual front axle of a passenger car is a dead axle and the rear axle is a live axle. In four wheel drive vehicles, both front and rear axles are live axles, and in six-wheel drive vehicles all three axles are live axles.
+
+b. Plain (A, Fig. 29-11). The plain, or nonfloating, rear axle was one of the first used. In it, the
+
+axle shafts are supported in the housing by roller bearings at the center and outer ends. The rear wheels are keyed on tapers at the outer ends of the axle shafts and held by castle nuts and cotter pins. In addition to turning the wheels, the rotating axle shafts carry the entire weight of the rear of the vehicle on their outer ends. All stresses caused by turning corners, skidding, or by wobbling wheels are taken by the axle shafts. The differential side gears are keyed on the inner ends of the axle shafts, which carry the weight of the differential case. The stresses created by the operation of the differential are taken by the axle shafts. Side thrust on the axle shafts is taken care of by the roller bearings, and ball bearings are provided at each side of the differential case to take care of end thrust. This type of rear axle is obsolete now.
+
+c. Semifloating (B, Fig. 29-11). The semi-floating rear axle is used on most passenger and light commercial vehicles. The principal difference between it and the plain live axle is In the manner of supporting the differential assembly. In the plain live axle, the differential case Is carried on the Inner ends of the axle shafts. In the semifloating axle, it is carried by bearings mounted in the differential carrier. The axle shafts are splined to the differential side gears. This relieves the axle shafts of the weight of the differential and the stresses caused by its operation that are taken by the axle housing. The Inner
+
+ends of the axle shafts transmit only turning effort, or torque, and are not acted upon by any other force. They are said to be floated. The wheels are keyed to the outer ends of the axle shafts, and the outer bearings are between them and the housing, as In the plain live axle. The axle shafts take the stresses caused by turning, skidding, or wobbling of the wheels. In both the plain and semifloating live axles, a wheel can come off if an axle shaft breaks or twists off.
+
+d. Three-Quarter Floatlng (C, Fig. 29-11). The three-quarter floating rear axle is used on a few passenger cars. The Inner ends of the axle shafts sometimes are secured with nuts and the axle shafts cannot be withdrawn without removing the differential cover. In other designs, the axle shaft can be withdrawn after the nuts holding the hub flange have been removed. The wheels, however, are supported by bearings on the outer )ends of the axle tubes. The housing, Instead of the axle shafts, carries the weight of
+
+the car. Because the wheel is keyed rigidly on a taper at the end of the axle shaft, as in the semifloating axle, the stresses caused by turning, skidding, and wobbling of the wheels still are taken by the axle shaft.
+
+e. Full Floating (D, Fig. 29-11). The full-floating rear axle is used on most heavy trucks. It is the same as the three-quarter floating axle, except that each wheel is carried on the end of the axle tube on two ball or roller bearings and the axle shafts are not connected rigidly to the wheels. Each wheel is driven through a dog clutch, through a spline clutch, or through a flange on the end of the axle shaft that is bolted to the outside of the wheel hub. The latter construction is used frequently but is not truly full floating, because there is a rather rigid connection between the axle shaft and the wheel hub. With the true full-floating axle, the axle shaft transmits only the turning
+
+effort or torque. The stresses caused by turning, skidding, and wobbling of the wheels are taken entirely by the axle housing through the wheel bearings. The axle shafts can be removed and replaced without removing the wheel or disturbing the differential. Most military all-wheel drive trucks have full-floating axles.
+
+f. Independent Suspension (Fig. 29-12). Live axles that are made to work with independent suspension usually are arranged so that the differential carrier is fixed to the chassis. The axles then are connected to it through constant velocity joints (para 28- 6) so that the wheels are free to travel with the suspension.
+
+g. Double Reduction (Fig. 29-13). Double reduction rear axles often are used for heavy-duty trucks. The first gear reduction is obtained through a spiral-bevel pinion and gear as in the common single-reduction rear axles. The bevel pinion runs in brackets mounted on the differential carrier in two roller bearings. The bevel gear is mounted rigidly on a jackshaft with a spur pinion that
+
+runs on roller bearings at each end; these also are mounted in the differential carrier. The spur pinion drives a spur gear that is bolted to the differential case. The usual design is the full-floating axle configuration (para 29-10e).
+
+h. Dual Ratio (Fig. 29-14). Dual-ratio, or two- speed, rear axles sometimes are used on trucks and passenger cars. They contain two different gear ratios that can be selected at will by the driver, usually by a manual-control lever. A dual-ratio rear axle serves the same purpose as the auxiliary transmission described previously. Like the latter, it doubles the number of gear ratios available for driving the vehicle under the various load and road conditions. This type of rear axle is shown in a cross-sectional view in figure 29-14. It is driven by the conventional spiral-bevel pinion and differential drive ring gear, but a planetary gear train is placed between the differential drive ring gear and differential case. The internal gear of the planetary train is bolted rigidly to the bevel drive gear. A ring on which the planetary gears are pivoted is bolted to the differential case. A
+
+member, consisting of the sun gear and a dog clutch, slides on one of the axle shafts and usually is controlled by a hand lever accessible to the driver. When this sliding part is in the high-ratio position, the sun gear meshes with internal teeth on the ring carrying the planetary gears and disengages the dog clutch from the left bearing adjusting ring, which is rigidly held in the differential carrier. In this position, the planetary gear train is locked together, there is no relative motion between the gears in the planetary train, and the differential case is driven directly by the differential drive ring gear the same as in the conventional single-ratio rear axle. In the low-ratio position, the sun gear is slid out of mesh with the ring carrying the planetary gears, and the dog clutch makes a rigid connection with the left bearing adjusting ring. Because the sun gear is integral
+
+with the dog clutch, it also is locked fast to the bearing adjusting ring and remains stationary. The internal gear rotates the planetary gears around the stationary sun gear and the differential case is driven by the ring on which the planetary gears are pivoted. This action produces the gear reduction, or low speed, of the axle.
+
+i. Double Reduction, Dual Ratio (Fig. 29-15). Double-reduction, dual-ratio rear axles also are sometimes used in heavy-duty motor vehicles. Rear axles of this type combine the features of the double- reduction and dual-ratio axles in one unit. A spiral-bevel pinion drives a
+
+jackshaft through a spiral-bevel drive gear. Two helical pinions of different sizes and a two-way dog clutch are mounted on the jackshaft. The two helical pinions are not fast to the jackshaft but rotate freely on it on bearings. They are in constant mesh with two helical gears of correspondingly different sizes, both mounted rigidly on the differential case. The sliding dog clutch Is controlled by a hand lever and clutches either one of the helical pinions fast to the jackshaft. The drive is from the propeller shaft to the drive pinion, to the bevel drive gear, to the Jackshaft, to the right helical pinion, to the right helical gear, to the differential case, to the differential pinions, to the differential side gears, to the axle shafts, and then to the wheels. When the dog clutch is In the high-speed position (moved to the left), the drive Is the same, except that It is through the other pair of helical gears.
+
+/. Interwheel DIfferential. One of the latest developments In front-wheel drives is dual wheels having an Interwheel differential that makes them easily steerable. Each wheel is equipped with Its own brake. Vertical steering knuckle pivots are used. The differential is of the spur gear type, the pinions having a tooth form that gives It the same action as the high- traction differential described In paragraph 29-3. When
+
+dual front wheels are used in addition to dual rear wheels, a greater portion of the total load can be carried by the front axle. This makes a greater payload possible without increasing the overall length of the vehicle. Interwheel differentials also can be used for front dead axles, live rear axles, tandem rear live axles, and trailer dead axles to provide for the difference In distance traveled by each of the pair of dual wheels in rounding curves, and for the different rolling radius of each of the dual wheels caused by the crown of the road or ruts. It is thought that a great saving In tire wear results because of the elimination of the slippage that occurs when dual wheels are bolted together rigidly.
+
+k. Power Dlvlder(Fig. 29-16).
+
+(1) The forward rear axle is of the full-floating, double-reduction type having a spiral-bevel pinion and gear for the first reduction, and a spur pinion and gear for the second reduction. The spiral-bevel pinion is driven through a power divider, which also drives the rearward rear axle through a shaft that passes through the pinion of
+
+the forward rear axle, and is attached to the forward end of the interaxle drive shaft.
+
+(2) The power divider is attached to the forward end of the gear carrier, which is mounted on the upper side of the axle housing. Both forward and rear axles are driven from the forward drive flange through the power divider by means of a driving cage carrying two parallel rows of radial wedges or plungers engaging at their outer ends with internal (female) cams on a cage that drives the bevel pinion of the forward rear axle. At their inner ends, the plungers engage with external (male) cams on the interaxle drive shaft, which drives the bevel pinion of the rear axle. Due to the wedging action between the cams and the plungers, they rotate together with no relative movement, unless running condition require a differential action.
+
+(3) Whenever either the forward or the rear pair of wheels tends to run ahead of the other pair, due to slippage or uneven road surfaces, there is a relative movement of the external and internal cams, which is permitted by the sliding of the radial plungers in the driving cage. This restricted movement provides a differential action that divides the driving effort to the two pairs of wheels to provide the maximum tractive effort. The wheel spindles are pressed into the axle housing, and the brake assemblies are carried by integral flanges. The underslung springs, which tie the two rear axle housings together in parallel relation, are attached by means of rubber shock insulators set in sockets on the bottom of the housing, and retained by caps.
+
+(4) A ball-joint torque rod, between the top of the gear carrier housing and a chassis frame crossmember, takes the torque conveyed to the axle assembly by the driving and braking.
+
+I. Front Wheel(Steerable) LiveAxle.
+
+(1) In four- or six-wheel drives, the front wheels are driven through a driving axle assembly very similar to a rear axle. It may be of the single or double-reduction type. Figure 29-17 shows a usual arrangement of transfer assembly, propeller shafts, universal joints, driving axles, and springs for a four- or six-wheel drive vehicle. Front-wheel drives ordinarily are Hotchkiss drives with the front springs pivoted at the rear and shackled at the front. Axles are of the full-floating type.
+
+As in the case of rear live axles, the axle housings usually are built up, but they may be pressed steel for light vehicles and single-piece castings for heavy-duty vehicles. The split-type housing frequently is used. The principal difference between front live axles and rear axles is that in front-wheel drives, provision must be made for steering. In rear driving axles, the axle shafts are connected directly to the wheels. Because the front wheels must turn on the steering knuckle pivots, they usually are driven by the axle shafts through universal joints (para 28-7) concentric with the steering knuckle pivots. Figure 29-17 shows the housings of the steering knuckle pivots and constant-velocity universal joints, as well as the tie rod, brakedrums, hub flanges, and wheel mounting studs for a typical front live axle assembly.
+
+(2) A type of front-wheel drive that drives the front wheels through gearing and permits them to steer without the use of a universal joint is shown in figure 29- 18. It has been used to a very limited extent. A spiral- bevel pinion keyed to the end of the axle shaft drives the lower half of a double bevel gear on the lower end of the steering knuckle pivot. The top half of the double gear meshes with a fourth gear that is integral with the wheel hub. The gear and hub turn on the steering knuckle. When the wheels are cramped, the bevel gear on the wheel hub rotates around the bevel gear on the steering knuckle pivot.
+
+(3) Constant-velocity universal joints, used with front-wheel drives to avoid strain on the steering mechanism, are discussed in chapter 28.
+
+m. FourRear-WheelDrives.
+
+(1) Motor vehicles that carry extremely heavy loads often are equipped with four rear wheels in order to increase traction and to avoid excessive weight on the rear tires; that is, the weight of the load is divided among twice as many tires as when only one rear axle is used. Dual wheels generally are used with this arrangement; therefore, the weight of the rear of the vehicle and load is divided among eight tires instead of four.
+
+(2) Different spring suspensions are used, but the bogie is most general. A bogie consists of two axles joined by a trunnion axle. The trunnion
+
+axle passes directly beneath the rear cross-member of the frame.
+
+(3) Vehicles having this equipment may be either four- or six-wheel drive. Sometimes the dual rear axles are driven by Independent propeller shafts (fig. 29- 19) from a transfer assembly. In this case, the propeller shaft to the rearmost rear axle is divided into three parts, the short middle part passing through bearings mounted on the forward rear axle. The transfer assembly may contain an interaxle differential, but usually does not.
+
+(4) Another arrangement is the tandem drive (fig. 29-20), employing double-reduction axles. A single propeller shaft from the transmission transfer assembly is connected to the forward rear-axle drive pinion through a shaft, and another short interaxle propeller shaft connects the drive pinion shaft of the forward rear axle with the drive pinion shaft of the rearward rear axle. Ordinarily, no Interaxle differential is used, but one that is built Into the forward rear axle is used sometimes. With the tandem drive, no transfer assembly is required If the vehicle drives on the four rear wheels only. If the front wheels also are driven, a transfer assembly is required.
+
+Section IV. CONTROLLED DIFFERENTIAL
+
+29-11. Purpose. The controlled differential is used in tracked vehicles for:
+
+(a) Transmitting engine torque to the tracks.
+
+(b) Steering of the vehicle through the controlled use of side-to-side braking.
+
+29-12. Construction (Fig. 29-21 and 29-22). The controlled differential is, in reality, two different assemblies having left and right units joined by the differential carrier. Each side consists of a brakedrum, a sun gear, three external pinions, three internal pinions, and one compensating gear.
+
+29-13. Operation (Fig. 29-21 and 29-22). When the vehicle is moving straight ahead, the entire differential assembly turns as a unit and transmits equal power and speed to each track through the final drive. When the left brake band is applied to the brakedrum, the left compensating gear is retarded and rotates slower than the differential carrier, while the right compensating gear is speeded up and rotates faster than the differential carrier. As each compensating shaft is splined to each compensating gear, the final analysis will result in the left track revolving slower than the right track, causing the vehicle to turn to the left. Exactly the reverse procedure takes place if the right brake is applied.
+
+TA233797 Figure 29-21. Controlled Differential.
+
+1. OIL MANIFOLD 7. INTERNAL PINION 13. STEERING BRAKEDRUM 2. RIGHT COMPENSATING CASE COVER 8. RING GEAR 14. STEERING BRAKEDRUM FLANGE 3. COMPENSATING CASE 9. LARGE PINION BEARING 15. COMPENSATING CASE COVER 4. LEFT COMPENSATING CASE COVER 10. EXTERNAL GEAR BEARING 5. SMALL PINION BEARING 11. OIL SCREEN 16. FINAL DRIVE SHAFT BEARING 6. DIFFERENTIAL FINAL DRIVE SHAFT 12. STEERING BRAKESHOE 17. DIFFERENTIAL FINAL DRIVE GEAR SHAFT
+
+Section V. WHEEL VEHICLE PERFORMANCE
+
+29-14. General. There are many different aspects of vehicle performance. Miles per gallon of fuel, miles per hour in first, second, or other gear ratio, and the amount of weight a vehicle can carry are all commonly considered factors. Other factors of equal importance include tractive factor, grade ability, and drawbar pull. These three factors refer to less-known performance aspects that should be considered further.
+
+29-15. Performance Factors.
+
+a. Tractive Factor.
+
+(1) Tractive factor refers to the pushing effort the wheels can make against the ground as a result of the application of torque to them through the power train from the engine. Actually, the tractive factor is given in pounds-of-push for each pound of vehicle weight. Tractive factor can be determined by the following formula:
+
+ET x R x 0.85 Tractive factor =
+
+where ET = Engine torque from dynamometer
+
+tests, with at least distributor and water pump operating (ft lb).
+
+R = Gear ratio at reduction under consideration.
+
+0.85 = Efficiency of power transmission (arbitrarily chosen as an average value).
+
+GW = Gross vehicle weight (lb).
+
+TLR = Tire loaded radius (ft).
+
+(2) Figure the tractive factor of a 114-ton, 4 x 4 utility truck. This can be determined in any gear, and with the truck loaded or unloaded. The tractive factor will increase with increased gear ratio, and will decrease as the vehicle is loaded. Generally, the tractive factor is figured with maximum payload because this gives an indication of the vehicle performance under the most adverse conditions. However, calculate the tractive
+
+factor of the 1/4-ton, 4 x 4 truck at maximum gear reduction and unloaded. Unloaded, the vehicle weighs 2,625 pounds. The engine torque is 79 ft lb. The gear reduction in the transmission in low gear is 2.798:1; in the transfer in low range, 2.43:1; and in the differentials, 5.38:1. Total gear reduction is 36.7:1, in low range, low gear. Tire radius is 1.25 feet, unloaded; and slightly less, loaded. However, use the figure 1.25 feet for ease of figuring. Substituting all this data in the formula gives:
+
+79 x 36.7 x 0.85 Tractive factor = = 0.75. 2.625 x 1.25
+
+(3) This figure means the tires can exert a push against the ground of 0.75 pound for every pound of vehicle weight. If the tires do not slip, the vehicle can be pushed forward 0.75 pound for every pound of vehicle weight.
+
+b. Grade Ability.
+
+(1) Grade ability refers to how steep a grade the vehicle can climb. Grade, itself, is referred to in percent: a 10-percent grade, or a 26-percent grade, for example. A 1-percent grade rises 1 foot in every 100 feet. A 26- percent grade rises 26 feet in every 100 feet. If the tractive factor is known, the grade ability can be easily figured by use of the formula:
+
+Grade ability = (Tractive factor - 0.015) x 100
+
+where 0.015 equals rolling resistance per pound of vehicle weight (arbitrarily chosen as an average value). (2) Figure the maximum grade ability of the 1/4-ton, 4 x 4 truck for which calculated the tractive factor (maximum) was 0.75. Substituting in the formula would give:
+
+Grade ability = (0.75 - 0.015)x 100 = 0.735 or
+
+73.5 percent.
+
+(3) The truck, unloaded and in low range, low gear, could go up a 73.5-percent grade; that is a grade that rises 73.5 feet every 100 feet. it can be seen that the grade ability of a vehicle will vary with the load and the gear ratio. It will decrease as
+
+the vehicle is loaded and increase as gear ratio is increased.
+
+c. Drawbar Pull.
+
+(1) The drawbar pull is an indication of how much the vehicle can pull on a trailer attached to it. Drawbar pull can be calculated if the tractive factor and weight on powered wheels are known by use of the following formula:
+
+Drawbar pull = Tractive factor x
+
+weight on powered wheels.
+
+(2) In the vehicle under discussion (1/4-ton, 4 x 4 truck), it was determined that the maximum tractive factor was 0.75 with a vehicle weight of 2,625 pounds. Because all wheels are powered, multiplying these two figures together gives the drawbar pull, or 0.75 x 2,625 pounds equals 1,970 pounds. That is, the vehicle can
+
+produce a maximum drawbar pull of 1,970 pounds (provided, of course, that no wheels slip). Note that, if the vehicle itself is loaded, it will tend to increase the drawbar pull; however, at the same time, loading the vehicle reduces the tractive factor. If, for example, a 1,000-pound load were added to the vehicle, giving a gross weight of 3,625 pounds, the tractive factor would drop to approximately 0.55. This, times 3,625 pounds, gives a maximum drawbar pull of approximately 1,970 pounds. For a vehicle having all-wheel drive, the drawbar pull is a constant, regardless of the weight carried by the vehicle. Note that the term maximum has been used here; this means that the vehicle could supply this amount of pull. However, in actual performance, the vehicle is not required to supply this amount of drawbar pull. The applicable technical manual for any vehicle specifies the maximum trailer load to be attached. The 1/4-ton, 4 x 4 truck under analysis, for example, has a maximum limit of 2,000 pounds trailer load on the highway (1,500 pounds cross country).

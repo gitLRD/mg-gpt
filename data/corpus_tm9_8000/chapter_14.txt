@@ -1,0 +1,103 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 14
+
+CHAPTER 14 STARTING SYSTEMS Section I. ELECTRIC STARTING MOTOR
+
+14-1. General. Any internal combustion engine must be cranked manually to start it running on its own. Early automotive vehicles were started by the driver through the use of a handcrank. A system of cranking the engine with an electric motor was developed as automotive technology progressed. The modern electric starting system has reduced the task of starting an internal combustion engine to the turn of a key or the pushing of a button.
+
+14-2. Simple DC Motor. a. Construction. An electric motor is constructed essentially the same as a generator. If the brushes of the simple generator are connected to a battery and current is permitted to flow through the loop of wire (1, fig. 14-1), the loop of wire will rotate in the direction indicated by the arrow. This rotation is due to the repulsion between the field magnetism and the magnetic
+
+whirl set up around the loop of wire by the current (2, fig. 14-1).
+
+b. Operation. The repulsion is caused by all the magnetic lines of force tending to flow around the conductor in the same direction. This distorts and crowds the magnetic lines on one side of the conductor more than on the other, which results in a repulsion of the conductor (3, fig. 14-1). In other words, the rubberband characteristic of the lines of force (that is, when they try to shorten to a minimum length) causes the lines to exert a push on the conductor. If the magnetic field is reversed, with the direction of current unchanged, the magnetic lines of force will crowd to the other side of the conductor, and it will be repelled in the opposite direction (4, fig. 14-1). The same action would result if the current, instead of the magnetism, were reversed. Thus, in figure 14-1, owing to the current flowing in reverse directions
+
+in the two sides A and B of the loop, and the consequent field distortion (2, fig. 14-1), A will be repulsed upward and B downward, and the loop will rotate in a clockwise direction.
+
+14-3. Automotive Starting Motor.
+
+a. General (Fig. 14-2). In use, the motor armature has many armature coils equally spaced around the entire circumference of the armature. Each of these coils carries current and consequently exerts a force to rotate the armature as it passes the pole pieces. The switching of the armature coils to the brushes is handled by a segmented commutation. The result is a comparatively high turning power (or torque) that is sufficient to crank the engine if it is applied through suitable gear reductions.
+
+b. Construction. A cutaway view of a typical automotive starter is shown in figure 14-3. The basic motor consists of the following parts.
+
+(1) Armature. The armature contains multiple loops of heavy copper. These coils pass through a laminated core of iron to increase the permeability of the armature. The commutator segments are made of heavy copper bars that are set into mica or epoxy resins. The armature rotates on bronze bushings.
+
+(2) Field Coils. The field coils electromagnetically create the magnetic field that cause
+
+armature rotation. They are constructed of heavy copper wire that is usually rectangular in cross section. An insulating material is placed within the windings to insulate the coils from each other. The coils then are insulated on the outside by either wrapping them in paper or sealing them in rubber. The field coils are secured to the field frame by the pole shoes. The pole shoes serve as a core for the field coils to increase permeability.
+
+c. Field Circuit Configurations. Field circuits will vary according to the application of the starter. The following are the most popular.
+
+(1) Two Windings: Parallel (A, fig. 14-4). The wiring of two field coils in parallel will increase their field strength because they each receive full voltage. Note that two additional pole shoes are used. Though they have no windings, their presence will strengthen further the magnetic field.
+
+(2) Four Windings: Series-Parallel (B, Fig. 14- 4). The wiring of four field coils in a series-parallel combination will create a much stronger magnetic field than the two field coil configuration described above.
+
+(3) Four Windings: Series (C, Fig. 14-4). The wiring of four field coils in series will provide a large amount of low-speed starting torque, which is a very necessary characteristic of an automotive starting motor. An undesirable characteristic of series-wound motors is that they will build up excessive speed if allowed to run free to the point where they will destroy themselves.
+
+(4) Six Windings: Series-Parallel (D, Fig. 14-4). Three pairs of series-wound field windings provide the magnetic field for a heavy-duty starter. This configuration uses six brushes.
+
+(5) Three Windings: Two Series, One Shunt (E, Fig . 14-4). The use of one field coil that is shunted to ground with a series-wound motor will control motor speed. The shunt coil, because it is not affected by speed, will draw a steady, heavy current, effectively limiting speed.
+
+14-4. Starter Motor Drives.
+
+a. General (Fig. 14-5). The starter may drive the engine through a pinion or by a dog clutch attached to the starter armature shaft. The shaft is brought together
+
+with the teeth cut on the rim of the flywheel or with the mating half of the dog clutch. The drive must be equipped with an overrunning clutch or some other means of quick disengagement. Owing to limitations of size and capacity of the battery, a high-speed starter with a high gear reduction is used to obtain the necessary torque. The great speed reduction required is affected in the majority of cases by utilizing the flywheel as a driven gear. In some instances, the gear is bolted or shrunk on the flywheel, while in others the gear teeth are cut directly in the rim of the flywheel itself. The starter is mounted on the flywheel housing.
+
+b. Gear Reduction Starters (Fig. 14-6). The gear reduction obtained through the flywheel gear with a single reduction is usually approximately 11:1 or 12:1 (sometimes it is as high as 16:1); that is, the speed of the starter armature is 11 or 12 times that of the flywheel. The pinion gear on the armature shaft meshes directly with the gear teeth on the flywheel. In some instances, however, a double reduction is used, in which case
+
+the gear ratio may be as high as 25:1 or even 40:1. With double reduction, the gear on the armature shaft does not mesh directly with the teeth on the flywheel but with an intermediate gear, which drives the flywheel driving pinion. The double-reduction drive permits the use of a very small starter running at high speed, but it has the disadvantage of requiring a more complicated mechanism than thesingle-reduction drive.
+
+c. Overrunning Clutch (Fig. 14-7). Power can be transmitted through the overrunning clutch in one direction only, which prevents the engine from driving the starter. The shell and sleeve assembly of the clutch is driven by the starter armature shaft. The inner portion, or rotor, is connected to the pinion, which meshes with the teeth on the engine flywheel. Steel rollers are located in wedge-shaped spaces between the rotor and the shell. Springs and plungers normally hold the rollers in position within the wedge spaces. When the starter armature shaft turns, the rollers are jammed between the wedge-shaped surfaces, causing both the inner and the outer members to rotate as a unit and
+
+crank the engine. As soon as the engine transmits power through the pinion in a reverse direction, the pinion and rotor assembly is driven by the flywheel. This action tends to work the rollers back against the plungers to where the space is greater, causing a slipping or overrunning action. As a result, the clutch cannot be driven in this direction. This prevents excessive speeds of the starter.
+
+d. Pedal Shift (Fig. 14-8). With this type of starting mechanism, the starter pinion is meshed when the driver presses the starter pedal. When the yoke lever is moved by the action of the driver in stepping on the starter pedal, the pinion gear is shifted into mesh with
+
+the flywheel gear. After the gears are in mesh, continued movement of the pedal operates the starter switch and causes the starter to crank the engine. In case the pinion does not mesh perfectly with the flywheel, further motion of the shift lever compresses a spring so that the pinion will snap into place the instant the starter armature begins to rotate. After the engine has started, releasing the starter pedal will pull the pinion out of the mesh.
+
+e. Solenoid Shift (Fig. 14-9). Shifting the overrunning clutch pinion gear in mesh with the flywheel gear is made automatic on a good proportion of modern vehicles by the use of a solenoid.
+
+(1) Definition of Solenoid. A solenoid is a coil of wire wound in a spiral of one or more layers, which produces a magnetic field when current is passed through it. The magnetic field thus produced flows in concentric circles around the wire.
+
+(2) Operation of Solenoid Shift. A remote control switch is necessary to operate the solenoid. The ignition switch is connected to the control circuit so that the starter will not operate until the ignition is on. The solenoid shift unit is mounted rigidly on the starter field frame. Inside the solenoid coil is a heavy plunger connected to the shift lever. The two larger terminal posts on the shift unit are connected in series with the starter. The smaller terminal that leads to the solenoid is connected to the remote control circuit. When the remote control circuit is closed to supply current to the solenoid coil, the solenoid exerts a pull on the shift plunger, which shifts the pinion to engage with the flywheel teeth. After the pinion shift lever has moved the distance required for engaging the pinion gear, the pointed end of the
+
+shift plunger presses against the end of a contact plunger. This action pushes a contact disk on the contact plunger across the switch contacts to operate the starter. An overrunning clutch is required with this system to prevent damage to the starter at the time the engine starts.
+
+f. Bendix Starter Drive (Flg. 14-10). The Bendix drive is a starting mechanism that seldom is used on modern vehicles. This automatic screw pinion shift mechanism is built in two distinct styles: the inboard type, in which the pinion shifts toward the starter to engage the flywheel, and the outboard type, in which the pinion shifts away from the starter. The same general construction is used in both types. A sleeve having screw threads (usually a triple thread), with stops at each end to limit the lengthwise travel of the pinion, is mounted on the extended armature shaft. The pinion gear, which is unbalanced by a weight on one side, has corresponding internal threads for mounting on this sleeve. The sleeve is connected to the starter armature shaft through a special drive spring attached to a collar pinned to the armature shaft.
+
+(1) Operation. When the starter is not operating, the pinion is out of mesh and entirely away from the flywheel gear. When the starter switch, which may be foot or hand operated, is closed and the total available battery voltage is impressed on the starter, the armature immediately starts to rotate at high speed. The pinion, being weighted on one side and having internal screw threads, does not rotate immediately with the shaft but, because of its inertia, runs forward on the revolving threaded sleeve until it meets or engages with the flywheel gear. If the teeth of the pinion and the flywheel meet instead of engaging, the drive spring allows the pinion to revolve and forces it into mesh with the flywheel. When the pinion gear is engaged fully with the flywheel gear, the pinion then is driven by the starter through the compressed drive spring and cranks the engine. The drive spring acts as a cushion while the engine is being cranked against compression. It also breaks the severity of the shock on the teeth when the gears engage and when the engine kicks back due to ignition. When the engine fires and runs on its own power, the flywheel drives the pinion at a higher speed than does the starter, causing the pinion to turn in the opposite direction on the threaded sleeve and automatically disengages from the flywheel. This
+
+prevents the engine from driving the starter. When the pinion is disengaged from the flywheel automatically, it is held in this position by a latch until the starter switch is closed again.
+
+(2) Advantages. The chief advantages claimed for this type of starter are listed below.
+
+(a) It is simple in construction.
+
+(b) The mechanism is automatic in operation, requiring no action by the operator other than pressing the starter switch.
+
+(c) It gives high starting speed, because the starter is permitted to pick up speed before the load is applied.
+
+(d) The engine is given a high cranking torque immediately, thus requiring little cranking and minimizing the demand on the battery.
+
+(3) Disadvantages. The chief disadvantages are listed below.
+
+(a) The quick impulse given to the pinion is likely to cause nicking or breaking of the teeth when
+
+the pinion does not mesh properly on first contact with the flywheel teeth.
+
+(b) Breakage or nonfunctioning of the pinion latch will cause the pinion to drift toward the flywheel teeth, which is likely to cause damage if the engine is running.
+
+(c) All of the starter torque is transmitted through the drive spring, which puts it under considerable strain.
+
+Section II. CONTROL SYSTEMS
+
+14-5. Key and Pushbutton Switch Control Circuits (Fig. 14-11). One method of controlling the solenoid shift is by a pushbutton on the instrument panel. Pushing the button closes the control circuit so that current can be supplied to the solenoid coil. Current practice, however, is to eliminate a separate pushbutton switch by incorporating a start position into the key switch. A relay frequently is used in the control circuit to supply current to the solenoid coils. Only a low-current control circuit to the instrument panel pushbutton Is then necessary. The relay will close the circuit through the solenoid coil, which carries a larger current.
+
+14-6. Vacuum Lockout Switch Control Circuit (Fig. 14-12). The vacuum lockout switch is incorporated on some vehicles to prevent the starter from accidentally being engaged after the engine is running. The switch has a diaphragm that is actuated by manifold vacuum after the engine starts. The movement of the
+
+diaphragm opens the switch, disabling the starter solenoid circuit.
+
+14-7. Generator Lockout Relay (Fig. 14-13). A generator lockout relay sometimes is used to prevent the starter from accidentally being engaged on a running engine. The relay is actuated by the stator terminal on the alternator to open the starter solenoid circuit as the engine runs and the alternator begins producing current.
+
+14-8. Oil Pressure Lockout Circuit (Fig. 14-14). The oil pressure lockout circuit is used on some models to prevent accidental starter engagement to a running engine. As the engine starts, the lockout switch is turned on by the engine oil pressure. The lockout switch will, in turn, actuate a relay that opens the starter solenoid circuit.
+
+Change 1 14-11(14-12 Blank)

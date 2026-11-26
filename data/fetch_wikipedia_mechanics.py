@@ -62,19 +62,76 @@ TITLES = {
     ],
 }
 
+# Batch B (2026-11-26): hand-picked from the Wikipedia suspension / transmission / steering
+# categories, classic-era only (no active/electronic systems). Skips titles already in batch A.
+TITLES_B = {
+    "suspension": [
+        "Axle", "Beam axle", "Body roll", "Bump steer", "Control arm", "Coilover", "De Dion suspension",
+        "Dubonnet suspension", "Elliptic spring", "Half-elliptic spring", "Hydrolastic", "Independent suspension",
+        "Kingpin (automotive part)", "Lever arm shock absorber", "MacPherson strut", "Panhard rod",
+        "Radius rod", "Ride quality", "Sliding pillar suspension", "Slip angle", "Spindle (automobile)",
+        "Steering knuckle", "Swing axle", "Torsion bar suspension", "Trailing-arm suspension",
+        "Transverse leaf spring front suspension", "Watt's linkage", "Sprung mass", "Jaguar independent rear suspension",
+    ],
+    "steering": [
+        "Ackermann steering geometry", "Bishop Cam steering box", "Drag link", "Idler arm", "Marles steering gear",
+        "Parallelogram steering linkage", "Pitman arm", "Scrub radius", "Steering", "Steering box",
+        "Steering column", "Steering linkage", "Steering ratio", "Torque steer", "Understeer and oversteer",
+        "Burman and Sons",
+    ],
+    "engine_drivetrain_classic": [
+        "Layshaft", "Preselector gearbox", "Self-changing gearbox", "Reverse gear", "Manual transmission",
+        "Flexplate", "Hill-holder", "Fluid coupling", "Torque converter", "Limited-slip differential",
+        "SU carburettor", "Zenith carburettor", "Solex carburettor", "Stromberg carburetor", "Amal (company)",
+        "Carburetor icing", "Vapor lock", "Float chamber", "Air filter", "Fuel filter", "Fuel tank",
+        "Lubrication", "Engine oil", "Crankcase ventilation system", "Positive crankcase ventilation",
+        "Valve train", "Overhead valve engine", "Overhead camshaft", "Side-valve engine", "Pushrod",
+        "Rocker arm", "Poppet valve", "Valve seat", "Valve stem seal", "Connecting rod", "Main bearing",
+        "Plain bearing", "Flywheel", "Harmonic balancer", "Engine balance", "Inline-four engine",
+        "Straight-six engine", "Detonation", "Pre-ignition", "Octane rating", "Leaded gasoline",
+        "Coolant", "Antifreeze", "Radiator cap", "Fan clutch", "Heater core", "Water jacket",
+    ],
+    "electrical": [
+        "Ignition timing", "Dwell angle", "Condenser (electrical)", "Capacitor", "Starter solenoid",
+        "Bendix drive", "Lucas Industries", "Generator (device)", "Cutout relay", "Relay", "Fuse (electrical)",
+        "Windscreen wiper", "Horn (acoustic)", "Sealed beam", "Bulb", "Lead–acid battery",
+    ],
+    "body_tyres": [
+        "Tire balance", "Tire pressure", "Tread", "Wheel alignment", "Wheel balancing", "Hubcap", "Hub (wheel)",
+        "Knock-off", "Wheel bearing", "Tubeless tire", "Inner tube", "Rim (wheel)", "Windshield", "Soft-top",
+        "Hood (vehicle)", "Fender (vehicle)", "Bumper", "Running board", "Coachbuilder", "Ash frame",
+        "Galvanic corrosion", "Rust converter", "Underseal", "Fiberglass", "Sheet metal",
+    ],
+    "brakes": [
+        "Brake caliper", "Brake disc", "Brake shoe", "Wheel cylinder", "Brake drum", "Brake pedal",
+        "Vacuum servo", "Brake booster", "Hydraulic brake", "Cable (mechanical)", "Parking brake",
+        "Dual-circuit braking", "Proportioning valve", "Rotor (brake)",
+    ],
+    "classic_car_ownership": [
+        "MG Car Company", "MG MGB", "MG MGA", "MG Midget", "MG T-type", "MG Magnette", "MG Y-type", "MG B-series engine",
+        "BMC A-series engine", "BMC B-series engine", "British Motor Corporation", "British Leyland",
+        "Morris Motors", "Abingdon", "Car maintenance", "Oil change", "Tune-up", "Torque wrench",
+        "Jack (device)", "Axle stand", "Automobile repair shop", "Used car", "Barn find",
+    ],
+}
+
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out-dir", default="data/corpus_wikipedia_mechanics")
     ap.add_argument("--min-chars", type=int, default=1500)
+    ap.add_argument("--batch", choices=["a", "b"], default="a", help="b = hand-picked second batch")
     ap.add_argument("--dry-run", action="store_true", help="only list titles")
     args = ap.parse_args()
-    titles = sorted({t for ts in TITLES.values() for t in ts})
+    src = TITLES if args.batch == "a" else TITLES_B
+    titles = sorted({t for ts in src.values() for t in ts})
+    if args.batch == "b":  # drop anything batch A already has
+        titles = [t for t in titles if t not in {x for ts in TITLES.values() for x in ts}]
     print(f"{len(titles)} titles")
     if args.dry_run:
         return
     os.makedirs(args.out_dir, exist_ok=True)
-    topic_of = {t: k for k, ts in TITLES.items() for t in ts}
+    topic_of = {t: k for k, ts in src.items() for t in ts}
 
     manifest, seen_ids, missing = [], set(), []
     for i, t in enumerate(titles, 1):

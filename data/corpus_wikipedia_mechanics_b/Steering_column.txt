@@ -1,0 +1,20 @@
+Steering column
+
+The automotive steering column is a device intended primarily for connecting the steering wheel to the steering mechanism.
+
+== Secondary functions ==
+A steering column may also perform the following secondary functions:
+
+energy dissipation management in the event of a frontal collision;
+provide mounting for: the multi-function switch, column lock, column wiring, column shroud(s), transmission gear selector, gauges or other instruments as well as the electro motor and gear units found in EPAS and SbW systems;
+offer (height and/or length) adjustment to suit driver preference
+
+== Steering lock ==
+Modern vehicles are fitted with a steering lock which is an anti-theft device. It is fitted to the steering column usually below the steering wheel. The lock is combined with the ignition switch and engaged and disengaged either by a mechanical ignition key or electronically from the vehicles electronic control unit. These locks were introduced on many General Motors products in 1969 drastically reducing thefts of these GM models,  and on Ford, Chrysler, and AMC products in 1970.
+
+== Collapsible column ==
+A common device to enhance car safety is the collapsible steering column. This is designed to collapse in the event of a collision to protect the driver from harm. The column can collapse after impact with a tolerance ring inserted between the inner shaft of the steering column and the external housing. The wavelike protrusions on the circumference of the tolerance ring act as a spring to hold the two parts in place in normal driving conditions. At a specific level of force, for example in the event of a collision, the tolerance ring allows the inner shaft to slip inside the housing, so the column can collapse, absorbing energy from the impact. In 1967, General Motors introduced its 'energy absorbing' steering column which consisted of a lattice-mesh outer tube section which was designed to crush on impact whilst the inner shaft telescoped.  This column design first appeared on Chevrolet vehicles, and was rolled out to all of GM's divisions worldwide in the following years. 
+In virtually all modern vehicles, the lower section of the inner shaft is articulated with universal joints which helps control movement of the column in a frontal impact, and also gives engineers freedom in mounting the steering gear itself.
+
+== Regulatory requirements ==
+In the United States, steering columns are governed by several federal regulatory requirements, notably FMVSS 108, 114 and 208. The Chinese directive GB15740- 2006 obligates Chinese car manufacturers to incorporate anti-theft mechanisms in their vehicles. European Union Commission Directive 95/56/EC (1995) mandates all cars exported to European markets must be fitted with anti-theft security devices.  This regulation also requires that a steering lock must be able to withstand forces of 100Nm applied to the steering wheel without failing.

@@ -1,0 +1,35 @@
+Overhead valve engine
+
+An overhead valve engine, abbreviated (OHV) and sometimes called a pushrod engine, is a piston engine whose valves are located in the cylinder head above the combustion chamber. This contrasts with flathead (or "sidevalve") engines, where the valves were located below the combustion chamber in the engine block.
+Although an overhead camshaft (OHC) engine also has overhead valves, the common usage of the term "overhead valve engine" is limited to engines where the camshaft is located in the engine block. In these traditional OHV engines, the motion of the camshaft is transferred using pushrods (hence the term "pushrod engine") and rocker arms to operate the valves at the top of the engine. However, some designs have the camshaft in the cylinder head but still sit below or alongside the valves (the Ford CVH and Opel CIH are good examples), so they can essentially be considered overhead valve designs.
+Some early intake-over-exhaust engines used a hybrid design combining elements of both side-valves and overhead valves.
+
+== History ==
+
+=== Predecessors ===
+The first internal combustion engines were based on steam engines and therefore used slide valves. This was the case for the first Otto engine, which was first successfully run in 1876. As internal combustion engines began to develop separately to steam engines, poppet valves became increasingly common.
+Beginning with the 1885 Daimler Reitwagen, several cars and motorcycles used inlet valve(s) located in the cylinder head, however these valves were vacuum-actuated ("atmospheric") rather than driven by a camshaft as with typical OHV engines. The exhaust valve(s) were driven by a camshaft, but were located in the engine block as with side-valve engines.
+The 1894 prototype Diesel engine used overhead poppet valves actuated by a camshaft, pushrods and rocker arms, therefore becoming the first OHV engines. In 1896, U.S. patent 563,140 was taken out by William F. Davis for an OHV engine with liquid coolant used to cool the cylinder head, but no working model was built.
+
+=== Production OHV engines ===
+In 1898, bicycle manufacturer Walter Lorenzo Marr in the United States built a motorised tricycle powered by a single-cylinder OHV engine. Marr was hired by Buick (then named Buick Auto-Vim and Power Company) from 1899 to 1902, where the overhead valve engine design was further refined. This engine employed pushrod-actuated rocker arms, which in turn opened poppet valves parallel to the pistons. Marr returned to Buick in 1904 (having built a small quantity of the Marr Auto-Car, with one of the first known engines to use an overhead camshaft design), the same year that Buick received a patent for an overhead valve engine design. In 1904, the world's first production OHV engine was released in the Buick Model B. The engine was a flat-twin design with two valves per cylinder. The engine was very successful for Buick, with the company selling 750 such cars in 1905, and the OHV engine has powered almost all Buick automobiles since then.
+
+Several other manufacturers began to produce OHV engines, such as the 1906–1912 Wright Brothers Vertical 4-Cylinder Engine. In 1911, Chevrolet joined Buick in almost exclusive use of OHV engines. However, flathead "side-valve" engines remained commonplace in the U.S. until the mid-to-late 1950s, when they began to be phased out for OHV engines.
+
+=== Overhead camshaft engines ===
+
+The first overhead camshaft (OHC) engine dates back to 1902, in the Marr; however, use of this design was mostly limited to high-performance cars for many decades. OHC engines slowly became more common from the 1950s to the 1990s, and by the start of the 21st century, the majority of automotive engines (except for some North American V8 engines) used an OHC design.
+At the 1994 Indianapolis 500 motor race, Team Penske entered a car powered by the custom-built Mercedes-Benz 500I pushrod engine. Due to a loophole in the rules, the pushrod engine was allowed to use a larger displacement and higher boost pressure, significantly increasing its power output compared to the OHC engines used by other teams. Team Penske qualified in pole position and won the race by a large margin.
+In the early 21st century, several pushrod V8 engines from General Motors and Chrysler used cylinder deactivation to reduce fuel consumption and exhaust emissions. In 2008, the first production pushrod engine to use variable valve timing was introduced in the Dodge Viper (fourth generation).
+
+== Advantages & disadvantages ==
+
+OHV engines have several advantages compared to OHC engines:
+
+Smaller overall packaging: The cam-in-block design of an OHV engine results in a smaller overall size, compared with an equivalent OHC engine, which can have some advantages in center of gravity and hood height in V-engine designs.
+Simpler camshaft drive system: OHV engines have a less complex drive system for the camshaft than OHC engines. Most OHC engines drive the camshaft or camshafts using a timing belt, a chain, or multiple chains. These systems require the use of tensioners, which add complexity. In contrast, an OHV engine has the camshaft positioned close to the crankshaft, which may be driven by a much shorter chain or even direct gear connection. However, this is somewhat negated by a more complex valvetrain requiring pushrods.
+Simpler lubrication system: The lubrication requirements for OHV cylinder heads are much lower, as they typically have a single camshaft within the block, where an OHC engine can have two per bank of cylinders, requiring oil passages through the cylinder head. OHV heads only need lubrication for the rocker arms at the pushrod end, trunnion, and rocker tip. This lubrication is typically provided through the hollow pushrods themselves rather than a dedicated lubrication system in the head. The reduced lubrication requirements can also mean that a smaller, lower-capacity oil pump is used.
+Compared to OHC engines, OHV engines have the following disadvantages:
+
+Limited engine speeds: Although OHV engines have simpler drive systems for the camshaft, there are a greater number of moving parts in the valvetrain (i.e., the lifters, pushrods, and rockers). Inertia from these valvetrain parts makes OHV engines more susceptible to valve float at high engine speeds (RPM).
+Constraints on valve quantity and location: In OHV engines, the size and shape of the intake ports as well as the position of the valves are limited by the pushrods and the need to accommodate them in the head casting.  As a result, it is rare for an OHV engine to have more than two valves per cylinder, while OHC engines often have four, allowing for higher rates of combustion and exhaust.

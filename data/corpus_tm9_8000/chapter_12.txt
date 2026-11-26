@@ -1,0 +1,169 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 12
+
+12-1. General. The storage battery provides electrical energy through chemical reactions. When a generator in the electrical system of a motor vehicle produces more electrical energy than required for ignition and for operating electrical accessories, the surplus (under cer- tain conditions) passes through the battery to reverse the chemical reaction. This is known as charging the battery. When the generator is not producing the necessary electrical energy, the battery, through chemical reaction, can supply the energy required in the electrical system of the vehicle. The battery then is said to be discharging. The most common battery for automotive use is the lead-acid battery.
+
+12-2. Component Parts. The storage battery, as used for starting, lighting, and ignition purposes, consists of three or more cells, depending on the voltage desired. A battery of three cells (2 volts each) connected in series is a 6-volt
+
+battery, and one of six cells connected in series is a 12-
+
+volt battery. Typical battery construction is shown in figure 12-1.
+
+a. Plates.
+
+(1) Each cell consists of a hard rubber jar or compartment into which two kinds of lead plates, known as positive and negative, are placed. These plates are insulated from each other by suitable separators and are submerged in a sulfuric acid solution.
+
+(2) The backbone of both the positive and negative plates is a grid made of stiff lead alloy casting. The grid, usually composed of vertical and horizontal crossmembers, is designed carefully to give the plates mechanical strength and, at the same time, to provide adequate conductivity for the electric current created by the chemical action. The active material, composed chiefly of
+
+TA233535 Figure 12-1. Cross Section of a Typical Storage Battery.
+
+lead oxides, is applied to the grids in paste form, then allowed to dry and harden like cement. Part of a grid is shown in figure 12-2 with a cross section showing the active material in place. The plates are then put through an electrochemical process that converts the hardened active material of the positive plates into brown lead peroxide, and that of the negative plates into gray, spongy, metallic lead. This process is known as forming the plates.
+
+b. Groups. After the plates have been formed, they are built into positive and negative groups. The plates of each group are permanently joined by melting a portion of the lug on each plate to form a solid weld with a connecting post strap. The heat necessary for this process, termed lead burning, is produced by a gas flame or an electric arc. The connecting post strap to which the plate lugs are burned contains a cylindrical terminal that forms the outside connection for the cell. The negative group of plates has one more plate than the positive group to provide a negative plate on both sides of all positive plates. These groups are shown in figure 12-3.
+
+c. Separators. To prevent the plates from touching and causing a short circuit, sheets of insulating material (microporous rubber, fibrous glass, or plastic- impregnated material), called separators, are inserted between the plates. These separators (fig. 12-4) are thin and porous so the electrolyte will flow easily between the plates. One side of the separator (that is placed
+
+against the positive plate) is grooved so the gas that forms during charging will rise to the surface more readily. These grooves also provide room for any material that flakes from the plates to drop to the sediment space below.
+
+d. Elements. The assembly of a positive and negative group, together with the separators, is called an element (fig. 12-4). Because storage battery plates are more or less of standard size, the number of plates in an element is, roughly, a measure of the battery capacity. The distance between the plates of an assembled element is, approximately one-eighth inch.
+
+e. Electrolyte.
+
+(1) Composition. An electrolyte is a liquid that conducts electricity readily and is decomposed when an electric current passes through it. The electrolyte in the lead-acid storage battery has a specific gravity of 1.28, which means that it is 1.28 times as heavy as water. It is composed of one part of chemically pure sulfuric acid and approximately two and three-fourths parts, by volume, of distilled water. A small quantity of some impurity introduced into the acid solution by using impure water might interfere with the chemical action and cause battery trouble.
+
+(2) Specific Gravity Readings. Specific gravity is the ratio of the weight of the same volume of chemically pure water at 39°F (4°C). The specific gravity of sulfuric acid is 1.835; that is, sulfuric acid is 1.835 times heavier than water. The electrolyte of a storage battery is a mixture of water and sulfuric acid. The amount of sulfuric acid in the electrolyte changes with the amount of electrical charge; also, the specific gravity of the electrolyte changes with the amount of electrical charge. This provides a convenient way of measuring the degree of charge in a battery. A fully charged battery will have a specific gravity of 1.28 at 80°F (26.6°C). The figure will go higher with a temperature decrease and lower with a temperature increase.
+
+(3) Tropical Operation.
+
+(a) When batteries are operated in tropical climates, the full-charge specific gravity should be reduced to a value between 1.2 and 1.225 by dilution with water. Rainwater may be used if distilled water is not available.
+
+(b) At the high temperatures encountered in the tropics, the acid in the electrolyte is more active and a weaker concentration will give satisfactory results with less damage to plates and separators.
+
+(c) When the electrolyte is diluted, a special tag, giving the full-charge specific gravity, will be attached to the battery and also a 1-inch white spot will be painted on the battery top. If the battery is a nonmilitary type, it may have exposed cell connector straps and these will be painted white. Be careful to readjust the specific gravity before shipping such batteries to frigid areas.
+
+f. Container.
+
+(1) A battery container is a receptacle for the cells that make up the battery. It is made of hard rubber or a polypropylene plastic, which is resistant to acid and mechanical shock. Most motor vehicle batteries are assembled in one-piece containers (fig. 12- 5) with three or six
+
+compartments for the individual cells. One element and enough electrolyte to cover the plates are inserted into each cell compartment.
+
+(2) Stiff ridges, or ribs, molded in the bottom of the container form a support for the plates and a sediment recess for the flakes of active material that drop off the plates during the life of the battery. The sediment is thus kept clear of the plates so it will not cause a short circuit across them.
+
+g. Cover. After all of the elements have been fitted into the case, they are connected together in series by burning lead cell connectors across the terminals. The battery top then is sealed with a hard rubber cover that provides openings for the two battery posts and a vent plug for each cell. The vent plugs allow gas to escape and prevent the electrolyte from splashing outside the battery. The battery is filled through the vent plug openings.
+
+Section II. PRINCIPLES OF OPERATION
+
+12-3. General. When a cell is fully charged, the negative plate is spongy lead, the positive plate is lead peroxide, and the electrolyte contains a maximum amount of sulfuric acid. Both the negative and positive plates are very porous and are acted upon readily by the acid. A cell in this condition can produce electrical energy through reaction of the chemicals.
+
+12-4. Discharge. If the terminals of the battery are connected to a closed circuit, the cell discharges to supply electric current (fig. 12-6). The chemical process that occurs during discharge changes both the lead of the negative plate and the lead peroxide of the positive plate to lead sulfate and the sulfuric acid to water. Thus, the
+
+electrolyte becomes weaker during discharge, because the water increases and the sulfuric acid decreases. As the discharge continues, the negative and the positive plates finally contain considerable lead sulfate and the electrolyte turns to almost pure water. At this point the battery will stop providing current flow.
+
+12-5. Charge.
+
+a. Chemical Action. To charge the cell, an external source of direct current must be connected to the battery terminals. The chemical reaction is reversed then and returns the positive
+
+and negative plates and the electrolyte to their original condition. When all the sulfate on the plates has been returned to the electrolyte to form sulfuric acid, the cell is recharged fully and ready to be used for the next discharge. Charging should be started before both plates have become sulfated entirely. The chemical process in the cell during discharge and charge is shown in figure 12-6.
+
+b. Electrical Action. A storage battery can be charged by direct current only. If only alternating current is available, a motor-generator set or a rectifier must be used to convert it into direct current. In charging, the positive wire of the charging circuit must always be connected to the positive (+) terminal of the battery and the negative wire to the negative (-) terminal. The electrolyte in each cell must be brought to the proper level by the addition of pure water before the battery is charged.
+
+c. Capacity. All batteries are given normal
+
+capacity ratings according to the ampere-hours
+
+obtained from the battery under certain working conditions. The capacity of a battery is the number of amperes delivered, multiplied by the number of hours the battery is capable of delivering this current. One of the inherent characteristics of a storage battery is that its ampere-hour capacity depends upon the rate of discharge. A battery will give more ampere-hours at a long, low, or intermittent discharge rate than at a short, high, or continuous discharge rate. This is because the voltage drops faster at higher rates. Like other chemical processes, the battery is less efficient in cold weather than in hot weather. At 0°F (-18°C), a battery has only approximately 40 percent of the full cranking capacity available at 80°F (27°C). In an emergency, little, if any, permanent harm will result if the battery is discharged at a very high rate, provided it is promptly recharged. The battery is likely to deteriorate if left in a discharged condition.
+
+Section III. TYPES OF BATTERIES
+
+12-6. Deep-Cycle Battery. Deep-cycle batteries are units that are designed to be subjected to heavy discharge loads for long periods of time. They also must be able to take high-rate charging. The batteries used in forklifts (or any electric vehicles) are nickel cadmium or lead acid. Because the initial cost of nickel-cadmium batteries are approximately 35 times that of lead acid, they are used only when their cost can be justified in terms of their extremely long cycle life. Lead-acid batteries come in four basic varieties:
+
+a. SLI Battery. The SLI (starting, lighting, and ignition) battery is designed to deliver high power outputs for relatively short periods of time. Because of its thin plate design, it has less energy available than a deep cycle battery and will have a life limited to less than 100 deep discharge cycles. It is suited to automotive usage because it is lightweight and has a higher specific power output (power-per-pound) than deep cycle batteries. In normal automotive usage, the life of an SLI battery may exceed 5,000 shallow cycles (starting an engine and recharging would be considered a shallow cycle).
+
+b. Golf Cart Battery. The golf cart battery must
+
+be able to sustain high discharge rates for relatively long periods of time. At the same time, they must have a high specific power output and be relatively lightweight. The golf cart battery has thicker plates than the SLI battery and can withstand about 200 to 400 deep cycles.
+
+c. Semi-Industrial Battery. The semi-industrial battery has thicker plates and is larger and heavier than the golf cart battery. It can withstand about 500 to 1,000 deep cycles through its life.
+
+d. Industrial Battery. The industrial battery is used mainly as a source of power in electric industrial vehicles, where cycle life and total power output are important. In some cases industrial batteries will use tubular plates instead of the standard pasted plates. This design can withstand as much as 2,000 deep cycles during its life though it exhibits a low power density, resulting in a very large, heavy battery.
+
+12-7. Nickel-Cadmium Batteries.
+
+a. General. The nickel-cadmium, alkaline battery has been receiving serious consideration
+
+and extensive testing for tank-automotive applications. This battery employs nickel and cadmium compounds as the active material and potassium hydroxide as electrolyte. There are actually two basic types of nickel- cadmium batteries. These are distinguished by the method used to construct the plates. One is called a pocket plate and the other a sintered-plate design. In addition, the nickel-cadmium battery is produced with both vented cells and completely sealed cells. The vented sintered-plate, nickel-cadmium battery is the one most often used in military applications because it offers high discharge rates at wider temperature ranges. For this reason, the discussion of the nickel-cadmium battery will be confined largely to the sintered-plate version. The basic difference between the pocket and sintered plate is that, in the pocket type, the active material of the plates is encased within perforated steel pockets, while the sintered type has the active material contained in a sintered structure surrounding the grid. Although the sintered method is more expensive per ampere-hour than the pocket plate type, superior performance at high rates and reduced capacity loss at low temperatures qualify it as the logical choice for military applications.
+
+b. Construction.
+
+(1) The sintered plate consists of three components. One is the metal grid that acts as the current collector. This grid is constructed either of pure nickel, a woven screen of nickel-plated steel, expanded metal, or perforated sheet. The second component is a fine nickel powder that is sintered on the grid and has a porosity of approximately 80 percent. The third component is the active material that is impregnated in the pores of the sintered powder. A nickel salt is used for the active material in the positive plate, and a cadmium salt for the negative.
+
+(2) Once the plates are constructed, they are formed into cell elements similar to the lead-acid battery. The plates are isolated from one another with nylon- cellophane type separators and placed into a container usually of high-impact plastic.
+
+(3) The positive plate of the nickel-cadmium battery is made up of Ni(OH)3 and Ni(OH)2 whereas the negative consists of Cd and Cd(OH)2. During discharge,
+
+the trivalent nickel hydroxide Ni(OH)3 is converted to the divalent hydroxide Ni(OH)2 at the positive plate with the reverse process occurring during charging. The negative plate consists of metallic cadmium when fully charged. This is converted to the hydroxide during discharge and back to metallic cadmium during charging.
+
+c. Features.
+
+(1) The low internal resistance of the sintered-plate battery makes it ideal for service requiring long battery life and high current drains over a wide temperature range.
+
+(2) The sintered-plate construction of the positive and negative electrode allows plates to be constructed as thin as 0.02 inch. This allows more plates to be installed in a given size cell with less space between plates. The internal resistance of the sintered- plate cell is thus about one-half that of a pocket plate type.
+
+(3) The specific gravity of the potassium hydroxide electrolyte does not change during charge or discharge. This is because the electrolyte does not enter into the chemical reaction between the positive and negative electrodes, as does sulfuric acid in the lead acid battery. For this reason, specific gravity readings of the nickel-cadmium electrolyte are not an indication of the state-of-charge. The open circuit voltage of a charged nickel-cadmium cell is about 1.3 volts, and the average and final discharge voltages at normal rates of discharge are about 1.2 and 1.1 volts, respectively.
+
+(4) The fact that the electrolyte serves virtually as a conductor offers several advantages. One is that very little gassing occurs on charging, except when overcharged, and none on -discharge. Therefore, little water is lost. Another is that the rate of self-discharge is very low. Thus, the battery may be left standing on open circuit for periods up to a year and still retain as much as 70 percent of its original charge. Still another advantage of the nickel-cadmium battery is that it will accept a charge at a temperature as low as -40°F, by virtue of self-heating. At temperatures below -40°F, however, the electrolyte forms a slush that does slow down chemical reactions.
+
+(5) The last two characteristics in table 12-1 point out possibly the most and least desirable features of the nickel-cadmium battery; that is, the desirable feature of cranking ability at low temperature, and the undesirable initial acquisition cost. The latter indicates an initial cost of approximately 35 times that of the lead- acid battery. Whether this added cost can be justified by longer life and better performance is up to the electrical designer to evaluate in that particular application. In addition, the manufacture of nickel-cadmium batteries requires critical materials during war time.
+
+d. Performance Characteristics. A discharge performance comparison between the nickel-cadmium battery and the lead-acid battery is shown in figure 12-7. This figure shows discharge characteristics of fully charged 34 ampere-hour, 24-volt, lead-acid and nickel- cadmium batteries discharged at the 1-hour rate of 30 amperes. This figure illustrates an important characteristic of the nickel-cadmium battery, that is, its ability to maintain a nearly constant voltage until approximately 90 percent of the capacity is delivered. This feature, combined with its recharge capability at low temperatures, makes the nickel-cadmium battery a prime candidate for heavy-duty applications.
+
+12-8. Maintenance-Free Battery.
+
+a. General. Another development that could be applied to military vehicles is the maintenance-free
+
+battery now used for commercial application. This battery is a completely sealed unit that requires no maintenance. The major difference between this battery and conventional design is the absence of antimony in the lead grids.
+
+b. Features. Because lead alone is not rigid enough to hold its form in use, antimony usually is added to stiffen conventional battery plates. As a result of the added antimony, the conventional battery uses an excessive amount of water during the charge and discharge cycles. In the maintenance-free battery, the designers replaced the antimony with a calcium additive to strengthen the plates. This design effort resulted in a battery with very little water loss over its lifetime. Another advantage of the sealed battery is that the battery posts do not become corroded as a result of acid leakage. However, batteries filled and sealed at the factory would become a charging problem in the military system due to wet storage. Because of shipping delay and distances involved, and long-term storage require-ments, a battery seldom is used within the first year after its production.
+
+12-9. Other Storage Batteries.
+
+a. General. Although the lead-acid and the nickel- cadmium storage batteries have received the most attention, several other battery types deserve a brief description. These are: nickel iron, nickel zinc, silver zinc, and silver cadmium.
+
+Table 12-1. Lead-Acid Vs Nickel-Cadmium Batteries.
+
+Cranking ability at -40°F minimum time, at 300-A rate
+
+Initial acquisition cost (current Government catalog)
+
+b. Nickel Iron. This is a battery of rugged construction, used for many years for heavy cycling service to provide reliable, long-life service in applications such as electric industrial trucks and railway cars. The battery may have limited use in certain tank- automotive applications. Charging problems occur due to high over voltage and performance is poor at low temperatures.
+
+c. Nickel Zinc. This battery has received attention only in recent years. It is still in the development stage. Problems to be overcome are low nickel plate capacity, separator deterioration, and poor zinc cycle life. With added improvements it could become competitive with silver-zinc types in many applications.
+
+d. Silver Zinc. This battery is the best high-rate have an exceptionally long cycle life. These shortcomings are expected to be improved in the near future.
+
+e. Silver Cadmium. This battery has similar construction to the silver zinc, but has lower cell voltage and more moderate discharge rate. It is similar in cost to the silver zinc, but better in cycle service due to its cadmium electrode. This battery, as well as the silver zinc, presently is used for space satellite applications, and possibly could have future use in tank-automotive applications.
+
+Section IV. MILITARY APPLICATIONS
+
+12-10. Battery Installation Considerations. The design of a battery installation will vary with the type of vehicle. There are, however, certain design features that can be applied to all vehicles used in a tank-automotive application.
+
+a. The battery always should be mounted in a location that is clean and protected from accumulations of mud, dust, and excess moisture.
+
+Protection from the elements is beneficial not only to the operation of the battery itself, but can be the means to prevent unforeseen accidents. For example, if saltwater comes in contact with the positive plates of a damaged lead-acid battery, it will produce chlorine gas. Proper design will avoid the possibility of such an occurrence. Also, provisions for periodic cleaning of the battery installation always should be made.
+
+b. The battery should be mounted to facilitate maintenance and provide ready access to the batteries without the need for removing other components. All access plates should be hinged and employ quick- release fasteners when feasible. Allow for adequate clearance so that maintenance personnel wearing arctic clothing can gain access for removal and replacement. Allow enough overhead room to provide for easy, accurate testing and servicing of the batteries.
+
+c. Battery boxes should be designed to protect the vehicle and crew from gases produced during battery charging. These gases are oxygen and hydrogen, which constitute a highly explosive mixture. Thus, adequate ventilation must be provided to allow all gas to escape. This ventilation also is necessary to limit temperature rise in hot climates.
+
+12-11. Battery Installation Configurations (Fig. 12-8).
+
+a. General. Current tank-automotive vehicles always use more than one battery. There are two reasons for this:
+
+(1) Because the standard batteries are 12 volts, two batteries are required to meet the 24-volt requirement of military vehicles.
+
+(2) Additional batteries may be required to meet heavy current demands of certain military vehicles.
+
+b. Two 12-Volt Batteries in Series. The connection of two 12-volt batteries in series will add their voltages together to deliver 24 volts. It should be noted that the amount of current output, however, will remain the same as for one battery.
+
+c. Four 12-Volt Batteries in Series-Parallel. By taking two pairs of 12-volt batteries connected in series (24 volts for each pair) and connecting them in parallel with each other, a battery pack of 24 volts will result, with twice the current output of each individual battery. This battery configuration is used to meet the demands of heavy-duty use and to provide extra power for cold weather cranking.
+
+d. Six 12-Volt Batteries in Series-Parallel. This configuration consists of three pairs of 12-volt series- connected batteries in parallel with each other. This configuration will provide 24 volts with three times the current capacity of each individual battery at 24 volts and is used in extreme heavy-duty applications.

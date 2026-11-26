@@ -1,0 +1,22 @@
+Lever arm shock absorber
+
+Lever arm shock absorbers were the first form of hydraulic shock absorber or damper used for car suspension. They appeared in the 1930s and were most commonly used in the 1950s and 1960s, but were replaced by telescopic shock absorbers in the 1970s. One of the earliest patents for a hydraulic lever arm shock absorber was awarded in 1925 to Georges de Ram, who was already an established maker of friction disk shock absorbers.
+Hydraulic shock absorbers, invented by Ralph Peo in 1930, appeared as a development to replace the previous friction disks. These had, at best, provided a constant damping force, no matter what the size or speed of the suspension movement. With a viscous device using hydraulic oil, the resistance force increased with speed, so providing better damping for larger suspension bumps.
+
+== Rotary vane ==
+The first hydraulic shock absorbers were of the rotary vane pattern, the so-called Houdaille shock absorbers. These consisted of a cylindrical oil-filled body, bolted to the chassis. A lever arm was attached to the axle and inside the cylinder, this rotated a spindle carrying a vane or paddle. This vane had only a small hole in it, through which the hydraulic oil could pass. Resistance to flow through the hole provided the damping effect.
+These were first developed by Maurice Houdaille around 1906, but remained largely ignored in favour of the simpler friction devices for some years.
+This type was most common pre-war, although Ferrari continued to use the Houdaille vane-type for Formula One racing cars into the late 1950s.
+
+== Lever type ==
+
+A design for a hydraulic lever arm shock absorber was patented by Georges de Ram in 1925, and the design was further developed during the post-war period. This type of shock absorber had a large cast body containing a cylinder and pistons attached to a similar spindle and lever arm. Some used a pair of pistons for bump and rebound, others used a single double-acting piston. Some, such as the VW Beetle until 1949–1951, had only single-acting shock absorbers, with no rebound damping. Flow of hydraulic oil around the piston took place through valves mounted in the body. Separate valves were provided for each direction, giving the useful feature of a different resistance to bump and rebound. These valves were sometimes easily adjustable from outside the damper body.
+
+== Integral wishbones ==
+
+Many cars of this period began to use independent front suspension, often a double wishbone. The upper wishbone could conveniently also be used as the lever of the shock absorber, reducing the mass and bulk of the suspension, and also avoiding at least one ball joint. The spindle of the shock absorber now became the upper suspension pivot, usually double-ended.
+One of the last mass-production sports cars to still use lever arm shock absorbers was the MG B. This had a lever arm shock absorber as the upper wishbone. A popular handling upgrade in later years was to fit telescopic shock absorbers instead. The lever arm wishbone was still retained, but now as a simple wishbone with no damping.
+
+== Obsolescence ==
+During the 1960s, the lever arm was replaced by the telescopic shock absorber. This was encouraged by better roads and motorways, increasing average speeds and driver expectations of handling. The telescopic shock absorber dissipated heat more effectively, owing to its larger working volume of fluid and also the better ratio of surface area to fluid volume.
+About the only area where lever arm shock absorbers still are actively used is tank suspensions, where their compact size and unique geometry allow them to be easily integrated with the suspension's torsion bars, and the massive tank chassis acting as a one huge heatsink alleviates the heat dissipation problems. Some designs of this type of shock absorber lend themselves well to their modification as an active suspension actuators, and at least one modern main battle tank (Russian T-14 Armata) is said to have this type of suspension.

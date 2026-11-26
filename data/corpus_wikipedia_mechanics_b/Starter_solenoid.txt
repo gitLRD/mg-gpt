@@ -1,0 +1,15 @@
+Starter solenoid
+
+A starter solenoid is an electromagnet which is actuated to engage the starter motor of an internal combustion engine.  It is normally attached directly to the starter motor which it controls.
+The device serves two functions.  The first is as the actuating coil of a contactor (a relay designed for large electric currents) which connects the battery to the starter motor proper.
+All modern cars also use the starter solenoid to move the starter pinion into engagement with the ring gear of the engine. 
+The starter solenoid is sometimes called the starter relay, but many cars reserve that name for a separate relay which supplies power to the starter solenoid.  In these cases, the ignition switch energizes the starter relay, which energizes the starter solenoid, which energizes the starter motor.
+
+== Operation ==
+An idle starter solenoid can receive a large electric current from the  car battery and a small electric current from the ignition switch.  When the ignition switch is turned on, a small electric current is sent through the starter solenoid. This causes the starter solenoid to close a pair of heavy contacts, thus relaying a large electric current through the starter motor, which in turn sets the engine in motion.
+The starter motor is a series, compound, or permanent magnet type electric motor with a solenoid and solenoid operated switch mounted on it. When low-current power from the starting battery is applied to the starter solenoid, usually through a key-operated switch, the solenoid closes high-current contacts for the starter motor and it starts to run.  Once the engine starts, the key-operated switch is opened and the solenoid opens the contacts to the starter motor.
+All modern starters rely on the solenoid to engage the starter drive with the ring gear of the flywheel.  When the solenoid is energized, it operates a plunger or lever which forces the pinion into mesh with the ring gear.  The pinion incorporates a one way clutch so that when the engine starts and runs it will not attempt to drive the starter motor at excessive RPM.
+Some older starter designs, such as the Bendix drive, used the rotational inertia of the pinion to force it along a helical groove cut into the starter drive-shaft, and thus no mechanical linkage with the solenoid was required.
+
+== Problems ==
+If a starter solenoid receives insufficient power from the battery, it will fail to start the motor, and may produce a rapid clicking sound. The lack of power can be caused by a low battery, by corroded or loose connections in the battery cable, or by a damaged positive (red) cable from the battery. Any of these problems will result in some, but not enough, power being sent to the solenoid, which means that the solenoid will only begin to push the engagement gear, making the metallic click sound.

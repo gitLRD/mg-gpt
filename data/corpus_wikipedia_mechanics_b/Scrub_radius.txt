@@ -1,0 +1,25 @@
+Scrub radius
+
+In an automobile's suspension system, the scrub radius is the distance in front view between the king pin axis and the center of the contact patch of the wheel, where both would theoretically touch the road. It can be positive, negative or zero (center-point steering).
+The kingpin axis also known as steering inclination is the line between the upper and lower pivot points of the steering knuckle. 
+If the kingpin axis intersection point is outboard of the center of the contact patch, it is negative; if inside the contact patch, it is positive. The term scrub radius derives from the fact that either in the positive or negative mode, the tire does not turn on its centerline (it scrubs the road in a turn) and due to the increased friction, more effort is needed to turn the wheel.
+Large positive values of scrub radius, 100 mm (4 in) or so, were used in cars for many years. The advantage of this is that the tire rolls as the wheel is steered, which reduces the effort when parking, provided the wheel is not being braked.
+The advantage of a small scrub radius is that the steering becomes less sensitive to braking inputs. More scrub radius adds to road feel by pushing the inside wheel into the ground.
+An advantage of a negative scrub radius is that the geometry naturally compensates for split μ (mu) braking (when a vehicle applies the brakes while its left and right wheels are on road surfaces with dramatically different levels of friction), or for failure in one of the brake circuits. It also provides center-point steering in the event of a tire deflation, which provides greater stability and steering control in this emergency.
+
+== Steering axis inclination ==
+The steering axis inclination (SAI) is the angle between the centerline of the steering axis and vertical line from center contact area of the tire (as viewed from the front).
+
+=== Effects of SAI ===
+SAI urges the wheels to a straight ahead position after a turn. By inclining the steering axis inward (away from the wheel), it causes the spindle to rise and fall as the wheels are turned in one direction or the other. Because the tire cannot be forced into the ground as the spindle travels in an arc, the tire/wheel assembly raises the suspension and thus causes the tire/wheel assembly to seek the low (center) return point when it is allowed to return. Thus, since it has a tendency to maintain or seek a straight ahead position, less positive caster is needed to maintain directional stability. SAI adds positive camber while turning for both steering tires. A vehicle provides stable handling without any of the drawbacks of high positive caster because of SAI.
+
+== Scrub radius ==
+The scrub radius is the distance at the road surface between the tire center line and the SAI line extended downward through the steering axis.
+The line through the steering axis creates a pivot point around which the tire turns. If these lines intersect at the road surface, a zero scrub radius would be present. When the intersection is below the surface of the road, this is positive scrub radius. Conversely, when the lines intersect above the road, negative scrub radius is present. The point where the steering axis line contacts the road is the fulcrum pivot point on which the tire is turned. Scrub radius is changed whenever there is a change in wheel offset. For example, when the wheels are pushed out from the body of the car the scrub radius becomes more positive. Older cars tended to have very close to zero scrub radius but often on the positive side, while newer cars with anti-lock braking systems (ABS) tend to have a negative scrub radius (this is why most newer cars have wheels offset more inboard).
+
+== Squirm ==
+Squirm occurs when the scrub radius is at zero. When the pivot point is in the exact center of the tire footprint, this causes scrubbing action in opposite directions when the wheels are steered. Tire wear and some instability in corners is the result.
+
+=== Applications in suspension ===
+MacPherson strut equipped vehicles usually have a negative scrub radius. Even though scrub radius in itself is not directly adjustable, it will be changed if the upper steering axis point or spindle angle is changed when adjusting camber. This is the case on a MacPherson strut which has the camber adjustment at the steering knuckle. Because camber is usually kept within 1/4° side to side, the resulting scrub radius difference is negligible.
+Negative scrub radius decreases torque steer and improves stability in the event of brake failure. SLA suspensions usually have a positive scrub radius. With this suspension, the scrub radius is not adjustable. The greater the scrub radius (positive or negative), the greater the steering effort is. When the vehicle has been modified with offset wheels, larger tires, height adjustments and side to side camber differences, the scrub radius will be changed and the handling and stability of the vehicle will be affected.

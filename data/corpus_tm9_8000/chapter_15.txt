@@ -1,0 +1,279 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 15
+
+Section I. BATTERY IGNITION SYSTEMS
+
+15-1. Function. Ignition of the fuel-air mixture in the engine cylinder may be accomplished by either of two methods: heat of compression, as in diesel engines; or electric spark, as in gasoline engines. Spark ignition may be subdivided into two classes: battery and magneto. These two systems are essentially the same. With either, the fundamental job is to step up low voltage to a much higher value, and to deliver the high voltage to the spark plugs with the proper timing. The high voltage is capable of pushing current through the high resistance set up by the pressure in the combustion chamber and across from one spark plug electrode to the other. The hot spark created ignites the fuel-air mixture. This section pertains to battery ignition, its theory and operation. Paragraphs 15-9 thru 15-15 describe magneto ignition.
+
+15-2. Operating Principles.
+
+a. Self-Induction(Fig. 15-1).
+
+(1) The principle of electromagnetic induction has been described in paragraph 11-15. When a wire is moved through a magnetic field, or a magnetic field is moved past a wire, the wire will have current induced in it. The magnetic field can be moved past the wire mechanically, or it can be made to move (if it is from an electromagnet) by turning the current on and off. This action causes the magnetic field to build up and collapse. Any wire held in this magnetic field will have current induced in it.
+
+(2) The turns of wire in the electromagnet itself will have current induced in them by the moving magnetic field. For example, figure 15-1 shows two loops, or turns, of an electromagnet. When current first starts to flow, it enters the first loop and a magnetic field begins to build up along with the increase of current. The magnetic field consists of circular lines of force surrounding the wire, and the lines of force move outward and cut through the adjacent loops. These lines of force produce a current in the adjacent loops as they cut through. It is important to note that the induced currents oppose the original currents. This can be deter-
+
+mined by use of the left-handed rule, imagining the expanding lines of force from the first loop cutting across the second loop. Note that the lines of force cut across the second loop in a direction that will induce an opposing current.
+
+(3) It would be more correct to say that an opposing voltage is induced. The voltage must come first, then the current. That is, there first must be an electron concentration and an electron shortage in a circuit for current (or electrons) to flow. With this electron imbalance (or this voltage) in existence, there will be an electric current. The opposing or countervoltage that is self-induced by the expanding lines of force is opposite in direction to the voltage from the external source that is forcing current through the loops of the electromagnet.
+
+(4) The effect of the countervoltage is to prevent an immediate magnetic buildup. That is, the countervoltage slows down the rate at which the current flow can increase and the magnetic field can expand and strengthen. The increase of the magnetic field produces the countervoltage; this countervoltage opposes further increases of current flow. However, the external voltage is stronger and therefore continues to increase the strength of the current until it reaches the value determined by the resistance of the circuit, including the electromagnet.
+
+(5) Actually, in most electromagnets, the countervoltage effect slows buildup time only a very small fraction of a second. But with electromagnets of many hundreds or thousands of turns, it does take time for buildup to occur. In the ignition system, if buildup time took too long, the high-voltage sparks would not be produced fast enough and high engine speed could not be attained. However, the ignition coil can function with adequate speed for normal ignition even at high speed.
+
+(6) Not only does the countervoltage appear during buildup, it also occurs during magnetic collapse. That is, when the electromagnet is disconnected from the voltage source so that
+
+the current stops flowing, the magnetic field collapses. This means that the lines of force are moving toward the wires from which they came. The lines of force are moving in the reverse direction from when the magnetic buildup took place. This means that the countervoltage induced in the adjacent wire loops also will be reversed. Because it is reversed, it is in the same direction as the original voltage. The countervoltage opposes a decrease of current. The countervoltage always opposes any change in voltage, any change in current flow. During buildup, it opposes the increasing current flow. During collapse, it opposes any decreasing current flow.
+
+(7) The effect of countervoltage during magnetic collapse can cause severe arcing at the switch, or contacts, used to open the circuit of the electromagnet. For example, in figure 15-1, when the contacts are opened, the countervoltage produced by the collapsing magnetic field will be great enough, if the electromagnet has enough turns, to push current across the opening contacts so that an arc occurs. This arc not only tends to burn the contacts, it also slows down the speed of magnetic-field collapse. The use of a capacitor (formerly referred to as a condenser) across the contacts protects them from arcing and speeds up the magnetic-field collapse.
+
+b. Capacitor Action (Fig. 15-2).
+
+(1) The capacitor has the capacity to store electrical charges briefly; therefore, it acts as a
+
+storage place for the surge of current caused by the countervoltage during magnetic collapse. Instead of arcing across the contacts, the current enters the capacitor.
+
+(2) The capacitor consists essentially of a pair of metallic plates separated by insulating material. In actual construction, the automotive capacitor is made up of two long strips of lead or aluminum foil wrapped into a winding with insulating paper between them. One strip of foil is connected to the capacitor can, the other is attached to a terminal.
+
+(3) In operation, the foil strips serve as a large area into which free electrons (electric current) can move. For instance, suppose that the contacts are Just opening. This interrupts the current from the battery, and a magnetic collapse starts. With the movement of the collapsing lines of force across the turns of wire in the electromagnet, a countervoltage is produced in the electromagnet that attempts to continue the current flow. However, instead of this current flowing across the contacts in an arc, it flows into the capacitor. One of the foil strips (the one connected to the negative side) accepts large numbers of free electrons (flow of current). These free electrons flow onto the strip. As they do so, they give the strip a negative charge. This negative charge repels electrons from the other strip so that it becomes positive.
+
+(4) The capacitor tends to prevent an arc at the contacts. It also tends to hasten the collapse of the
+
+magnetic field. It does this because it soon becomes charged and thereby opposes any further current flow. In a sense, it acts like a spring to bring the current to a quick stop.
+
+(5) If no other external action took place to change the conditions, the capacitor then discharges back into the electromagnet. As it does, there would be a magnetic buildup (opposed by a countervoltage), followed by a magnetic collapse as the capacitor completes discharging (again opposed by a countervoltage). The result is a rapid swing of current back and forth as it
+
+moves first in one direction and then in the other. Each time, the capacitor charges and discharges. And each time the amount of current would be a little less, as some of it is used up in heating the electromagnet. Shortly, the alternations would stop. In actual operation, they end in a fraction of a second.
+
+c. Mutual Induction (Fig. 15-1).
+
+(1) If a second winding were placed close to the first and connected to a lamp of the proper size, as shown in figure 15-1, the effect of the magnetic buildup
+
+and collapse as the contacts are closed and opened is obvious. For example, when the contacts are closed, a magnetic field builds up. This magnetic field moves across the second (or secondary) winding when it builds up. This induces a voltage in the secondary winding so that a current flows through it and through the lamp. If the lamp is of the right size, it will light up momentarily because the magnetic field does not take long to build up.
+
+(2) When the contacts are opened, the magnetic field collapses and again moves across the secondary winding, inducing a voltage that causes the lamp to flash momentarily.
+
+(3) With a capacitor (fig. 15-2), the lamp would be brighter as the contacts opened. The reason for this is that the capacitor speeds up the magnetic collapse. The lines move faster across the secondary winding in collapsing because of the capacitor effect. Faster- moving lines mean a higher voltage and more current, which, in turn, means a brighter light.
+
+15-3. Ignition System.
+
+a. General. Figure 15-3 shows most of the essentials of an ignition system. Not shown in the
+
+illustration are the means of opening and closing the contacts and the means of distributing the induced high- voltage surges from the secondary to the spark plugs in the various cylinders. An actual diagram of an ignition is shown in figure 15-3. Note the functions of the various components in the system.
+
+b. Battery. The battery and generator furnish the source of voltage and current for the ignition system. The battery is required when first starting, but, after the vehicle starts moving, the generator takes up the ignition load.
+
+c. Ignition Switch (Fig. 15-4). The ignition switch enables the driver to turn the ignition on for starting and running the engine and to turn it off to stop the engine. Most modern configurations of ignition switches incorporate four positions that serve the following functions.
+
+(1) Off. The off position shuts off the electrical system. Certain systems such as the headlights usually are not wired through the ignition switch and will continue to operate.
+
+(2) Accessory. The accessory position turns on the power to the entire vehicle electrical system with the exception of the ignition system.
+
+(3) Ignition On. The ignition-on position turns on the entire electrical system, including the ignition switch.
+
+(4) Start. The start position will energize the starter solenoid circuit to crank the engine. The start position is spring loaded to automatically return the switch to the ignition-on position when the key is released.
+
+d. Ignition Coil. The ignition coil consists of a primary winding of a few hundred turns of relatively heavy wire that is about 0.04 inch in diameter (no. 18), plus a secondary winding of many thousands of turns of a very fine wire that is about 0.004 inch in diameter (no. 38), both assembled around a soft iron core and surrounded by a metal case topped with an insulating cap that carries the terminals (fig. 15-5). Because the countervoltage induced by the collapsing magnetic field is about the same value for each turn, the ratio of 100:1 (100 turns in secondary to 1 turn in primary), the secondary voltage could go 100 times as high as the primary. Because the countervoltages induced in the primary may reach 200 volts or more (by the rapid collapse of the magnetic field brought about by capacitor action), the secondary voltage could reach 20,000 volts. This high voltage is carried through the ignition distributor and distributed to the correct spark plug.
+
+e. Ignition Distributor (Fig. 15-6).
+
+(1) The ignition distributor has several jobs
+
+to do in the ignition system. First, it must close and open the primary circuit to produce the magnetic buildup and collapse in the ignition coil. Second, it times these actions so the resultant high-voltage surges from the secondary will be produced at the right time. Third, it must establish a timing sequence to direct the high- voltage surges to the proper spark plugs.
+
+(2) The primary circuit through the distributor consists of a set of contacts and a capacitor connected across the contacts. The contacts are closed by spring pressure and
+
+opened by a cam driven through the distributor shaft from a gear on the engine camshaft. Often, the oil pump is driven from the same gear. As the cam rotates, the cam lobes move around under the contact arm, causing the contacts to open and close.
+
+(3) The secondary circuit through the distributor consists of a rotor mounted on top of the cam and a cap with high-tension terminals. In action, the rotor turns with the cam, connecting through its metal segment between the center high-tension terminal and the various outer high-tension terminals. This directs the high-voltage surges from the coil (which enter through the center high-tension terminal) to the various engine spark plugs (which are connected, in firing order, to the outer high-tension terminals).
+
+f. Spark Plugs (Fig. 15-7). The spark plug consists of a porcelain insulator in which there is an insulated electrode supported by a metal shell with a grounded electrode. Several types of spark plugs have been used. They have the simple purpose of supplying a fixed gap in the cylinder
+
+across which the high-voltage surges from the coil must jump after passing through the distributor.
+
+(1) The heat range of spark plugs is very important because a plug that runs too cold will accumulate heavy coatings of carbon (unburned gasoline), while a plug that runs too hot soon will burn up. Figure 15-7 illustrates the meaning of heat range. When the heat path from the center electrode to the cylinder head is long, the plug will run hotter. When the path is short, the heat can escape more readily and the plug runs cooler.
+
+(2) In addition to the initial firing of the plug, there is an additional discharge of current at the spark plug caused by the oscillation of current in the primary circuit between the coil winding and condenser. This current discharge after the initial firing is not only unnecessary for operation but also causes undue spark plug deterioration and radio interference. This discharge of current can be shortened by using a resistor spark plug. A resistor spark plug (fig. 15-8) incorporates a resistor (about 10,000 ohms) into its insulator in series with the electrode.
+
+(3) Some spark plugs Incorporate an auxiliary (booster) gap In the top terminal. This gap allows the coil to build a higher voltage and reduce misfiring, especially when spark plugs are dirty or fouled. A booster gap spark plug is shown In figure 15-9.
+
+g. Ballast Resistors (Fig. 15-10). A ballast resistor is used between the ignition switch and the points. It effectively will control primary Ignition voltage to prevent premature burning of the points. It contains a resistor element inside of a ceramic casing. The resistor element is made of a special material that increases
+
+proportionately in resistance to any temperature increase. The ballast resistor is bypassed during engine starting. This is done to compensate for the large voltage drop experienced during engine cranking. This large drop lowers available voltage below the threshold voltage required for ignition system operation, thus inhibiting spark plug firing. The ballast resistor is then placed back into the circuit as the engine is started.
+
+(1) The points open and close slowly at low engine speeds. The longer duration of point closure tends to make the ballast resistor heat up, causing a proportional increase in resistance. The increase in resistance, in turn, reduces the voltage to the points. This is desirable because full voltage is not needed at low speeds, where there is a longer coil-saturation
+
+period. Full voltage would cause the points to burn.
+
+(2) At high engine speeds the points open and close quickly. The short duration of point closure tends to cool the ballast resistor. This causes a decrease in resistance, which, in turn, increases the voltage to the points. This is desirable because of the short coil saturation period at high speeds.
+
+h. Secondary (Spark Plug) Cables (Fig. 15-11). The secondary ignition cables carry the high-voltage electric current to the spark plugs.
+
+(1) An ignition cable in its simplest form consists of a solid or stranded conductor of steel or copper that is surrounded by a heavy insulation of neoprene, hypalon, or silicon rubber. The design of the insulating material is important because of the high-voltage electric current. A poorly designed insulating material will leak electric current through it, causing spark plug misfire. This is true particularly in damp weather or when the insulation is subjected to high engine compartment temperatures.
+
+(2) The secondary cable in its simplest form usually is inadequate for modern applications because the high voltage creates radio signals that interfere with TV and radio reception. The most common alternative is TVRS secondary cable. Rather than a conventional insulated wire, the TVRS cable is made of a fiberglass or linen stranding that is filled with carbon. The
+
+insulation usually has a braided structure of rayon molded Into it to increase strength. TVRS cable has a very high resistance value that effectively eliminates radio interference, but is very susceptible to conductor breakage if not handled carefully.
+
+(3) An alternative to TVRS cable is shielded solid conductor cable. This type of cable is a solid conductor encased by a layer of insulation. The cable is then encased in a metallic shielding and an outer layer of insulation. This type of secondary cable, though very expensive, is very strong and widely used in military vehicles.
+
+15 4.Multiple Contact Distributors.
+
+a. General. Distributors may have more than one set of contacts. Some distributors use two sets in parallel for longer contact closing and higher magnetic strength of the coil. Others may use two sets for alternate firing of cylinders. Still others have two sets for dual ignition or for operation of two semi-independent ignition systems.
+
+b. Parallel Operation (Fig. 15-12). To counteract the bounce, or chatter, of the breaker arm and to prevent overload of the contact points, two breakers can be connected in parallel and adjusted to open at the same time. If one pair of contacts has a tendency to bounce open at high speed, it is likely that the other pair will not bounce at exactly the same instant. Therefore, the circuit will be closed more positively than it would be with only one pair of contacts. The breaker arms also can be
+
+connected in parallel but made to operate progressively. That is, they are so set with respect to the cam lobes that one arm opens its contacts slightly before the other. The circuit actually is not broken until the second set of contacts open. Both sets of contacts are open for a shorter period of time than they are in simultaneous operation. This allows the ignition coil a slightly longer period of time in which to buildup. The breakers are arranged for progressive parallel operation.
+
+c. Alternate Operation (Fig. 15-13). This is another arrangement that increases the time of contact and allows better magnetization of the coil. The two pairs of contacts still operate electrically in parallel, but use a cam with only half as many lobes as there are cylinders to be fired. The breakers are so arranged around the cam that one pair of contacts will close almost immediately after the other pair has opened. Thus, the two sets of breaker contacts almost overlap each other’s movements so there is no waste of time. Shortly after one pair of contacts opens the circuit, the other pair closes it, so the coil can start to build up at once in preparation for the next spark. One set of contacts operates for half the cylinders and the other set for the other half.
+
+d. Dual-Circuit Operation (Fig. 15-14).
+
+(1) Another breaker arrangement, very similar in appearance to the one used for alternate operation, is used with two separate coils for firing a large number of
+
+Multiple Contacts.
+
+spark plugs. The breaker contacts operate alternately, but have no electrical connection between them except their common ground. This Ignition interrupter permits two separate ignition systems: one system operating for one half of the cylinders and the other system for the other half. Here, the relation between the two sets of contacts is one of timing only, so that each will operate at the correct instant for the cylinders it serves.
+
+(2) The distributor must take care of the two circuits. The high-tension lead from one coil enters the center of the distributor head al terminal 1 (figure 15-14), while the high-tension lead from the other coil enters at terminal 2, which Is connected to a small ring that surrounds the central terminal. Two separate segments are molded within a double arm rotor, each one In contact with one of the high-tension terminals One rotor segment completes Its circuit to alternate spark plug terminals In the distributor cap the other rotor segment taking the Intervening terminals. Thus, there are two separate secondary circuits, 1 and 2, each furnishing current to half the spark plugs. The sparks from each coil are produced In exactly the same way as they are in a single system because each coil has Its own set of
+
+breaker contact points. Two-circuit operation particularly is adaptable to V-type engines, with each set of contacts taking care of one bank of cylinders. Because each set of breaker contacts is independent of the other electrically, the breakers require synchronizing for proper operation. On some V-type engines, the two breaker arms open at Irregular Intervals, and therefore the manufacturer’s specifications should be checked before any attempt is made to adjust the contact points.
+
+e. Dual (Twin) Ignition (Fig. 15-15). Practically all automobiles have single Ignition (one spark plug in each cylinder), although dual ignition has been used to advantage. No particular new theory is Involved in producing and delivering current to the spark plugs In dual Ignition. The principal difference is the use of two sparks to fire the fuel charge at two separated points within the same cylinder. If two sparks are delivered at widely separated points at the same Instant, the fuel charge will start to burn from two points and meet in the center, thus securing more rapid and complete combustion. The firing of two spark plugs in each cylinder from one current source is sometimes called twin Ignition. The dual Is provided with two coils and two breaker arms operating on two circuits to supply sparks to two sets of spark plugs. To obtain the full advantage of dual ignition, the breaker contacts must be synchronized to fire two sparks simultaneously In each cylinder. The rotor segments then will deliver sparks to two opposite terminals In the distributor head, which are connected on two spark plugs within the same cylinder. Each rotor segment fires alternate terminals around the head; one segment firing the spark plugs on the right side of the cylinders and the other segment firing the spark plugs on the left side of the cylinders.
+
+15-5. Transistorized Point Ignition (Fig. 15-16).
+
+a. General. The transistorized point Ignition system operates much the same way as the conventional Ignition system. The difference Is the addition of a transistor to carry coil current. The purpose of this Ignition system is to lengthen the life of the contact points, which are traditionally the most troublesome component of the Ignition system.
+
+b. Operation. The contact points handle the switching of the coil current (about 4 or 5 amperes) In the conventional ignition system. Despite the use of a condenser, there is a large amount of arcing that occurs between the points when they open and close. This arcing causes the points to burn and require regular replacement. By adding a transistor amplifier circuit to the Ignition system, operation will be as follows:
+
+(1) The transistor will handle the switching of the coil current electronically. There is no degradation
+
+to electronic components when they operate, providing they are operating within their limits.
+
+(2) The contact points In the system handle the signal to the base of the transistor that Initiates the switching of coil current. Because the switching current is so low (about 0.5 ampere) very little arcing occurs at the points, greatly extending their life.
+
+(3) The points In a transistorized system have such a long life that the major concern with them is the
+
+wearing down of the rubbing block, which causes them to lose their adjustment.
+
+15-6. Solid-State Ignition (Fig. 15-17).
+
+a. General. The recent rise of electronic ignition systems is due to the superiority of electronic ignition over conventional ignition systems in several major areas. These systems totally remove one area of maintenance from the ignition system, that of the ignition (contact) points. Also, because the electronic ignition system produces a higher voltage than the conventional system, the electronic ignition system usually can fire a fouled spark plug. In the area of high performance, the electronic ignition system is far superior in that its voltage does not deteriorate as quickly at high engine speeds as the conventional ignition system. Because the electronic ignition system does not contain ignition points that wear, ignition performance does not deteriorate with mileage.
+
+b. Description. The electronic ignition system differs from that of a conventional ignition system in that it consists of a special pulse sending distributor, an electronic control unit, a two-element ballast resistor, and a special Ignition coil. Also, the ignition breaker points and capacitor used in the conventional ignition systems have been replaced by a gear like piece called a reluctor
+
+and a pickup unit. The reluctor replaces the distributor cam used in the conventional distributor. The pickup unit is made up of a permanent magnet, a pole piece, and the coil.
+
+c. Operation.
+
+(1) The ignition primary circuit is connected from the battery, through the ignition switch, through the primary side of the ignition coil, to the control unit where it is grounded. The secondary circuit is the same as in the conventional ignition system. The magnetic pulse distributor also is connected to the control unit.
+
+(2) As the distributor shaft rotates, the distributor reluctor turns past the pickup unit, and each of the eight teeth (on an eight-cylinder engine) on the reluctor pass near the pickup unit once during each distributor revolution. As the reluctor teeth move close to the pickup unit, voltage is Induced into the pickup unit. That is, as a tooth on the reluctor passes the pickup coil, magnetic lines of force flow from the permanent magnet, through the pole piece, and through the reluctor back to the magnet. Voltage is induced in the windings as these magnetic lines of force pass
+
+through the pickup coil. This voltage is carried from the pickup coil to the control unit by the distributor leads. When the pulse enters the control unit, it signals the control unit to interrupt the Ignition primary circuit. This causes the primary circuit to collapse and begins the induction of the magnetic lines of force from the primary side of the coil into the secondary side of the coil. This induction provides the required voltage to Jump the spark plug gap and Ignite the air-fuel mixture In the combustion chamber.
+
+(3) As the tooth on the reluctor moves away from the pickup unit, the primary circuit is again
+
+completed. The magnetic field again is built up in the primary windings of the Ignition coil, where it waits for another signal from the pickup unit.
+
+(4) The buildup and collapse of the primary circuit takes place very rapidly. This is brought about by transistor action and the speed of the reluctor.
+
+(5) The advantages of an electronic Ignition system are that the transistors in the control unit can make and break the primary circuit much faster than conventional Ignition points. Higher primary voltages can be used because this system
+
+can be made to handle higher voltages without harmful effects, whereas ignition points cannot. The quicker switching time of this system allows longer coil primary circuit buildup and longer induction time when the primary circuit collapses. This increased time allows the primary circuit to build up more current and the secondary circuit to discharge more current. The higher secondary current produces a hotter spark at the spark plug, which allows the engine to operate more efficiently.
+
+15-7. Capacitive-Discharge Ignition (Fig. 15-18). The capacitive-discharge system offers several advantages over the other systems. This system is similar to full transistor-magnetic control, except that certain components have been added to the primary circuit. These are the power converter, capacitor, and the resistor or silicon controlled rectifier (SCR). The power converter has an output voltage of 250 to 300 volts. This voltage is used to charge the capacitor with the the resistor In its off condition. When the the resistor gate (1) receives a signal from the pulse generator, the circuit from the anode (2) to the cathode (3) is closed, and the capacitor immediately discharges at a high rate through the primary. A high secondary voltage can be reached about 100 times faster with the capacitive- discharge system than with the inductive systems. This decreases spark plug fouling, materially Increasing potential spark plug life. Another advantage is that it uses less current than either the conventional system or the other solid-state systems. This means less demand on the battery during starts and a potentially longer
+
+battery life.
+
+15-8. Ignition Timing Devices.
+
+a. General. Spark advances are required so that the spark will occur in the combustion chamber at the proper time in the compression stroke. At high speed, the spark must appear earlier so the fuel-air mixture will have ample time to burn and give up its energy to the piston. At part throttle, when the fuel-air mixture is less highly compressed, a spark advance is required to ignite the slower-burning mixture in ample time for it to burn and deliver its power. Centrifugal and vacuum advance mechanisms produce these advances.
+
+b. Vacuum Control (Fig. 15-19). The vacuum advance mechanism makes use of a vacuum chamber connected to the intake manifold and a vacuum diaphragm linked to the breaker plate assembly. The breaker plate is supported so it can turn back and forth a few degrees. When there is a wide-open throttle and little or no vacuum in the intake manifold, a full measure of fuel-air mixture is entering the cylinders and no spark advance beyond the centrifugal advance is needed. But when the throttle is closed partially, part of the fuel-air mixture is throttled off and the mixture entering the cylinders is less highly compressed. For satisfactory combustion, the spark must be advanced further beyond the advance produced by the centrifugal mechanism. To secure this additional advance, the vacuum line
+
+admits manifold vacuum to the vacuum passage, thereby allowing atmospheric pressure to push the diaphragm inward, compressing the return spring. This movement, through the linkage from the diaphragm, causes the breaker plate to be turned ahead so that the contacts are opened and closed earlier in the cycle. This advances the spark. Usually, the vacuum line is tapped into the carburetor just at the upper edge of the throttle valve when it is closed. This permits no advance on idle but causes a vacuum advance as the throttle valve is opened so its edge moves past the vacuum passage.
+
+c. Centrifugal Control (Fig. 15-20). The centrifugal advance mechanism is located in the distributor housing and consists essentially of a pair of weights mounted on pins on a weight base and linked by weight springs to the advance cam. When Idling, the springs hold the advance cam in a no-advance position. As speed increases, the centrifugal force on the weight causes them to move out. This action forces the toggles on the weights to move against the advance cam so the cam is pushed ahead against the spring tension. As the advance cam turns ahead, the breaker cam lobes open
+
+and close the contacts earlier in the cycle. This advances the ignition timing.
+
+d. Computerized Control (Fig. 15-21). The trend in modern automotive design is to use a computer to control ignition advance. Electronic ignition is very adaptable to computer control because the amplifier circuit can be integrated right into the computer module. With this arrangement the ignition timing is regulated within the module by electronically regulating the signal from the distributor pickup to the amplifier. This is the job of the computer. The computer establishes the proper ignition timing based on signals it receives from various sensors on the engine. The sensors provide information such as engine speed, throttle position, coolant temperature, ambient temperature, and manifold vacuum. The computer is able to change ignition timing many hundreds’ of times per second in contrast to mechanical devices that are slow to react to the engine’s needs. Because of this, a computer- controlled system of spark advance will allow the engine to be more responsive while running on leaner fuel mixtures. This will result in a cleaner running, more economical engine.
+
+Section II. MAGNETO IGNITION SYSTEMS
+
+15-9. General (Fig. 15-22).
+
+a. Ignition of the fuel-air mixture in the combustion chamber of the gasoline engine requires an electric spark. The electric spark can be produced In two ways: by magneto Ignition or by battery Ignition. The magneto is a compact combination of generator, Ignition coil, and distributor. It requires no battery. Voltage is Induced
+
+within the magneto by relative movement between a coil and the poles of a permanent magnet.
+
+b. The problem In magneto Ignition is to generate a spark of sufficient voltage to Ignite the fuel-air mixture Instantly and to synchronize the spark with the engine cycle so that maximum power will be realized from the combustion. The fundamental units are listed below:
+
+(1) A means of developing electricity.
+
+(2) A transforming device to Increase the voltage of the electricity developed.
+
+(3) An Interrupting device to determine the proper timing of the electrical impulses.
+
+(4) A distributor to direct the electrical impulses In the proper order to the different cylinders.
+
+(5) A spark gap In each cylinder In the engine.
+
+(6) The proper wiring and switches to bring these units together to form the Ignition system.
+
+c. The first four units are contained within the magneto. The spark plug supplies the fifth unit, wiring and switches make up the sixth unit. The same four fundamental units that make up the magneto also can be classified broadly as just two parts: a generator and a transformer. The generator provides a means of Inducing low voltage In a primary circuit. The transformer changes the low voltage of the primary circuit to the high voltage In a secondary circuit so that
+
+an extremely hot spark can be produced across the spark plug gap.
+
+d. The magneto ignition system generally is reliable, requires little maintenance, and does not have a battery to run down or wear out. Its principal disadvantage is that it turns so slowly during the cranking of the engine that a hot spark Is not produced. Therefore, a supplementary high-voltage source must be provided. This may be a booster magneto or a high- tension coil to which primary current is supplied by a battery. In some magnetos, an Impulse starter is provided that produces high armature speeds at engine cranking speeds to provide a hot spark.
+
+15-10. Source of Electrical Energy (Fig. 15-23).
+
+In studying the magneto, It should be understood that three things are necessary to Induce voltage: an electrical conductor, a magnetic field, and relative motion between the field and the conductor. In the magneto, a permanent magnet supplies the magnetic field, a wire coil is the conductor, and the engine
+
+provides mechanical energy for motion between the field and the conductor. There are two types of magnetos: armature-wound, in which the coil moves while the magnets are stationary; and the inductor type, in which the reverse is true, the magnets move and the coil is stationary. In the inductor type, for example, a rotor that is a permanent magnet is used to direct the magnetic field flow through the windings, first in one direction and then in the other. Because the winding is stationary, it is easier to make connections from it. Either type of construction satisfies the first requirement of an electric Ignition system, that Is, a means of developing electrical energy.
+
+15-11. Transforming Device (Fig. 15-22). Most engines require about 15,000 volts at the spark gap in the cylinder. The problem when the magneto is used is to raise the low voltage induced in the conductor (primary winding) to the required high voltage. This is accomplished in the same way that it is in the battery ignition coil. When the current in the primary winding or conductor is at its maximum flow, the circuit Is broken suddenly, collapsing the electromagnetic field set up around the primary circuit as the result of current flow. The lines of force In the field collapse at an extremely high rate of speed across the secondary winding, which is made up of many turns of fine wire, whereas the primary winding is composed of relatively few turns of coarser wire. This rapid movement of the lines of force across the secondary winding induces a momentarily high voltage in the secondary winding, in proportion to
+
+the ratio of the number of turns on the primary winding to the number on the secondary winding. This makes about 15,000 volts available at the spark gap.
+
+15-12. Interrupting Device (Fig. 15-22).
+
+a. Breaker Points. The interrupting device, which breaks the primary circuit when the high voltage spark is desired, is a set of breaker points. One end of the primary winding is connected to a ground; the other to the insulated breaker point. When the points are closed, the circuit is completed through them to a ground; when open, the circuit is broken. Lobes on a cam actuate the breaker points, Interrupting the primary circuit and timing the Induction of maximum voltage in the secondary circuit. The cam Is mounted on either the armature or rotating magnet.
+
+b. Capacitor. When the breaker points are opened, the current then flowing in the primary circuit tends to arc across the points due to self induction. This reduces the speed with which the circuit is broken and the magnetic field collapses. This action is controlled by inserting a capacitor In parallel with the breaker points. When the primary circuit is broken, the capacitor receives the surge of current and then, on discharging, reverses the normal flow of current. The capacitor thus hastens the collapse of the magnetic field around the primary winding and Increases the amount of voltage induced.
+
+15-13. Distributor.
+
+a. The magneto distribution operates much the same as the battery ignition distributor (para 15-3). The distributor rotor, which directs the electrical impulses in proper order to the cylinders, usually is driven through suitable gearing, at one-half crankshaft speed. This ratio ensures that each cylinder will be fired during the cycles of the engine. The cam is much larger than those used in battery ignition distributors and contains the contact spring and cam electrode that, together, serve the same purpose as the rotor segment in a battery ignition distributor. That is, the cam electrode connects the high- tension center electrode (connected to secondary of coil) to each of the outer distributor electrodes in turn. These outer electrodes are connected by high-tension leads to the spark plugs.
+
+b. One end of the secondary winding is connected to the primary. The other end terminates at the high- tension insert, which is a piece of metal extending through the Bakelite case covering the coil. The high- tension voltage developed in the secondary coil passes through the insert to a contactor such as the high-tension contact spring in the magneto cover. From there, it goes to the center electrode and then, internally, through the distributor rotor to the outer electrodes. The rotor is timed so that the cam electrode will line up with the center electrodes to which spark plug leads are connected, at the proper time for igniting the fuel-air charges in the cylinders.
+
+c. The spark plug assembly provides a gap where a surge of high voltage may cause a spark to ignite the fuel-air mixture. One spark plug electrode is connected to the high-tension cables from the distributor blocks; the other is fastened to a ground. Most air-cooled engines have two spark plugs for each cylinder and two separate magnetos for the ignition system. The second spark plug ensures better combustion and is added insurance against ignition failure.
+
+d. The high-tension wires that conduct the current from the distributor blocks to the spark plugs are commonly called the ignition harness. As a magneto ignition system transmits a form of high-frequency current, radiations emanating from it during operation will interfere with radio reception if the Ignition system is
+
+not shielded. This shielding is a metal covering of woven construction that surrounds the wires. Plain metallic shields cover the distributor blocks and booster coil. The shielding is grounded to the engine so that it can pick up the undesirable radiations from the magneto and carry them directly to a ground. The radiations are thus prevented from reaching the vehicle’s radio aerial and interfering with reception.
+
+15-14. Booster Coil. Magneto speed during cranking is not high enough to develop a hot spark. An external source of high-tension current for starting is provided, either by a booster magneto or by a high-tension coil, with the primary current being supplied by a battery. The coil method is most common. Current from the booster coil, which operates just like the coil in the battery ignition system, is conducted to the booster electrode of the magneto. This connects the booster coil with the magneto primary coil when the contacts open, thereby causing a current surge through the primary (from the booster coil), which produces a rapid change of magnetic field strength in the primary. This action Induces in the secondary a high-voltage surge sufficiently strong to fire the plugs.
+
+15-15. Magneto Switches(Fig. 15-24).
+
+a. Because the magneto is self-energizing, it cannot be turned off by disconnecting it from some external source of energy as in the battery ignition system. Instead, the magneto coil must be grounded. Because one end of the magneto coil is grounded already, grounding the other (or breaker point) end effectively will prevent the magneto from producing high- voltage surges. This is accomplished by means of a grounding switch on the vehicle instrument panel. When the switch is turned off, contacts in the switch are closed and the magneto coil is grounded through them. The magneto, booster, and main-engine starter switches all are located together in the same housing. The main magneto switch actually has four positions because, in the application shown, four magnetos are used (fig. 15- 24). The four positions are OFF (all magnetos ground- ed), A (two of the magnetos that fire the plugs in the accessory ends of cylinders are ungrounded and operative), F (the two magnetos that fire the plugs in the flywheel ends of the cylinders are ungrounded and operative), and BOTH (all four magnetos are operative).
+
+b. The magneto switch is mounted in the same housing with the booster and the main-engine starter switch. This places the switches that must be operated for starting together. The starter switch, when operated, closes a relay that, in turn, brings the starter Into operation. At the same time that the starter switch is operated, the booster switch also must be operated.
+
+This switch, just next to the starter switch, connects the booster coil to the circuit when closed. Both the starter switch and the booster switch are spring loaded and so placed that their levers must be brought down and pivoted toward each other for closing. Thus, both can be closed by the thumb and fingers of one hand. If the
+
+magneto switch has been turned to BOTH meantime, the starter will crank the engine while the booster coil will aid the magnetos to produce ignition. The combination then produces starting, provided other conditions are normal.
+
+When the starter-switch and booster-switch levers are released, they return automatically to their OFF positions.
+
+Section III. WATERPROOFING IGNITION SYSTEMS
+
+15-16. General. Because many vehicles must operate under very wet conditions and must be able to ford fairly deep waters, it is necessary to waterproof the ignition system. The system must be so watertight that, even though the components are immersed, they can continue to function normally and will not suffer any damage.
+
+15-17. Description (Fig. 15-25). The distributor and ignition coil are sealed in a common housing and enclosed by a common cover. This application also has a means of ventilating the distributor, thus preventing the condensation of water and the formation of harmful chemicals. Otherwise, such chemicals might form due to the arcing that takes place between the rotor segment
+
+and the cap inserts at the outer high-tension terminals. The ventilation is accomplished by connecting two tubes to the distributor: one leading to the air cleaner (from which clean air can be obtained) and the other to the intake manifold. The intake manifold vacuum causes air to pass through the distributor from the air cleaner, thus keeping the distributor well ventilated. The various leads in the ignition system are enclosed in a watertight conduit. This conduit prevents moisture from getting to the leads with resultant insulation deterioration. The conduit also prevents shorting or grounding caused by presence of water.

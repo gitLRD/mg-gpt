@@ -1,0 +1,175 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 7
+
+CHAPTER 7 EXHAUSTAND EMISSION CONTROL SYSTEMS
+
+Section I. EXHAUST SYSTEM
+
+7-1. Purpose (Fig. 7-1). The waste products of combustion are carried from the engine to the rear of the vehicle by the exhaust system, where they are expelled to the atmosphere. The exhaust system also serves to dampen engine noise.
+
+7-2. Exhaust Manifold (Fig. 7-2). The exhaust manifold connects all of the engine cylinders to the exhaust system. It usually Is made of cast Iron. If the exhaust manifold Is formed properly, It can create a scavenging action that will cause all of the cylinders to help each other get rid of exhaust gases. Back pressure (the force that the pistons must exert to push out the exhaust gases) can be reduced by making the manifold with smooth walls and without sharp bends. All of these factors are taken into consideration when the exhaust manifold is designed and the best possible manifold is manufactured to fit into the confines of the engine compartment.
+
+7-3. Manifold Heat Control Valve (Fig. 7-3). A valve Is placed In the exhaust manifold on some gasoline engines to deflect exhaust gases toward a hot spot In the Intake manifold until the engine
+
+reaches operating temperature. This valve, whose purpose Is described in paragraph 4-5, is a flat metal plate that is the same shape as the opening that it controls. It pivots on a shaft and is operated by a thermostatic coil spring. The spring pulls the valve closed against a counterweight before warmup. The spring expands as the engine warms up and the counterweight pulls the valve open:
+
+7-4. Muffler (Fig. 7-4). a. The muffler reduces the acoustic pressure of exhaust gases to discharge them to the atmosphere with a minimum of noise. The muffler usually is located at a point about midway in the vehicle with the exhaust pipe between it and the exhaust manifold and the tailpipe leading from it to the rear of the vehicle.
+
+b. The inlet and the outlet of the muffler usually are slightly larger than their connecting pipes so that It may hook up by slipping over them. The muffler then Is secured to the exhaust pipe and the tailpipe by clamps.
+
+c. A typical muffler has several concentric chambers with openings between them. The gas enters the inner chamber and expands as it works its way through a series of holes in the other chambers and finally to the atmosphere.
+
+d. Mufflers must be designed to quiet exhaust noise while creating a minimum of back pressure. This could cause loss of engine power and
+
+economy and also cause overheating.
+
+e. Exhaust system components usually are made of steel. They usually are coated with aluminum or zinc to retard corrosion. Stainless steel also is used in exhaust systems in limited quantities due to its high cost. A stainless steel exhaust system will last indefinitely.
+
+Section II. EMISSION CONTROL SYSTEMS
+
+7-5. Purpose (Fig. 7-5). When the fuel is burned In the combustion chamber, the ideal situation would be to have the fuel combine completely with the oxygen from the intake air. The carbon would then combine to form carbon dioxide (COI, the hydrogen would combine to form water (H20), and the nitrogen that is present In the intake air would stand alone. The only other product present in the exhaust would be any oxygen from the intake air that was not used in the burning of the fuel. In a real life situation
+
+however, this is not what happens. The fuel never combines completely with the oxygen and undesirable exhaust emissions are created as a result. The major pollutants are:
+
+a. Carbon Monoxide (CO). Carbon monoxide is formed as a result of insufficient oxygen in the combustion mixture and combustion chamber temperatures that are too low. Carbon monoxide Is a colorless, odorless gas that is poisonous
+
+b. Hydrocarbons (HC). Hydrocarbons are unburned fuel. They are particulate in form (solid) and, like carbon monoxide, they are manufactured by insufficient oxygen in the combustion mixture and combustion chamber temperatures that are too low. Hydrocarbons are harmful to all living things. In any urban area where vehicular traffic is heavy, hydrocarbons in heavy concentrations react with sunlight to produce a brown fog known as photochemical smog.
+
+c. Oxides of Nitrogen (NOx). Oxides of nitro-
+
+gen are formed when the nitrogen and oxygen in the intake air combine when subjected to the high temperatures of combustion. Oxides of nitrogen are harmful to all living things.
+
+7-6. Controlling of Exhaust Emissions. The control of exhaust emissions is a very difficult job. To eliminate carbon monoxide and hydrocarbon emissions, the temperatures of the combustion chamber would have to be raised to a point that would melt pistons and valves. This Is compounded with the fact that oxides of nitrogen
+
+emissions go up with any Increases In combustion chamber temperatures. Knowing these facts, it can be seen that auxiliary emission control devices are necessary.
+
+7.7. Crankcase Ventilation Controls. Any piston engine creates blowby (para 3-6) as it operates. The pressure created in the crankcase by blowby must be relieved by venting.
+
+a. Draft Tube System (Fig. 7-6). Older vehicles used a very simple system that vented blowby to the atmosphere through a draft tube. The draft tube extends from an area of the crankcase that is above oil level to a point of exit that projects straight downward under the vehicle. The outlet of the tube Is cut on a slant upward toward the rear of the vehicle. With this shape outlet, a suction Is created by the forward
+
+movement of the vehicle. Circulation of fresh air will occur In the crankcase with the addition of a breather cap also located at a point on the crankcase above oil level.
+
+(1) The negative pressure created at the end of the draft tube will cause air to be drawn In through the crankcase breather. A wire mesh filter is built into the breather to keep dirt out of the crankcase.
+
+(2) The draft tube contains a sediment chamber and a wire mesh filter at the point where it attaches to the crankcase. Its purpose is to trap any oil that tries to leave through the draft tube and return it to the crankcase.
+
+(3) By strategic location of the breather cap and draft tube and the use of baffles, a complete purging of crankcase blowby fumes is ensured.
+
+The draft tube system is obsolete now because it discharged excessive hydrocarbon emissions directly into the atmosphere. It also did not keep the crankcase as clean as the positive crankcase ventilation system described in the next subparagraph. This is because it relied on the movement of the vehicle to activate it. As a result of this, draft tube-equipped engines were very prone to sludge buildup.
+
+b. Positive Crankcase Ventilation (PCV) System (Fig. 7-7). The positive crankcase ventilation system utilizes manifold vacuum to purge the
+
+crankcase of blowby fumes. The fumes are then aspirated back into the engine where they are reburned.
+
+(1) A hose is tapped into the crankcase at a point that is well above the engine oil level. The other end of the hose is tapped into the intake manifold or the base of the carburetor. It should be noted that if the hose is tapped into the carburetor base, it will be in a location that is between the throttle valves and the intake manifold so that it will receive manifold vacuum.
+
+(2) An inlet breather is installed on the crankcase in a location that is well above the level of the engine oil. The inlet breather also is located strategically to ensure complete purging of the crankcase by fresh air.
+
+(3) The areas of the crankcase where the vacuum hose and the inlet breather are tapped have baffles to keep the motor oil from leaving the crankcase.
+
+(4) A flow control valve is installed in the line that connects the crankcase to the manifold vacuum. It is called a positive crankcase ventilation (PCV) valve and serves to avoid the air-fuel mixture by doing the following:
+
+(a) Any period of large throttle opening will be accompanied by heavy engine loads. Crankcase blowby will be at its maximum during heavy engine loads. The PCV valve will react to the small amount of manifold vacuum that also is present during heavy engine loading by opening fully through the force of its control valve spring. In this way, the system provides maximum effectiveness during maximum blowby periods.
+
+(b) Any period of small throttle opening will be accompanied by small engine loads, high manifold vacuum, and a minimum amount of crankcase blowby. During these periods, the high manifold vacuum will pull the PCV valve to its position of minimum opening. This is Important to prevent an excessively lean air-fuel mixture.
+
+(c) In the event of engine backfire (flame traveling back through the intake manifold), the reverse pressure will push the rear shoulder of the control valve against the
+
+valve body. This will seal the crankcase from the backfire, which could otherwise cause an explosion.
+
+(5) The positive crankcase ventilation system can be the open or the closed type.
+
+(a) The open type has an inlet breather that is open to the atmosphere. When this system is used, it is possible for a portion of the crankcase blowby to escape through the breather whenever the engine is under a sustained heavy load. This is unacceptable on later automotive equipment and, as a result, the system is no longer used.
+
+(b) The closed type has a sealed breather that is connected to the air filter by a hose. Any blowby gases that escape from the breather when this system is used will be aspirated into the carburetor and burned. This Is the system that is currently used.
+
+7-8. Catalytic Converters (Fig. 7-8).
+
+a. Purpose. As stated in paragraph 7-5, it is virtually impossible to keep carbon monoxide and hydrocarbon emissions at acceptable levels by controlling them in the cylinder without shortening engine life considerably. It has been found that the most practical method of controlling these emissions is outside of the engine in a device called a catalytic converter. The catalytic converter is a device that is similar in appearance to a muffler. It is positioned in the exhaust system, usually between the engine and the muffler. As the engine exhaust passes through the converter, carbon monoxide and hydrocarbons are oxidized (combined with oxygen), changing them to carbon dioxide and water.
+
+b. Construction and Operation. The catalytic converter contains a material (usually platinum or palladium) that acts as a catalyst. A catalyst is something that causes a reaction between two substances without actually getting involved. In the case of the catalytic converter, oxygen is joined chemically with carbon monoxide and hydrocarbons in the presence of its catalyst.
+
+(1) The oxidation process that occurs within the catalytic converter generates a
+
+tremendous amount of heat. This causes the outer shell of the converter to operate consistently at temperatures that are several hundred degrees higher than the rest of the exhaust system. The outer shell of the catalytic converter usually Is made of stainless steel to cope with these high operating temperatures.
+
+(2) Because platinum and palladium are both very precious metals and the catalyst must have a tremendous amount of surface area in order to work properly, it has been found that the following internal structures work best for a catalytic converter.
+
+(a) One type of converter Is filled with
+
+aluminum oxide pellets that have a very thin coating of the catalytic material (A, fig. 7-8). Aluminum oxide has a very rough outer surface, giving each pellet a tremendous amount of surface area. The converter also contains baffles to ensure maximum exposure of the exhaust to the catalyst.
+
+(b) Another type of converter uses a monolithic (one-piece) ceramic structure In a honeycomb-type form (B, fig. 7-8). The structure is coated thinly with the catalytic material. The honeycomb shape of the structure has a tremendous surface area to ensure maximum exposure of exhaust gases to the catalyst.
+
+c. Special Considerations. Vehicles equipped with catalytic converters require special considerations and generally are made to work in conjunction with other emission systems.
+
+(1) The use of gasoline containing lead is destructive to a catalytic converter. in use, the lead will coat the catalyst as the exhaust passes through the converter. This will halt catalytic converter operation completely.
+
+(2) The use of gasoline with a high sulphur content will cause considerable amounts of sulphur dioxide to be produced in the converter and emitted to the atmosphere.
+
+(3) A heat shield must be installed between the converter and the vehicle floor because the converter can, at times, produces enough heat to ignite the interior floor covering. A heat shield also is installed under the converter to minimize the possibility of igniting objects such as grass and leaves. This is of particular importance to military vehicles during cross-country operation.
+
+(4) An overly rich air-fuel mixture is disastrous to a catalytic converter. Excessive carbon monoxide and hydrocarbons result in such a high rate of oxidation in the converter that it can overheat to the point where its outer shell actually can melt. Because of this, the engine always must be kept in the proper state of tune.
+
+(5) An adequate amount of oxygen must be present in the exhaust stream for the catalytic converter to operate. Therefore, a supporting system such as an air injection system (para 7-9) usually is placed on catalytic converter equipped engines to dilute the exhaust stream with fresh air.
+
+7-9. Air Injection Systems. a. Purpose. Air injection systems mix fresh air with the vehicle exhaust. There are two purposes for air injection systems:
+
+(1) The exhaust gases still are burning as they are pushed out of the combustion chamber through the exhaust valve. The burning will be prolonged and intensified by injecting fresh air
+
+into the exhaust manifolds at each exhaust port. This more complete burning will reduce carbon monoxide and hydrocarbon emissions greatly.
+
+(2) Air injection is vital to ensure an adequate supply of oxygen in the exhaust stream on vehicles equipped with catalytic converters.
+
+b. Air Pump System (Fig. 7-9), The air pump system uses an engine-driven pump to force air into the exhaust.
+
+(1) The pump usually is a vane-type pump that operates exactly like the vane-type oil pump (para 20-6). The pump is driven by a belt. A relief valve is built into the pump to prevent it from building too much pressure.
+
+(2) The air from the pump is directed through rubber hoses to the air manifold. The air manifold distributes the air to each exhaust port. The point where the air is fed in may be located at the exhaust manifold or directly into the cylinder head at the exhaust port. The air is fed in through nozzles called injection tubes.
+
+(3) A check valve is installed between the air manifold and the air pump feed hose to prevent hot exhaust from feeding back to the pump.
+
+(4) Whenever the throttle is closed suddenly, a temporary overrich air-fuel mixture will result. The rich mixture will leave the engine with a large percentage of it unburned. When an engine is equipped with an air pump, the rich mixture will flare up and explode as it enters the exhaust and contacts the injected fresh air, resulting in a backfire condition. To correct this situation, an antibackfire valve is installed in series in the air pump feed hose. The antibackfire valve prevents the overrich mixture from occurring by injecting a short burst of air into the intake manifold whenever the throttle is released, thus preventing a backfire. Some models use a diverter valve. The diverter valve eliminates backfiring temporarily by diverting the air pump delivery to the atmosphere whenever the throttle is released suddenly, allowing the rich mixture to pass through.
+
+c. Naturally Aspirated System (Fig. 7-10). The naturally aspirated system uses the negative pulses of the exhaust system to draw
+
+air naturally into the exhaust system. The primary purpose of this system is to provide the necessary oxygen to the catalytic converter.
+
+(1) The key to the aspirator system Is the aspirator valve. It is basically a one-way check valve that allows air to be drawn into the exhaust system during negative pulses, yet blocks the exhaust from passing out through the valve.
+
+(2) The aspirator valve connects to the air filter housing by a rubber hose to take In air. The aspirator valve connects to the exhaust through the air manifold. 7-10. Exhaust Gas Recirculation System (Fig. 7-11).
+
+a. Purpose. When the temperature of the combustion flame exceeds approximately 2500°F (1370°C), the nitrogen that is present in the Intake air begins to combine with the oxygen to produce oxides of nitrogen (NOx). The exhaust gas recirculation (EGR) system helps to control the formation of oxides of nitrogen by recirculating a portion of the exhaust gases back through the Intake manifold, resulting in cooler combustion chamber temperatures.
+
+b. Operation. Though there are minor differences between systems, the basic operation of an exhaust gas recirculation system is as follows:
+
+(1) The crossover passage in the intake manifold is used as the source of exhaust gas for the system. A vacuum-operated EGR valve controls the passage of exhaust gas to the engine intake. Exhaust gas recirculation will occur whenever vacuum is applied to the valve.
+
+(2) The EGR valve should not be operational before the engine reaches operating temperature. If it were, it would cause extreme drivability problems. Also, there is no reason for exhaust gas recirculation before warmup because virtually no oxides of nitrogen are manufactured. The EGR valve also will not operate during periods of heavy engine loading because it would hinder performance.
+
+(3) There are two different methods of supplying vacuum to the EGR valve.
+
+(a) One system uses a vacuum port into the carburetor throat located just above the throttle plate. As the throttle begins to open, vacuum will begin to be applied to the port and operate the EGR valve. The valve will continue to operate fully until approximately half throttle is reached. As the throttle is open past the halfway point, exhaust gas recirculation gradually will diminish to zero as the throttle approaches the fully opened position.
+
+(b) Another system uses a vacuum port that Is directly in the carburetor venturi. This will provide vacuum for the EGR valve whenever the engine Is running at high speed. The problem with using venturi vacuum is that it is not strong enough to operate the EGR valve. To make the system feasible, manifold vacuum is used to operate the EGR valve through a vacuum amplifier. The vacuum amplifier switches the manifold vacuum supply onto the EGR valve whenever venturi vacuum Is applied to its signal port. At times of large engine loading (wide throttle opening), manifold vacuum will be weak, producing the desired condition of no exhaust gas recirculation.
+
+(4) A switch that uses coolant temperature as an Indicator is used to block vacuum to the EGR valve before the engine reaches operating temperature. This valve is used with all systems.
+
+7-11. Fuel Evaporation Control System (Fig. 7-12).
+
+a. Purpose. Gasoline evaporation is a major source of hydrocarbon emissions in automotive equipment. Gasoline, because it is very volatile, evaporates In the fuel tank and the carburetor float bowl. The vaporized fuel must be vented. On uncontrolled vehicles, fuel vapor is vented to the atmosphere through the gas cap and the idle vent (para 4-14). The discharge of these vapors to the atmosphere no longer is acceptable on automotive vehicles. As a result, all currently produced vehicles are equipped with a fuel evaporation control system.
+
+b. Construction and Operation. The fuel evaporation control system Is integrated to control fuel tank and carburetor evaporation together.
+
+(1) A charcoal-filled canister Is used to store gasoline vapors. The fuel tank and the idle vent are connected to the canister. Any evaporation that occurs during periods of vehicle shutdown is collected in the canister and stored in the charcoal.
+
+(2) A purge line connects the canister to the carburetor through a vacuum port. The port is
+
+tapped into the carburetor throat just above the throttle valve.
+
+(3) The bottom of the charcoal canister is open. The opening is covered by a fiberglass filter.
+
+(4) Fuel vapors that are stored in the canister are purged as the throttle is open after the engine is started. The vacuum at the purge line causes fresh air to enter through the bottom of the canister. The filter keeps foreign matter from entering the canister. As the air passes through the charcoal it removes the stored fuel vapors. The vapors then are drawn into the carburetor through the purge line, where they are reburned.
+
+(5) The fuel cap is a pressure-vacuum type. Air can be drawn into the tank to occupy the space left by the gasoline as it is burned. However, it will not allow any fumes to pass out of the tank through it.
+
+(6) A valve is installed in series in the vent line to the fuel tank. It will prevent gasoline from passing from the tank to the canister in the event of overfill or vehicle rollover.

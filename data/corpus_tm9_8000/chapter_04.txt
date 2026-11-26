@@ -1,0 +1,607 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 4
+
+Section I. COMPONENTS AND THEIR PURPOSES
+
+4-1. Fuel Tanks.
+
+a. Purpose. The fuel tank is for storage of gasoline in liquid form. b.Location (Fig. 4-1). The location of the fuel tank is dependent on utilizing an area that is protected from flying debris, shielded from collision damage, and one that is not subject to bottoming. A fuel tank can be located just about anywhere in the vehicle that meets these requirements. c.Construction. Fuel tanks take many forms in military vehicles such as those described below.
+
+(1)The removable fuel tank (fig. 4-2) is most commonly used in wheeled vehicles. The most common material for fuel tanks is thin sheet metal that is coated with a lead-tin alloy to prevent corrosion. Because corrosion is of major concern, fiberglass and a variety of molded plastics are also popular for the manufacture of fuel tanks. The walls of the tank are manufactured with ridges
+
+to give them strength. Internal baffles are in-stalled in the tank to prevent the fuel from sloshing and to increase overall strength. Some tanks are made with a double wall with a layer of latex rubber in between. The purpose of the wall is to make the tank self-sealing.
+
+(2)The fuel cell (fig. 4-3) is a compartment that is integral with the body or the hull of the vehicle. Fuel cells can be located anywhere that there is an empty space. They are used in vehicles that require large fuel storage capacity. A fuel cell can take advantage of hollow areas of the vehicle where use of a removable fuel tank would be impractical. Fuel cells are suited particularly for combat situations because they may be located in areas that provide a maximum of shielding.
+
+(3)The bladder-type fuel cell (fig. 4-4) is much the same as a fuel cell, except for the addition of a flexible liner. The liner serves to seal the cell much like an inner tube seals a tire.
+
+d. Filler Pipe (Fig. 4-2). A pipe is provided for filling the tank or cell that is designed to prevent
+
+Tank Construction.
+
+fuel from being spilled Into the passenger, engine, or cargo compartment. The filler pipes used on military vehicles are designed to allow their tanks or cells to be filled at a rate of at least 50 gallons (189.25 liters) per minute.
+
+e. Fuel Outlet (Fig. 4-2). The outlet pipe is located approximately ½ In. (1.27 cm) above the bottom of the fuel tank or cell. This location Is ideal to allow sediment to fall to the bottom of the tank or cell without it being drawn into the fuel system.
+
+f. Fuel Gage Provision (Fig. 4-2). A provision usually is made to install a fuel gage. This provision usually is In the form of a flanged hole.
+
+g. Drainplug (Fig. 4-2). A threaded drain-plug usually is provided at the bottom of the tank for draining and cleaning.
+
+4-2. Fuel Filters.
+
+A. Purpose. The fuel filter traps foreign material that may be present in the fuel and preventing it from entering the carburetor or sensitive fuel Injection components.
+
+b. Location (Fig. 4-5). There Is at least one fuel filter used in the fuel system. A fuel filter can be located in any accessible place along the fuel delivery line. Filters also can be located inside fuel tanks, carburetors, and fuel pumps.
+
+c.Operation (Fig. 4-6). Fuel filters operate by passing the fuel through a porous filtering medium. The openings in the porous material are very small and, as a result, any particles In the fuel that are large enough to cause problems are blocked. In addition to the filtering medium, the filter in most cases also serves as a sediment, bowl. The gasoline, as It passes through the filter, spends enough time In the sediment bowl to
+
+allow large particles and water to settle out of it.
+
+d. Fuel Filter Configurations. The various types of fuel filters are:
+
+(1) Replaceable In-Line Filter (A, Fig. 4-7). This type of filter Is periodically replaced. The body of the filter acts as sediment bowl.
+
+(2) In-line Filter Elements that Fit In the Carburetor Inlet or Inside the Fuel Tank on the
+
+Outlet (B, Fig. 4-7). These filters are replaceable at intervals and contain no sediment bowls. (3) Glass Bowl Filter with Replaceable Element (C, Fig. 4-7). The sediment bowl must be washed out whenever the element is replaced. Some fuel pumps have a glass bowl-type gas filter built in.
+
+e. Element Configurations (Fig. 4-8). Filter elements are made from ceramic, treated paper, sintered bronze, or metal screen. There is one filter element that differs from the others. It consists of a pile of laminated disks that are spaced 0.0003 in. (0.0076 mm) apart. As the gasoline passes between the disks, foreign matter is blocked out.
+
+4-3. Fuel Pumps.
+
+a. Purpose. The fuel pump delivers gasoline from the fuel tank to the engine. Early automotive equipment utilized gravity to feed gasoline to the engine. This Is no longer practical because it limits the location of the fuel tank to positions that are above the engine.
+
+b. General The mechanical-type fuel pump generally is the most popular for gasoline engine applications. It usually is more than adequate and is much cheaper than an electric pump. The electric pump is more desirable though, for the following reasons.
+
+(1) The electric pump will supply fuel to the engine immediately when the ignition key is turned on. The engine must be turning with the starter for a mechanical pump to operate.
+
+(2) The pump, by design, will operate more efficiently if it pushes the fuel rather than pulling it. An electric pump can be mounted close to the tank, or in the tank, to take advantage of this characteristic.
+
+(3) The electric pump can be mounted away from heat to reduce the possibility of vapor lock (para4-37).
+
+c.Mechanical, Nonpositive Type (Fig. 4-9). This is currently the most popular configuration of an automotive fuel pump. Operation is as follows:
+
+(1) The rocker arm is moved up and down by the engine camshaft. The rocker arm spring causes the rocker arm to follow the cam lobe.
+
+(2) The rocker arm hooks into an elongated slot in the pull rod. The other end of the pull rod is attached to the diaphragm.
+
+(3) As the camshaft operates the rocker arm, it will operate the diaphragm against the force of the diaphragm spring.
+
+(4) As the rocker arm pulls the diaphragm down, the inlet check valve is unseated and fuel is drawn into the pump chamber. The outlet check valve seals the outlet passage.
+
+(5) As the diaphragm spring pushes the diaphragm back up, the inlet check valve seals the inlet and the fuel in the pump chamber is pushed through the unseated outlet check valve and through the pump outlet.
+
+(6) The action is repeated each time the rocker arm operates the diaphragm.
+
+(7) Pressure will build in the fuel line and the pump chamber as the fuel pump fills the carburetor bowl. As the pressure rises to the desired level in the pump chamber, it will hold the diaphragm down against the pressure of the diaphragm spring. The rocker arm will move up and down in the slotted pull rod. There will be no pumping action until the fuel line pressure again drops below the desired level. In this way, the
+
+nonpositive-type fuel pump regulates fuel line pressure. Normal pressures range from 1.5 to 6 psi (10.3 to 41.4 kPa). The operating range of the pump depends on the tension exerted by the diaphragm spring.
+
+(8) A venthole is provided under the diaphragm to allow the pressure to change in the lower chamber as the diaphragm flexes.
+
+(9) The pulsation chamber, located above the pump chamber, uses a soft diaphragm and a sealed chamber to cushion the pulsating action inherent to the diaphragm-type pump.
+
+(10) An oil seal is provided to keep crank-case oil from entering the lower chamber and leaking from the venthole.
+
+d. Mechanical, Positive Type (Fig. 4-10). The positive-type mechanical pump operates in the same manner as the nonpositive type. The difference is that the diaphragm pull rod is solidly linked to the rocker arm. The pump, therefore, will not regulate fuel line pressure. When this type of pump is used, a separate fuel pressure regulation device must be used that will bypass excess fuel back to the fuel tank.
+
+e. Double Action Fuel Pump (Fig. 4-11). Vehicles that use vacuum-operated windshield wipers often will utilize a supply pump that is built Into the fuel pump. The pump serves to operate the windshield wipers during periods of high engine load when manifold vacuum is low (para 17-14). The pump operates from the same
+
+rocker arm as the fuel pump and is a nonpositive type diaphragm pump. At times when manifold vacuum alone is sufficient to operate the windshield wipers, the diaphragm will be held up against the diaphragm spring by atmospheric pressure, rendering the pump Inoperative.
+
+f. Electric, Bellows-Type (Fig. 4-12). The
+
+bellows-type electric fuel pump works basically the same as the nonpositive-type mechanical pump. The difference is that it is driven by an electric solenoid rather than a mechanical cam-shaft. Operation is as follows:
+
+(1) As electric current is fed to the pump, the electromagnetic coil pulls the armature down, expanding the bellows.
+
+(2) The expansion of the bellows causes fuel to be drawn In through the inlet valve.
+
+(3) As the bellows are fully expanded, a pair of contact points are open, switching off the electromagnet.
+
+(4) The return spring pushes the armature back up, contracting the bellows. This action pushes the fuel out of the pump through the outlet valve.
+
+(5) The contact points are closed as the bellows are fully contracted. This causes the electromagnet to pull
+
+the armature down and repeat the pumping process.
+
+(6) The pump will stop when the fuel pressure is high enough to hold the bellows expanded against the return spring. The operating pressure of the pump Is determined by the return spring pressure.
+
+g. Electric, Vane-Type (Fig. 4-13). The 48 vane-type electric fuel pump operates by the same principles as the pump described in paragraph 20-6. It is driven by an electric motor.
+
+4-4. Fuel Tank Ventilation Systems.
+
+a. Purpose. The fuel tank needs a ventilation system to keep the pressure within it equal to
+
+atmospheric pressure. This is important for the following reasons:
+
+(1) Air must be allowed to enter the tank as the fuel is pumped out. Without ventilation of the tank, the pressure in the tank would drop to the point where the fuel pump would not be able to draw any more fuel from it. In some cases, the higher pressure around the outside of the tank could cause it to collapse.
+
+(2) Temperature changes cause the fuel in the tank to expand and contract. Absence of a ventilation system could cause excessive or insufficient fuel line pressure.
+
+b. Configurations. The most common methods of venting a fuel tank are:
+
+(1) By venting the fuel tank cap to the atmosphere. This method was the most common on earlier passenger cars and trucks. It still is used on vehicles that are not subject to emission control regulations or used for fording.
+
+(2) By providing a line to the fuel tank that vents the fuel tank at a point that is high enough to prevent water from entering during fording operations.
+
+(3) Vehicles that are subject to emission control regulations have fuel tank ventilation systems that work in conjunction with the evaporation control system. This system is discussed in paragraph 7-5.
+
+45. Intake Manifold.
+
+a. Description (Fig. 4-14). The intake mani- fold should:
+
+(1) Deliver the mixture to the cylinders in equal quantities and proportions. This is important for smooth engine performance. The lengths of the passages should be as near to equal as possible to distribute the mixture equally.
+
+(2) Help to keep the vaporized mixture from condensing before it reaches the combustion chamber. Because the ideal mixture should be vaporized completely as it enters the combustion chamber, this is very important. To reduce the condensing of the mixture, the manifold passages should be designed with smooth walls and a minimum of bends that collect fuel. Smooth flowing intake manifold passages also increase volumetric efficiency (para 2-23).
+
+(3) Aid in the vaporization of the mixture. To do this, the intake manifold should provide a controlled system of heating (para 7-3). This system of heating must heat the mixture enough to aid in vaporization without heating to the point of significantly reducing volumetric efficiency (para 2-23).
+
+b. Ram Induction (Fig. 4-15). Intake manifolds can be designed to provide optimum performance for a given engine speed range by varying the length of the passages. The inertia of the moving intake mixture will cause it to bounce back and forth in the manifold passage from the end of one intake stroke to the beginning of the next intake stroke. If the passage is the proper length so that the next intake stroke is just beginning as the mixture is rebounding, the inertia of the rnixture will cause it to ram itself into the cylinder. This will increase the volumetric efficiency of the engine In the designated speed range. It should be noted that the ram manifold
+
+will serve no useful purpose outside of its designated speed range.
+
+c. Heating the Mixture. As stated in paragraph 4- 5a(3), providing controlled heat for the In coming mixture Is very Important for good performance. The heating of the mixture may be accomplished by doing one or both of the following:
+
+(1) Directing a portion of the exhaust through a passage In the intake manifold (fig.4-16). The heat from the exhaust will transfer and heat the mixture. The amount of exhaust that Is diverted Into the Intake manifold heat passage Is
+
+controlled by the manifold heat control valve. Its operation is covered In paragraph 7-3.
+
+(2) Directing the engine coolant, which Is laden with engine heat, through the intake manifold on Its way to the radiator (fig. 4-17).
+
+4-6. Air Filters.
+
+a. Purpose (Fig. 4-18). The air filter fits over the engine air Intake to filter out any foreign matter. Any foreign matter that enters the Intake will act as an abrasive between the cylinder walls and the pistons, greatly shortening engine life. The two types of filters currently In use are the wet and dry type.
+
+b. Wet Type (Fig. 4-19). The wet-type, or the oil bath, air filter consists of the main body, the filter element that is made of woven copper gauze, and the cover. Operation is as follows: The incoming air enters between the cover and the main body. It is pulled down to the bottom of the main body, where it must make a 180-degree turn as it passes over the oil reservoir. As the air passes over the oil reservoir, most of the particles will not be able to make the turn, they will hit the oil and be trapped. As the air continues upward and passes through the filter element, the smaller particles that bypassed the oil will be trapped. The air keeps the filter element soaked with oil by creating a fine spray as it passes the reservoir. The air then makes another 180-degree turn and enters the carburetor.
+
+c. Dry Type (Fig. 4-20). The dry-type air filter passes the Incoming air through a filtering medium before it enters the engine. The filtering medium consists of oil-soaked copper mesh or replaceable pleated paper, the latter being the most common.
+
+4-7. Carburetor. The carburetor will be discussed, system by system, In paragraphs 4-13 thru 4-24. It serves the following basic functions:
+
+a. The carburetor mixes fuel and air Into the correct proportions for the most efficient use by the engine. The carburetor also must constantly vary the mixture proportions to meet the engine’s needs as Its speed and load requirements vary.
+
+b. The carburetor regulates engine speed and power output.
+
+c. The carburetor atomizes the fuel as it mixes it with the air (para 4-9e).
+
+TA233396 Figure 4-17. Water Heated Intake Manifold
+
+Section II. Principles of Carburetion
+
+4-8. Composition of Air. Air is composed of various gases, mostly nitrogen and oxygen (78 percent nitrogen and 21 percent oxygen by volume). These gases, as are all substances, are made of tiny particles called molecules. In the air surrounding the earth, as In all gases, the molecules are able to move quite freely in relation to each other. The molecules of air are attracted to the earth by gravity, creating the atmosphere (para 2- 22a). The weight of the air molecules creates atmospheric pressure (para 2-22b).
+
+4-9. Evaporation. Evaporation is the changing of a liquid to a vapor. The molecules of the liquid, not being closely tied together, are constantly moving about among themselves. Any molecule that moves upward with sufficient speed will jump out of the liquid and into the air. This process will cause the liquid to evaporate over a period of time. The rate of evaporation is dependent on the following:
+
+a. Temperature. The rate of movement of the molecules Increases with temperature. Because of this, the amount of molecules leaving the liquid for a given time will increase as the temperature Increases.
+
+b. Atmospheric Pressure. As atmospheric pressure Increases, the amount of air molecules present over the liquid also increases. The Increased presence of air molecules will slow the rate of evaporation. This is because the molecules of liquid will have more air molecules to collide with. In many cases, they will fall back into the liquid after collision.
+
+c. Closed Chamber. As evaporation takes place in a closed container, the space above the liquid will reach a point of saturation. When this happens, every molecule of liquid that enters the air will cause another airborne molecule of liquid to fall back.
+
+d. Volatility. The term volatility refers to how fast a liquid vaporizes. Some liquids vaporize easily at room temperature. Alcohol, for instance, vaporizes more easily than water. A highly volatile liquid is one that is considered to evaporate easily.
+
+e. Atomization (Fig. 4-21). Atomization is the process of breaking up a liquid into tiny globules or droplets. When a liquid is atomized, the droplets are all exposed individually to the air. For this reason, atomization greatly increases evaporation by increasing the exposed surface area of the liquid.
+
+4-10. Venturi Effect (Fig. 4-22). Venturi effect is used by the carburetor to mix gasoline with air. The basic carburetor has an hourglass-shaped tube called a throat. The most constricted part of the throat is called the venturi. A tube called a discharge nozzle Is positioned in the venturi. The discharge nozzle is connected to a reservoir of gasoline called the float bowl. The negative pressure that exists in the combustion chamber because of the downward intake stroke of the piston causes atmospheric pressure to create an airflow through the carburetor throat. This airflow must Increase temporarily in speed as it passes through the venturi, due to its decreased size.
+
+The increased speed of the airflow also will result In a corresponding decrease in pressure within the venturi and at the end of the discharge nozzle. When this occurs, atmospheric pressure will push gasoline through the discharge nozzle and Into the carburetor throat, where it will mix with the intake airflow.
+
+4-11. The Basic Carburetor (Fig. 4-22). The ideal state for the fuel to be in when it reaches the cylinder is to be vaporized completely. Good Intake manifold design will help to vaporize the fuel, but the carburetor must properly atomize the fuel beforehand. Atomization of the fuel occurs as it Is drawn into the venturi. As the fuel comes out of the discharge nozzle, it is broken into tiny droplets as it enters the airflow. To ensure that there is a high degree of atomization, a tiny hole called an air bleed is used to allow air to mix with the fuel in the discharge tube. The fuel is then further
+
+atomized as it enters the venturi. To ensure proper fuel flow, a secondary venturi or a venturi booster may be used (fig. 4-23). It will decrease further the pressure at the discharge nozzle.
+
+4-12. Air-Fuel Ratio (Fig. 4-24). The proportions of an air-fuel mixture are expressed in terms of the air-fuel ratio. It is the relationship by weight of the mixture. An example of how this is expressed would be:
+
+Air-Fuel Ratio = 12:1.
+
+In this air-fuel mixture, the air would be 12 times as heavy as the fuel. The operational range of air- fuel ratios in an average gasoline engine are from approximately 9:1 to approximately 17:1. Air- fuel ratios on the lower end (less air) are considered to be rich mixtures while the air-fuel ratios at the higher end (more air) are considered
+
+to be lean mixtures. A gasoline engine, propelling a vehicle at a steady speed, operates on an air-fuel ratio of
+
+approximately 15:1. Considering that gasoline weighs approximately 640 times as much as air, it can be seen that a gasoline engine consumes a tremendous amount
+
+of air. If, in fact, the air-fuel ratio was considered by
+
+volume rather than weight, it would be seen that a gasoline engine operating on an air-fuel ratio of 15:1 consumes approximately 9600 gallons of air for every gallon of gasoline.
+
+Section III CONSTRUCTION OF THE BASIC CARBURETOR
+
+4-13. Throttle Valve (Fig. 4-25). The throttle valve is used to regulate the speed and power output of the engine. It is controlled by the accelerator pedal, and usually consists of a flat, round plate that tilts with the throttle shaft. As the accelerator pedal is fully depressed, the throttle valve is moved from a position of completely restricting the throat to being completely open. The idle stop screw is used to keep the throttle valve open slightly so that the engine may run at a regulated idle speed with no foot pressure on the accelerator. This screw may be turned in or out to regulate engine idle speed.
+
+4-14. Float Circuit.
+
+a. Purpose. The float circuit maintains a steady working supply of gasoline at a constant level in the carburetor. This is very critical to proper engine performance. An excessively high float level will cause fuel to flow too freely from the discharge tube, causing an overly rich mixture; whereas an excessively low float level will cause an overly lean mixture.
+
+b. Operation (Fig. 4-26). As explained in paragraph 4-3, the fuel pump delivers gasoline to
+
+the fuel pump under pressure to the carburetor. The following events occur as the gasoline enters the carburetor through the fuel inlet:
+
+(1) The gasoline begins to fill the float bowl.
+
+(2) The float rises with the level of the gasoline.
+
+(3) The needle valve is closed by the rising float as the fuel reaches the desired level in the float bowl.
+
+(4) As the engine uses the gasoline from the float bowl, the level will drop. This will cause the float to drop, which will open the needle valve to let in more fuel.
+
+c. Venting (Fig. 4-27). The pressure in the float bowl must be regulated to assure the proper delivery of fuel and purging of vapors. The following systems and devices are added to the float circuit system to provide for these needs.
+
+(1) Balance Tube. Due to the restriction imposed by the air filter and changing air velocities because of varying engine speeds, the air pressure in the air horn is usually lower than atmospheric pressure. The pressure in the float bowl must equal that of the air horn in order for the carburetor to provide fuel delivery. A tube called a balance tube is run between the air horn and the float bowl to accomplish this task.
+
+(2) Idle Vent. Because gasoline Is highly volatile, it can create overly rich mixtures during
+
+long periods of engine idle. This is because the fuel begins to evaporate in the float bowl and the vapors get into the air horn through the balance tube. The solution to this problem is to have an outside vent for the float bowl that is opened whenever the enigine is idling. The
+
+idle vent is activated by linkage from the throttle valve. The idle vent system on later vehicles may be part of the emission control system (para 7-11).
+
+Section IV. SYSTEMS OF THE CARBURETOR
+
+4-15. General. The two operating systems of the carburetor each contain two circuits that give them the flexibility to operate throughout the entire engine speed range. Both of these systems obtain gasoline from the float bowl through the main jet (fig. 4-28). The main jet is a precisely sized opening that helps govern the amount of fuel used. The main jet usually is replaceable and is available in a variety of sizes. Carburetors can be tailored to meet various needs by varying jet sizes. In addition to the above, the carburetor must provide other systems to compensate for temperature change and for quick changes in throttle position.
+
+4-16. Idle and Low-Speed System.
+
+a. Purpose. The idle and low-speed system provides the proper air-fuel mixture when the engine is at idle and during periods of small throttle opening. During these periods, there is not enough air flowing through the throat to make the discharge nozzle work.
+
+b. Operation (Fig. 4-29). The idle and the low-speed portions of the system are really separate circuits in operation. The idle circuit sustains the engine at an
+
+idle. As the throttle begins to open, the effectiveness of the idle circuit falls off gradually as the low-speed circuit takes over. The transition between the two circuits is a smooth one. Operation from engine idle through low- speed range is as follows:
+
+(1) The throttle valve is almost closed at engine idle. This creates a high vacuum in the area of the carburetor under the throttle valve. This high vacuum causes atmospheric pressure to push gasoline through the idle port from the float bowl. The gasoline mixes with the air that is drawn in around the throttle valve. The mixture then is drawn into the engine.
+
+(2) As the throttle valve is opened, the vacuum under it begins to fall off, causing less gasoline to be drawn from the idle port. As more air flows through the throat, the gasoline will begin flowing through the low speed or off-idle discharge port, which is usually in the shape of a rectangular slot or a series of two or three holes. During the low-speed system operation, there is still not enough airflow through the throat for the discharge nozzle to work.
+
+c. Idle Mixture Screw (Fig. 4-29). A needle- shaped screw Is used in the carburetor to regulate the Idle port opening. The air-fuel ratio of the Idle system can be adjusted by turning the screw In or out.
+
+d. Air Bleeds (Fig. 4-29). Air bleeds also are used in the idle and low-speed circuits to help atomize the fuel.
+
+e. Passage to Float Bowl (Fig. 4-29). The passage that supplies the Idle and low-speed circuits must at some point be higher than the level of the gasoline In the float bowl. If this passage went straight to the Idle and low-speed ports, the float bowl would be able to drain through them.
+
+4-17. High-Speed and High-Speed Enrichment Circuits.
+
+a. Purpose. The high-speed circuit supplies the fuel-air mixture to the engine during medium to full throttle valve opening. The high-speed circuit gradually will take over from the low-speed circuit as the throttle Is depressed. The carburetor Is designed to provide approximately a 15:1 to 17:1 air-fuel ratio under normal steady speed conditions. The high-speed enrichment circuit will enrich the mixture to approximately 11:1 to 12:1 if a heavy demand is placed on the engine.
+
+b. Operation (Fig. 4-30). The high-speed circuit takes Its gasoline from the float bowl through the main jet. The gasoline is fed through a passageway to the
+
+discharge nozzle, where It mixes with the air In the venturi. Opening the throttle valve and accelerating engine speed Increases the airflow in the venturi, which causes a proportional increase in the amount of gasoline from the discharge nozzle. The high-speed enrichment system Increases the fuel flow to the discharge nozzle by either Increasing the main jet opening or providing a second supply of fuel from the float bowl. There are three basic high-speed enrichment systems that are covered In para- graphs 4-17c, d, and e.
+
+c. Power Jet (Flg. 4-31). The power Jet system Includes a Jet that Is opened by a vacuum- operated piston. The Jet provides an extra supply of fuel to the discharge nozzle from the float bowl. When the throttle valve Is not opened wide, there will be high manifold vacuum because the carburetor throat is restricted. This high manifold vacuum Is used to hold the vacuum piston against its spring. When the piston is up, the spring in the power jet will hold it closed. The throttle valve is opened when extra power is demanded, causing a drop in manifold vacuum. As manifold vacuum drops, the spring on the vacuum piston pushes the piston down, which in turn pushes the power valve open. The power jet sometimes is referred to as the economizer and the vacuum piston is referred to as the step-up or power piston.
+
+d. Vacuum-Operated Metering Rod (Fig. 4-32). The vacuum-operated metering rod uses a rod with a diameter that gets progressively
+
+larger In steps from its end. The vacuum piston, which works the same way as the one in paragraph 4-17c, operates the metering rod. When the engine load Is light and manifold vacuum is high, the piston pushes the
+
+metering rod into the jet against spring pressure, restricting the flow to the discharge tube. When the load demand Increases, the manifold vacuum decreases,
+
+causing the piston spring to lift the metering rod out of the jet progressively increasing the fuel flow to the discharge tube.
+
+e. Mechanically Operated Metering Rod (Fig 4-33). The mechanically operated metering rod works the
+
+same principles as the vacuum-operated one described in paragraph 4-17d with the exception that it is operated by linkage from the throttle valve. The linkage is calibrated so that the metering rod regulates the fuel perfectly for each throttle position.
+
+418. Accelerator Pump Circuit.
+
+a. Purpose. When the throttle valve Is suddenly opened, there is a corresponding sudden increase In the speed of the airflow through the carburetor. Because the air is lighter than the gasoline, it will accelerate quicker, causing a very lean mixture to reach the engine for a brief period. This would result in a severe lag In engine performance if not for the accelerator pump circuit. its job is to inject a measured charge of gasoline into the carburetor throat whenever the throttle valve is opened.
+
+b. Operation. (Fig. 4-34). The accelerator pump circuit consists of a pump that is operated by linkage directly from the throttle valve. There are passageways that connect the pump to the float bowl and pump discharge nozzle. There are two check valves in the system to control the direction of gasoline flow. Operation is as follows:
+
+(1) The pump piston Is pushed down In the pump chamber as the throttle valve is opened, forcing gasoline through the outlet passageway.
+
+(2) At the same moment, the inlet check ball will seat keeping gasoline from being pumped back into the float bowl.
+
+(3) The discharge check needle will be forced off its seat, allowing gasoline to pass to the pump discharge nozzle, where it will be discharged into the throttle of the carburetor.
+
+(4) The pump piston Is raised in the pump chamber when the throttle valve Is closed, causing the discharge check needle to seat, blocking the outlet
+
+(5) At the same moment, the inlet check ball is pulled off its seat and gasoline is pulled into the pump chamber from the float bowl
+
+(6) The pump chamber is filled with gasoline and ready to discharge whenever the throttle valve Is opened.
+
+c. Diaphragm Pump (Fig. 4-35). The diaphragm- type pump system works just like the piston type with the exception of the pump design, which is a flat rubber diaphragm. By flexing this diaphragm, a pressure differential is created that results In pump action.
+
+d. Controlling pump discharge (Fig. 4-36). The linkage between the accelerator pumpa6-hd the throttle cannot be solid. If it were, the pump would act as a damper, not allowing the throttle to be opened and closed readily. The linkage usually activates the pump through a slotted shaft or some- thing similar. When the throttle is closed, the pump Is held by its linkage. When the throttle is opened, the pump is activated by being pushed down by a spring that is called a duration spring. The tension of the duration spring controls the length of time that the injection of fuel lasts. The spring is calibrated to specific applications. Too much spring pressure will cause fuel to be discharged too quickly, resulting in reduced fuel economy. Too little spring pressure will cause fuel to be discharged too slowly, resulting In engine hesitation.
+
+4-19. Choke System.
+
+a. Purpose. When the engine is cold, the gasoline tends to condense into large drops in the manifold rather than vaporizing. By supplying a richer mixture (8:1 to 9:1), there will be enough vapor to assure complete combustion. The carburetor is fitted with a choke system to provide this richer mixture. The choke system provides a very rich mixture to start the cold engine. It then gradually makes the mixture less rich as the en- gine reaches operating temperature.
+
+b. Operation (Fig. 4-37). The choke system consists of a flat plate that restricts the throat above the venturi but is located below the balance tube so that it has no affect on the pressure In the float bowl. This plate is called a choke valve, and, like the throttle valve, is mounted on a shaft to tilt it opened or closed.
+
+c. Manual Choke System (Fig. 4-38). The manually operated choke used to be the most popular way of controlling the choke valve. Due to emission regulations, the possible danger In use with catalytic converters (para 7-8), and technological advances in automatic choke systems, manual choke systems are little used today. The choke valve is operated by a flexible cable that extends into the driver’s compartment. As the control is pulled out, the choke valve will be
+
+closed so that the engine can be started. As the control is pushed back in, the position of the choke valve is adjusted to provide the proper mixture. The following are two features that are incorporated into manual choke systems to reduce the possibility of engine flooding by automatically admitting air into the engine:
+
+(1) A spring-loaded poppet valve that is automatically pulled open by the force of the engine intake strokes.
+
+(2) A choke valve that is pivoted off center on its shaft. This will create a pressure differential between the two sides of the choke valve when it is subjected to the engine intake, causing it to be pulled open against the force of spring-loaded linkage.
+
+d. Automatic Choke System (Fig. 4-39). The automatic choke control system is centered around a thermostatic coil spring. The spring exerts pressure to hold the choke valve closed. Heat is applied to the coil after the engine Is started. The heat causes the coil to expand, allowing the choke to open.
+
+e. Providing Automatic Choke Heat. The four methods of providing controlled heat to the automatic choke thermostatic spring are:
+
+(1) Electricity (Fig. 4-40). A large portion of the vehicles currently produced use an electric coil to heat the thermostatic coil. The heating coil is switched on with the ignition switch. Some systems employ a control unit that prevents power from reaching the electric coil until the engine compartment reaches a desired temperature.
+
+(2) Engine Coolant (Fig. 4-41). Another method of heating the thermostatic coil is to circulate engine coolant through a passage in the thermostat housing.
+
+(3) Intake Manifold Crossover (Fig. 4-42). One of the most popular methods of providing choke heat, until recent years, is to utilize exhaust heat. The most popular way of doing this Is to mount the choke mechanism containing the thermostatic coil in a molded well on the intake manifold over the crossover passage. The choke mechanism then operates the choke valve through linkage.
+
+(4) Exhaust Manifold (Fig. 4-43). This system has the choke mechanism mounted on the carburetor in a sealed housing. The choke housing Is connected to a tube that runs through the exhaust manifold. This tube
+
+is to supply heat to the choke mechanism. The choke housing also is connected internally to a manifold vacuum source. As the engine runs, manifold vacuum draws air through the heat tube and the choke housing. The heat tube passes right through the exhaust manifold so that as it takes in fresh air via the choke stove, it will pick up heat from the exhaust without sending any actual exhaust fumes to the choke mechanism. Actual heating of the fresh air entering the heat tube occurs in the choke stove.
+
+f. Regulating Choke Valve Opening. As with the manual choke system, a device must be incorporated that will open the choke a measured
+
+amount against the force of the thermostatic coil. Manifold vacuum usually is used to operate this device, which is usually in the two following configurations:
+
+(1) Choke Piston (Fig. 4-44). The choke piston is integral with the carburetor, as is the passage that supplies vacuum to it. The vacuum passage is situated on the side of the piston cylinder so that it will only pull the choke valve open the desired amount before the piston will cover the vacuum passage. This will block the passage, keeping the piston from moving any further.
+
+(2) Choke Piston Integral with Choke Housing. The choke piston system also may be
+
+integrated with the choke heating system as shown in figure 4-45. This Is done by putting the choke piston Into the choke housing. As manifold vacuum pulls the piston open, controlled leakage around the piston allows the same vacuum source to pull in heated air for the choke.
+
+(3) Remote Choke Pulloff (Flg. 4-46). The remote choke pulloff is the most common con- figuration In current automotive design. It Is made from either metal or plastic and uses a rubber diaphragm that pulls the choke open through linkage. The linkage is
+
+adjustable to obtain the proper choke valve opening. The lever on the choke shaft is slotted so it will not interfere with full choke valve opening.
+
+(4) Two-Stage Choke Pulloff (Fig. 4-47). A variation of the choke pulloff Is the two-stage choke pulloff that has a spring-loaded telescoping pull rod. The choke valve, in the beginning, will be pulled open only partially. As the thermostatic coil heats and relaxes, it will be overcome by the pressure of the spring on the telescoping pull rod and choke valve will
+
+open further. This design provides more precise control and Is popular with emission-controlled vehicles.
+
+g. Fast Idle Cam (Fig. 4-48). When the choke system Is operating during warm up, the engine must run at a faster idle speed to improve drivabilitv and prevent flooding. To accomplish this, the carburetor
+
+is fitted with a fast idle cam that is operated by linkage from the choke. The fast idle cam operates by holding the throttle valve open. As the choke valve gradually opens, the cam rotates, gradually reducing idle speed.
+
+h. Choke Unloader (Fig. 4-49). If for some reason the engine should flood when it is cold, a device is needed to open the choke so that air may be admitted to correct the condition. The device that accomplishes this is the choke unloader. The choke unloader usually consists of a projection from the fast idle cam that interacts with the throttle linkage. The operation is as follows:
+
+(1) As the throttle valve is fully opened, the projection on the throttle lever contacts the projection on the fast idle cam.
+
+(2) The throttle lever, through the fast idle cam, then pulls the choke valve open a measured amount.
+
+4-20. Multiple-Venturi Carburetion.
+
+a. General. A multiple-venturi or multiple- barrel carburetor is really a carburetor that has two or four separate single-venturi carburetors arranged in a cluster that in most cases share a
+
+common choke, float, and accelerator pump system
+
+b. Purpose. There are two reasons for using multiple-venturi carburetion:
+
+(1) The use of two separate carburetors, each feeding separate cylinders, can help to improve fuel distribution
+
+(2) The operating range of the engine can be increased and drivability improved if the throttle linkage is arranged to phase in the carburetor venturis gradually as the accelerator pedal is depressed.
+
+There are two basic arrangements for the throttle linkage, depending on the purpose for having multiple- venturi carburetion. The linkage arrangements are discussed in the next two subparagraphs.
+
+c. Fixed Throttle Linkage (Fig. 4-50). Fixed throttle linkage is used mostly on two-venturi or two-barrel carburetors on engines containing six or more cylinders. This linkage arrangement usually is installed on an intake manifold that is arranged so that each venturi is feeding a selected half of the cylinders. The separation of the carburetor venturis within the intake manifold usually is to keep consecutively operating cylinders separated. Whenever two cylinders go through power strokes consecutively, the second of the two cylinders tends to have its fuel supply cut off. The fixed throttle linkage arrangement is a solid throttle shaft that operates both throttle valves simultaneously. There is an idle mixture screw on each side of the carburetor. The accelerator pump discharge nozzle usually contains two outlets.
+
+d. Progressive Throttle Linkage. Progressive throttle linkage is set up to open one throttle valve or one set of throttle valves at the beginning of the linkage travel and begin to open the second throttle valve or set
+
+of throttle valves when the first is about two-thirds open. The geometry of the linkage is set up so that as the throttle reaches the full open point, all of the throttle valves will be wide open. The purpose is to provide a carburetor that will have a venturi that is small enough to provide good throttle response and fuel economy at low speed, yet be large enough to allow the engine to perform well at high speed. The section of the carburetor that operates at low speed is called the primary section while the section that operates at high speed is called the secondary section. It should be noted that the primary section of the carburetor works throughout the engine’s operational range. It should also be noted that the secondary section of the carburetor has no choke, accelerator pump, low-speed, idle, or high-speed enrichment system. These systems are unnecessary In the secondary section of the carburetor for the following reasons:
+
+(1) The secondary section of the carburetor Is locked out so that its throttle valve(s) will not open when the choke system is operational on the primary side of the carburetor.
+
+(2) At the speed that the engine is operating when the secondary section of the carburetor begins to operate, there will be no hesitation without an acceleration pump system.
+
+(3) Because the secondary section of the carburetor only operates at high speeds, it does not have to be jetted for two stages of operation and therefore will not require a high-speed enrichment system.
+
+(4) Because the secondary section of the carburetor only operates at high speeds, a low- speed and idle system are unnecessary. There are numerous devices and systems of linkage that are used to make the secondary section of the carburetor operate. They will be discussed in the following subparagraphs.
+
+e. Progressive Linkage Configurations. A carburetor equipped with progressive linkage is designed so that the accelerator pedal directly operates the primary throttle valve(s). There are two ways in which the secondary throttle valve(s) are operated.
+
+(1) Mechanically operated secondary throttle valve(s) (fig. 4-51) are actuated by linkage from the primary throttle valve(s). The linkage is designed so that it will not be actuated until the primary throttle valve(s) are approximately two-thirds open. The operating arm on the primary throttle shaft is made to be approximately three times as long as the arm on the secondary throttle shaft so that the secondary throttle valve(s) will open all the way during the final third of primary throttle valve opening. The operating arm on the secondary throttle shaft operates through a spring so that it will not interfere with the primary throttle operation when the choke lockout is engaged.
+
+(2) Vacuum-operated secondary throttle valve(s) (fig. 4-52) are actuated by a vacuum diaphragm
+
+whose vacuum source Is the primary venturl. The principle of operation Is that as engine speed Increases, the vacuum In the primary venturi also Increases, causing the diaphragm to pull the secondary throttle valves open. There Is linkage between the primary and secondary throttle shafts to limit the opening of the secondary throttle valve(s) In relation to the primary throttle valves.
+
+f. Secondary Air Valve (Fig. 4-53). Carburetors equipped with mechanically operated secondary throttle valves are subject to engine hesitation if the throttle suddenly is opened all the way at low engine speeds for the following reasons:
+
+(1) The opening of primary and secondary
+
+throttle valves provides too much venturl area for the engine to handle at low speed. It will not be able to move enough air through the venturis to properly draw fuel from the discharge tubes, causing a lean mixture.
+
+(2) The secondary section of the carburetor Is not equipped with an accelerator pump system and will cause an engine hesitation at low speed. To correct this deficiency, most carburetors with mechanical progressive linkage use a secondary air valve. A secondary air valve fits into the secondary throat and serves to restrict airflow through the secondary venturi(s) until the engine Is at a high enough speed to utilize them correctly. The valve Is actuated by a vacuum under it that pulls it open against spring or counterweight force.
+
+g. Four-Barrel Carburetor (Fig. 4-54). The four- barrel or four-venturi carburetor consists of two primary venturis on a fixed throttle shaft that are progressively linked to two secondary venturis that are also on a fixed throttle shaft. The four- barrel carburetor is popular for the V-8 engine configurations for the following reasons:
+
+(1) The intake manifold may be divided to separate consecutive cylinders (para 4-20c).
+
+(2) The carburetor better serves the engine throughout the entire load and speed range.
+
+4-21. Updraft, Downdraft, and Sidedraft Carbu- retion. Carburetors may be built so that the airflow
+
+in the throat is downward, upward, or sideways, asshowninfigure4-55.
+
+422. Primer System (Fig. 4-56). Some gasoline engines are fitted with a primer system to aid cold starting. The primer system consists of a hand pump that forces gasoline through a line to inject it at strategic locations along the intake manifold. The system is not used very much in modern equipment.
+
+4-23. Degasser System (Fig. 4-57). The degasser system Is designed to shut off the supply of fuel to the idle circuit whenever there is high manifold vacuum such as periods of deceleration preventing large amounts of fuel from being drawn into the engine through the idle port. The degasser consists of a needle valve, a spring that holds the needle valve open, and a
+
+vacuum diaphragm that operates the needle valve through a fulcrum. The diaphragm is operated by a manifold vacuum. During periods of normal engine idle, the manifold vacuum is not high enough to operate the diaphragm and the needle valve remains open. During periods of decelera- tion, the manifold vacuum is high enough to cause the diaphragm to close the needle valve, shutting off the idle system. The needle valve also can be closed by pushing a button on the instrument panel that will energize a solenoid, closing the needle valve. The purpose of this manual actuation device is to clear the idle circuit and manifold of unburned gases before the engine is turned off.
+
+4-24. Accessory Systems. There are numerous devices that are used on carburetors to improve drivability and economy. Their application varies from vehicle to vehicle. The following subparagraphs list the most popular of these devices.
+
+a. Hot Idle Compensator (Fig. 4-58). The hot idle compensator is a thermostatically controlled valve that helps to prevent engine stalling when idling In very hot weather. Long periods of engine idle cause an excessive amount of vaporization of gasoline in the float bowl. These vapors will find their way into the carburetor throat and cause an overly rich mixture. The hot idle compensator consists of a bimetallic strip of metal operating a valve that controls an air passage that ends under the throttle valve. The bimetallic strip, which consists of two pieces of dissimilar metal with different expansion rates, will curl upwards as the
+
+temperature increases, opening the valve. This will in turn admit air under the throttle valve compensating for the overly rich mixture.
+
+b. Throttle Return Dashpot (Fig. 4-59). The throttle return dashpot acts as a damper to keep the throttle from closing too quickly when the accelerator pedal is suddenly released. This is important to prevent stalling on cars equipped with automatic transmissions. The throttle lever contacts the dashpot rod just before the throttle valves close. This will, in turn, push in on the dia phragm. The diaphragm slows the closing of the throttle because it must exhaust the air from the chamber through a tiny venthole. When the throttle opens again, the dashpot spring pushes the diaphragm back into operating position, drawing air into the chamber.
+
+c. Antidiesel Solenoid (Fig. 4-60). The anti- diesel solenoid controls the throttle opening at engine idle to prevent dieseling. Engine dieseling is a condition that causes the engine to continue running after the ignition switch is turned off. It is a particular problem with newer emission con- trolled vehicles due to higher operating temperatures, higher idle speeds, leaner fuel mixtures, and lower octane gasoline (para 4-40). The solenoid is energized when the ignition switch is turned on, causing the plunger to open the throttle to idle speed position. The plunger length is adjustable so that the idle speed can be adjusted. When the ignition switch is turned off, the solenoid is deenergized and the throttle closes tightly, cutting off the air-fuel mixture. This will keep the engine from dieseling.
+
+d. Air-conditioning Solenoid (Fig. 4-60). The air- conditioning solenoid is used on some engines to boost engine idle speed whenever the air-conditioner compressor is running. This compensates for the load placed on the engine, thus preventing stalling. Its operation is similar to the Antidiesel solenoid described in the preceding subparagraph.
+
+e. Idle Solenoid System (Flg. 4-61). The idle solenoid system serves the same purposes as the degasser system described in paragraph 4-23. The system uses a solenoid whose operation is similar to the ones used in the two preceding subparagraphs. The solenoid operates a needle valve that opens and closes the carburetor idle port. The needle valve is in a normally closed position. The solenoid is activated when the ignition switch is turned on, opening the needle valve. The purpose of shutting off the idle system with the engine is to help eliminate engine
+
+dieseling (para 4-40). A sensing switch is located in the intake manifold to shut off the idle system whenever manifold vacuum is excessively high, to prevent excess amounts of fuel from being sucked in through the idle port during deceleration.
+
+f. Heated Air Intake System (Fig. 4-62). Most later model vehicles are fitted with a heated air intake system to provide the best performance in all temperatures with leaner fuel mixtures. The heated air intake system uses a damper door in the air filter snorkel to select either cold fresh air intake or heated air that is ducted from a heat stove on the exhaust manifold. The damper door is moved by a diaphragm that operates by manifold vacuum. The position of the damper door is determined by a temperature sensor. The system will keep the temperature of the intake air at about 1000 to 1150F (37.80 to 46.1°C). Operation is as follows:
+
+(1) When Inlet air temperature is below 1000F (37.80C), the temperature sensor will allow full vacuum to flow to the operating diaphragm, pulling the damper door to the heated air position.
+
+(2) When the Inlet air Is over 115°F (46.10C), the temperature sensor will bleed manifold vacuum off Into the atmosphere. This will cause the diaphragm spring to push the damper door Into the unheated fresh air position.
+
+(3) The temperature sensor will at times also bleed off only a portion of vacuum, causing the damper door to remain between the hot and cold position. This will regulate the temperature by providing a blend of hot and cold air.
+
+(4) At any time the engine Is heavily accel- erated, the manifold vacuum will drop and the damper door will move to the fresh air Intake position.
+
+TA233423 Figure 4-61. 4-38
+
+Section V. FUEL INJECTION SYSTEMS
+
+4-25. General. Fuel injection systems are an increasingly popular alternative to the carburetor for providing an air-fuel mixture. They inject, under pressure, a measured amount of fuel into the Intake air, usually at a point near the intake valve. Fuel injection systems provide the following advantages.
+
+(1) Fuel delivery can be measured with extreme accuracy, giving the potential for improved fuel economy and performance.
+
+(2) Because the fuel is injected at the intake port of each cylinder, fuel distribution will be much better and fuel condensing in the manifold will not be a problem.
+
+(3) There is no venturi to restrict the air Intake, making it easier to keep volumetric efficiency high (para 2-23).
+
+(4) The fuel injector, working under pressure, can atomize the fuel much finer than the carburetor, resulting In improved fuel vaporization. There are three basic configurations of gasoline fuel Injection: timed, continuous, and throttle body.
+
+4-26. Timed Fuel Injection Systems.
+
+a. General. Timed fuel Injection systems for gasoline engines inject a measured amount of fuel in timed bursts that are synchronized to the Intake strokes of the engine. Timed injection is the most precise form of fuel injection but it is also the most complex. There are two basic forms of timed fuel injection: mechanical and electronic. The operation of the two are very different and will be covered separately In the two following subparagraphs.
+
+b. Mechanical-Timed Injection (Fig. 4-63). The mechanical-timed injection system uses a high-pressure pump that draws fuel from the gas tank and delivers it to the metering unit. A pressure relief valve is installed between the fuel pump and the metering unit to regulate fuel line pressure by bleeding off excess fuel back to the gas tank. The metering unit is a pump that is driven by
+
+the engine camshaft. It is always in the same rotational relationship with the camshaft so that it can be timed to feed the fuel at just the right moment to the injectors. There is one injector for each cylinder. Each injector contains a spring loaded valve that is opened by fuel pressure injecting fuel into the intake at a point just before the intake valve. The throttle valve regulates engine speed and power output by regulating manifold vacuum, which in turn regulates the amount of fuel supplied to the injectors by the metering unit.
+
+c. Electronic-Timed Fuel Injection (Fig. 4-64). The operation of electronic-timed fuel injection is somewhat different than the mechanical-timed system described in the previous subparagraph. In an electronic system, all of the fuel injectors are connected in parallel to a common fuel line that is fed by a high-pressure pump from the gas tank. A fuel pressure regulator also is installed in line with the injectors to keep fuel pressure constant by diverting excess fuel back to the gas tank. Each injector contains a solenoid valve and is normally In a closed position. With a pressurized supply of fuel behind it, each injector will operate individually whenever an electric current is applied to its solenoid valve. By sending electric current impulses to the injectors in a sequence timed to coincide with the needs of the engine, the system will supply gasoline to the engine as it should. The system is fitted with an electronic computer to serve this function and the function of providing the proper amount of fuel. The computer receives a signal from the ignition distributor to establish the timing sequence. The engine is fitted with a variety of sensors and switches that gather information such as:
+
+(1) Intake air temperature
+
+(4) Engine coolant temperature
+
+(5) Throttle valve position
+
+(6) Intake manifold airflow.
+
+The computer receives this Information and uses it to calculate the amount of fuel delivered at each Injection cycle. The computer is capable of changing the rate of fuel delivery to the engine hundreds of times a second, making the system extremely accurate. The computer regulates the amount of fuel delivered by varying the duration of Injector operation.
+
+4-27. Continuous Fuel Injection (Fig. 4-65). Continuous fuel Injection systems provide a continuous spray of fuel from each injector at a point in the Intake port located just before each intake valve. Because the entrance of the fuel into the cylinder is controlled by the intake valve, the continuous system will fulfill the requirements of a gasoline engine. Timed Injection systems, though a necessity on diesel engines, are costlier than continuous systems and are used on gasoline engines only when more precise fuel metering is desired. In the continuious system, fuel is delivered
+
+to the mixture control unit by the fuel pump. The fuel pressure regulator maintains fuel line pressure by sending excess fuel back to the gas tank. The mixture control unit regulates the amount of fuel that is sent to the injectors based on the amount of airflow through the intake and the engine temperature. The mixture control unit on mechanical systems will be operated by the airflow sensing plate and the warm-up regulator. This information on electronic systems will be fed into a computer that will, in turn, regulate the fuel injection rate. The accelerator pedal will regulate the rate of airflow through the intake by opening and closing the throttle valve. A cold-start injector is installed in the intake to provide a richer mixture during engine startup and warm- up. It is actuated by electric current from the thermal sensor whenever the temperature of the coolant is below a certain level. The cold-start injector works in conjunction with the auxiliary air valve. Its function is to
+
+speed up the engine idle during warm-up. It also is actuated by the thermal sensor.
+
+4-28. Throttle Body Injection (Fig. 4-66). Throttle body injection is a form of continuous injection that uses one or two injectors delivering gasoline to the engine from one central point in the intake manifold. Though throttle body injection does not provide the precise fuel distribution of the direct port injection described in the previous paragraph, it is much cheaper to produce, yet provides a much higher degree of precision fuel metering than a carburetor. The throttle body injection unit is usually an integral one, containing all of the major system components, in most cases. The unit mounts on the intake manifold in the same manner as a carburetor. Airflow sensors and electronic computers usually are mounted in the air cleaner body.
+
+Section VI. TURBOCHARGERS AND SUPERCHARGERS
+
+4-29. General. Turbocharging or supercharging is a method of increasing engine volumetric efficiency (para 2-23) by forcing the air-fuel mixture into the intake rather than merely allowing the pistons to draw it in naturally. Supercharging and turbocharging in some cases will push volumetric efficiencies over 100 percent. Engines must be modified to operate properly in some cases, because the extra air-fuel mixture will cause higher compression pressures, resulting in detonation (para 4- 40c).
+
+4-30. Turbochargers (Fig. 4-67). A turbocharger uses the force of the engine exhaust stream to force the air-fuel mixture into the engine. It consists of a housing containing two chambers. One chamber contains a turbine that is spun as hot exhaust gases are directed against it. The turbine shaft drives an impeller that is located in the other chamber. The spinning impeller draws an air-fuel mixture from the carburetor and forces it into the engine. Because the volume of exhaust gases increases with engine load and speed, the turbocharger speed will increase proportionally, keeping the manifold pressure boost fairly uniform. A device known as a waste gate is installed on turbocharged engines to control manifold pressure. It is a valve that, when open, allows engine exhaust to bypass the turbocharger turbine, effectively reducing intake pressure. The waste- gate valve is operated by a diaphragm that is operated by manifold pressure. The diaphragm will open the waste-gate valve whenever manifold pressure reaches the desired maximum.
+
+4-31. Superchargers.
+
+a. General. Superchargers are engine driven air pumps that force the air-fuel mixture into the engine. They are made in three basic configurations: centrifugal, rootes, and vane.
+
+b. Centrifugal Supercharger (Fig. 4-68). The centrifugal supercharger has an impeller equipped with curved vanes. As the impeller is driven by the engine, it
+
+draws air into its center and throws it off at its rim. The air then is pushed along the inside of the circular housing. The diameter of the housing gradually increases to the outlet where the air is pushed out. The air from the outlet then is routed to the carburetor via a pressure box (para 4-31e).
+
+c. Rootes Supercharger (Fig. 4-69). The rootes supercharger is of the positive displacement type, and consists of two rotors inside a housing. As the rotors are driven by the engine, air is trapped between them and the housing. It then is carried to the outlet where it is discharged. The rotors and the housing in this type of supercharger must maintain very tight clearances and therefore are very sensitive to dirt.
+
+d. Vane Supercharger (Fig. 4-70). The vane supercharger operates the same way as the vane oil pump described in paragraph 20-6. It is a positive displacement-type supercharger that usually is belt driven by the engine. The air output of the vane supercharger usually is routed to the carburetor via a pressure box (para 4-31e).
+
+e. Pressure Box (Fig. 4-71). A large percentage of superchargers are situated so that they force air into the carburetor throat rather than drawing the mixture from the bottom of the carburetor. This creates a problem because it will cause pressure in the venturi that is higher than atmospheric. This, in turn, will cause air to be blown into the discharge nozzle rather than fuel being drawn out. The solution is to enclose the carburetor in a sealed pressure box. The outlet of the supercharger then pressurizes the pressure box, providing the necessary boost. A relief valve usually is provided on the box to prevent pressure in the box from exceeding a desired limit.
+
+Section VII. 4-32.Purpose.Governors are used on motive vehicles to regulate maximum engine speed and thus prevent excess engine wear. Testing has proven that the rate of engine wear increases by the square of engine speed. This means that in the higher speed ranges even a few hundred rpm speed increase will cause a tremendous wear increase. This section describes the various types of governors.
+
+4-33. Centrifugal Governors (Fig. 4-72). A centrifugal governor is made up of two weighted arms pivoted on a spindle. The spindle and the arms are rotated by the engine through a drive shaft. The weights tend to swing outward from their center axis as they rotate. The outward movement of the weights will, through linkage, close an extra throttle valve that is installed in the carburetor throat. The operation of this throttle valve effectively will restrict engine speed. There is a spring installed on the governor that holds the
+
+weights in a normally closed position. The governor weights must reach sufficient speed as the engine rotates to develop enough centrifugal force to overcome the force of the spring before they swing out to operate the throttle valve. This means that the spring tension regulates engine speed. An adjustment is provided to adjust the governed engine speed. The adjustment is in the form of a screw that increases or decreases spring tension.
+
+4-34. Velocity-Vacuum Governor. The velocity- vacuum govenor is operated by the speed of the air-fuel mixture passing the throttle plate. As the speed of the air-fuel mixture reaches a certain point, it will tend to push the throttle valve closed. This effectively will limit engine speed. In order for this to take place, the throttle shaft must be offset in the carburetor throat so that the moving mixture
+
+will exert more pressure on one side of the throttle valve than on the other. Also, the throttle valve must be limited from opening all of the way. This is because the throttle valve could not be pushed closed during full throttle applications if it were perpendicular to mixture flow. The following two subparagraphs demonstrate the two variations of this type of governor.
+
+a. Velocity-Vacuum Governor - Type I. The first type of centrifugal-vacuum governor (fig. 4-73) uses a spring that tends to pull the throttle toward the open position. The spring is attached on one end to a vacuum piston through an adjusting screw. The other end of the spring is attached to the throttle shaft through a lever. There is also a damper piston connected to this lever. Operation is as follows:
+
+(1) As engine speed increases to the governed maximum, the speed of the mixture forces the throttle valve toward the closed position against the force of the governor spring.
+
+(2) The damper piston prevents fluctuation of the throttle valve that would occur due to pulsation of the intake mixture caused by the time between, or the overlapping of, the intake strokes.
+
+(3) During periods of light loads, the engine can reach its maximum governed speed with a relatively small throttle opening. This could cause the intake mixture to close the throttle valve too much, causing excessive speed reduction. To prevent this, a vacuum compensator piston uses manifold vacuum to increase the governor spring tension.
+
+(4) The maximum governed engine speed can be adjusted by loosening or tightening the engine-speed adjusting screw, which changes the tension of the governor spring.
+
+b. Velocity-Vacuum Governor - Type II. The second type of velocity-vacuum governor (fig. 4-74) also uses a spring to pull the throttle valve toward the open position. One end of the spring is attached to the carburetor housing through an adjusting screw. The other end of the spring is attached to the throttle shaft through a flywheel that is attached to the end of the shaft. A compensator spring is located so that it operates with the throttle shaft during periods of small throttle openlng. Operation is as follows:
+
+(1) As engine speed increases to the governed maximum, the speed of the mixture forces the throttle valve toward the closed position against the force of the governor spring.
+
+(2) The flywheel, by inertial force, prevents fluctuation of the throttle valve that would occur due to pulsation of the intake mixture caused by the time between, or the overlapping of, the intake strokes.
+
+(3) During periods of light loads, the engine can reach Its maximum governed speed with a relatively small throttle opening. This could cause the intake mixture to close the throttle valve too much, causing
+
+excessive speed reduction. To prevent this, an extra compensator spring is fitted to offer additional resistance to throttle valve closing during periods of small throttle opening.
+
+(4) By loosening or tightening the engine speed adjusting screw, the maximum engine speed can be adjusted. The screw accomplishes this by changing the tension of the governor spring.
+
+4-35. Centrifugal-Vacuum Governor (Fig. 4-75). A centrifugal-vacuum governor consists of two units that work together to regulate maximum engine speed. One is the centrifugal unit that is mounted under the Ignition distributor. The other is the vacuum unit that is mounted under the carburetor.
+
+a. Centrifugal Unit. The centrifugal unit is driven by the engine at the Ignition distributor drive. Its purpose is to control the vacuum unit based on engine speed. Operation is as follows:
+
+(1) When the engine speed is below the governed maximum, the governor valve is held open by the valve spring. This allows atmospheric pressure to bleed into the valve and, through the governor vacuum line, equalize pressure in the vacuum unit. The vacuum unit is Ineffective in this position.
+
+(2) As engine speed approaches the governed maximum, the governor valve is seated by centrifugal force against the valve seat. This shuts off atmospheric pressure to the lower part of the vacuum unit allowing vacuum passages from the carburetor to reduce pressure. Atmospheric pressure In the upper part of the vacuum unit will then push the diaphragm down, causing
+
+the vacuum unit to limit engine speed.
+
+b. Vacuum Unit. The vacuum unit is basically a diaphragm with a rod connecting It to the throttle valve shaft. When pressure is equal above and below the diaphragm, the governor spring pulls the diaphragm rod into a nongoverning position. When pressure drops under the diaphragm, as dictated by the governor valve, atmospheric pressure will push the diaphragm down against the force of the governor spring, causing the diaphragm rod to pull the throttle valves toward the closed position. This effectively will limit engine speed.
+
+Section VIII. CHARACTERISTICS OF GASOLINE
+
+4-36. Origin. Petroleum is the most common source of fuel for modern internal combustion engines. It contains two important elements: carbon and hydrogen. These elements are in such proportions that they will burn freely in air and liberate heat energy. Petroleum contains a tremendous amount of potential energy. In comparison to dynamite, in fact, a gallon of gasoline has six times as much potential energy. Gasoline is the most popular petroleum-based engine fuel. It has many advantages, two of which are a better rate of burning and easy vaporization to give quick starting in cold weather. The major characteristics of gasoline that affect engine operation are volatility, purity, and antiknock quality (octane rating).
+
+4-37. Volatility in Gasoline. Volatility, as applied to gasoline, is its tendency to change from liquid to vapor at any given temperature. The volatility of gasoline affects ease of starting, length of warm-up period, and engine
+
+performance during normal operation. The rate of vaporization increases as the temperature increases and as pressure decreases. The volatility of gasoline must be regulated carefully so that it is volatile enough to provide acceptable cold weather starting, yet not be so volatile that it is subject to vapor lock during normal operation. Refiners introduce additives to gasoline to control volatility according to regional climates and seasons.
+
+a. Starting Ability. To provide satisfactory cold weather performance and starting, the choke system causes a very rich mixture to be delivered to the engine. Gasoline that is not volatile enough will cause excessive amounts of
+
+raw unvaporized fuel to be introduced to the combustion chambers. Because unvaporized fuel does not burn, it is wasted. This reduces fuel economy and causes a condition known as crankcase dilution.
+
+b. Crankcase Dilution. Crankcase dilution occurs when the fuel that is not vaporized leaks past the piston rings and seeps into the crankcase. The unvaporized fuel then dilutes the engine oil, reducing its lubricating qualities. A certain amount of crankcase dilution occurs in all engines during warm-up. It is not considered harmful in normal quantities because it vaporizes out of the oil as the engine warms up. The vapors then are purged by the crankcase ventilation system (para 7-7).
+
+c. Vapor Lock. Vapor lock is one of the difficulties experienced in hot weather when using highly volatile fuels. When fuel has a tendency to vaporize at normal atmospheric temperature, it may form so much vapor in the fuel line that the action of the fuel pump will cause a pulsation of the fuel vapor rather than normal fuel flow. Heat Insulating materials or baffles are often placed between the exhaust pipe and fuel line to help avoid vapor lock. Hot-weather grades of gasoline are blended from lower volatility fuels to lessen the tendency toward vapor lock.
+
+d. Fuel Distribution. When the fuel is not distributed evenly to all cylinders, the engine will run unevenly and power output will decrease. To ensure good distribution, the fuel must be vaporized completely and mixed with air in the manifold before entering the combustion chamber.
+
+4-38. Purity. Petroleum contains many Impurities that must be removed during the refining process before gasoline suitable for automotive use is produced. At one time, considerable corrosion was caused by the sulfur inherent in petroleum products, but modern refining processes have made it almost negligible. Another problem was the tendency for the hydrocarbons in the gasoline to oxidize into a sticky gum when exposed to air, which resulted in clogged carburetor passages, stuck valves, and other operational difficulties. Chemicals that control gumming are now added to gasoline. Dirt, grease, water, and various chemicals also must be removed to make gasoline an acceptable fuel.
+
+4-39. Deicing Agents. Moisture in gasoline tends to freeze in cold weather, causing clogged fuel lines and carburetor idle ports. Deicing agents are added to gasoline that mix with the moisture and act as an antifreeze to prevent freezing.
+
+4-40. Antiknock Quality.
+
+a. Combustion. To understand what is meant by antiknock quality, first review the process of combustion. When any substance burns, it actually is uniting in rapid chemical reaction with oxygen (one of the constituents of air). During this process, the molecules of the substance and oxygen are set into very rapid motion and heat is produced. In the combustion chamber of an engine cylinder, the gasoline vapor and oxygen in the air are ignited and burn. They combine, and the molecules begin to move about very rapidly as the high temperatures of combustion are reached. The molecules, therefore, bombard the combustion chamber walls and the piston head with a shower of fast moving molecules. It is actually this bombardment that registers the heavy push on the piston and forces it downward on the power stroke.
+
+b. Combustion Process. The normal combustion process in the combustion chamber (fig. 4-76) goes through three stages when producing power. They are as follows:
+
+(1) Formation of Nucleus of Flame. As soon as a spark jumps the gap of the spark plug electrode, a small ball of blue flame develops in the gap. This ball is the first stage, or nucleus, of the flame. It enlarges with relative slowness and,
+
+during its growth, there is no measurable pressure created by heat.
+
+(2) Hatching Out. As the nucleus enlarges, it develops into the hatching out stage. The nucleus is torn apart so that it sends fingers of flame into the mixture in the combustion chamber. This causes enough heat to give just a slight rise in the temperature and pressure In the entire air-fuel mixture. Consequently, a lag still exists in the attempt to raise pressure in the entire cylinder.
+
+(3) Propagation. It is during the third, or propagation, stage that effective burning occurs. The flame now burns in a front that sweeps across the combustion chamber, burning rapidly and causing great heat with an accompanying rise in pressure. This pressure causes the piston to move downward. The burning during normal combustion is progressive. It increases gradually during the first two stages, but during the third stage, the flame is extremely strong as it sweeps through the combustion chamber.
+
+c. Detonation (Fig. 4-77). If detonation takes place, it will happen during the third stage of combustion. The first two stages are normal, but In the propagation stage, the flame sweeps from the area around the spark plug toward the walls of the combustion chamber. Parts of the chamber that the flame has passed contain inert gases, but the section not yet touched by the flame contains highly compressed, heated combustible gases. As the flame races through the combustion chamber, the unburned gases ahead of it are
+
+further compressed and are heated to high temperatures. Under certain conditions, the extreme heating of the unburned part of the mixture may cause it to Ignite spontaneously and explode. This rapid, uncontrolled burning in the final stage of combustion is called detonation. It is caused by the rapidly burning flame front compressing the unburned part of the mixture to the point of self-ignition. This secondary wave front collides with the normal wave front, making an audible knock or ping. It is an uncontrolled explosion, causing the unconfined gases in the combustion chamber to rap against the cylinder head walls. Detonation may harm an engine or hinder its performance in several ways. In extreme cases, pistons have been shattered, rings broken, or heads cracked. Detonation also may cause overheating, excessive bearing wear, loss of power, and high fuel consumption.
+
+d. Octane Rating.
+
+(1) The ability of a fuel to resist detonation is measured by its octane rating. The octane rating of a fuel is determined by matching it against mixtures of normal heptane and iso-octane in a test engine under specified test conditions until a pure mixture of hydrocarbons is found that gives the same degree of knocking in the engine as the gasoline being tested. The octane number of the gasoline then is specified as the percent of the isooctane In the matching iso-octane, normal heptane mixture. For example, a gasoline rating of 75 octane is equivalent in its knocking characteristics to a mixture of 75 percent iso-octane and 25 percent normal heptane. Thus, by definition, normal heptane has an octane rating of 0 and isooctane has an octane of 100.
+
+(2) The tendency of a fuel to detonate varies in different engines and in the same engines under different operating conditions. The octane number has nothing to do with starting qualities, potential energy, volatility, or other major characteristics. Engines are designed to operate within a certain octane range. Performance is improved with the use of higher octane fuels within that operational range. Engine performance will not be improved if a gasoline with an octane rating higher than the operational range is provided.
+
+(3) Tetraethyl lead is the most popular of the compounds added to gasoline to raise its octane rating. The introduction of catalytic con-
+
+verters, however, has created a need for a higher octane lead-free gasoline that is produced by more careful refining processes and numerous substitutes for lead. Lead-free gasolines to date, however, do not have the antiknock qualities of leaded ones. Modern automotive engines made for use with lead-free gasoline, therefore, must be designed for lower octane ratings.
+
+e. Other Causes for Knocking.
+
+(1) Low-octane fuel is not the only reason for knocking. Anything that adds heat or pressure to the last part of the mixture to burn within a cylinder will aggravate detonation and also result in knocking. That is why the compression ratio of a gasoline engine has an upper limit. When the ratio is raised too high, the immediate result is detonation caused by excessive heat from the additional compression. Under certain conditions, excessive spark advance, lean fuel mixtures, and defective cooling systems are a few of the many causes of detonation.
+
+(2) Preignition is another cause for knocking (fig. 4-78). Though its symptoms are similar, it is not to be confused with detonation.
+
+Preignition is an igniting of the air-fuel mixture during compression before the spark occurs and is caused by some form of hot spot in the cylinder, such as an overheated exhaust valve head or spark plug, or a glowing piece of carbon. Preignition can lead to detonation, but the two are separate and distinct events.

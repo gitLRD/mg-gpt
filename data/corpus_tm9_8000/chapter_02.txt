@@ -1,0 +1,575 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 2
+
+ENGINES CHAPTER 2 PISTON ENGINE CHARACTERISTICS
+
+Section I. ENGINE OPERATION
+
+2-1. Introduction.
+
+a. Because the most widely used piston engine is the four-stroke cycle type, it will be used as the example for section I, Engine Operation and as the basis for comparison in section II, Comparison of Engine Types.
+
+b. The operation of the piston engine can best be understood by comparing it to a simple cannon. In A, figure 2-1 a cannon barrel, charge of gunpowder, and a cannonball are illustrated. In B, figure 2-1 the gunpowder is ignited. The gunpowder burns very rapidly and as it burns there is a rapid expansion of the resulting gases. This rapid expansion causes a tremendous increase in pressure that forces the cannonball from the barrel.
+
+In A, figure 2-2 the cannon barrel has been replaced by a cylinder and a combustion chamber. The cannonball has been replaced by a piston. A mixture of vaporized fuel and air has replaced the gunpowder. In B, figure 2-2 the gasoline is ignited. This time, the resulting force acts to push the piston downward.
+
+2-2. Reciprocating Motion to Rotary Motion. The force of the piston acting in a downward motion is of little value if it is to turn the wheels of the vehicle. In order to utilize this straight line or reciprocating motion, it must be transformed into rotary motion. This is made possible through the use of a crankshaft. The crankshaft, as the name implies, is a shaft connected to the driving wheels of a vehicle through the drive train on one end. On the other end of the shaft is a crank with a crankpin offset from the shaft’s center. Figure 2-3 illustrates how the piston and the crankshaft are connected through the connecting rod and the crankpin.
+
+2-3. Intake and Exhaust. If the engine is going to operate, the fuel and air mixture must be fed into the combustion chamber. The burnt gases also must be exhausted after the fuel is burned. To accomplish this, there is a passage to the combustion chamber called the intake port and a passage from the combustion chamber to the exhaust
+
+system called the exhaust port. A simplified arrangement Is shown in figure 2-5. By putting openings in the combustion chamber, another problem is created. The problem is that the force of the burning fuel and air mixture will be lost through these openings rather than pushing down the piston. To solve this problem, there must be something that opens and closes the intake and exhaust ports to the combustion chambers. To accomplish this, a valve is added
+
+to each of these ports and these valves are called the intake and exhaust valves. A simplified arrangement is shown in figure 2-6.
+
+The intake and the exhaust valves are opened and closed in a timed sequence by the valve train. The valve train will be discussed in paragraph 2-9.
+
+2-4. Action in the Cylinder. When the piston is at its highest point in the cylinder, it is in a position called top dead center (tdc). When the piston is at its lowest point in the cylinder, it is in a position called bottom dead center (bdc). As the piston moves from top dead center to bottom dead center or vice versa, the crankshaft rotates exactly one-half of a revolution, as shown in figure 2-7.
+
+Each time the piston moves from top dead center to bottom dead center, or vice versa, it completes a movement called a stroke. Therefore, the piston completes two strokes for every full crank-shaft revolution. There are four definite phases of operation that an engine goes through in one complete operating cycle. Each one of these operating phases is completed in one piston stroke. Because of this, each operating phase is also referred to as a stroke. Because there are four strokes of operation, the engine Is referred to as a four-stroke cycle engine. The four strokes are intake, compression, power, and exhaust. Because there are four strokes In one operating cycle, it may be concluded that there are two complete crankshaft revolutions in each operating cycle.
+
+2-5. Intake Stroke (A, Fig. 2-8). The Intake stroke begins at top dead center. As the piston moves down, the intake valve opens. The downward movement of the piston creates a vacuum in the cylinder. The vacuum causes a fuel and air mixture to be drawn through the intake port Into the combustion chamber. As the piston reaches bottom dead center, the Intake valve closes.
+
+2-6. Compression Stroke (B, Fig. 2-8). The compression stroke begins with the piston at bottom dead center. Both the intake and the exhaust valves remain closed. As the piston moves toward top dead center, the amount of space in the upper cylinder gets smaller. The fuel and air mixture is compressed and the potential energy in the fuel is concentrated. The compression stroke ends when the piston reaches top dead center.
+
+2-7. Power Stroke (C, Fig. 2-8). As the piston reaches top dead center, ending the compression stroke, the spark plug (para 15-3) ignites the compressed fuel and air mixture. Because both valves are closed, the force of the resulting explosion pushes the piston down, giving a powerful driving thrust to the crankshaft. The power stroke ends as the piston reaches bottom dead center.
+
+2-8. Exhaust Stroke (D, Fig. 2-8). As the piston reaches bottom dead center, ending the
+
+power stroke, the exhaust valve opens, beginning the exhaust stroke. As the piston moves upward toward top dead center, it pushes the burnt gases from the fuel and air mixture out of the combustion chamber through the exhaust port. As the piston reaches top dead center, ending the exhaust stroke, the exhaust valve closes. As the exhaust valve closes, the intake valve opens to begin the Intake stroke in the next cycle.
+
+2-9. Valve Train. It is obvious in paragraphs 2-5 thru 28 that it is very important to operate the valves in a timed sequence. If the exhaust valve opened In the middle of the intake stroke, the piston would draw burnt gases into the combustion chamber with a fresh mixture of fuel and air. As the piston continued to the power stroke, there would be nothing in the combustion chamber that would burn. The engine is fitted with a valve train to operate the valves.
+
+A simplified valve train is illustrated in A, figure 2-9. The camshaft is made to rotate with the crankshaft through the timing gears. The raised piece on the camshaft is called a cam lobe. As illustrated in view B, the valve spring Is designed to hold the valve closed.
+
+The cam lobe contacts the bottom of the lifter as it rotates with the camshaft, as shown in view C. As
+
+the cam lobe pushes up on the lifter, it will in turn push the valve open against the pressure of the spring. In view D, the cam lobe has passed the center of the lifter bottom. As it rotates away from the lifter, the valve spring pulls the valve closed.
+
+By proper positioning of the cam lobes on the camshaft, a sequence can be established for the intake and exhaust valves. It is demonstrated in paragraphs 2-5 thru 2-8 that the intake valve and the exhaust valve must each open once for every operating cycle. As explained in paragraph 2-4, the crankshaft must make two complete revolutions to complete one operating cycle. Using these two facts, a camshaft speed must be exactly one-half the speed of the crankshaft. To accomplish this, the timing gears are made so that the crankshaft gear has exactly one-half as many teeth as the camshaft gear, as shown in figure 2-10. The timing marks are used to put the camshaft and the crankshaft in the proper position to each other.
+
+2-10. Engine Accessory Systems.
+
+a. Fuel System. The fuel system (chapter 4) supplies the engine with a properly proportioned fuel and air mixture. It also regulates the amount of the mixture to the engine to control engine speed and power output.
+
+b. Ignition System. The ignition system (chapter 15) ignites the fuel and air mixture in the combustion chamber at the precise moment needed to make the engine run.
+
+c. Cooling System. The cooling system (chapter 9) removes the excess heat from the engine that is generated from combustion.
+
+d. Lubrication System. The lubrication system (chapter 8) provides a constant supply of oil to the engine to lubricate and cool the moving parts.
+
+e. Flywheel (Fig. 2-11). As discussed in paragraphs 2-5 thru 2-8, for every two revolutions that the crankshaft makes, it only receives one power stroke lasting for only one-half of one revolution of the crankshaft. This means that the engine must coast through one and one-half crankshaft revolutions in every operating cycle. This would cause the engine to produce very erratic power output. To solve this problem, a flywheel is added to the end of the crankshaft. The flywheel, which is very heavy, will absorb the violent thrust of the power stroke. It will then release the energy back to the crankshaft so that the engine will run smoothly.
+
+Section II. COMPARISON OF ENGINE TYPES
+
+2-11. Internal Combustion Engine Versus External Combustion Engine.
+
+a. Internal Combustion Engine (A, Fig. 2-12). An internal combustion engine is any engine in which the fuel is burned within it. A four-stroke cycle engine is an internal combustion engine because the combustion chamber is located within the engine as shown in figure 2-12.
+
+b. External Combustion Engine (B, Fig. 2-12). An external combustion engine is an engine in which the fuel is burned outside of the engine. A steam engine is a perfect example. The fuel is burned in an outside boiler, where it makes steam. The steam is piped to the engine to make it run.
+
+2-12. Four-Stroke Cycle Versus Two-Stroke Cycle. The engine described in section I is a four-stroke cycle engine. There is another form of gasoline piston engine that has no valve mechanisms and completes one operating cycle for every revolution of the crankshaft. It is called a two-stroke cycle engine and is illustrated in figure 2-13. Instead of placing intake and exhaust ports In the combustion chamber, they are placed in the
+
+cylinder wall. In this engine, the piston goes through a power stroke every time it moves from top dead center to bottom dead center. The
+
+downward stroke is also an intake and an exhaust stroke. As the piston moves from bottom dead center back to top dead center, it is going through a compression stroke.
+
+a. Downward Stroke (A, Fig. 2-14). The piston begins the power stroke at top dead center. As the exploding fuel and air mixture pushes the piston downward, it first covers the inlet port. This seals the crankcase. As the piston continues downward, it pressurizes the sealed crankcase, which contains a vaporized fuel and air mixture. As the piston continues to bottom dead center, it uncovers the intake and the exhaust ports. The pressure built up in the crankcase forces the fuel and air mixture into the cylinder through the intake port. The top of the piston is shaped to divert the mixture upward and away from the exhaust port. As the mixture enters the cylinder, it displaces and pushes the burnt gases out through the exhaust port.
+
+b. Upward Stroke (B, Fig. 2-14). As the piston moves upward, it covers the intake and exhaust ports. This seals the upper cylinder so that the upward movement of the piston compresses the fuel and air mixture. At the same time, the upward movement of the piston creates a suction in the crankcase so that as the inlet port is uncovered, a mixture of fuel and air is drawn into the crankcase. As the piston reaches top dead
+
+center, the spark plug ignites the fuel and air mixture, beginning the downward power stroke again.
+
+c. The Fuel and Lubrication System. The fuel and air mixture must first pass through the crankcase before it gets to the combustion chamber. For this reason, the fuel and air mixture must also provide lubrication for the rotating and reciprocating parts. This is accomplished by mixing a small percentage of oil with the fuel. The oil, mixed with the fuel and air mixture, enters the crankcase in a vapor that constantly coats the moving parts.
+
+d. Power Output. It may seem like a two-stroke cycle engine will put out twice as much power as a comparable four-stroke cycle engine because there are twice as many power strokes. However, this is not the case. Because the force of the fuel and air mixture entering the cylinder must be relied upon to get rid of the burnt gases in the cylinder from the last power stroke, there is a certain amount of dilution of it. The mixing of the intake mixture with exhaust gases reduces its potential power output. Also, with the inlet and exhaust ports opened together, a certain amount of the fuel and air mixture is lost. There is also a much shorter period that the inlet port is open. This reduces the amount of power from each powerstroke.
+
+e. Advantage and Usage. The two-stroke cycle engine is used almost exclusively in very small equipment. It is lightweight and able to run at very high speeds due to the absence of a mechanical valve train.
+
+2-13. Gasoline Engine Versus Diesel Engine.
+
+a. General. In many respects, the four- stroke cycle gasoline engine and the four-stroke cycle diesel engine are very similar. They both follow an operating cycle that consists of intake, compression, power, and exhaust strokes. They also share in the same system for intake and exhaust valves. The component parts of a diesel engine are shown in figure 2-15. The main differences between gasoline engines and diesel engines follow.
+
+(1) The fuel and air mixture is ignited by the heat generated by the compression stroke in a diesel engine versus the use of a spark ignition system on a gasoline engine. The diesel engine needs no ignition system. For this reason, the gasoline engine is referred to as a spark ignition engine and a diesel engine is referred to as a compression ignition engine.
+
+(2) The fuel and air mixture is compressed to about one-twentieth of its original volume in a diesel engine. In contrast, the fuel and air mixture in a gasoline engine is compressed to about one- eighth of its original volume. The diesel engine must compress the mixture this tightly to generate enough heat to ignite the fuel and air mixture. The contrast between the two engines is shown in figure2-16.
+
+(3) The gasoline engine mixes the fuel and air before it reaches the combustion chamber. A diesel engine takes in only air through the intake port. Fuel is put into the combustion chamber directly through an injection system. The air and fuel then mix in the combustion chamber. This is illustrated in figure 2-17.
+
+(4) The engine speed and the power output of a diesel engine are controlled by the quantity of fuel admitted to the combustion chamber. The amount of air is constant. This contrasts with the gasoline engine where the speed and power output are regulated by limiting the air entering the engine. This is illustrated in figure 2-18.
+
+b. Operation.
+
+(1) Intake (A, Fig. 2-19). The piston is at top dead center at the beginning of the intake stroke. As the piston moves downward, the intake valve opens. The downward movement of the piston draws air into the cylinder. As the piston reaches bottom dead center, the intake valve closes. The intake stroke ends here.
+
+(2) Compression (B, Fig. 2-19). The piston is at bottom dead center at the beginning of the compression stroke. The piston moves up- ward, compressing the air. As the piston reaches top dead center, the compression stroke ends.
+
+(3) Power (C, Fig. 2-19). The piston begins the power stroke at top dead center. Air is compressed in the upper cylinder at this time to as much as 500 psi (3448 kPa). The tremendous pressure in the upper cylinder brings the temper- ature of the compressed air to approximately 10000F (5380C). The power stroke begins with the injection of a fuel charge into the engine. The heat of compression ignites the fuel as it is injected. The expanding force of the burning gases pushes the piston downward, providing power to the crankshaft. The power generated in a
+
+diesel engine is continuous throughout the power stroke. This contrasts with a gasoline engine, which has a power stroke with rapid combustion in the beginning and little or no combustion at the end.
+
+(4) Exhaust (D, Fig. 2-19). As the piston reaches bottom dead center on the power stroke, the power stroke ends and the exhaust stroke begins. The exhaust valve opens and the piston pushes the burnt gases out through the exhaust
+
+port. As the piston reaches top dead center, the exhaust valve closes and the intake valve opens. The engine is now ready to begin another operating cycle.
+
+c. Advantages.
+
+(1) The diesel engine is much more efficient than a gasoline engine. This is due to the much tighter compression of the fuel and air mixture. The diesel engine produces tremendous
+
+low-speed power, and gets much more fuel mileage than the gasoline counterpart. This makes the engine very suitable for large trucks.
+
+(2) The diesel engine requires no ignition tuneups because there is no ignition system.
+
+(3) Because diesel fuel is of an oily consistency and less volatile than gasoline, it is not as likely to explode in a collision.
+
+d. Disadvantages.
+
+(1) The diesel engine must be made very heavy to have enough strength to deal with the tighter compression of the fuel and air mixture.
+
+(2) The diesel engine is very noisy.
+
+(3) Diesel fuel creates a large amount of fumes.
+
+(4) Because diesel fuel is not very volatile, it is difficult to start a diesel engine in cold weather.
+
+(5) A diesel engine operates well only in low- speed ranges in relation to gasoline engines. This creates problems when using them in passenger cars that require a wide-speed range.
+
+e. Usage. Diesel engines are widely used in all types of heavy trucks, trains, and boats. In recent years, more attention has been focused on using diesels in passenger cars.
+
+f. Multifuel Engine (Fig. 2-20). The multifuel engine is basically a four-stroke cycle diesel engine with the capability of operating on a wide variety of fuel oils without adjustment or modification (chapter 5, section I). The fuel injection system is equipped with a device called a fuel density compensator. Its job is to vary the amount of fuel to keep the power output constant regard- less of the fuel being used. The fuel system for the multifuel engine is described in detail in chapter 5, section I. The multifuel engine uses a spherical combustion chamber to aid in thorough mixing, complete combustion, and minimizing knocks. The spherical combustion chamber is covered in chapter 5, section II.
+
+2-14. Two-Stroke Cycle Diesel (Fig. 2-21).
+
+a. General. The two-stroke cycle diesel is a hybrid engine sharing operating principles of both a two-stroke cycle gasoline engine and a four-stroke cycle diesel engine. The major features of the engine are as follows.
+
+(1) It completes an operating cycle every two piston strokes or every crankshaft revolution. Like a two- stroke cycle gasoline engine, it gives a power stroke every time the piston moves downward.
+
+(2) It is a compression ignition engine, making it a true diesel engine.
+
+(3) It utilizes an exhaust valve on top of the combustion chamber as in a four-stroke cycle diesel engine. Intake ports are cut into the cylinder wall as in a two-stroke cycle gasoline engine.
+
+(4) It mixes its fuel and air in the combustion chamber as in a four-stroke cycle diesel engine. The air enters through the intake ports and the fuel is injected into the combustion chamber by the fuel injection system.
+
+(5) The air supply to the engine is constant while the speed and power output of the engine is
+
+regulated by controlling the quantity of fuel injected into the combustion chamber.
+
+(6) Unlike any of the other engine types, the two-stroke cycle diesel engine must have a supercharger to force the intake air into the upper cylinder. The most common type used is the rootes. Principles of supercharging are covered in chapter 4, section VI.
+
+b. Operation(Fig. 2-22).
+
+(1) Scavenging. Scavenging begins with the piston at bottom dead center. The intake ports are uncovered in the cylinder wall and the exhaust valve opens. Air is forced into the upper cylinder by the supercharger. As the air is forced in, the burnt gases from the previous operating cycle are forced out.
+
+(2) Compression. As the piston moves toward top dead center, it covers the intake ports. The exhaust valve closes at this point. This seals the upper cylinder. As the piston continues upward, the air in the cylinder is tightly compressed. As in the four-stroke cycle diesel, a tremendous amount of heat is generated by the compression.
+
+(3) Power. As the piston reaches top dead center, the compression stroke ends. Fuel is injected at this point. The intense heat of compression causes the fuel to ignite. The burning fuel pushes the piston down, giving power to the crankshaft. The power stroke ends when the piston gets down to the point where the intake ports are uncovered. At about this point, the exhaust valve opens and scavenging begins again.
+
+c. Advantages. The two-stroke cycle diesel engine has all of the advantages that a four-stroke cycle engine has over a gasoline engine plus the following:
+
+(1) Because it is a two-stroke cycle engine, it will run smoother than its four-stroke cycle counterpart. This is because there is a power stroke generated for every crankshaft revolution.
+
+(2) The two-stroke cycle diesel has a less complicated valve train because it does not use intake valves.
+
+d. Disadvantages.
+
+(1) The two-stroke cycle engine must use a supercharger to force in the intake air and push
+
+out the burnt exhaust gases. This is because the movement of the piston is not such that it will accomplish this naturally. The supercharger uses engine power to run it.
+
+(2) The two-stroke cycle diesel uses either two or four exhaust valves per cylinder, which complicates the valve mechanism.
+
+(3) As with the two-stroke cycle gasoline engine, the diesel counterpart will not produce twice as much power as a four-stroke cycle engine even though it produces twice as many power strokes. By studying figure 2-23, it can be seen that the power strokes are only a portion of the downstroke of the piston in a two- stroke cycle diesel. In a four-stroke cycle diesel, the power stroke lasts from top dead center to bottom dead center.
+
+e. Usage. The two-stroke cycle diesel is used in most of the same applications as the four-stroke cycle diesel.
+
+2-15. Multicylinder Engine Versus Single- Cylinder Engine.
+
+a. General. The rotation of a crankshaft is measured by breaking up one revolution into 360 equal parts. Each part is called a degree. The standard starting point is with the piston at top dead center. Figure 2-24 illustrates how this is
+
+measured. Section I demonstrated that each piston stroke is one-half of a crankshaft revolution. This is expressed as 180 degrees of crank-shaft rotation. We also can recall that there are two complete crankshaft revolutions for every four-stroke operating cycle. This is expressed as 720 degrees of crankshaft rotation.
+
+b. Power Overlap. In a simple four-stroke cycle engine, the power stroke produces a driving force that rotates the crankshaft. This means that out of a 720- degree operating cycle, there are only 180 degrees when the crankshaft actually receives any driving force. In reality, the power stroke is actually even shorter. This is due to the fact that engineers have found that an engine will run better if the exhaust valve is set to begin opening approximately four-fifths of the way through the power stroke. This reduces the power stroke still further, to approximately 145 degrees (para 2-7). When the engine runs, it has to rely on power that is stored in the flywheel from the power stroke to push it through the 575 degrees remaining in the operating cycle. A much smoother running engine can be made by making it a multicylinder engine. A multicylinder engine
+
+is actually more than one engine, all operating a common crankshaft. Engines in automotive use are usually built using four-, six-, or eight-cylinder engines. Whenever engines are built with more than one cylinder, it is important that the cylinders give their power strokes in equal increments of crankshaft rotation. Figure 2-25 demonstrates some typical multiple-cylinder configurations.
+
+SIX-CYLINDER ENGINE FOUR-CYLINDER ENGINE
+
+ders. An eight-cylinder engine has an even larger 55- degree power overlap. It becomes very obvious from figure 2-26 that the more cylinders that an engine has, the smoother the power delivery will be.
+
+. Power Increase. It also is obvious that the most practical way to increase the power output of an engine is to make a lot of small cylinders instead of one big one. A multicylinder engine is not only smoother but more reliable also. This is because each piston weighs less than a comparable size single-cylinder engine. The constant changing of direction of the piston causes more bearing wear if the piston is excessively heavy Also, the single-cylinder engine is not as smooth, which will decrease not only the life of the engine, but also the equipment that it is operating.
+
+2-16. Piston Engine Versus Rotary Engine.
+
+a. General. A relatively new configuration of the gasoline engine, called the rotary, has reached the automotive scene within the past 25 years. Its operating cycle is exactly the same as the piston engine, consisting of intake, compression, power, and exhaust operating phases. But rather than having reciprocating pistons rotating a crankshaft, it uses a triangular-shaped rotor that rotates around Inside of a specially shaped housing. The basic rotary engine is illustrated in figure 2-27. As the rotor moves around the inside of the housing, it also rotates an offcenter or eccentric shaft through an internal gear. The housing has intake and exhaust ports cast into the housing in strategically located points.
+
+b. Operation(Fig. 2-28).
+
+(1) Intake. Looking at the rotor face (1), note that as it moves by the intake port, the space between it and the rotor housing increases. This causes a fuel and air mixture to be drawn in through the intake port.
+
+(2) Compression. As the rotor face (1) continues around the inside of the housing, it moves away from the intake port. As it moves away, the space between the rotor face and the housing decreases. This compresses the fuel and air mixture.
+
+(3) Power. When the rotor face (1) reaches the point where it is compressing the fuel and air mixture the tightest, the spark plug ignites the mixture and pushes the rotor around in the housing.
+
+(4) Exhaust. As the rotor face (1) continues around, it becomes exposed to the exhaust port. At this point, the space decreases in size again. As the space size decreases, it causes the burnt gases to be pushed out through the exhaust port. This is a continuous cycle.
+
+(5) Three Rotor Faces. Note the three rotor faces (1, 2, and 3) illustrated in figure 2-28. Each one of these faces goes through its own complete operating cycle every time the rotor goes around In the housing. The rotor is geared to the eccentric
+
+shaft so that it only goes around once for every three turns of the eccentric shaft. This works out to one power stroke to every eccentric shaft rotation. This is illustrated in figure 2-29.
+
+c. Advantages. If the eccentric shaft receives one power stroke for each eccentric shaft revolution, then the rotor is equivalent to a two-piston, four-stroke cycle engine. As a result, the engine is a much more compact unit. The absence of the reciprocating parts and the absence of the valve train serve to help the engine attain higher speeds safely, giving it more flexibility in usage. The absence of these parts also serves to make this engine smoother than its piston engine counterpart.
+
+d. Disadvantages. A large percentage of the combustion area is exposed to the intake charge because of the rotary engine design. This large surface area, when wetted with fuel during intake and ignited at the beginning of the power stroke, produces dirty combustion. While rubbing against the housing, the seals on each corner of the triangular-shaped rotor are subjected to high rotational speeds. This results in rapid seal wear and is of a major concern to manufacturers. The many irregular curves in the design make the machining processes of the rotary engine difficult. The rotary engine also is hard to modify for development purposes. The rotary engine has not had a major impact on automotive engine development. Lack of research and development have kept it from realizing its full potential.
+
+e. Usage. Rotary engines are in use in passenger automobiles and small equipment such as snowmobiles. The engines usually are made in a two-rotor configuration as shown in figure 2-30. A two-rotor design is equivalent to a four-cylinder, four-stroke cycle piston engine.
+
+Section III. CLASSIFICATION OF PISTON ENGINES
+
+2-17. Classification by Methods of Cooling.
+
+a. Air Cooled. Engines that use air as a cooling medium generally are used in aircraft and small equipment such as motorcycles, snowmobiles, and gasoline power equipment. The air-cooled engine usually is identified by removable cylinders with cooling fins covering the outside surfaces. A typical air-cooled engine is shown in figure 2-31.
+
+b. Liquid Cooled. Engines that use liquid as a cooling medium are used in the majority of
+
+automotive applications. The liquid-cooled engine is identified by the remote radiator and associated plumbing. A typical liquid-cooled engine is shown in figure 2-32.
+
+2-18. Classification by Valve Arrangement. An engine can be classified by the arrangement of its valves and valve train configuration. The various valve train configurations may be grouped into two categories based on the location of the valves. The first category is the group of engines with the valves located beside the pistons and cylinders, in the cylinder block. The second category is the group of engines with the valves located over the pistons in the cylinder heads.
+
+a. Valves in the Cylinder Block. These engines are known as flathead engines. This is due to the fact that the cylinder head is shaped like a flat slab. A typical flathead engine cylinder head is shown in figure 2-33. The cylinder head’s only functions are to complete the combustion chamber and to hold and locate the spark plug. Flathead engines are virtually obsolete in all current automotive applications. The configuration of valve trains that were used in flathead engines are as follows.
+
+(1) T-Head (Fig. 2-34). The intake and the exhaust valves were located on opposite sides of the cylinder, each requiring their own cam-shaft. The T-head engine got its name from the imaginary letter formed by the piston and the valve heads
+
+(2) L-Head (Fig. 2-35). The intake and the exhaust valves were both located on the same side of the piston and cylinder. The L-head engine was a much simpler design than the T-head because it required only one camshaft. The L-head engine got its name from the imaginary letter formed by the piston and the valve heads.
+
+b. Valves in the Cylinder Head. These engines come in two groups. The first group have their camshafts located in their cylinder blocks. These engines are known as the overhead valve (ohv) engines. The second group have their camshafts located in their cylinder heads. These engines are known as the overhead camshaft (ohc) engines. A typical ohv cylinder head is shown in figure 2-36. The configurations of valve trains for engines with the valves in the head are as follows.
+
+(1) I-Head (Fig. 2-37). This configuration has its camshaft located in the cylinder block. The camshaft operates the valves through the lifter, push rod, and rocker arm. The I-head gets its name from the letter formed by the piston and the valve. Although this configuration is the most popular for current gasoline and diesel engines, it Is rapidly being superseded by overhead camshaft configurations in passenger cars.
+
+(2) Single Overhead Camshaft (Fig. 2-38). This configuration has its camshaft located in the cylinder head. When the single overhead camshaft configuration is used, the intake and the exhaust valves are both operated from a common camshaft. The valve train may be arranged to operate the valves directly through the lifters as shown in view A. The valve train also may be arranged to operate the valves through rocker
+
+arms as shown in view B. The single overhead camshaft configuration is rapidly becoming the most popular one for passenger car gasoline engines.
+
+(3) Double Overhead Camshaft (Fig. 2-39). This configuration has its camshafts located in the cylinder head. When the double overhead camshaft is used, the intake and the exhaust valves each operate from a separate camshaft. Each camshaft operates the valves directly through the lifters. This configuration, though cumbersome, provides the most engine performance and is used mostly in more expensive automotive applications.
+
+c. F-Head Engines (Fig. 2-40). The F-head engine is a combination of the two valve arrangement groups. In this engine, the intake valves are of the overhead type, located in the cylinder head. The exhaust valves, however, are located in the cylinder block. The engine gets its name by the Imaginary letter F formed by the cylinder and the valve heads. This configuration usually is not used In current automotive design.
+
+2-19. Classification by Cylinder Arrangement. Multicylinder engines are classified by cylinder arrangement. Each cylinder arrangement has its own advantages. The most common arrangements are shown in figure 2-41.
+
+a. In line (A, Fig. 2-41). This is a very common arrangement in automotive and truck
+
+applications alike. It is commonly built in four- and six- cylinder configurations. Until approximately 30 years ago, it was common to build an in-line engine with eight cylinders. As the cars became shorter and wider, the in- line eight-cylinder engine was replaced by the V- arrangement.
+
+b. V-Type (B, Fig. 2-41). This is also a very common arrangement in automotive and truck applications. The cylinders usually are arranged at 90 degrees to each other with opposing cylinders sharing a common crankpin. The V-type engine, in the eight- cylinder configuration, has replaced the in-line eight- cylinder engine in automotive applications for two reasons.
+
+(1) The V-type engine is much shorter, making it more suitable for modern body styles.
+
+(2) The V-type engine has a much shorter crankshaft that is less subject to torsional vibration (para 3-9). This makes the V-type engine smoother than the in-line engine. For exactly the same reasons as above, the V-type engine is replacing the in-line engine in six- cylinder configurations. A V-type engine in a six-cylinder configuration is suitable for front-wheel drive compact cars where the engine is mounted transversely (sideways).
+
+TA233334 Figure 2-41. Typical Cylinder Arrangements
+
+c. Horizontal Opposed (C, Fig. 2-41). Less common than the in-line and the V-type, this engine is designed to fit in compartments where height is a consideration. The cylinders are arranged at 180 degrees to each other with opposing cylinders sharing a common crankshaft journal. This engine arrangement almost always is used for air-cooled configurations, although at least one auto manufacturer is using a horizontal- ly opposed, water-cooled engine in their product.
+
+d. Radial (D, Fig. 2-41). The radial engine has cylinders placed in a circle around the crankshaft. The crankshaft has only one throw, with one of the pistons connected to this throw by a master rod. The connecting rods from the other pistons are fastened to the crankshaft through this master rod. This engine is almost exclusively an aircraft engine and is of little interest when studying automotive technology.
+
+Section IV. ENGINE MEASUREMENTS
+
+2-20. Bore and Stroke (Fig. 2-42).
+
+a. Bore. The bore is the diameter of the cylinder.
+
+b. Stroke. The stroke is the distance that the piston travels as it moves from top dead center to bottom dead center.
+
+2-21. Piston Displacement (Fig. 2-42). Piston displacement is the volume of space that the piston displaces as it moves from top dead center to bottom dead center. The piston displacement is used to express engine size. To find the displacement of an eight- cylinder engine with a bore of 4 in. (10.16 cm) and a stroke of 3 in. (7.62 cm), do the following.
+
+a. Find the area of the cylinder bore. To find the area of the cylinder bore, use the formula:
+
+Area of cylinder bore = 0.785xdiameter² = 0.785D²
+
+Area of cylinder bore = 0.785x4² = 0.785x16 =12.56
+
+Area of cylinder bore = 12.56 sq in.(81 .02 sq cm).
+
+b. Multiply the area of the cylinder bore by the stroke.
+
+12.56sqin.x3in. = 37.68cu in.(617.37cc)
+
+This is the piston displacement for one cylinder.
+
+c. Multiply the displacement of one cylinder by he number of cylinders that the engine has.
+
+37.68cuin.x8cylinders = 301.44 cu in.(4938.96 cc)
+
+The displacement of the engine would be expressed as 301 cu in. in the English system. To express the displacement of the engine in the metric system, convert the cubic centimeter figure to liters. This is done by dividing the cubic centimeters by 1000. This Is because 1 liter = 1000 cc.
+
+4938.96 = 4.938961iters 1000
+
+The displacement of the engine would be expressed as 4.9 liters in the metric system.
+
+2-22. Vacuum In Cylinder on Intake Stroke.
+
+a. The Atmosphere. The earth Is surrounded by an ocean of air that Is known as the atmosphere. Because it Is colorless and odorless, people are not always aware of it. However, the atmosphere does have weight. Figure 2-43 illustrates a theoretical setup for measuring the weight of air. Note the platform balance with a box on each side. One box appears to be an empty container, but it is really full of air. The other box is sealed and all of the air has been removed. This box will contain nothing; this Is known as a vacuum. Both boxes are exactly 1 cu ft in size. With both boxes on the platform balance, the box containing the air Is heavier than the box that Is a vacuum. After placing 1 114 oz (35.4 g) of weight on the side of the balance that holds the box with the vacuum, note that both sides of the platform balance will be equal in weight. This demonstration, of course, would be very difficult to really do, but it clearly illustrates that air weighs approximately 1 114 oz (35.4 g) per cubic ft.
+
+b. Atmospheric Pressure (Fig. 2-44). Elevation is always referred to in relation to the level of the oceans. This is known as sea level. Because the atmosphere extends for many miles above the earth, the weight of all of this air creates a large force on the earth’s surface. In fact, the weight of the air creates a pressure of approximately 14.7 psi (101.3 kPa) on all things at sea level. As the elevation Increases, this atmospheric pressure progressively decreases.
+
+c. Vacuum in the Cylinder (Fig. 2-45). When the piston moves downward on the intake stroke, it may appear that it is sucking the mixture into the cylinder. Actually, what is really happening is that by the piston moving downward, it is making a larger space in the cylinder that contains nothing (a vacuum). The atmospheric pressure outside the cylinder will then push its way in through the Intake port, filling the cylinder.
+
+2-23. Volumetric Efficiency.
+
+a. General. Volumetric efficiency Is a way of measuring an engine’s ability to take In, or aspirate, Its intake mixture. As the piston moves down on the intake stroke, atmospheric pressure will push the Intake mixture Into the cylinder. Under ideal conditions, the volume of mixture that enters the engine for each intake stroke would be exactly equal to the displacement of the cylinder. This Is rarely the case In a real-life situation for the following reasons:
+
+(1) The Intake stroke happens so quickly that the mixture cannot get into the cylinder fast enough to fill it to its full capacity. For this reason an engine generally will have a higher volumetric efficiency at lower speeds than it will at higher speeds.
+
+(2) As the mixture passes through the engine on its way to the cylinder, it picks up heat. As the mixture heats up, it becomes less dense. This means that less mixture actually enters the cylinder.
+
+(3) Sharp bends, obstructions, and rough surfaces on the walls of the Intake ports will slow down the Intake mixture, decreasing volumetric efficiency.
+
+b. Measuring Volumetric Efficiency. Volumetric efficiency Is expressed as a ratio of the
+
+TA233337 Figure 2-45. Vacuum in the Cylinder
+
+amount of mixture that enters the cylinders on the intake stroke to the amount of mixture that the cylinders could actually hold. Figure 2-46 dem- onstrates a typical engine with a volumetric efficiency of 80 percent. As the piston moves from top to bottom dead center, the cylinder volume increases by 100 cu in., yet only 80 cu in. of air enters the cylinder.
+
+c. Increasing Volumetric Efficiency. Any increase in volumetric efficiency will increase engine performance. Volumetric efficiency may be increased by doing the following.
+
+(1) Keep the intake mixture cool (fig. 2-47). By ducting intake air from outside of the engine compartment and keeping the fuel cool, the intake mixture can be kept cooler. The cooler the mixture is, the higher the volumetric efficiency will be. This is because a cool mixture is denser or more tightly packed.
+
+(2) Modify the intake passages (fig. 2-48). Any changes to the intake passages that make it easier for the mixture to flow through will cause an increase in volumetric efficiency. Other
+
+Efficiency.
+
+changes include reshaping ports to smooth out bends, reshaping the back of the valve heads, or polishing the inside of the ports.
+
+(3) By altering the time that the valves open or how far they open, volumetric efficiency can be improved.
+
+(4) By supercharging and turbocharging, the volumetric efficiency figure can be brought to over 100 percent. Principles of supercharging and turbocharging are covered in detail in chapter4.
+
+2-24. Compression Ratio(Fig. 2-49).
+
+a. General. The compression ratio is the method that is used universally to measure how tightly the mixture is squeezed during the com- pression stroke.
+
+b. Measuring Compression Ratio. The com- pression ratio is found by measuring the volume that the mixture occupies when the piston is at bottom dead center, and dividing it by the volume that the mixture occupies when the piston is at top dead center. The following example illustrates this concept: For a given engine, the volume of the space occupied by the mixture is 80 cu in. when the piston is at bottom dead center. As the piston moves to top dead center, the mixture is squeezed into an area with a volume of 10 cu in. To calculate the compression ratio, do the following:
+
+(1) Divide the volume at bottom dead center by the volume at top dead center.
+
+80cu in. 10cu in.
+
+(2) Put the quotient into the form of a ratio.
+
+This simply means that the mixture is compressed to one-eighth of its original volume.
+
+c. Effect of Compression Ratio. As the com- pression ratio is increased, the mixture is squeezed into a tighter space. This means that there is a higher initial pressure at the start of the power stroke and that the burning gases have further to expand. For these reasons, any increase in compression ratio will effect an increase in engine power output. Passenger car engines that are modified for competition usually receive a boost in compression ratio by installing
+
+pistons with domes, or by shaving material off of the surface of the cylinder head as shown in figure 2-50. Both of these actions will serve to reduce the volume of the combustion chamber, raising the compression ratio. The limiting factor when increasing compression ratio is finding a fuel that will not ignite itself from the heat of compres- sion, causing detonation. Detonation is covered in detail in paragraph 4-40.
+
+2-25. Ignition Timing.
+
+a. General. Ignition timing refers to the timing of the spark at the spark plug gap in relation to the position of the piston.
+
+B Measuring Ignition Timing (Fig. 2-51). The standard way to express the time when the ignition spark occurs is by citing the respective crankshaft position in degrees. This position is expressed in terms that use top dead center for the
+
+piston as a baseline. This Is the top dead center position that ends the compression stroke and begins the power stroke (the top dead center position that ends the exhaust stroke and begins the Intake stroke has nothing to do with ignition timing). Any piston position that Is before top dead center is referred to as btdc. Any piston position that is after top dead center is referred to as atdc. The positions are then further defined by giving the exact degree position of the crankshaft.
+
+In view A, the spark occurs at 10 degrees before top dead center. In view B, the spark occurs at top dead center. In view C, the spark occurs at 10 degrees after top dead center.
+
+c. Effect of Increasing Ignition Timing (Fig. 2-52). After looking at the basic operation of a gasoline engine, it seems reasonable to assume that the engine will run fine if the spark occurs when the piston is at top dead center. In reality
+
+however, this Is not the case. Even though the compressed mixture burns very quickly, it does take a certain amount of time for the pressure to rise in the combustion chamber. Because of this time lag, it is desirable to have the spark occur before the piston reaches top dead center. This way there is time for the pressure In the combus- tion chamber to rise to its maximum as the piston reaches top dead center. This, In turn, allows the piston to get the maximum push from the combus- tion. If the spark occurs too late into the power stroke, very little of the push from the combustion is utilized. This Is because the piston already will be moving away by the time the gases start ex- panding from the combustion. This will reduce greatly the amount of pressure that Is exerted on the piston and much power would be lost. The limiting factor to timing advance is that It can cause detonation. Detonation is covered in detail In paragraph 440.
+
+d. Ignition Timing and Engine Speed. It is desirable to have Ignition progressively advance as engine speed increases. This Is because there Is less time for the pressure to build In the combustion chamber as the speed increases. By making the spark happen earlier (as much as 30 degrees btdc) at high speeds, there Is more time
+
+for the pressure to build in the combustion chamber. There are timing advance mechanisms built into most Ignition systems. They will be discussed in detail in paragraph 15-8.
+
+2-26. Valve Timing.
+
+a. General. Valve timing is a system devel- oped for measuring In relation to the crankshaft position (in degrees), the points when the valves open, how long they stay open, and when they close. Valve timing is probably the single most important factor in tailoring an engine for specific needs. By altering valve timing, an engine can be made to produce its maximum power in a variety of, speed ranges. The following factors together make up a valve operating sequence.
+
+b. Opening and Closing Point. The opening and closing points are the positions of the crankshaft (in degrees) when the valve Just begins opening and just finishes closing. Typical opening and closing points are illustrated in figure 2-53. Note the Intake valve opening 28 degrees before top dead center and closing at 71 degrees after bottom dead center.
+
+c. Duration. Duration Is the amount of crank- shaft rotation (in degrees) that a given valve will remain open. In figure 2-54, a typical intake valve cycle is illustrated. The duration that it remains open is a total of 279 degrees.
+
+d. Valve Overlap. Valve overlap is a period in the four-stroke cycle when the intake valve opens before the exhaust valve closes. Typical valve overlap is Illustrated In figure 2-55. The intake valve Is opening 28 degrees before top dead center for the beginning of the intake stroke. The exhaust valve Is remaining open for 45 degrees after top dead center and into the intake stroke. This gives a valve overlap of 73 degrees.
+
+a. Valve Timing Considerations. Throughout the crankshaft revolution, the speed of the piston changes. From a stop at the bottom of the stroke, the piston will reach its maximum speed halfway through the stroke and gradually slow to a stop as It reaches the end of the stroke. The piston will behave exactly the same on the downstroke. There are two periods of crankshaft rotation In which there Is almost no perceptible movement of the piston. One of these periods begins at approximately 15 to 20 degrees before top dead center and ends at approximately 15 to 20 degrees after top dead center. The other pedod
+
+begins at approximately 15 to 20 degrees before bottom dead center and ends at approximately 15 to 20 degrees after bottom dead center. These two positions are illustrated in figure 2-56. These two periods of crankshaft rotation are utilized when establishing a valve timing sequence as follows.
+
+(1)During the period that occurs at top dead center, valve overlap is introduced to in- crease volumetric efficiency. By opening the intake valve before the exhaust valve Is closed, the intake mixture is pulled in by the momentum of the exiting exhaust gas. The intake mixture coming In also helps to sweep or scavenge the cylinder of exhaust gases. Because the overlap occurs during one of the periods of little piston move- ment, there Is no problem with exhaust being pushed Into the Intake port or exhaust gas being pulled into the cylinder through the exhaust port by the piston.
+
+(2) During the period that occurs at bottom dead center, the pressure remaining In the cylinder at the end of the power stroke Is utilized by opening the exhaust valve early. When the exhaust valve opens, the pressure In the cylinder starts pushing the exhaust gas out of the cylinder.
+
+Because the final 15 to 20 degrees of the power stroke have almost no piston movement, there is no problem with exhaust being drawn in by the piston.
+
+As stated earlier, engines can be designed to produce power in a specific speed range by altering valve timing. By increasing the valve
+
+duration and overlap, an engine can be made to produce more power in the higher speed ranges. This is because the exiting exhaust gas will have more inertia, making its scavenging effect last longer. This same engine will run poorly at low speed due to the piston having a tendency to pull exhaust back into the cylinder and blow it back up into the intake port.
+
+Section VI. ENGINE OUTPUT
+
+2-27. Work (Fig. 2-57). Work is the movement of a body against an opposing force. Work is measured in units of foot pounds (Newton me- ters). One foot pound of work is the equivalent of lifting a 1-lb. weight 1 ft. When sliding something horizontally, work is measured by the force required to move the object multiplied by the distance that it is moved. Note that work is always the force exerted over a distance. Also note that if there is no movement of the object, then there is no work accomplished, no matter how much force is applied.
+
+2-28. Energy(Fig. 2-58).
+
+a. General. Energy is the ability to do work. Energy takes many forms, such as heat, light, sound, stored energy (potential), or an object in motion (kinetic energy).
+
+b. Energy at Work. Energy performs work by changing from one form into another. To illustrate this, consider the operation of an automobile. From start to finish, it will do the following.
+
+(1) When it is sitting still and not running, it has potential energy stored in the gasoline.
+
+(2) To set it into motion, the gasoline is burned, changing its potential energy into heat energy. The auto’s engine then transforms the heat energy from the burning gasoline into kinetic energy by forcing the car into motion.
+
+(3) The action of stopping the auto is accomplished by the brakes. By the action of friction, the brakes will transform the kinetic
+
+energy of the auto back into heat energy. Friction is covered in detail in paragraph 34-1. When all of this kinetic energy is transformed into heat energy, the auto will be stopped. The heat energy will then dissipate into the air. It is very easy to see that work was accomplished when the automobile was set into motion. it may not be as easy to see that work was also accomplished to stop the automobile. Because stopping requires applying a force over a distance, it also fits the definition of work.
+
+2-29. Power (Fig. 2-59). Power is the rate of work. Engines are rated by the amount of work that they can do in 1 minute. The unit of measure for rating engines is called horsepower. The horse- power unit was developed about the time that steam engines were being developed. Through testing, it was found that the average horse could lift a 200-lb. weight to a height of 165 ft in 1 minute. The equivalent of one horsepower can be reached by multiplying 165 ft by 200 lb. (work formula) for a total of 33,000 ft lb. per minute.
+
+2-30. Torque Effect (Fig. 2-60). Torque is a force that, when applied, tends to result in the twisting of the object rather than its physical movement. When measuring torque, the force that Is applied must be multiplied by the distance from the axis of the object. Because the force in pounds (Newtons) is multiplied by distance In feet (meters), torque is expressed in terms of pound feet (Newton meters). When applying torque to an object, the force and the distance from the axis will be dependent on each other. For example, if a 100-ft lb. torque is applied to a nut, a 100-lb. force would be applied if the wrench were 1-ft long. If a 2-ft-long wrench were used, a 50-lb. force is all that would be necessary.
+
+2-31. Prony Brake. (Fig. 2-61). The prony brake is a device that measures the actual usable horsepower of an engine. It is used very little today, but is understood very easily. This makes it very useful for learning the concept of horsepower-measuring devices.
+
+The device consists of a flywheel that is surround- ed by a large braking device. An arm is attached to this braking device with its other end exerting pressure on a scale. In operation, the engine is .attached to, and drives, the flywheel. The
+
+braking device is tightened until the engine is slowed to a predetermined rpm. As the braking device slows the engine, the arm attached to it exerts pressure on a scale. Based on the reading at the scale and the engine rpm, a brake horsepower value is calculated by using the following formula:
+
+6.28 x length of arm x engine rpm x scale reading 33,000
+
+It must be noted that the figures 6.28 and 33,000 are constants in the formula, meaning that they
+
+never change. For example, a given engine
+
+exerts a force of 300 lb. on the scale through a 2-ft- long arm when the brake device holds the engine’s speed at 3,000 rpm. By using the’ formula, calculate the brake horsepower as follows:
+
+6.28x2x3000x300 = 342.55 brake 33,000 horsepower
+
+2-32. Dynamometer(Fig. 2-62).
+
+a. General The modern method for checking engine power output is by using a dynamometer. The dynamometer can be used to check the output of the engine at the crankshaft or the horsepower of the engine can be measured at the driving wheels of the automobile by using a chassis dynamometer.
+
+b. Types of Dynamometers. The dynamom- eter, like the prony brake, loads an engine down to a given rpm and measures the torque that it produces at that given speed. There are two basic typesof dynamometers.
+
+(1) One type of dynamometer-uses a large electrical generator to which the engine is attached. The engine brake horsepower then can be calculated by converting the electrical power generated into horsepower readings.
+
+(2) Another type of dynamometer uses a water brake to absorb engine power and calculate brake horsepower.
+
+c. Converting Torque to Work (Fig. 2-63). The amount of work that is accomplished when a torque is given can be calculated if the amount of movement in complete revolutions also is given. (Remember, there is no work accomplished unless there is movement.)
+
+For example: a 100-ft lb. torque is applied to a shaft to rotate it six times. How much work is accomplished? Work can be found with the following formula:
+
+6.28 x number of rotations x torque,
+
+6.28 x6x 100ft lb. = 3,768ft lb.
+
+d. Engine Torque (Fig. 2-64). The engine exerts torque to drive the automobile. The amount of torque produced by the engine generally will increase with speed within the engine’s opera- tional range. As the speed increases beyond the operational range, the engine torque will fall off. This is because of decreases in volumetric efficiency at excessive speed.
+
+2-33. Torque-Horsepower-Speed (RPM) Re- lationship. Figure 2-65 shows the relationship between speed, torque, and horsepower for a given engine. As illustrated in figure 2-65, horsepower will continue to increase with speed even after torque begins to fall off. The reason that this happens is because horsepower is dependent on speed and torque. The horsepower will
+
+continue to increase due to the speed increase offsetting the torque decrease. At a point, however, the torque begins to fall off so sharply that the increase in speed cannot offset it and horsepower also falls off. The brake-horsepower formula from paragraph 2-31 can clearly show that horsepower, speed, and torque are all
+
+dependent on each other by doing the following.
+
+a. Given the brake-horsepower formula:
+
+6.28 x length of arm x engine rpm x scale reading
+
+b. Torque can be substituted into the formula because it is equal to the length of the arm times the scale reading. This yields:
+
+6.28 x torque x engine rpm 33,000
+
+c. This can be simplified further by dividing the 33,000 constant by the 6.28 constant. This provides a formula that shows a direct torque- horsepower-speed relationship:
+
+2-34. Rated Speed. The rated speed as indicated in figure 2-65 is the speed at which the governor in a military vehicle is set. The rated speed usually is just under the maximum horse- power speed. Operation over the rated speed, causes disproportionate engine wear and excessive fuel consumption.
+
+2-35. Gross and Net Horsepower. The gross horsepower of an engine is the amount of power the engine delivers without any accessories or a muffler. Net horsepower is the horsepower left to propel the automobile after the requirements of all of the accessories have been deducted from the gross horsepower.
+
+2-36. Indicated Horsepower. Indicated horse- power is the power developed inside of the engine based on the pressure developed in the cylinders. It is always much higher than the brake horse- power because it does not consider friction or the inertia of the reciprocating masses within the engine.
+
+Section VII. ENGINE EFFICIENCY
+
+2-37. Frictional Losses (Fig. 2-66). Efficiency is the relationship between results obtained and the effort required to obtain those results. Effi- ciency Is expressed as follows:
+
+System efficiency can be calculated using this formula. For example, if a 90-lb. box was lifted with a rope and pulley, it would require a force of 100 lb. Therefore:
+
+90 lb. 100 lb.
+
+The above results simply mean that only 90 percent of the total effort used for lifting the box actually went to that task. The remainder, or 10
+
+Efficiency.
+
+percent of the effort, was lost to frictional forces
+
+within the pulley system. The engine also is subject to many power losses. The two categories of losses are thermal and mechanical. The overall efficiency of an engine will be calculated in the next three paragraphs.
+
+2-38. Thermal Efficiency. Thermal efficiency Is the relationship between actual heat energy stored within the fuel and the power produced In the engine (indicated horsepower). The thermal efficiency figure Indicates how much of the potential energy contained in the fuel actually Is used by the engine to produce power and how much energy is lost through heat. There Is an extremely large amount of energy from the fuel that is lost through heat In an internal combustion engine. This unused heat that is produced while the engine Is producing power Is of no value to the engine and must be removed from It,
+
+a. The heat Is dissipated in the following ways.
+
+(1) The cooling system removes heat from the engine to control engine operating temperature.
+
+(2) A major portion of the heat produced by the engine exits through the exhaust system.
+
+(3) The engine radiates a portion of the heat to the atmosphere.
+
+4) A portion of this waste heat may be channeled to the passenger compartment to heat it.
+
+(5) The lubricating oil in the engine re- moves a portion of the waste heat.
+
+b. In addition to energy lost through wasted heat, there are the following inherent losses in the piston engine.
+
+(1) Much energy is consumed when the piston must compress the mixture on the com- pression stroke.
+
+(2) Energy from the gasoline is consumed to pull the Intake mixture Into the cylinder.
+
+= 90 percent.
+
+100 = =94percent.
+
+(3) Energy from the gasoline Is consumed to push the exhaust gases out of the cylinder.
+
+c. The combination of all of the factors in a piston engine that use and waste energy leaves the average engine approximately 20 to 25 percent thermally efficient. To calculate the ther- mal efficiency, the potential energy In the gaso- line and the indicated horsepower must be expressed In a common unit of measure. Both of these factors may be converted to British thermal units (Btu). The conversion factors are:
+
+One Btu = 778ft Ib of work.
+
+Energy value of 1 Ib of gas = 18,800Btu.
+
+For example: A given engine delivers 90 Indicated horsepower for a period of 1 hour, and in that time consumes 50 lb. (7 1/2 gal.) of gasoline. Given this data, the thermal efficiency of the engine can be calculated by doing the following:
+
+(1) Calculate how many Btu’s of work are performed by 1 hp In 1 hour by doing the following:
+
+33,000 ft lb. per minute x 60 minutes 1 hphr = = 2445 Btu. 778 ft lb. per Btu
+
+(2) Calculate the Btu’s of work output for 90 hp hr using the Information from (1) by doing the following:
+
+2445 Btu’s x 90 = 22,050 Btu’s.
+
+(3) Calculate how many Btu’s were inputted bydolng the following:
+
+18,800 Btu’s x 50 lb. = 940,000 Btu’s input per hour.
+
+(4) Calculate the thermal efficiency by doing the following:
+
+Indicated horsepower(Btu’s)
+
+2-39. Mechanical Efficiency. Mechanical effi- ciency within the engine is the relationship be- tween the actual power produced in the engine (Indicated horsepower) and the actual power delivered at the crankshaft (brake or shaft horse- power). The actual power at the crankshaft Is always less than the power produced within the engine. This is due to the following:
+
+a. Frictional losses between the many moving parts.
+
+b. In four-stroke cycle engines, a great deal of horsepower Is used to drive the valve train. Mechanical efficiency Is calculated by dividing the brake or shaft horsepower by the Indicated horsepower. For example: When checked on a dynamometer, the engine with the Indicated horsepower of 90, referred to In paragraph 2-38, produces a brake horsepower of 85. To calculate the mechanical efficiency, do the following:
+
+brake horsepower indicated horsepower
+
+2-40. Overall Efficiency. In paragraphs 2-38 and 2-39, the thermal and mechanical losses of the engine were calculated. Use the following procedure to calculate the overall efficiency of the engine. The overall efficiency Is the relationship between the power Input and the true output of the engine (brake or shaft horsepower). The input will be expressed, as in paragraph 2-38, in Btu’s. The power output also must be converted to Btu’s. Begin by using the information calculated in paragraph 2-38b:
+
+Total power lnput =940,000 Btu’s per
+
+hour. 1 hp hr = 2,445 Btu’s.
+
+= 0.23x100 = 23percent.
+
+The overall efficiency then is calculated by using the following procedures.
+
+a. Calculate the work output in Btu’s for 85 horsepower-hours by doing the following:
+
+85hpx2445Btu’s = 207,825 Btu’s.
+
+b. Calculate the overall efficiency by doing the following:
+
+Brake horsepower 207,825 Btu’s Fuel input 940,000 Btu’s
+
+0.22 x 100 = 22 percent.

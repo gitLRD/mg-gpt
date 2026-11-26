@@ -1,0 +1,18 @@
+Brake shoe
+
+A brake shoe is the part of a braking system which carries the brake lining in the drum brakes used on automobiles, or the brake block in train brakes and bicycle brakes.
+
+== Automobile drum brake ==
+The brake shoe carries the brake lining, which is riveted or glued to the shoe.  When the brake is applied, the shoe moves and presses the lining against the inside of the drum.  The friction between lining and drum provides the braking effort. Energy is dissipated as heat. 
+Modern cars have disc brakes all round, or discs at the front and drums at the rear.  An advantage of discs is that they can dissipate heat more quickly than drums, reducing the risk of overheating.  
+Drums are retained at the rear because they are more effective than discs as a parking brake.  
+
+== Railway tread brake ==
+
+The brake shoe carries the brake block.  The block was originally made of wood but is now usually cast iron. When the brake is applied, the shoe moves and presses the block against the tread of the wheel.  As well as providing braking effort this also "scrubs" the wheel and keeps it clean. This scrubbing causes wear and tear on the wheel tread and often causes brake squeal. Tread brakes on passenger trains have now largely been superseded by disc brakes.
+
+== Bicycle rim brake ==
+This comprises a pair of rectangular open boxes which are mounted on the brake calipers of a bicycle and that hold the brake blocks which rub on the rim of a bicycle wheel to slow the bicycle down or stop it.
+
+== Cataloguing ==
+There are different systems for the cataloguing of brake shoes. The most frequently used system in Europe is the WVA numbering system.

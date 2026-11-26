@@ -1,0 +1,91 @@
+Preselector gearbox
+
+A preselector gearbox is a type of manual transmission mostly used on passenger cars and racing cars in the 1930s, in buses from 1940 to 1960 and in armoured vehicles from the 1930s to the 1970s. The defining characteristic of a preselector gearbox is that the gear shift lever allowed the driver to "pre-select" the next gear, usually with the transmission remaining in the current gear until the driver pressed the "gear change pedal" at the desired time.
+The design removed the need for the driver to master the timing of using a clutch pedal and shift lever in order to achieve a smooth shift in a non-synchromesh manual transmission. Most pre-selector transmissions avoid a driver-controlled clutch entirely. Some use one solely for starting from a standstill. Preselector gearboxes were most common prior to the widespread adoption of the automatic transmission, so they were considered in comparison to the "crash gearbox" type of manual transmission.
+Preselector gearboxes were often marketed as "self-changing" gearboxes, however this is an inaccurate description as the driver is required to choose the gear (and often manually actuate the gear change). An automatic transmission is a true "self-changing gearbox" since it is able to change gears without any driver involvement.
+There are several radically different mechanical designs of preselector gearbox. The best known is the Wilson design. Some gearboxes, such as the Cotal, shift gears immediately as the control is moved, without requiring the separate gear change pedal.
+
+== Benefits ==
+Compared with the contemporary (non-synchromesh) manual transmissions, preselector gearboxes were easier for drivers to operate smoothly, since they did not require techniques such as double de-clutching. Preselector gearboxes also had faster shift times, could handle greater power outputs and had less mass and could shift under load.
+A design advantage of many preselector gearboxes is that the friction components are brakes, rather than clutches. This meant that non-rotating brake bands could be used for the parts which are subject to wear, which results in a simpler design than a rotating component such as a typical clutch. The wearing components could also be mounted on the outside of the mechanism (rather than buried within it), providing easier access for maintenance and adjustment.
+
+== Designs ==
+
+=== Wilson ===
+
+The most common type of pre-selector gearbox was the Wilson, which used an epicyclic design. A precursor to the Wilson gearbox was the manually-controlled epicyclic gearbox used in the 1901–1904 Wilson-Pilcher cars built in the United Kingdom. One of the company directors, Walter Gordon Wilson, had become an advocate for the benefits of the epicyclic gearbox, which allowed large torques to be transmitted whilst still being controllable through a small input force. Walter Wilson was a major co-inventor of the armoured tank during and after World War I, and was responsible for the 1918 British Mark V tank using an epicyclic steering gearbox. The Lanchester Motor Company in the United Kingdom also produced cars with manually-controlled epicyclic gearboxes from 1900 and built an experimental tank (the Lanchester Gearbox Machine or Experimental Machine K) fitted with an epicyclic gearbox.
+Walter Wilson continued experimentation with epicyclic gearboxes for cars and in 1928 his "Wilson gearbox" was invented. Walter and one of the co-owners of Armstrong Siddeley Motors formed the Self-Changing Gears Ltd. company (initially called Improved Gears Ltd.) to design and build the Wilson gearbox. The 1929 Armstrong Siddeley Thirty was one of the first cars to use the Wilson gearbox. The gearbox was also built under licence by other manufacturers including Cord, ERA, Daimler and Maybach.
+The driver pre-selected the next gear using a lever mounted to the steering wheel, then pressed the 'gear change pedal' (often located in place of the usual clutch pedal) to activate the gearchange at the desired time.
+The Wilson gearbox was produced with a variety of clutches. The best-known is the fluid flywheel, used for touring cars such as the Daimler (Armstrong Siddeley used a centrifugal clutch). Sports cars used a Newton centrifugal clutch. This was a multiple plate dry clutch, similar to racing manual clutches of the time, but with the pressure plate centrifugally actuated to engage at around 600rpm. Pure racing cars, such as the ERA, avoided a clutch altogether and relied on the progressive engagement of the gearbox's band brake on lowest gear when starting. When fitted with a centrifugal clutch or fluid coupling, starting from a standstill involved simply selecting first gear, then the clutch would automatically engage once the accelerator pedal was pressed. On other cars, the gear change pedal functioned like a clutch when starting from a standstill.
+The Wilson gearbox relied on a number of epicyclic gears, coupled in an ingenious manner that was also Wilson's invention. Successive gears operated by compounding or 'reducing the reduction' provided by the previous gear. A separate epicyclic was required for each intermediate gear, with a cone clutch for the straight-through top gear and a further epicyclic for reverse. Four gears were provided, at a time when many cars (especially American ones) usually only had a three speed gearbox. This was owing to the sporting, or indeed racing, market for the Wilson gearbox, so that the ratios could be more closely spaced. Although this same arrangement of epicyclics would become the precursor for the post-war automatic transmission, the automatic transmission's use of a torque converter, together with the broad power band and excess power of US V8 engines, meant that wider-spaced, thus fewer, ratios were acceptable. Unlike the "crash" gearboxes of the first half of the 20th century, the gearwheels in a preselector box are permanently in mesh in an epicyclic layout.
+Changing gear with the Wilson box relied on the control of the brake bands that held each epicyclic's annulus in fixed position. The brake band to be selected was controlled by a rotating cam, moved by the gear shift lever. Only one band was engaged for each gear selection. This small hand-operated lever could not provide enough power to engage and lock the brake band, thus the need for the foot pedal. The actual movement of the brake bands was controlled by the 'toggle' mechanism, a distinctive feature of the Wilson design. When the pedal was pressed and released, a series or 'busbar' of finger-like levers were pressed upwards  by a strong coil spring, against a series of light linkages or 'operating struts'. The position of each linkage was controlled by the gear selection camshaft. If the cam (for each gear) held the linkage in place, rather than allowing it to swing out of the way, the busbar finger would then press, via the operating strut, onto the toggles controlling the brake bands themselves. These toggles provided the additional leverage necessary to hold the brake band in place, under the force of the coil spring, until the pedal was next pressed. A further characteristic of the Wilson design was the use of self-adjusting nuts on each band, to compensate for wear. The action of engaging and disengaging each band was sufficient to advance the ratchet nuts and so adjust for wear by taking up any slack.
+
+=== Other epicyclic designs ===
+
+==== Cotal ====
+
+During the 1920s and 1930s, several French luxury car manufacturers used three-speed or four-speed preselector gearbox manufactured by Cotal. A unique aspect of the Cotal gearbox was the use of electromagnetic clutches (instead of band brakes) to engage the gears. A downside to this approach was that a loss of electrical power meant that the engine could no longer drive the wheels. The clutches were controlled by a simple dashboard or column-mounted switch, described as "a cherry on a cocktail stick", and relays. There was no mechanical servo action, so no need for the Wilson's cam or toggle arrangements and the change gear pedal.
+
+==== De Normanville ====
+During the 1930s, Humber cars were fitted with a four-speed preselector gearbox produced by Laycock-de Normanville. It was broadly similar to the Wilson, but used direct hydraulic actuation of the brake bands (selected via a lever on the steering column) therefore avoiding the need for a change-gear pedal.
+
+==== Talbot ====
+Several Talbot cars in the 1930s— such as the 1932–1935 Talbot AX65 Darracq— used an "accelerating gearbox" designed by Georges Roesch, based on the Wilson patents. The Roesch gearbox was vastly revised in both design and materials, resulting in a lighter gearbox that was able to withstand three times the power of the Wilson gearbox.
+This gearbox would automatically pre-select first gear when reverse was engaged. On engaging second gear, the gearbox would then pre-select third, and fourth when third was engaged. It would then cycle between third and fourth until another gear was pre-selected manually. Initial versions were produced without any form of clutch, however a centrifugal clutch was soon added to the design. Described by Talbot as the 'Traffic Clutch'. this was a simple device, with two radially swinging shoes (similar to a drum brake).
+
+==== Viratelle ====
+An early pre-selector gearbox was a prototype three-speed motorcycle gearbox patented by Marcel Viratelle in France in 1906. The design and production were very compact.
+
+=== Tiger tanks ===
+The 1942–1945 German Tiger I armoured tank used a form of pre-selective gearbox that was built by Maybach and offered 8 ratios. The shift mechanism was hydraulic, to reduce driver effort. Clutches were used in combinations, allowing many more ratios than actuators. There were three hydraulic cylinders, each with two positions and controlling dog clutches for gear trains arranged on four shafts. The cylinders were controlled by a rotary valve on a simple quadrant gear lever and activated by pushing the lever sideways into its gate. The combination of the three cylinders permitted eight different ratios, although in reverse these were limited to just the lowest four. When a captured Tiger I tank was studied by the British in 1943, the report on the gearbox was carried out by Armstrong Siddeley motors.
+
+== Comparison with other transmissions ==
+
+=== Multi-clutch gearboxes ===
+A multi-clutch gearbox avoids the difficulties of shifting gear by avoiding the need to shift at all. It operates as a number of separate gearboxes, each one controlled by a separate clutch, interlocked to avoid multiple selection. Selecting a gear is a matter of selecting the appropriate clutch. An advantage of this type is that it's simple to arrange remote operation, as there is no gear shift linkage as such, merely duplication of a clutch linkage.
+
+==== Single ratio per clutch ====
+This type of gearbox appeared in the March 1917 Oldbury gearbox trials testing different transmissions on eight British Heavy Tanks. Each ratio has its own shaft, and its own clutch. Provided the clutches are interlocked so that only one may be engaged at a time, the system is simple.
+In the early 1980s this transmission was developed for urban buses in the UK as the Maxwell, with a four-speed gearbox. UK buses are mostly double-deckers with rear-mounted transverse engines. Their use also involves much stop-start driving, thus heavy clutch wear for conventional gearboxes. The advantage of this arrangement was its use of four clutches, all easily serviced from outside the engine assembly, without needing to remove the engine. The clutches were multi-plate oil-supplied wet clutches. The first gearboxes gained a reputation for unreliability and in 1985 the original developers, Brockhouse, licensed them to Avon Maxwell Transmissions. A developed version, with an enlarged oil pump, was available as a retrofit for most UK buses. An unusual feature of this gearbox was the ability to engage first and second gear simultaneously. This acted as a 50 hp hydraulic retarder.
+
+==== Dual-clutch ====
+
+The idea of rapid shifting by clutch alone has also been developed as the dual-clutch transmission, in recent high-performance cars. This combines the simplicity of a shifting gearbox with the rapid shifts of a clutch-based design. There are effectively two separate gearboxes, each offering alternate ratios from the overall set, and the two clutches select which gearbox is in effect. Changes within the gearbox are done automatically, to predict which ratio the driver will require next. Provided that the next ratio has been selected correctly (i.e. the computer guessed correctly as to an up-shift vs. a down-shift) the shift itself is merely a rapid movement of the clutch. Unexpected shifts may confuse the system though and it must first select the correct ratio before engaging the clutch, giving a far slower shift.
+
+==== Semi-automatic transmissions ====
+
+Semi-automatic transmissions, usually in the form of clutchless manual transmissions, only automate the clutch system, and have used various different control systems to facilitate clutch operation, while still requiring the driver's input to manually change gear. These systems were introduced by numerous production car manufacturers, prior to the arrival and production of hydraulic automatic transmissions, starting from the mid-1930s, to the early-to-mid-1990s. These systems would either eliminate the clutch pedal, or would retain the clutch pedal, but the clutch would only be required to be operated for performing standing starts from a stationary position, not for shifting gears.
+Further advancements and development were introduced later, and several other methods have been used to automate the process of clutch operation and gear selection together simultaneously, most notably with the modern automated manual transmission, introduced by several car manufacturers in the 1990s, but first pioneered by Isuzu, with their NAVi5 transmission, in 1985.
+
+== Use ==
+
+=== Passenger cars ===
+1929–1959 Armstrong Siddeley— various models
+1929–1941 Maybach— various models
+1930s–1958 Daimler— various models, beginning with the 1930 Daimler Double-Six and ending with the One-O-Four model in 1958. The Daimler chairman reported to the shareholders at their Annual General Meeting in November 1933 "The Daimler Fluid Flywheel Transmission now has three years of success behind it and more than 11,000 vehicles, ranging from 10 h.p. passenger cars to double-deck omnibuses, aggregating over 160,000 h.p., incorporate this transmission ... it has yet to be proved that any other system offers all the advantages of the Daimler Fluid Flywheel Transmission. Our Daimler, Lanchester and BSA cars remain what we set out to make them – the aristocrats of their class and type ... We have also received numerous inquiries from overseas markets. (Applause)".
+1931–1937 Crossley Ten and Crossley Regis used the ENV Type 75 gearbox
+1931–1953 Lanchester – all models, except a few Roadrider cars with manual gearbox.
+1932–1934 MG K-type
+1932–1938 Riley Nine, Riley 12/4, Riley 12/6 and several other models during this time
+1934–1935 Lagonda Rapier
+1936–1937 Cord 810/812
+1948 Tucker 48
+1955–1969 Goggomobil
+1935-1938 Hudson and Terraplane
+
+=== Motor racing ===
+
+Preselector gearboxes were used in several racing cars and motorbike, including the International Six Days Trial 1921 and 1922 – Switzerland were Marcel Viratelle motorcycles were entered with series motorcycles; the 1935 ERA R4D, and hillclimbing cars such as the 1930s Auto Union 'Silver Arrows'.
+
+=== Buses ===
+Several buses built in the United Kingdom from around 1940 to 1960 had preselector transmission, including those built by Leyland, Daimler and AEC. The AEC RT type, a bus commonly used in London during this period, used compressed air to actuate the gear shifts, while other gearboxes used mechanical actuation.
+Typical operation of London buses was they had a very low first gear, only used on hills, so the driver when starting would select second gear, depress and release the change gear pedal to engage the transmission, and then select third ready for changing gear on the move, all this done while the bus was still stationary. On starting, just the accelerator pedal was pressed, with the eventual shift into third gear made by simply pressing the gear change pedal.
+The preselector buses were also exported to various countries – the AEC Regent III with the Wilson type gearboxes were used in Western Australia for 25 years as part of the public transport fleet from 1950 until 1976.
+
+=== Armoured vehicles ===
+
+=== Motorcycles ===
+Some 1950s-era James motorcycles were built using Villiers engines and a preselector gearbox. These were operated by pressing the gear pedal down to select 1st gear, then pulling in the clutch lever and on its return the gear engaged and drove forward. Pressing the gear pedal again selected 2nd gear, which was engaged only after the lever has been pulled in again.
+
+=== Railcars ===
+Some early petrol- and diesel-engined railcars in the 1930s used the Wilson preselector gearbox. The AEC-engined GWR 'Flying Banana' railcars had such a gearbox.

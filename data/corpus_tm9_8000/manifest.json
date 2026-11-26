@@ -1,0 +1,148 @@
+{
+ "source": "US Army TM 9-8000 Principles of Automotive Vehicles, 25 Oct 1985, with Change 1 (14 Nov 1988)",
+ "obtained_from": "https://everyspec.com/ARMY/TM-Tech-Manual/TM_9-8000_CHG-1_48512/",
+ "licence": "US federal government work (17 U.S.C. 105), no copyright notice in the document",
+ "extracted": "2026-11-26",
+ "chapters": [
+  {
+   "chapter": 2,
+   "file": "chapter_02.txt",
+   "chars": 64187
+  },
+  {
+   "chapter": 3,
+   "file": "chapter_03.txt",
+   "chars": 45938
+  },
+  {
+   "chapter": 4,
+   "file": "chapter_04.txt",
+   "chars": 80287
+  },
+  {
+   "chapter": 7,
+   "file": "chapter_07.txt",
+   "chars": 21238
+  },
+  {
+   "chapter": 8,
+   "file": "chapter_08.txt",
+   "chars": 20286
+  },
+  {
+   "chapter": 9,
+   "file": "chapter_09.txt",
+   "chars": 20076
+  },
+  {
+   "chapter": 11,
+   "file": "chapter_11.txt",
+   "chars": 35137
+  },
+  {
+   "chapter": 12,
+   "file": "chapter_12.txt",
+   "chars": 24342
+  },
+  {
+   "chapter": 13,
+   "file": "chapter_13.txt",
+   "chars": 74850
+  },
+  {
+   "chapter": 14,
+   "file": "chapter_14.txt",
+   "chars": 15254
+  },
+  {
+   "chapter": 15,
+   "file": "chapter_15.txt",
+   "chars": 46313
+  },
+  {
+   "chapter": 16,
+   "file": "chapter_16.txt",
+   "chars": 24902
+  },
+  {
+   "chapter": 17,
+   "file": "chapter_17.txt",
+   "chars": 54992
+  },
+  {
+   "chapter": 19,
+   "file": "chapter_19.txt",
+   "chars": 29563
+  },
+  {
+   "chapter": 20,
+   "file": "chapter_20.txt",
+   "chars": 7851
+  },
+  {
+   "chapter": 21,
+   "file": "chapter_21.txt",
+   "chars": 25181
+  },
+  {
+   "chapter": 22,
+   "file": "chapter_22.txt",
+   "chars": 12956
+  },
+  {
+   "chapter": 26,
+   "file": "chapter_26.txt",
+   "chars": 8825
+  },
+  {
+   "chapter": 28,
+   "file": "chapter_28.txt",
+   "chars": 15814
+  },
+  {
+   "chapter": 29,
+   "file": "chapter_29.txt",
+   "chars": 39599
+  },
+  {
+   "chapter": 30,
+   "file": "chapter_30.txt",
+   "chars": 31128
+  },
+  {
+   "chapter": 32,
+   "file": "chapter_32.txt",
+   "chars": 19105
+  },
+  {
+   "chapter": 33,
+   "file": "chapter_33.txt",
+   "chars": 25927
+  },
+  {
+   "chapter": 34,
+   "file": "chapter_34.txt",
+   "chars": 76853
+  },
+  {
+   "chapter": 35,
+   "file": "chapter_35.txt",
+   "chars": 9284
+  }
+ ],
+ "excluded_chapters": {
+  "1": "introduction",
+  "5": "diesel fuels",
+  "6": "LPG",
+  "10": "gas turbines",
+  "18": "radio suppression",
+  "23": "automatic transmissions",
+  "24": "cross-drive transmissions",
+  "25": "cross-drive X1100",
+  "27": "transfer cases (4x4)",
+  "31": "tracked-vehicle suspension",
+  "36": "power takeoff, winches",
+  "37": "refrigeration",
+  "38": "trailers"
+ }
+}

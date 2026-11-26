@@ -1,0 +1,79 @@
+Jaguar independent rear suspension
+
+Jaguar's independent rear suspension (IRS) unit has been a common component of a number of Jaguar production cars since 1961, passing through two major changes of configuration up to 2006 and last used in the Jaguar XK8 and Aston Martin DB7.  This article concentrates on the first generation Jaguar IRS, which firmly established the marque's reputation for suspension sophistication, combining as it did smooth ride with excellent roadholding and low levels of noise, vibration, and harshness (NVH).  The two generations overlap in time due to their being used in both full size and sports models that were updated at different times.
+
+== First generation IRS (1961–1986) ==
+
+=== Development ===
+When first introduced, it was relatively rare for British cars to have independently sprung rear wheels, most production cars of the time using live rear axles.  Independent suspension systems offer the advantage of lower unsprung mass to improve roadholding, and when properly designed, the ability to maintain the roadwheels perpendicular to the road surface during cornering and in response to uneven road surfaces, further improving roadholding.  The reduction in transfer of vertical undulations in road surface to the vehicle body also provides a smoother ride.
+Jaguar's first IRS system took five years to develop.  A Mark 2 saloon fitted with a prototype IRS demonstrated a reduction in unsprung weight of 190 lb (86 kg) compared with a live axle.  Its first production applications were in the E‑Type sportscar from its launch in 1961, as well as in the late 1961 introduced, line-topping Jaguar Mark X saloon.  The assembly was manufactured in three different sizes with differing track widths to suit different models. The first generation Jaguar IRS continued to be updated and used until production of the XJS ended in 1996, though a derivative of the IRS continued to be used by Aston Martin in the DB7 until 2004.
+The IRS is built into a fabricated steel crossbeam-like subframe unit, that allows it to be relatively easily removed from the vehicle as a complete assembly.  This feature has made it suitable for adaptation as a non-standard component on other vehicles, like from kit-car builders and low-volume specialty car makers.
+
+=== Overview ===
+ The complete rear suspension assembly is carried in a steel crossbeam cradle (shown ghosted in the diagram below), which is attached to the vehicle body via four rubber vee-blocks and also carries the differential (blue) and inboard brakes (red). The rear wheels are located transversely by top links and wheel carriers (green) and lower links (cyan). The top link is the driving half-shaft with a universal joint at each end. The lower link pivots adjacent to the differential casing at its inboard end and where it meets the wheel carrier at the wheel hub casting (violet) at its outboard end. The pivot bearings at each end of the lower link are widely spaced so as to provide maximum longitudinal rigidity.  Suspension is provided by two coil spring and damper units (yellow) on each side of the differential casing (four in total), the spring and damper units attaching to the crossbeam at the top and the lower link at the bottom. The lower links are further located longitudinally by two radius arms (see photo above), each of which runs forward from the outer lower link to a point on the vehicle body, and is pivoted at each end via rubber bushings.
+
+=== Detailed description ===
+
+==== Crossbeam ====
+In order to insulate the passenger compartment from noise, vibration and harshness (NVH), the independent rear suspension was designed to be carried in a separate crossbeam assembly attached to the vehicle body by four rubber vee-blocks.  The only other points of contact with the vehicle body (i.e. the radius arms) are by means of metal sleeved (Metalastik) rubber bushes, so there is no metal-to-metal contact between the suspension and vehicle body.  The fabricated steel crossbeam carries the differential and inboard brakes (if fitted).
+
+==== Differential ====
+The differential is a Salisbury 4HU or Dana unit with a hypoid spiral bevel gear. It provides final drive reduction ratios ranging from 2.88:1 to 4.55:1, depending upon the Jaguar model. The bolts that attach the differential to the subframe have small holes through their heads so that they can be safety wired to prevent them coming undone, which would otherwise be difficult to detect since they can only be accessed when the whole suspension assembly is removed from the car. A limited slip differential was standard on some models and optional on others. The first generation IRS always had the disc brakes mounted inboard, the brake units being located immediately adjacent to the differential and braking its output shafts.
+
+==== Top link and wheel carrier ====
+The top link is a fixed-length half-shaft universally jointed at each end. The universal joints act as inner and outer pivots for the top link, which rotate to transmit drive from its inner pivot at the output of the differential/brake unit to its outer pivot at the wheel carrier. The wheel carrier takes the form of a splined stub axle (for knock-off wheels) or a stub axle and hub plate (for 5-lug wheels). In later XJS models with outboard rear brakes, the wheel carrier, brake discs and parking brake drum were a single cast steel unit.  In all cases the wheel carrier runs in bearings mounted in a large cast aluminium hub carrier.
+
+==== Lower link and hub carrier ====
+Each lower link is fabricated from a steel tube with a two-pronged fork welded to each end. The outer end of the lower link pivots about a fulcrum shaft, which runs longitudinally through the bottom of each hub carrier. The inner fulcrum mounting is adjacent to the bottom of the differential casing.  Wide spacing of the pivot bearings provides both torsional and fore-and-aft rigidity to the hub carrier. This prevents the hub carrier from twisting relative to the differential and is also necessary because, with driveshafts acting as the upper suspension links, the hub carrier has no other way of resisting fore-and-aft movement.
+
+==== Bearings and bushes ====
+The top and lower link pivots use roller bearings, reducing friction relative to plain bearings and improving both the smoothness and speed of suspension response. The position and shape of the rubber vee-blocks and Metalastik bushes are designed to ensure sufficiently rigid suspension mounting for good control whilst successfully isolating the body from NVH.
+
+==== Radius arms ====
+The lower link itself is not designed to carry normal acceleration and braking forces, so it is located by two radius arms that run forward from each lower link to points on the (unitary construction) vehicle body, beneath the rear passenger compartment.  Each radius arm attaches to its lower link at a point just outboard of the bottom spring mountings and pivots vertically about its fixing bolt. The fixing bolts pass through a small Metalastik bush, which consist of a metal sleeve held within a rubber bush.  Where the radius arm meets the vehicle body, it is attached by a vertical bolt passing through a large Metalastic bush that is pressed into the forward end of the radius arm. Safety straps retain the radius arms in proximity to the vehicle body should one of the front securing bolts happen to come loose.
+As a consequence of the radius arm forward attachments not being on the axis of the lower link arm inner pivots, it would appear at first glance that free movement of the suspension would be impossible without some components bending, or the trailing arm elastomeric bushes being compressed unduly. However, as described above, the crossbeam is rubber mounted to the body. The crossbeam and lower links maintain the correct toe angle of one wheel relative to the other, however due to the relative angles of the trailing radius arms, body roll results in the entire cross-beam and lower links pivoting slightly about the crossbeam's mounting points, thus inducing a small amount of passive rear wheel steering, which may result in significantly improved handling. When the Jaguar components are re-used in other vehicles, the differential is often rigidly mounted to the chassis, different radius arm configurations are used, and the passive rear wheel steering effect is lost.
+
+==== Springing and damping ====
+Springing and damping are provided by four coilover spring and damper units which attach to the crossbeam at the top and the lower links at the bottom. The use of two spring and damper units on each side is unusual and allows the use of smaller springs, taking up less space and protruding less into the luggage area.  It also equalises the load transmitted to the front and rear of the crossbeam
+
+==== Anti-roll bar ====
+Some models were also fitted with an anti-roll bar, a torsion bar arrangement intended to reduce body roll on cornering.
+
+==== Brakes ====
+For the first 32 years of production of the first generation IRS, the disc brakes were mounted at the inboard ends of the driveshafts in order to minimise unsprung weight at the outboard end.  The hydraulic brake calipers were mounted directly onto the differential.  Care was taken to prevent heat generated by the brakes from damaging the differential output seals, although this was never totally successful.  The parking brake used separate mechanical calipers acting on the discs.
+For the 1993–1996 model XJS, the brakes were moved to the outboard position.  This was achieved using the hub carriers from the Second Generation IRS, which by that time had already been in production for seven years for the XJ6 (XJ40).  Moving the rear brakes outboard eliminated the heat transfer problem and allowed for easier servicing.  The parking brake then used brake shoes inside a brake drum in the centre of the disc rotor.
+
+=== Original applications ===
+The following Jaguar cars were fitted with the first generation IRS as part of their original specification.  The second column indicates the vehicle's approximate rear track, according to whether the narrow, medium, or wide version of the suspension assembly was used.
+
+=== Other applications ===
+Because of its self-contained design the first-generation IRS was popular to retrofit to other cars, as well as among hot-rodders. It has been fitted as a modification to a number of other vehicles, including the following:
+
+AC Cobra replicas
+Ford Mustang
+MG MGB
+Panther J.72
+Panther Lazer
+Panther De Ville
+Reliant Scimitar
+Toyota Hilux
+Triumph TR7
+
+== Second generation IRS (1986–2006) ==
+Jaguar made several fundamental changes to the design of the IRS for the new XJ40 model, launched in 1986.
+The shape of the subframe changed to an approximate triangle, bolted to the front of the differential and attached to the car at approximately the same points as the radius arms of the first generation IRS.  The rear of the differential was further supported by a pair of link rods attaching it to the car's rear floor structure. Rubber bushes at the attachment points provided the necessary levels of NVH suppression.
+The fixed-length driveshaft as the upper suspension link remained, but the lower wishbone became a fabricated steel box section with a much wider base. In later installations (e.g. X300) the lower wishbone is a hollow steel casting.  Putting the front and rear pivots of the wishbones so far apart meant that the radius arms could be (and were) eliminated.
+The original twin springs on each side were replaced by a single spring and damper, acting against the car's body instead of the rear subframe. The brakes were moved to the outboard ends of the driveshafts to enable better heat dissipation and easier servicing. The net result was a reduction in overall weight, but the unsprung weight increased due to the relocation of the brakes more than offsetting the weight reductions on springs and dampers, and the NVH isolation deteriorated slightly.
+In 1993 on late XJ40 models, the attachment of the lower wishbone to the hub carrier was changed to use a bolt with eccentric head, enabling the rear toe-in adjustment that was not possible before without bending the arms, an option no longer available with cast wishbones.
+
+=== Original applications ===
+The following Jaguar and Aston Martin cars were fitted with the second generation IRS as part of their original specification:
+
+Jaguar XJ (XJ40)
+Jaguar XJ (X300)
+Jaguar XJ (X308)
+Jaguar XK (X100)
+Aston Martin DB7
+
+== Current IRS (1998 onward) ==
+For the launch of the Jaguar S-Type (X200) model, Jaguar, under Ford ownership, developed a new and complex multi-link suspension unit for the Ford DEW98 platform.  The driveshafts had now ceased to be a structural part of the suspension, so they could be fitted with constant-velocity joints that allowed their length to vary with suspension travel.  This system with modifications has now been incorporated into the Jaguar XJ (X350) in 2003, Jaguar XK (X150) in 2006, Jaguar XF (X250) in 2007, revised Jaguar XJ (X351)  in 2010, Jaguar XF Sportbrake (X250) in 2012 and Jaguar F-Type (X152) in 2013. A heavily revised version will also underpin future Land Rover products starting with the Range Rover (L405).

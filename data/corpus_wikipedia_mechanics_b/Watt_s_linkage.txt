@@ -1,0 +1,38 @@
+Watt's linkage
+
+A Watt's linkage is a type of mechanical linkage, invented by James Watt, in which the central moving point of the linkage is constrained to travel a nearly straight path. Watt described the linkage in his patent specification of 1784 for the Watt steam engine.
+Today it is used in automobile suspensions, where it is key to a suspension's kinematics, i.e., its motion properties, constraining the vehicle axle's movement to nearly vertical travel, limiting horizontal motion.
+
+== Description ==
+Watt's linkage consists of three bars bolted together in a chain. The chain of bars consists of two end bars and a middle bar. The middle bar is bolted at each of its ends to one of the ends of each outer bar. The two outer bars are of equal length, and are longer than the middle bar. The three bars can pivot around the two bolts.  The outer endpoints of the long bars are fixed in place relative to each other, but otherwise the three bars are free to pivot around the two joints where they meet.
+In linkage analysis, there is an imaginary fixed-length bar connecting the outer endpoints. Thus, Watt's linkage is an example of a four-bar linkage.
+
+== History ==
+
+Its genesis is contained in a letter Watt wrote to Matthew Boulton in June 1784.
+
+I have got a glimpse of a method of causing a piston rod to move up and down perpendicularly by only fixing it to a piece of iron upon the beam, without chains or perpendicular guides [...] and one of the most ingenious simple pieces of mechanics I have invented.
+The context of Watt's innovation has been described by C. G. Gibson:
+
+During the Industrial Revolution, mechanisms for converting rotary into linear motion were widely adopted in industrial and mining machinery, locomotives and metering devices. Such devices had to combine engineering simplicity with a high degree of accuracy, and the ability to operate at speed for lengthy periods. For many purposes approximate linear motion is an acceptable substitute for exact linear motion. Perhaps the best known example is the Watt four bar linkage, invented by the Scottish engineer James Watt in 1784.
+This type of linkage is one of several types described in Watt's 28 April 1784 patent specification. However, in his letter to Boulton he was actually describing a development of the linkage which was not included in the patent. The slightly later design, called a parallel motion linkage, led to a more convenient space-saving design which was actually used in his reciprocating, and his rotary, beam engines.
+
+== Shape traced by the linkage ==
+This linkage does not generate a true straight line motion, and indeed Watt did not claim it did so. Rather, it traces out Watt's curve, a lemniscate or figure eight shaped curve; when the lengths of its bars and its base are chosen to form a crossed square, it traces the lemniscate of Bernoulli. In a letter to Boulton on 11 September 1784 Watt describes the linkage as follows.
+
+The convexities of the arches, lying in contrary directions, there is a certain point in the connecting-lever, which has very little sensible variation from a straight line.
+Although the Peaucellier–Lipkin linkage, Hart's inversor, and other straight line mechanisms generate true straight-line motion, Watt's linkage has the advantage of much greater simplicity than these other linkages. It is similar in this respect to the Chebyshev linkage, a different linkage that produces approximate straight-line motion; however, in the case of Watt's linkage, the motion is perpendicular to the line between its two endpoints, whereas in the Chebyshev linkage the motion is parallel to this line.
+
+== Applications ==
+
+=== Double-acting piston ===
+The earlier single-action beam engines used a chain to connect the piston to the beam and this worked satisfactorily for pumping water from mines, etc. However, for rotary motion a linkage that works both in compression and tension provides a better design and allows a double-acting cylinder to be used. Such an engine incorporates a piston acted upon by steam alternately on the two sides, hence doubling its power. The linkage actually used by Watt (also invented by him) in his later rotary beam engines was called the parallel motion linkage, a development of "Watt's linkage", but using the same principle. The piston of the engine is attached to the central point of the linkage, allowing it to act on the two outer beams of the linkage both by pushing and by pulling. The nearly linear motion of the linkage allows this type of engine to use a rigid connection to the piston without causing the piston to bind in its containing cylinder. This configuration also results in a smoother motion of the beam than the single-action engine, making it easier to convert its back-and-forth motion into rotation.
+An example of Watt's linkage can be found on the high and intermediate pressure piston rod of the 1865 Crossness engines. In these engines, the low pressure piston rod uses the more conventional parallel motion linkage, but the high and intermediate pressure rod does not connect to the end of the beam so there is no requirement to save space.
+
+=== Vehicle suspension ===
+
+Watt's linkage is used in the rear axle of some car suspensions as an improvement over the Panhard rod, which was designed in the early twentieth century. Both methods are intended to prevent relative sideways motion between the axle and body of the car. Watt's linkage approximates a vertical straight-line motion much more closely, and it does so while consistently locating the centre of the axle at the vehicle's longitudinal centreline, rather than toward one side of the vehicle as would be the case if a simple Panhard rod were used.
+It consists of two horizontal rods of equal length mounted at each side of the chassis. In between these two rods, a short vertical bar is connected. The center of this short vertical rod – the point which is constrained in a straight line motion - is mounted to the center of the axle. All pivoting points are free to rotate in a vertical plane.
+In a way, Watt's linkage can be seen as two Panhard rods mounted opposite each other. In Watt's arrangement, however, the opposing curved movements introduced by the pivoting Panhard rods largely balance each other in the short vertical rotating bar.
+The linkage can be inverted, in which case the centre P is attached to the body, and L1 and L3 mount to the axle. This reduces the unsprung mass and changes the kinematics slightly. This arrangement was used on Australian V8 Supercars until the end of the 2012 season.
+Watt's linkage can also be used to prevent axle movement in the longitudinal direction of the car. This application involves two Watt's linkages on each side of the axle, mounted parallel to the driving direction, but just a single 4-bar linkage is more common in racing suspension systems.

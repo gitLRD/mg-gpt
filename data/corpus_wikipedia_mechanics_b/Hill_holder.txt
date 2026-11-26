@@ -1,0 +1,23 @@
+Hill-holder
+
+A hill-holder is a motor vehicle device that holds the brake until the clutch is at the friction point, making it easier for a stationary vehicle to start uphill. By holding the brake in position while the vehicle is put into gear, it prevents rollback. The hill-holder was invented by Wagner Electric and manufactured by Bendix Brake Company in South Bend, Indiana.
+It was first introduced in 1936 as an option for the Studebaker President. By 1937 the device, called "NoRoL" by Bendix, was available on Hudson, Nash and many other cars. Studebaker and many other carmakers offered the device as either optional or standard equipment for many years. In modern usage, this driver-assistance system is also called hill-hold control (HHC), hill-start assist (HSA) or hill-start assist control (HAC).
+
+== Availability ==
+As a trade name, it was introduced by Studebaker in the 1936 President.  It was also promoted by Studebaker as an option in the 1939 model year.  Later, the technology became available on a variety of modern automobiles, starting with the 2005-onwards Volkswagen Passat, 2011-onwards Volkswagen Jetta, and 2004-onwards Volkswagen Phaeton and Touareg.  It is further available on the Subaru Forester, Subaru Impreza and Subaru Legacy. The 2009 Dodge Challenger SRT8 also comes equipped with hill-holder.
+Similar systems are or were in use by Alfa Romeo, Citroën, Fiat (including the new Fiat 500), BMW, Škoda Superb 2009, Lancia, Mercedes-Benz, Volkswagen, Lamborghini Aventador, Saab, Smart ("Hill Start Assist"), Subaru.
+Pre-WWII Cadillac ("NoRol") and Stutz ("Noback") were offered with the technology as an option.
+The mechanism was available in American car parts stores so that car owners could add to their vehicle to improve it from the late 1930s through the 1950s. But it required that the car have hydraulic brakes, so it could not be added to Ford Motor Company products before 1939. In 1949 it became available on factory-built Fords.
+
+== Operation ==
+In layman’s terms, the modern hill-holder function works by using two sensors, in concert with the brake system on the vehicle. The first sensor measures the forward-facing incline (nose higher than tail) of the vehicle, while the second is a disengaging mechanism. The 1930s-1950s NoRoL used a ball bearing as a check valve in the hydraulic brake line; when the car was on an uphill incline, the ball rolled back and blocked the brake line - when the car was level or facing downhill, the ball rolled away, leaving the line free. The clutch linkage slightly dislodged the ball when the clutch was released, enabling the car to move away from a stop.
+
+=== Manual transmission vehicles ===
+When the driver stops the vehicle on an incline where the nose of the car is sufficiently higher than the rear of the car, the system is engaged when the driver's foot is depressing the brake pedal, and then the clutch pedal is fully depressed. Once set, the driver must keep the clutch pedal fully depressed but may remove the foot from the brake pedal. To disengage the system and move the car forward, the driver selects first gear, gently depresses the gas pedal, and slowly releases the clutch pedal which at a point in its travel releases the braking system, allowing the car to proceed.
+
+=== Automatic transmission vehicles ===
+In an automatic transmission vehicle, the car is equipped with a tilt sensor that, when it reaches a certain angle or greater, tells the brake system to keep the brakes clamped for a few seconds longer after the driver releases the brake. This allows time for the driver to depress the accelerator, moving the vehicle forward.
+
+== Usage ==
+Hill-holders work best for those who are inexperienced with manual shift techniques, or in situations with heavy traffic in steep hilly conditions (as  in San Francisco, or Duluth for example).
+However the same technique can be accomplished by a driver through the use of the manual parking brake lever, coordinated with the brake, clutch, gear shift and accelerator. This is a standard technique in most countries where manual transmissions remain popular, for example the UK. Cars equipped with a parking brake pedal are not suited for this maneuver unless it is released by hand, for example in the Citroën XM.

@@ -1,0 +1,14 @@
+Trailing-arm suspension
+
+A trailing-arm suspension, also referred to as trailing-link, is a form of vehicle suspension. In a motor vehicle it places one or more horizontal arms (or "links") perpendicular to and forward of the axle on the  chassis or unibody, which are connected to the axle or wheels with pivot joint(s). These are typically used on the rear axle or wheels of vehicles, but also found in both front and main landing gear of aircraft. 
+A "semi trailing-arm" (or semi trailing-link) is a common form of independent rear suspension on automobiles, particularly those with front wheel drive (where it allows a flatter rear floor pan).
+Leading arms are similar horizontal arms, perpendicular to the axle, but connecting the wheels to the vehicle structure via pivot joints to the rear of them. These are typically used on the front axle or wheels, as on the Citroën 2CV and its derivatives, and on the Citroën DS, as well as on the M422 Mighty Mite jeep.
+
+== Types ==
+
+=== Trailing-arm ===
+Trailing-arm designs in live axle setups often use just two or three links and a Panhard rod to locate the wheel laterally. A trailing arm design can also be used in an independent suspension arrangement. Each wheel hub is located only by a large, roughly triangular arm that pivots at one point, ahead of the wheel. Seen from the side, this arm is roughly parallel to the ground, with the angle changing based on road irregularities. A twist-beam rear suspension is very similar except that the arms are connected by a beam, used to locate the wheels and which twists and has an anti-roll effect.
+Some aircraft also use trailing arms in their landing gear, with oleo struts for shock absorption. A trailing arm landing gear results in smoother landings and a better ride when taxiing compared to other types of landing gear.
+
+=== Semi-trailing arm ===
+A semi-trailing arm suspension is a supple independent rear suspension system for automobiles where each wheel hub is located only by a large, roughly triangular arm that pivots at two points. Viewed from the top, the line formed by the two pivots is somewhere between parallel and perpendicular to the car's longitudinal axis; it is generally parallel to the ground. Trailing-arm and multilink suspension designs are much more commonly used for the rear wheels of a vehicle where they can allow for a flatter floor and more cargo room.  Many small, front-wheel drive vehicles feature a MacPherson strut front suspension and trailing-arm rear axle.

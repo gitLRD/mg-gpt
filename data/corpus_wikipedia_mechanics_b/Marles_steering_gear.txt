@@ -1,0 +1,36 @@
+Marles steering gear
+
+Marles steering gear was an hour-glass-and-roller steering gear for mechanically propelled vehicles invented by British inventor and businessman Henry Marles (1871-1955) who also gave his name to his joint-venture Ransome & Marles a major British ball-bearing manufacturer.  Aside from ease of use Marles' steering's great appeal to drivers was its lack of backlash.
+Invented in 1913 it became common from the 1920s until the mid 1950s. In USA when power-steering becoming popular in the 1950s it was mainly replaced by worm and recirculating-ball nut steering —which incorporated ball-bearings. In Europe Marles' design was replaced by a general move to rack-and-pinion steering gear.
+
+== Description ==
+A pair of opposed cams or cam surfaces connected to the steering column operate a transverse rocker shaft carrying the vehicle's steering arm. The point of difference was the use of purely rolling contact and not sliding contact in the meshing elements of a worm-and-follower steering gear.
+Ultimately its most popular form was an hour-glass shaped worm which engages with a double-toothed roller follower on the rocker shaft for the steering arm. The result is that substantially the same leverage is provided from one steering lock to the other.
+
+== Late development ==
+
+=== Marles Variomatic ===
+Marles Variomatic is the trademark name of an automotive power steering system of the 1960s and 70s, which was characterised by its variable steering ratio. It was developed in 1961 by the Adwest Engineering Co Ltd of Reading, England, in conjunction with the Bendix Corporation. The Adwest product was fitted to several British luxury automobiles of the era, including; the Aston Martin V8, Daimler Sovereign, Jaguar 420 and Rover P6B 3500S.
+
+=== Overview ===
+The Variomatic is essentially a refinement of the power assisted "cam and roller" type of steering, being referred to instead as "hour glass and roller". The steering box contains an "hour glass" cam machined with a varying helix angle to provide the variable steering ratio. In common with other power steering systems, control of power assistance in response to steering inputs is via a hydraulic control valve in the input shaft of the cam. Pressurised hydraulic fluid is supplied to the system by a separate hydraulic pump.
+
+=== Steering box ===
+The hydraulic assistance is supplied by a servo piston operating in a cylinder integral with the steering box casting. The teeth of a rack projecting from the piston mesh with a sector of a spur gear machined into the sector shaft. A roller in the sector shaft meshes with the helical track on the cam, and the two together are responsible for providing the variable ratio. No external lockstops are provided as they are incorporated into the steering box.
+
+=== Control valve ===
+In common with other power steering systems, the control valve is of the rotary type and consists of a valve rotor and torsion bar. The valve rotor is the input shaft to the steering gear and has six longitudinal grooves machined into its outer surface. When no load is applied to the steering wheel, these grooves lie between six grooves in the valve sleeve and no hydraulic assistance is applied.
+When steering effort is applied at the wheel it is transmitted to the rotor, which transmits the effort to the hour glass cam by means of the torsion bar. The rotor is normally centred in its sleeve by the torsion bar but manual steering effort twists the torsion bar, permitting the rotor to turn within its sleeve, opening the way for hydraulic fluid pressure to be applied to one or other side of the servo piston, thus assisting in turning the front wheels.
+
+=== Pressure pump ===
+ The hydraulic pump is of the vaned rotor type, typically of Saginaw manufacture, and is connected to the steering box via flexible feed and return hoses. The fluid reservoir is incorporated in the pump's end cover. Typical system operating pressures are in the range 7.8 - 8.8 MPa, the operating medium being automatic transmission fluid.
+
+=== Operation ===
+The varying pitch of the cam results in the variable steering ratio, with the lowest gearing being at the straight ahead, rising rapidly to either lock. The rise in gearing (which in the Jaguar 420 was equivalent to a drop in ratio from 21.6:1 to 13:1) occurs almost entirely within the first half turn of the steering wheel from the straight ahead position. The effect is to give very light and relaxed steering at the straight ahead, with increased reaction when cornering.
+
+=== Benefits and drawbacks ===
+The major benefit of the Variomatic system is the reduction in the amount of "arm twirling" and effort required when steering, particularly when a lot of cornering is involved. For example, the Variomatic system fitted as an option to the Jaguar 420 required only 2-7/8 turns of the steering wheel lock-to-lock, which compares favourably with 4-1/4 turns lock-to-lock for the manual Burman F.3 recirculating ball system that was standard fitment on the 420, and 3-1/4 turns for the constant ratio Burman power steering system optional on the 420's predecessor, the Jaguar S-Type.
+Whilst advanced for its time, the Variomatic system did have certain drawbacks. It was more complicated and expensive than a constant ratio power assisted system. The Variomatic system was also criticised for feeling too light at high speed, when greater weighting tends to give the driver more confidence in making fine steering adjustments. Later systems by other manufacturers would adjust the behaviour of the steering in reaction to road speed.
+
+== Crown bottle top ==
+Henry Marles also patented an improved crown bottle top in 1906 and bottles no longer required a special opener.

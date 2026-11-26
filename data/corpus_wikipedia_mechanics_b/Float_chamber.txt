@@ -1,0 +1,10 @@
+Float chamber
+
+A float chamber is a device for automatically regulating the supply of a liquid to a system. It is most typically found in the carburettor of an internal combustion engine, where it automatically meters the fuel supply to the engine. However, this arrangement is found in many automatic liquid systems, for example the cistern of most toilets could be said to be a type of float chamber.
+A float chamber works by allowing liquid within the chamber to lift a float which is linked to a valve which regulates the liquid intake. When the level is low, the float drops and opens the valve, allowing in liquid until the float rises sufficiently to close off the valve again. This is identical in principle to the ballcock valve.
+
+== Carburetors ==
+Carburetors are provided with a float chamber to provide a constant hydrostatic head of fuel above the carburettor's metering jets, thus a constant pressure. The float chamber itself does not vary the pressure according to demand, but it does vary the supply flowrate with demand, to keep this pressure constant. 
+The valve is often described as a needle valve, although this is a misnomer. A true needle valve uses a tapered needle in a tapered seat, so as to provide fine control over flow rate. The float valve uses a pointed needle against a square-edged seat, to give a positive shut-off.
+As the float relies on gravity, the chamber must be mounted vertically. Some designs, such as the SU, may allow a separate float chamber body to be adjusted relative to the carburettor to compensate for this. Acceleration effects may also apply a forwards force on the float and so the float hinges often have to be mounted across the car to avoid surging. Some designs, such as the Stromberg use wide, shallow floats to reduce surging. 
+One drawback of the basic type of float chamber described is that it only operates correctly when it is the right way up, so more sophisticated solutions are needed in aircraft.

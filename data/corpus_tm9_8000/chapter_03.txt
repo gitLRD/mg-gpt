@@ -1,0 +1,421 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 3
+
+CONVENTIONAL ENGINE CONSTRUCTION
+
+Section I. CYLINDER BLOCKS, HEADS, AND CRANKCASES
+
+3-1. Cylinder Blocks - Liquid-Cooled Engines.
+
+a. General (Fig. 3-1). The cylinder, or the engine block, is the basic foundation of virtually all liquid-cooled engines. The block is a solid casting made of cast iron or aluminum that
+
+contains the crankcase, cylinders, coolant pas- sages, and, in the case of flathead engines, the valve seats, ports, and guides.
+
+b. Construction. The cylinder block is a one- piece casting that is usually an iron alloy con- taining nickel and molybdenum. This is the best overall material for cylinder blocks. It provides excellent wearing qualities, low material and production costs, and it only changes dimensions minimally when heated. Another material that is used for cylinder blocks, although not exten- sively, is aluminum. Aluminum is used whenever weight is a consideration. It is not as practical to use for the following reasons:
+
+(1) Aluminum is more expensive than cast iron.
+
+(2) Aluminum is not as strong as cast iron.
+
+(3) Due to the softness of aluminum, it cannot be used on any surface of the block that is subject to wear. This necessitates the pressing, or casting, of steel sleeves into the cylinder bores. Threaded holes must be deeper, which introduces extra design considerations. All of these things increase production costs.
+
+(4) Aluminum has a much higher expansion rate than iron when heated. This creates prob- lems with maintaining tolerances.
+
+c. Cylinders (Fig. 3-2). The cylinders are bored right into the block. A good cylinder must be round, not varying in diameter by more than approximately 0.0005 in. (0.012 mm). The diameter of the cylinder also must be uniform for its entire length.
+
+d. Cylinder Sleeves (Fig. 3-3). Cylinder sleeves or liners commonly are used to provide a wearing surface other than the cylinder block for the pistons to ride against. This is important for the following reasons:
+
+(1) Alloys of steel can be used that will wear longer than the surfaces of the cylinder block.
+
+This will increase engine life while keeping pro- duction costs down.
+
+(2) Because the cylinders wear more than any other area of the block, the life of the block can be extended greatly by using sleeves. When overhaul time comes, the block then can be renewed by merely replacing the sleeves. For this reason, sleeves are very popular in large diesel engines, for which the blocks are very expensive.
+
+(3) As stated in paragraph 3-lb., using a sleeve allows an engine to be made of a material such as aluminum by providing the wearing qualities necessary for the cylinder that the aluminum cannot.
+
+There are two types of cylinder sleeves: the wet and the dry type. The dry type is a sleeve that presses into a full cylinder that completely covers the water jacket. Because the sleeve has the block to support it, it can be very thin. The wet sleeve also presses Into the cylinder. The difference is that the water jacket is open in the block and is completed by the sleeve. Because it gets no central support from the block, the wet sleeve must be made thicker than a dry sleeve. Also,, because the sleeve completes the water jacket, it must fit so as to seal in the coolant. The following are the three basic ways of securing the sleeves in the cylinder block:
+
+(1) Pressing in a sleeve that is tight enough to be held in by friction.
+
+(2) Providing a flange at the top of the block that locks the sleeve in place when the cylinder head is bolted into place. This is more desirable than a friction fit, because it locks the sleeve tightly.
+
+(3) Casting the sleeve into the cylinder wall. This is a popular means of securing the sleeve in an aluminum block.
+
+Whatever method is used to secure the sleeve, it is very important that the sleeve fits tightly. This is important so that the sleeve may transfer its heat effectively to the water jackets.
+
+e. Crankcase (Fig. 3-4). The crankcase is the part of the cylinder block that supports and encloses the crankshaft. It is also where the engine’s lubricating oil is stored. The upper part of the crankcase usually is part of the cylinder block, while the lower part is removable. This removable lower part usually is called an oil pan, and is made of cast aluminum or pressed steel.
+
+f. Cooling and Lubrication (Fig. 3-1). The cylinder block also provides the foundation for the cooling and the lubrication systems. It provides the mountings for the pumps, and has the coolant and lubrication passages cast into it.
+
+3-2.Cylinder Heads.
+
+a. General (Fig. 3-5). The cylinder head is a separate one-piece casting that bolts to the top of the cylinders on an air-cooled engine, or to the top of the cylinder block on a liquid-cooled engine.
+
+b. Construction.
+
+(1) The cylinder heads on liquid-cooled engines have been made almost exclusively from cast iron until recent years. Due to weight considerations that have become more Impor- tant, a large percentage of cylinder heads now are being made from aluminum.
+
+(2) The cylinder heads on air-cooled en- gines are made almost exclusively from alumi- num. This is due to the fact that aluminum will conduct heat approximately three times as fast as cast iron. This is a critical consideration with air cooling.
+
+c. Combustion Chambers (Fig. 3-6). The cylinder head seals the end of the cylinder. This serves to provide a combustion chamber for the ignition of the mixture and to hold the expansive forces of the burning gases so that they may act on the piston. There is a threaded hole to position the spark plug in the combustion chamber on gasoline engines. On diesel engines there is a similar arrangement to position the fuel injector.
+
+d. Valves and Ports (Fig. 3-7). The cylinder head on overhead valve configurations supports the valves and has the ports cast into it. The cylinder head on overhead camshaft configura- tions also supports the camshaft.
+
+e. Cooling.
+
+(1) Cylinder heads on air-cooled configu- rations (A, fig. 3-8) have fins cast into their outer surfaces.
+
+(2) Cylinder heads on liquid-cooled con- figurations (B, fig. 3-8) have passages for coolant flow cast into them.
+
+f. Sealing.
+
+(1) Cylinder heads on air-cooled configu- rations (A, fig. 3-9) are sealed to the tops of the cylinders by soft metal rings. The lubrication system usually feeds oil to the heads through the push rods.
+
+(2) Cylinder heads on liquid-cooled con- figurations (B, fig. 3-9) are sealed to the cylinder block by the head gasket. The head gasket usually is made of two sheets of soft steel that sandwich a layer of asbestos. Steel rings are used to line the cylinder openings. They are to hold the tremendous pressures created on the power stroke. Holes are cut in the gasket to mate the coolant and lubrication feed holes between the cylinder block and the cylinder head.
+
+3-3. Cylinders - Air-Cooled Engines (Fig. 3-10). The cylinders on air-cooled engines are separate from the crankcase. They usually are made of forged steel. This material is most suitable for cylinders because of its excellent wearing qualities, and its ability to withstand the high temperatures that air-cooled cylinders do obtain. The cylinders have rows of deep fins cast into them to dissipate engine heat. The cylinders
+
+commonly are mounted by securing the cylinder head to the crankcase with long studs, and sandwiching the cylinders between the two. Another way of mounting the cylinders is to bolt them to the crankcase, and then secure the heads to the cylinders.
+
+3-4.Crankcase - Air-Cooled Engines.
+
+a. General (Fig. 3-11). The crankcase is the basic foundation of all air-cooled engines. It is made as a one- or two-piece casting that supports the crankshaft, provides the mounting surface for the cylinders and the oil pump, and has the lubrication passages cast into it.
+
+b. Construction (Fig. 3-11). Crankcases in air-cooled engines are made of aluminum be- cause it has the ability to dissipate large quantities of heat. There is usually a removable lower half to the crankcase that holds the reservoir of lubrica- ting oil. It commonly is referred to as the oil pan. On air-cooled engines, the oil pan usually is cast aluminum. Its surface is covered with fins. The oil pan on an air-cooled engine plays a key role in the removal of waste heat from the engine through its lubricating oil.
+
+Section II. ROTATING AND RECIPROCATING PARTS
+
+3-5. Piston.
+
+a. General (Fig. 3-12). The piston is the part of the engine that receives the energy from the combustion and transmits it to the crankshaft.
+
+b. Requirements (Fig. 3-12). The piston must withstand incredible punishment under se- vere temperature extremes. The following are examples of conditions that a piston must with- stand at normal highway speeds.
+
+(1) As the piston moves from the top of the cylinder to the bottom (or vice versa), it ac- celerates from a stop to a speed of approximately 50 mph (80 km/h) at midpoint, and then deceler- ates to a stop again. It does this approximately 80 times per second.
+
+(2) The piston is subjected to pressures on its head in excess of 1000 psi (6895 kPa).
+
+(3) The piston head is subjected to temper- atures well over 600°F (3160C).
+
+c. Construction Materials. When designing pistons, weight is a major consideration. This is because of the tremendous inertial forces created by the rapid change in piston direction. For this
+
+reason, it has been found that aluminum is the best material for piston construction. It has a very high strength-to-weight ratio. In addition to being lightweight, aluminum is an excellent conductor of heat and is machined easily. Pistons also are manufactured from cast iron. Cast iron also is an excellent material for pistons in low- speed engines. It is not suitable for high speeds because it is a very heavy material.
+
+d. Controlling Expansion (Fig. 3-13). Pis- tons must have features built into them to help them control expansion. Without these features, pistons would fit loosely in the cylinders when cold, and then bind in the cylinders as they warm up. This is a problem with aluminum, because it expands so much. To control expansion, pistons may be designed with the following features:
+
+(1) It is obvious that the crown of the piston will get hotter than the rest of the piston. To prevent it from expanding to a larger size than the rest of the piston, it is machined to a diameter that is approximately 0.03 to 0.04 in. (0.762 to 1.016 mm) smaller than the skirt area.
+
+(2) One of the ways to control expansion in the skirt area is to cut a slot up the side of the skirt. As a split-skirt piston warms up, the split will merely close up, thereby keeping the skirt from expanding outward and binding the piston in the cylinder.
+
+(3) Another variation of the split-skirt pis- ton is the T-slot piston. The T-slot piston is sim- ilar to the split-skirt piston with the addition of a horizontal slot that retards heat transfer from the piston head to the piston skirt.
+
+(4) Some aluminum pistons have steel braces cast into them to control expansion.
+
+e. Cam Grinding (Fig. 3-14). By making the piston egg-shaped, it will be able to fit the cylinder better throughout its operational temperature range. A piston of this configuration is called a cam-ground piston. Cam-ground pistons are machined so that their diameter is smaller parallel to the piston pin axis than it is perpendicular to it. When the piston is cold, it will be big enough
+
+across the larger diameter to keep from rocking. As it warms up, it will expand across its smaller diameter at a much higher rate than at its larger diameter. This will tend to make the piston round at operating temperature. Virtually all pistons in automotive applications are cam ground.
+
+f. Partial-Skirted (Slipper-Skirt) Pistons (Fig. 3-15). The purpose of the piston skirt is to keep the piston from rocking in the cylinder. The slipper-skirt piston has large portions of its skirt removed in the non thrust areas. Removal of the skirt in these areas serves the following purposes:
+
+(1) Lightens the piston, which, in turn, increases the speed range of the engine.
+
+(2) Reduces the contact area with the cylinder wall, which reduces friction.
+
+(3) Allows the piston to be brought down closer to the crankshaft without interference with its counterweights.
+
+g. Strength and-Structure (Fig. 3-16). When designing a piston, weight and strength are both
+
+critical factors. Two of the ways pistons are made strong and light are as follows:
+
+(1) The head of the piston is made as thin as Is practical. To keep it strong enough, there are ribs cast into the underside of it.
+
+(2) The areas around the piston pin are reinforced. These areas are called the pin bosses.
+
+h. Coatings. Pistons that are made from aluminum usually are treated on their outer sur- faces to aid in engine break-in and increase
+
+hardness. The following are the most common processes for treatment of aluminum pistons.
+
+(1) The piston is coated with tin so that it will work into the cylinder walls as the engine is broken In. This process results in a more perfect fit, shortening of the break-in period, and an In- crease in overall engine longevity.
+
+(2) The piston is anodized to produce a harder outside surface. Anodizing is a process that produces a coating on the surface by electrolysis. The process hardens the surface of the piston. This helps it resist picking up particles that may become embedded in the piston, caus- ing cylinder wall damage.
+
+3-6. Piston Rings.
+
+a. General (Fig. 3-17). Piston rings serve three Important functions:
+
+(1) They provide a seal between the piston and the cylinder wall to keep the force of the exploding gases from leaking into the crankcase from the combustion chamber. This leakage Is referred to as blowby. Blowby is detrimental to engine performance because the force of the exploding gases will merely bypass the piston rather than push it down. It also contaminates the lubricating oil.
+
+(2) They keep the lubricating oil from by- passing the piston and getting Into the combustion chamber from the crankcase.
+
+(3)They provide a solid bridge to conduct the heat from the piston to the cylinder wall. About one-third of the heat absorbed by the piston passes to the cylinder wall through the piston rings.
+
+b. Description (Fig. 3-18). Piston rings are secured on the pistons by fitting Into grooves. They are split to allow for installation and expan- sion, and they exert an outward pressure on the cylinder wall when installed. They fit into grooves that are cut into the piston, and are allowed to float freely in these grooves. A properly formed piston ring, working in a cylinder that is within limits for roundness and size, will exert an even pressure and a solid contact with the cylinder wall around its entire circumference. There are two basic clas- sifications of piston rings.
+
+(1) The Compression Ring. The compres- sion ring seals the force of the exploding mixture into the combustion chamber.
+
+(2) The Oil Control Ring. The oil control ring keeps the engine’s lubricating oil from get- ting Into the combustion chamber.
+
+c. Configurations. Piston rings are arranged on the pistons in three basic configurations. They are:
+
+(1) The three-ring piston (A, fig. 3-19) that has two compression rings from the top, followed by one oil control ring. This is the most common piston ring configuration.
+
+(2) The four-ring piston (B, fig. 3-19) that has three compression rings from the top, followed by one oil control ring. This configura- tion is common in diesel engines because they are more prone to blowby. This is due to the much higher pressures generated during the power stroke.
+
+(3) The four-ring piston (C, fig. 3-19) that has two compression rings from the top, followed by two oil control rings. The bottom oil control ring may be located above or below the piston pin. This is not a very common configuration in current engine design.
+
+and Configuration.
+
+In addition to the configurations mentioned previ- ously, there are some diesel engines that use five or more piston rings on each piston to control the higher operating pressures.
+
+d. Compression Ring. As stated in paragraph 3-6b, the purpose of the compression ring is to hold the pressure from the power stroke in the combustion chamber. There are many different cross sectional shapes of piston rings available (fig. 3-20).
+
+The various shapes of rings all serve to preload the ring so that its lower edge presses against the cylinder wall. As shown in figure 3-21, this serves the following functions:
+
+(1) The pressure from the power stroke will force the upper edge of the ring into contact with the cylinder wall, forming a good seal.
+
+(2) As the piston moves downward, the lower edge of the ring scrapes, from the cylinder walls, any oil that manages to work past the oil control rings.
+
+(3) On the compression and the exhaust strokes, the ring will glide over the oil, increas- ing its life.
+
+e. Heat Dam (Fig. 3-22). There is an addi- tional groove cut in the piston just above the top ring groove. The purpose of it is to divert some of the intense heat that is absorbed by the piston head away from the top ring. The groove Is called a heat dam.
+
+f. Ring Gap. The split in the piston ring is necessary for:
+
+(1) Installing the ring on the piston.
+
+(2) Allowing for expansion from heating.
+
+The gap must be such that there is enough space so that the ends do not come together as the ring heats up. This would cause the ring to break. This is illustrated in figure 3-23.
+
+There are a few variations of ring gap joints (fig. 3-24). Two cycle engines usually have pins in their ring grooves to keep the gap from turning. This is important because the ring would break if the ends were allowed to snap into the inlet or the exhaust ports.
+
+g. Second Compression Ring (Fig. 3-25). The primary reason for using a second com- pression ring is to hold back any blowby that may have occurred at the top ring. A significant amount of the total blowby at the top ring will be from the ring gap. For this reason, the top and the second compression rings are assembled to the piston with their gaps 60 degrees offset with the first ring gaps.
+
+h. Top Ring Groove Insert (Fig. 3-26). The top ring groove is very vulnerable to wear for the following reasons:
+
+(1) It is close to the piston head, subjecting it to intense heat.
+
+(2) The top compression ring is exposed directly to the high pressures of the compression stroke.
+
+To remedy the potential problem of premature top ring groove wear, some aluminum pistons are fitted with an insert in the top ring groove. The insert usually is made from nickel iron. Because of the better wear qualities, the ring groove will last longer than if the ring fit directly against the aluminum.
+
+i. Oil Control Rings (Fig. 3-27). The oil control rings serve to control the lubrication of the cylinder walls. They do this by scraping the excess oil from the cylinder walls on the down- stroke. The oil then is forced through slots in the piston ring and the piston ring groove. The oil then drains back into the crankcase. The rings are made in many different configurations that can be one-piece units or multipiece assemblies. Re- gardless of the configuration, all oil control rings work basically in the same way.
+
+j. Piston Ring Expanders (Fig. 3-28). Ex- pander devices are used in some applications. These devices fit behind the piston ring and force it to fit tighter to the cylinder wall. They are particularly useful in engines where a high degree of cylinder wall wear exists.
+
+k. Piston Ring Wear-in (Fig. 3-29). When piston rings are new, a period of running is necessary to wear the piston rings a small amount so that they will conform perfectly to the cylinder walls. To make the job of wearing in the piston rings more effective and quicker, the following procedures are performed.
+
+(1) The cylinder walls are surfaced with a tool called a hone. The hone leaves fine scratches in the cylinder walls. The piston rings are made with grooves in their faces. The grooved faces of the piston rings rubbing against the roughened cylinder walls serve to accelerate ring wear during the initial stages, and speed wear-in. As the surfaces wear smooth, the rings will be worn in.
+
+(2) Extreme pressure may be applied to high spots on the piston rings during the wear-in period. This can cause the piston rings to
+
+overheat at these points and cause damage to the cylinder walls In the form of rough streaks. This condition is called scuffing. New piston rings are coated with a porous material such as graphite, phosphate, or molybdenum. These materials absorb oil and serve to minimize scuffing. As the rings wear In, the coatings wear off.
+
+(3) Some piston rings are chrome plated. Chrome-plated rings generally provide better overall wearing qualities. They also are finished to a greater degree of accuracy, which lets them wear in faster.
+
+3-7. Piston Pins.
+
+a. General (Fig. 3-30). The piston pin serves to connect the piston to the connecting rod. It passes through the pin bosses in the piston and the upper end of the connecting rod.
+
+b. Construction (Fig. 3-31). A piston pin must be hard
+
+to provide the desired wearing qualities. At the same
+
+time, the piston pin must not be brittle. To satisfy the overall requirements of a piston pin, it was found that c.
+
+a casehardened steel pin is best. Casehardening is a process that hardens the surface of the steel to any desired depth. The pin is also made hollow to reduce the overall weight of the reciprocating mass.
+
+c. Configurations. The following are the bushing.
+
+(2) A semifloating pin (B, fig. 3-32) is locked to the connecting rod by a screw or friction. The pin pivots freely in the piston pin bosses.
+
+(3) The full-floating piston pins (C, fig. 3-32) pivot freely in the connecting rod and the piston pin bosses. The outer ends of the piston pins are fitted with lockrings to keep the pin from sliding out and contacting the cylinder walls.
+
+a. General (Fig. 3-33). The connecting rods connect the pistons to the crankshaft. They must be extremely strong to transmit the thrust of the pistons to the crankshaft, and to withstand the Inertial forces of the directional changes of the pistons.
+
+b. Construction (Fig. 3-33). The connecting rods are normally in the form of an I-beam. This design gives the highest overall strength and lowest weight. They usually are made of forged steel, but may be made of aluminum in small engines. The upper end attaches to the piston pin, which connects it to the piston. The lower end is attached to the crankshaft. The lower bearing hole in the connecting rod is split so that it may be clamped to the crankshaft. Because the lower end has much greater movement than the upper, the hole is much larger. This provides much greater bearing surface.
+
+3-9. Crankshaft.
+
+a. General (Fig. 3-34). The crankshaft is the part of the engine that transforms the reciprocating motion of the pistons to rotating motion.
+
+b. Construction (Fig. 3-34). Crankshafts are made from forged or cast steel. The forged steel unit is the stronger of the two. It usually is reserved for commercial and military use. The cast unit is used primarily in light and regular duty gasoline engines. After the rough forging or casting is produced, it becomes a finished product by going through the following steps:
+
+(1)All surfaces are rough machined.
+
+(2)All holes are located and drilled.
+
+(4) The bearing journals are case- hardened.
+
+(5) The bearing journals are ground to size.
+
+(6) Threads are cut into necessary bolt holes.
+
+c. Throw Arrangements (Fig. 3-35). The arrangement of the throws on the crankshaft determines the firing order of the engine. The position of the throws for each cylinder arrangement is paramount to the overall smoothness of
+
+operation. For the various engine configurations, typical throws are arranged as follows:
+
+(1) In-line four-cylinder engines have throws one and four offset 180 degrees from throws two and three.
+
+(2) V-type engines have two cylinders operating off of each throw. The two end throws are on one plane offset 180 degrees apart. The two center throws are on another common plane. They are also offset 180 degrees apart. The two planes are offset 90 degrees from each other. (3) In-line six-cylinder engines have their throws arranged on three planes. There are two throws on each plane that are in line with each other. The three planes are arranged 120 degrees apart.
+
+(4) V-type 12-cylinder engines have throw arrangements like the in-line six-cylinder engines. The difference is that each throw accepts two-engine cylinders.
+
+(5) V-type six-cylinder engines have three throws at 120-degree intervals. Each throw accepts two-engine cylinders.
+
+d. Crankshaft Vibration. A crankshaft is very prone to vibration because of its shape, extreme weight, and the tremendous forces acting on it. The following are three basic areas that are of concern when considering vibration in crankshaft design.
+
+(1) Vibration Due to Imbalance (Fig. 3-36). An inherent problem with a crankshaft is
+
+that it is made with offset throws. The weight of the throws tend to make the crankshaft rotate elliptically. This Is aggravated further by the weight of the piston and the rod. To eliminate the problem, weights are positioned along the crankshaft. One weight is placed 180 degrees away from each throw. They are called counterweights and are usually part of the crankshaft, but may be separate bolt-on items on small engines.
+
+(2) Vibration Due to Deflection. The crank- shaft will have a tendency to bend slightly when subjected to the tremendous thrust from the piston. This deflection of the rotating member will cause a vibration. This vibration is minimized by
+
+heavy crankshaft construction and sufficient support along its length by bearings.
+
+(3) Torsional Vibration (Fig. 3-37). Torsional vibration occurs when the crankshaft twists because of the power stroke thrusts. It Is particularly noticeable on engines with long crankshafts, such as In-line engines. It is a major reason why in-line, eight-cylinder engines are no longer produced. The vibration is caused by the cylin- ders furthest from the crankshaft output. As these cylinders apply thrust to the crankshaft, it twists, and as the thrust decreases, the crankshaft unwinds. The twisting and unwinding of the crankshaft produces a vibration. The use of a
+
+vibration damper at the end of the crankshaft opposite the output end will serve to absorb torsional vibration. There are a few variations of the vibration damper, but they all accomplish their task in basically the same manner. They all employ a two-piece design. The differences in design are in how the two pieces are linked together. One type of damper links the pieces together by an adjustable friction clutch. Whenever a sudden change in crankshaft speed occurs, it causes the friction clutch to slip. This is because the outer section of the damper will tend to continue at the same speed. The slippage of the clutch serves to absorb the torsional vibration. Another type of damper links the two pieces together with rubber. As the crankshaft speeds up, the rubber compresses, storing energy. This serves to minimize the effect of crankshaft speed increase. As the crankshaft unwinds, the damper releases the energy stored in the compressed rubber to cushion the speed change in the other direction.
+
+e. Lubrication (Fig. 3-38). The crankshaft has internal drilled passages to supply lubrication to its bearings.
+
+3-10. Crankshaft Bearings.
+
+a. General (Fig. 3-39). The crankshaft is supported in the crankcase and rotates in the main bearings. The connecting rods are sup- ported on the crankshaft by the rod bearings.
+
+b. Construction (Fig. 3-40). Crankshaft bearings are made as precision inserts. They simply slip into place in the upper and lower halves
+
+of the shells. When the halves are clamped together, they form a precision bearing that will be a perfect fit for a properly sized shaft. The bearing inserts and the mating surface that hold them must be sized perfectly. The insert merely slips into place and is held from turning by the locating tab.
+
+c. Materials (Fig. 3-41). Most bearings begin with a steel backing to give them rigidity. The lining then is applied to the steel backing. The lining usually consists of an alloy of copper, tin, and lead. The lining also may be made of babbit. Babbit is a popular bearing material that is an alloy consisting of copper, tin, and antimony. The lining thickness usually ranges from 0.002 to0.005 in. (0.051 to 0.127 mm). The bearing then is coated with either aluminum or tin to a thickness of approximately 0.001 in. (0.025 mm).
+
+d. Bearing Requirements (Fig. 3-42). Bearings must be able to support the crankshaft rotation and deliver power- stroke thrusts under the most adverse conditions. A good bearing must have the following qualities.
+
+(1) Strength. Engine bearings are constantly subjected to tremendous forces from the thrust of the power strokes. The bearings must be able to withstand these loads without spreading out or cracking.
+
+(2) Corrosion. The bearing must be resistant to moisture and acids that always are present in the crankcase. TA233370
+
+(3) Antiscuffing. The bearing surface should be able to absorb enough oil to keep It from scuffing during startup, or any other time when It must run momentarily without an oil supply.
+
+(4) Embedabillty. The surface of the bearing must be soft enough to allow particles of foreign matter to embed themselves and prevent damage of the shaft journal.
+
+(5) Conformability. The bearing must be able to conform or fit itself to the surface of the crankshaft Journal. (6) Conductivity. The bearings must be able to conduct heat to the connecting rod so that they will not overheat.
+
+(7) Resistance to Heat. The bearing must be able to maintain all of these characteristics throughout its entire operating temperature range.
+
+e. Connecting Rod Lubrication (Fig. 3-43). The connecting rod bearings fit into the lower end of the connecting rod. They are fed a constant supply of oil through a hole In the crankshaft Journal. A hole In the upper bearing half feeds a passage In the connecting rod to provide oil to the piston pin.
+
+f. Crankshaft Main Bearings (Fig. 3-44). The upper halves of the main bearings fit right into the crankcase, and the lower halves fit into the caps that hold the crankshaft in place. The main bearings have holes drilled in their upper halves through which a supply of oil is fed to them. The crankshaft has holes drilled in the journals that receive oil from the main bearings to feed the rod bearings. It is a common practice to cut a groove In the center of the main bearing Inserts. This supplies a more constant supply of oil to the connecting rod bearings. One of the main bear- Ings also serves as a thrust bearing. This controls back and forth movement of the crankshaft. This thrust bearing Is characterized by side flanges.
+
+3-11. Flywheel(Fig.3-45).
+
+a. General. The flywheel stores energy from the power strokes, and smoothly delivers it to the drive train of the vehicle. It mounts on the end of the crankshaft, between the engine and the transmission.
+
+b. Manual Transmission. When the vehicle Is equipped with a manual transmission, the fly- wheel serves to mount the clutch.
+
+c. Automatic Transmission. When the vehicle Is equipped with an automatic transmission, the flywheel serves to support the front of the torque converter. On some configurations, the flywheel is combined with the torque converter.
+
+d. Starter Ring Gear. The outer edge of the flywheel Is lined with gear teeth. They are to engage the drive gear on the starter motor.
+
+e. Construction. The flywheel on large, low- speed engines usually Is made of cast iron. This Is desirable due to the heavy weight of the cast Iron, which helps the engine maintain a steady speed. Small, high-speed engines usually use a forged steel or forged aluminum flywheel for the following reasons.
+
+(1) The cast iron is too heavy, giving it too much inertia to allow the speed variations necessary on small engines.
+
+(2) Cast iron, because of its weight, will pull itself apart at high speeds due to centrifugal force.
+
+Section III. 3-12. Valves and Seats.
+
+a. General (Fig. 3-46). Each cylinder in a four-stroke cycle engine must have one intake and one exhaust valve. The valves that are commonly used are of the poppet design. The word poppet is derived from the popping action of the valve. Poppet-type valves are made in the following three basic shapes: the mushroom, semitulip, and tulip. The valve shape that is used in a given engine is dependent upon the requirements and combustion chamber shape.
+
+b. Construction. Construction and design considerations are very different between intake and exhaust valves. The difference is based on their temperature operating ranges. Intake valves are kept cool by the incoming Intake mixture. Exhaust valves are subject to intense heat from the burnt gases that pass by it. The temperature of the exhaust valve can be in excess of 13000F (704.40C). Intake valves are made of a nickel chromium alloy. Exhaust valves are made of a silichrome alloy. In certain heavy-duty water- cooled and most air- cooled engines, the exhaust valves are hollowed out and filled partially with metallic sodium (B, fig. 3-47). The sodium, which liquefies at operating temperatures, splashes between the valve head, where it picks up heat, and the valve stem, where the heat is transferred to the valve guide. Some exhaust valves use a special hard facing process (A, fig. 3-47) that keeps the face of the valve from taking on the shape of the valve seat at high temperatures.
+
+c. Valve Seats (Fig. 3-48). valve seats are very important, as they must match the face of the valve head to form a perfect seal. The seats are made so that they are concentric with the valve guides; that is, the surface of the seat is an equal distance from the center of the guide all around. There are two common angles that are used when machining the valve seat; they are 30 and 45 degrees. The face of the valve is usually ground with a one-half to a 1-degree difference to help the parts seat quickly. In some cases, a small portion of the valve seat has an additional 15- degree angle ground into it to narrow the contact area of the valve face and seat. By reducing the contact area, the pressure between the mating parts is increased, thereby forming a better seal. The valve seats can be either part of the cylinder head or separate inserts. Valve seat inserts generally are held into the head by an interference fit.
+
+The head is heated in an oven to a uniform high temperature and the seat insert is shrunk by cooling it in dry ice. While the two parts are at opposite temperature extremes, the seat insert is pressed into place.
+
+d. Valve Guides (Fig. 3-49). The valve guides are the parts that support the valves in the head. They are machined to a fit of a few thousandths of an inch clearance with the valve stem. This close clearance is important for the following reasons:
+
+(1) It keeps the lubricating oil from getting
+
+sucked into the combustion chamber past the intake valve stem during the intake stroke.
+
+(2) It keeps exhaust gases from getting into the
+
+crankcase area past the exhaust valve stems during the exhaust stroke. (3) It keeps the valve face in perfect alignment with the
+
+valve seat. Valve guides may be cast
+
+Integrally with the head, or they may be removable. Removable valve guides usually are press fit into the head.
+
+e. Valve Springs, Retainers, and Seals
+
+(Fig. 3-50). The valve assembly is completed
+
+by the spring, retainer, and seal. Before the spring and the retainer fit into place, a seal is placed over the valve stem. The seal acts like an umbrella to keep the valve operating mechanism oil from running down the valve stem and into the combustion chamber. The spring, which keeps the valve in a normally closed position, is held in place by the retainer. The retainer locks onto the valve stem with two wedged-shaped parts that are called valve keepers.
+
+f. Valve Rotators. It Is common in heavy-duty applications to use mechanisms that make the exhaust valves rotate. The purpose is to keep carbon from building up between the valve face and seat, which could hold the valve partially open, causing it to burn. The release-type rotator (A, fig. 3-51) releases the spring tension from the valve while open. The valve then will rotate from engine vibration. The positive rotator (B, fig. 3-51) is a two-piece valve retainer with a
+
+VALVE TO VALVE SEAT RELATIONSHIP
+
+flexible washer between the two pieces. A series of balls between the retainer pieces roll on machined ramps as pressure is applied and released from the opening and the closing of the valve. The movement of the balls up and down the ramps translates into rotation of the valve.
+
+3-13. Camshafts and Tappets.
+
+a. General. The camshaft provides for the opening and closing of the engine valves. The
+
+tappets or the lifters are the connecting link between the camshaft and the valve mechanism. b. Camshaft Construction. Camshafts usually are made from cast or forged steel. The surfaces of the lobes are hardened for long life. c. Camshaft Support (Fig. 3-52). The cam-shaft is supported, and rotates, in a series of bearings along its length. The bearings usually are pressed into their mountings and made of the same basic construction as crankshaft bearings. In some cases, when the engine is constructed of aluminum, the camshaft is supported directly in its mountings and no bearings are used. The thrust, or the back and forth movement, usually is taken up by the thrust plate, which bolts to the front of the engine block. Any forward thrust loads are then taken up by the front camshaft bearing journal. The drive gear or sprocket then is bolted to the front of the camshaft. Its rear surface rides against the thrust plate to take up any rearward thrust. d. Driving the Camshaft. The following are the three basic configurations for driving the cam-shaft.
+
+(1) Gear Drive (A, Fig. 3-53). A gear on the
+
+crankshaft meshes directly with another gear on the camshaft. The gear on the crankshaft usually is made of steel, while the gear on the camshaft may be steel for heavy-duty applications, or it may be made of aluminum or pressed fiber when quiet operation is a major consideration. The gears are helical in design (para 19-4). Helical gears are used because they are stronger, and they also tend to push the camshaft rearward during operation to help control thrust. (2) Chain Drive (B, Fig. 3-53). Sprockets on the
+
+camshaft and the crankshaft are linked by a continuous chain. The sprocket on the crankshaft usually is made of steel, while the sprocket on the camshaft may be steel for heavy-duty applications. When quiet operation is a major consideration, an aluminum sprocket with a nylon covering on the teeth is used. There are two common types of timing chains. One is a silent link-type chain that is used in standard and light-duty applications. The other is the roller-link chain, which is used in heavy-duty applications. The
+
+and Seals.
+
++Figure 3-51. Valve Rotators.
+
+roller link chain may have a single or a double row of links.
+
+(3) Belt Drive (C, Fig. 3-53). Sprockets on the crankshaft and the camshaft are linked by a continuous neoprene belt. The belt has square-shaped Internal teeth that mesh with teeth on the sprockets. The timing belt is reinforced with nylon or fiberglass to give It strength and prevent stretching. This drive configuration Is limited to overhead camshaft engines.
+
+e. Timing Belt and Chain Tensioners (Fig. 3-53). Most engines with chain-driven and all engines with belt- driven camshafts employ a tensioner. The tensioner pushes against the belt or chain to keep It tight. This serves to keep It from
+
+slipping on the sprockets, provide more precise valve timing, and compensate for component stretch and wear. Engines with belt-drive configuratlons usually use a spring-loaded idler wheel. Chain- driven configurations usually use a fiber rubbing block that Is either spring loaded or hydraulic. The hydraulic tensioner Is a device that works by the same principle as a hydraulic lifter (para 3-13h(2)). The hydraulic tensioner Is much more desirable for use with a rubbing block because it takes up the slack in the chain without exerting excessive pressure, resulting in longer component life. f. Timing Marks (Fig. 3-53) The camshaft and the crankshaft always must remain In the same relative position to each other. Because the
+
+crankshaft must rotate twice as fast as the camshaft, the drive member on the crankshaft must be exactly one-half as large as the driven member on the camshaft. In order for the camshaft and crankshaft to work together, they must be In the proper Initial relation to each other. This Initial position between the two shafts Is designated by marks that are called timing marks. To obtain the correct Initial relationship of the components, the corresponding marks are aligned at the time of assembly.
+
+g. Auxiliary Camshaft Functions (Fig. 3-54). The camshaft, after being driven by the crank-shaft, In turn drives other engine components. On gasoline engines, the oil pump and the distributor usually are driven from a common gear that Is machined Into the camshaft. The fuel pump Is also driven by the camshaft. This usually Is accomplished by machining an extra lobe on the
+
+camshaft to operate the pump. On diesel engines, the camshaft often Is utilized to operate the fuel Injection system.
+
+h. Tappets. Tappets (or lifters) are used to link the camshaft to the valve mechanism. The bottom surface Is hardened and machined to be compatible with the surface of the camshaft lobe. The following are the two basic lifter classifications:
+
+(1)Mechanical Tappets (Fig. 3-55). Mechanical (or solid) lifters are simply barrel-shaped pieces of metal. When used In flathead engines, they have an adjusting screw mechanism to set the clearance between the tappets and the valve stems. Mechanical tappets may also come with a wider bottom surface. These are called mushroom tappets. Another variation Is the roller tappet, which has a roller contacting the camshaft. They are used mostly In heavy-duty applications to reduce component wear.
+
+(2)Hydraulic Tappets (Fig. 3-56). The hydraulic tappet Is very popular In overhead valve engines. It uses oil under pressure to automatIcally maintain zero clearance In the valve mechanism. The lifter body, which contacts the camshaft lobe, Is hollow. Inside the lifter body, there Is a plunger that operates the valve mechanism. Injecting oil into the cavity under the
+
+plunger will regulate its height, thereby adjusting valve
+
+mechanism clearance. The hydraulic tap-pet operates as follows: oil, supplied by the engine lubrication system, reaches the lifter body and enters it through passage (1). The oil then passes through passage (2), to fill the plunger. The oil then passes through passage (3), where it pushes the check valve off of its seat to enter the cavity under the plunger. As the oil fills the cavity, it pushes the plunger up to where it contacts the valve mechanism. When the camshaft pushes the lifter body up, the oil is trapped in the cavity and cannot escape because the check ball seals the opening. This trapped oil then becomes a solid link between the lifter body and the plunger. The constant pressurized supply of oil will maintain zero clearance in the valve mechanism.
+
+i. Camshaft-to-Tappet Relationship (Fig.3-57). The
+
+face of the tappet and the lobe of the camshaft are designed so that the tappet will be made to rotate during operation. The cam lobe is machined with a slight taper that mates with a crowned lifter face. The camshaft lobe does not meet the tappet in the center of its face. Using this
+
+type of design causes the tappet face to roll and rotate on the cam lobe rather than slide. This greatly increases component life.
+
+3-14. Valve Operating Mechanism.
+
+a. General. The valves in overhead valve and overhead camshaft engines use additional components to link the camshaft to the valves. Overhead valve engines use push rods and rocker arms. Overhead camshaft engines use various configurations of rocker arms. b. Push Rods (Fig. 3-58). Push rods usually are constructed of hollow steel. Most air-cooled engines use the push rods to supply lubricant to the upper valve mechanism.
+
+c. Rocker Arms (Fig. 3-59). Rocker arms are manufactured of steel, aluminum, or cast iron. The most common for current use are the stamped steel variety. They are lightweight, strong, and cheap to manufacture. They usually pivot on a stud and ball, though some engines use a shaft arrangement. Cast iron rockers are used TA233382
+
+in larger, low-speed engines. They almost. always pivot on a common shaft. Aluminum rocker arms generally are used on small high-speed applications. On special applications, such as engines used in competition, aluminum rocker arms will be pivoted in needle bearings.
+
+d. Adjusting Clearance (Fig. 3-60). The provision for adjusting valve clearance on solid-
+
+tappet, valve-in-head engines is usually in the form of a screw on the rocker arm. On overhead valve (or push rod engines), there is usually a screw-type adjustment where the push rod actuates it. The adjusting screw can either be of the self-locking type, or have a jamnut to lock it. A few engines are equipped with adjustments on an adjustable mounting pivot. By turning the
+
+adjusting screw, the height of the rocker arm changes. On some overhead camshaft engines, the camshaft is positioned directly over the top of the valve stems. On these engines, the valve
+
+clearance is adjusted by putting selective shims between the cam lobe and the lifter. Various thicknesses of the shims are used to obtain the desired clearances.

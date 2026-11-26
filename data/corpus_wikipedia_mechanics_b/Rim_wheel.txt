@@ -1,0 +1,44 @@
+Rim (wheel)
+
+The rim is the "outer edge of a wheel, holding the tire". It makes up the outer circular design of the wheel on which the inside edge of the tire is mounted on vehicles such as automobiles. For example, on a bicycle wheel the rim is a large hoop attached to the outer ends of the spokes of the wheel that holds the tire and tube. In cross-section, the rim is deep in the center and shallow at the outer edges, thus forming a "U" shape that supports the bead of the tire casing.
+In the 1st millennium BC, an iron rim was introduced around the wooden wheels of chariots to improve longevity on rough surfaces.
+
+== Characteristics ==
+
+Design
+The first pneumatic tires for bicycles were simple tubes in shape secured to the wooden outer concave surfaced circumference of the wheel by glue and air pressure pressing them against it. The surface for receiving the tube was not very secure thus causing the tires to sometimes come off the rims. Bicycle manufacturer and inventor Thomas B. Jeffery developed an improved tire that had a wire embedded in the rubber of the tire; that wire could be tightened onto the rim. His 1882 patent became the ancestor of all clincher tires, the design found on modern bikes and cars. Modern clincher tires have wires embedded on both beads of the tire so the wires fit inside the edges of the rim to hold the tire in place when it is fully inflated.
+Diameter (effective)
+A distance between the bead seats (for the tire), as measured in the plane of the rim and through the axis of the hub which is or will be attached, or which is integral with the rim.
+Width (effective)
+A separation distance between opposed rim flanges. The flange-to-flange width of a rim should be a minimum of three-quarters of the tire section width. And the maximum rim width should be equal to the width of the tire tread.
+Type
+Depends on the type of vehicle and tire. There are various rim profiles, as well as several rim components.
+Modern passenger vehicles and tubeless tires typically use one-piece rims with a "safety" rim profile. The safety feature helps keep the tire bead held to the rim under adverse conditions by having a pair of safety humps extending inwardly of the rim toward the other tire bead seat from an outer contoured surface of the rim.
+Heavy vehicles and some trucks may have a removable multi-piece rim assembly consisting of a base that mounts to the wheel and axle. They then have either a side ring or a side and lock ring combination. These parts are removable from one side for tire mounting, while the opposite side attached to the base has a fixed flange.
+Low tire pressure applications such as off-roading and drag racing use a beadlock that clamps or physically attaches the bead of the tire to the rim of the wheel. This reduces the chance of the tire separating from the rim, causing a sudden deflation.
+Material
+Various metals can be used for the rim. Commonly seen are alloy (magnesium and aluminum), mag (magnesium), aluminum, and chrome. Teflon coatings are sometimes also applied for an extra layer of protection.
+Vehicle performance
+Because the rim is where the tire resides on the wheel and the rim supports the tire shape, the dimensions of the rims are a factor in the handling characteristics of a vehicle. For example:
+Overly wide rims in relation to the tire width for a particular car may result in more vibration and a less comfortable ride because the sidewalls of the tire have an insufficient curvature to flex properly over rough driving surfaces. Oversized rims may cause the tire to rub on the body or suspension components while turning.
+Overly narrow rims in relation to the tire width may cause poor handling, as the tire may distort sideways under fast cornering. On motorcycles, a narrow rim will alter the tire profile, concentrating tire wear in a very small area during cornering, with a smaller contact patch during braking.
+On bicycles, the optimum tire width is about 1.8 times the rim's internal width. An example is a 35 mm tire on a rim with an ETRTO 17 mm internal width, or one-and-a-half times the rim's external width. Considerable variation outside this range is safe, but very wide tires on a narrow rim can overstress the rim and damage the tire sidewalls, whereas very narrow tires on a wide rim give a hard ride and can result in a high-pressure tire blowing off. However, wider wheels and wider tires are increasingly popular, making prievious guidelines obsolete because manufacturers are focused on providing a more comfortable and faster riding experience.
+
+== Production ==
+
+A standard automotive steel wheel rim is made from rectangular sheet metal. The metal plate is bent to produce a cylindrical sleeve, and then the two free edges of the sleeve are welded together. At least one cylindrical flow spinning operation is carried out to obtain the desired thickness profile of the sleeve—and the desired angle of inclination relative to the axial direction in the zone for the outer seat. The sleeve is then shaped to obtain the rims on each side with a radially inner cylindrical wall in the zone of the outer seat and with a radially outer frustoconical wall inclined at an angle corresponding to the standard inclination of the rim seats. The rim is then calibrated.
+To support the cylindrical rim structure, a disc is made by stamping a metal plate. It has to have appropriate holes for the center hub and lug nuts. The radial outer surface of the wheel disk has a cylindrical geometry to fit inside the rim. The rim and wheel disk are assembled by fitting together under the outer seat of the rim and then being welded together. The disk is welded in place such that the center of the wheel is equal to the center of the hub. The distance between the centerline of the rim and the mounting plane of the wheel is called the "offset" and can be positive, negative, or zero.
+One-piece rim and wheel assemblies (see image) may be obtained by casting or forging.
+
+== Meaning ==
+Used broadly, or used figuratively, the word rim can mean the outer edge of any circular object.
+On a bicycle wheel, the rim is clearly just one component of the assembly, and it can be purchased separately and replaced if damaged or if the sidewalls have been eroded by rim brakes.
+In discussions of automobiles, however, the terms wheel and rim are often incorrectly used synonymously, as in decorative wheels being called rims. One engineering text says, "alloy wheels [are] often incorrectly called aluminum rims".
+Some authors are careful to use rim literally for only the outer portion of a wheel, where the tire mounts, just as the rim of a coffee cup or a meteor crater does not refer to the entire object. Others use rim to mean the entire metal part to which the tire mounts, because the rim and the wheel are often cast or stamped from a single piece of metal instead of being distinct as with wire wheels. At the same time, "wheel" may refer to the entire rotating assembly, including the tire.
+
+== Railroad usage ==
+
+In railroad usage, the conical running surface of the wheels may be called a rim, a wheel tread, or a tire.
+
+== Historical development ==
+Early wheels of motor vehicles started as bicycle wheels, with the rims attached to the central axle by spokes. As vehicles became heavier, wood-spoked wagon wheels with steel rims were used. Later, solid rubber tires were mounted on the rims of those wooden wheels. Some wooden automobile wheels had a demountable steel rim that was bolted onto the outer circumference of the wooden wheel. Wheels that were completely made of metal (single or multiple pieces) gradually became widespread around the 1930s.

@@ -1,0 +1,29 @@
+Tubeless tire
+
+A tubeless tire (also spelled as tubeless tyre in Commonwealth English) is a pneumatic tire that does not require a separate inner tube.
+Unlike pneumatic tires which use a separate inner tube, tubeless tires have continuous ribs molded integrally into the bead of the tire that are forced by air pressure into a flange on the metal rim of the wheel, sealing the tire to the rim.
+
+== History ==
+Many patents had been filed covering tubeless tires. Killen Tire applied for a patent in 1928 and was granted GB patent 329955  in the UK in 1930. The Wingfoot Corporation, a subsidiary of Goodyear Tire were granted a patent in South Africa in 1944. Due to technical problems, most of these designs saw only limited production or were abandoned.
+Frank Herzegh working for BF Goodrich applied for a patent in 1946 and eventually received US patent 2587470  in 1952 in the United States. By 1955 tubeless tires became standard equipment on new cars. BF Goodrich had to defend their patent in court several times, due to the similarities of previous designs. The primary difference between the BF Goodrich design and their predecessors was the usage of butyl rubber, which was more resistant to air leakage than the natural rubber used in the other designs.
+
+== Safety ==
+Traditional designs of pneumatic tires required a separate inner tube which could fail for a number of reasons, such as incorrect tire fit, friction between the tire wall and inner tube generating excess heat, or a puncture. Tubeless tire technology does away with the need for an inner tube thereby increasing safety. In a tubeless tire, the tire and the rim of the wheel form an airtight seal, with the valve being directly mounted on the rim. If a tubeless tire gets a small puncture, air escapes only through the hole, leading to a gentle deflation. Conversely, a tubed tire, with an inner tube, could burst like a balloon, leading to deflation of the tire which could result in sudden loss of control of the vehicle. However, the "bursting like a balloon" scenario is highly unlikely due to fact that the inner tube is inside of the tire and will deflate at a rate proportional to the puncture hole size. In antique automobiles, made before the mid 1950s, the rims are not designed for tubeless tires, and an inner tube is required to prevent slow leaks at the bead.
+
+== Advantages of tubeless tires ==
+Tubeless tires provide several advantages, such as remaining operational at lower air pressure. Due to their high width, tubeless tires are less likely to get punctured than regular tube tires. Air leakage is also reduced as the rubber in the tire keeps the air trapped for longer, giving an extra time to drive safely and pull over. In addition, mending a tubeless tire is easier than a traditional one—a simple liquid sealant poured over the puncture is often enough to patch it. Furthermore, the higher air pressure inside a tubeless tire provides more stability and comfort while driving. Lastly, the lack of a tube also boosts fuel efficiency due to reduced tire friction.
+
+== Tire sealants ==
+Liquid tire sealant can be injected into tubeless tires to prevent deflation in case of small punctures, although there is controversy regarding its compatibility with direct tire pressure monitoring systems (TPMS) that employ sensors mounted inside the tire.  Some manufacturers of sealants assert that their products are indeed compatible,  but others warned that, e.g., the "sealant may come in contact with the sensor in a way that renders the sensor TEMPORARILY inoperable until it is properly cleaned, inspected and re-installed by a tire care professional".  Such doubts are also reported by others.  Use of such sealants may void the TPMS sensor warranty.
+
+== Bicycle tires ==
+A tubeless bicycle tire system requires a compatible tire, an airtight rim—capable of being sealed at the valve stem, spoke holes (if they go all the way through the rim) and the tire bead seat.  Liquid sealant is added inside the tire to prevent leaking around the bead and to seal holes from small punctures, but the sealant can be messy to mount or in case of punctures.
+
+Tubeless systems typically utilize Presta valves with removable cores. Some feature a larger internal diameter than usual Presta valves to prevent clogging and to accommodate more air flow during installation.
+The main benefit of tubeless tires is the ability to use low air pressure for better traction without getting pinch flats because there is no tube to pinch between the rim and an obstacle. Lower pressures mean improved comfort and rolling performance on rough surfaces. Since there’s no inner tube, there’s no friction between tire and tube. Many punctures will self seal. Most punctures that don’t seal are easy to fix with a tire plug.
+
+=== Mountain and gravel ===
+UST or Universal System Tubeless is a US patent 6257676  rim designed by Mavic with hooked edges designed to seal with specially designed tires. Several companies such as Michelin and Hutchinson make tires compatible with UST rims. UST was the first tubeless system for bicycles. Other companies such as Stan’s NoTubes, Bontrager, DT Swiss, and WTB have their own similar system called Tubeless Ready.
+
+=== Road ===
+In 2006, Shimano and Hutchinson introduced a tubeless system for road bicycles. There has been a slow migration of the professional peloton to tubeless designs, with the change happening slowly over the later end of the 2010s with tubeless turning up on a meaningful number of bikes around the 2017 season and continuing to gain popularity into the early 2020s. As of 2024, most of the professional peloton is now using a tubeless setup for most applications with the odd UCI pro team using tubular or clinchers in certain races or stages. Tubeless tyres now dominate the lowest rolling resistance charts.

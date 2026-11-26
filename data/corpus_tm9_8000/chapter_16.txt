@@ -1,0 +1,213 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 16
+
+Section I. MOTOR VEHICLE LIGHTING
+
+16-1. General (Fig. 16-1). The history of motor vehicle lighting parallels the history of the lighting of houses and buildings, with oil lamps and gas lamps having been used In the early motor vehicles. With the development of a satisfactory electrical system, electric lighting has become the standard means of lighting motor vehicles. The lighting system found on most modern motor vehicles consists of the following:
+
+a. Two headlights for Illuminating the road ahead of the vehicle.
+
+b. Two parking, or side, lights for Indicating the location of the vehicle when parked.
+
+c. Taillights to light the rear license plate and to show a red light to the rear.
+
+d. Instrument panel lights to Illuminate the Instruments.
+
+e. Body lights, such as dome and step lights, to light the Interior of the vehicle.
+
+f. Special lights, such as spotlights, signal lights, blackout lights, and stop and backing lights.
+
+g. Wires and control switches to connect these lights and lamps to the current source.
+
+16-2. Lamps.
+
+a. General Description (Fig. 16-2). Small gas- filled Incandescent lamps with tungsten filaments are used on motor vehicles. The filaments supply the light when sufficient current Is flowing through them. The lamps are designed to operate at low voltage, such as 6, 12, or 24 volts.
+
+b. Construction (Fig. 16-2). Most lamps are provided with a single contact for each filament within the lamp, the current through each filament being completed to the shell of the lamp base. A double filament lamp with the single-contact construction is shown in figure 16- 2. Two contacts are provided on the lamp base, each being connected with one of the filaments. The return from both filaments is to the lamp base shell, which is grounded through the lamp socket. Thus, there are two separate circuits with two contacts on the base, each of which might properly be termed a single contact, for a grounded circuit. Because the volt-
+
+age used in automotive electrical systems is low and the current required as a result is high, the filaments are much shorter and stronger than those used for standard house lighting lamps. A short and thick, rather than a long and thin, filament can withstand rough treatment, and this is desirable in the case of a lamp subjected to the vibrations of a motor vehicle. A short filament also provides a concentrated light source that will give a better focus.
+
+c. Size (Fig. 16-2). Lamps range in size from the small one-half candlepower instrument panel lamps to the large 50 or more candlepower driving lamps.
+
+d. Current Requirements. The 2-candle power lamp consumes 0.21 ampere at 12 volts. The 4- candlepower lamp consumes 0.22 ampere at 12 volts. A lamp similar to the one shown in figure 16-5, having two filaments, one of 32 candlepower and the other of 21 candlepower, will draw 1.3 and 1.8 amperes. One reason for the rapid discharge of storage batteries in winter is the increased number of hours that lamps are used. There is a direct relation between the total current
+
+use and the number of lamps used. All storage batteries are rated by ampere-hours; that is, the number of hours a battery can be used at a certain discharge amperage before it becomes depleted. For instance, two headlight lamps burning at 4 amperes each, a total of 8 amperes, would discharge a storage battery rated at 80 ampere- hours In approximately 10 hours, unless the generator charged the battery.
+
+163. Light Beams(Fig. 16-3).
+
+a. Use of Reflector. A lamp bulb is mounted within a reflector so that the light can be gathered and directed In a confined beam. The best light beam from a lamp is obtained by the use of a parabolic or bowl-shaped - reflector, which is the type In general use. There is a focal point near the rear of the parabolic reflector at which the light rays from the lamp are picked up by the polished surface of the reflector and directed In parallel lines to give a beam with a circular cross section. Any other position of the lamp will not give as limited a beam, but will tend to scatter the light.
+
+b. Use of Prismatic Lens. The light beam is distributed over the road by means of a prismatic lens. The effect of a prismatic lens fitted to a parabolic reflector is shown in figure 16-3. The lens bends the paralleled rays from the reflector so that the light is distributed over the road. The vertical flutes of the lens spread the light rays so that the beam is flattened, with the edges thrown out toward the side of the highway.
+
+c. Combinations of Beams. Many combinations of light beams are possible. One combination of headlight beams that has been used commonly is shown in figure 16-4. The beam from the right headlight is projected high to the right side of the road and low to the left side, and the beam from the left headlight is projected high to the left side and low to the right side. Portions of the beam are deflected lower than other portions because of the design of the lens. When the right and left beams are not the same, the lenses for right and left headlights are not interchangeable. These beams combine to give a nearly symmetrical beam for driving. With some headlights, the left light illuminates the right side of the road, while the right light illuminates the left side of the road. Both lights together give a symmetrical beam.
+
+16-4. Headlights.
+
+a. General(Fig. 16-5).
+
+(1) In headlights of the older type, means are provided for focusing and directing the light. Focusing means bringing the filament of the lamp to the focal point of the reflector; aiming means pointing or directing the light properly.
+
+(2) Later developments brought into general use a 2-filament lamp having its position fixed with respect to its mounting socket at the rear of the reflector so that the filaments remain fixed at the proper focus (fig. 16-5). It is necessary only to direct the light to Improve the lighting of the roadway.
+
+(3) The most common headlamp configuration in modern automotive use is the sealed beam.
+
+b. Sealed Beam(Fig. 16-6).
+
+(1) A superior headlight that has been adopted is the sealed-beam headlamp unit. Not only does it provide far better and more powerful illumination than previous lamps, but it maintains its initial brilliancy with only a slight loss throughout its life. This is because the lens is permanently sealed to the reflector, barring moisture (which corrodes the reflector) and preventing, the entrance of dust and dirt.
+
+(2) When a filament burns out, the whole unit must be replaced. However, it has a greater filament life than other types of lamps and requires no maintenance to keep it in good condition.
+
+(3) The sealed-beam headlamp unit is made in two types: one with a silver-plated metal reflector and the other with an aluminum-surfaced glass reflector. The metal type contains a conventional double-filament lamp that is sealed in the unit mechanically, whereas the glass type is its own lamp because the lens and reflector are fused together, forming a gas tight unit with the filaments sealed into the reflector.
+
+(4) Two filaments are provided in the sealed- beam headlight lamp unit: one provides an upper beam for country driving, and the other gives a downward beam for passing or city driving. With the upper beam in use, current sealed-beam lamp units provide 50 percent more light than previous 32-candlepower lamps, and also distribute the light more effectively. The upper beam filament requires 40 to 45 watts, and the depressed beam filament requires 30 to 35 watts, which is more current than that required by the 32-candlepower lamps. Directing the headlight to the roadway is the only adjustment required on sealed-beam headlamps.
+
+(5) The sealed-beam headlamp is mounted with long self-locking screws and springs. The screws serve to aim the headlamps, depending on their position.
+
+16-5. Road Illumination (Fig. 16-4). Modern development has brought about a radical change in what is considered good road illumination. The high-intensity beam of light has given way to the principle of more illumination and lower general intensity. The 32-
+
+candlepower lamp is sufficient with a narrow, high- intensity beam, but with the general floodlighting effect desired today, a larger light source is necessary. The sealed-beam headlamp has been developed to meet
+
+Construction.
+
+these requirements. With the increased use of high- powered lamps have come laws enforcing the proper focusing of the lights and the use of dual-beam headlamps. The dual-beam headlamp is designed so that one filament will be at the focal point of the reflector, and the other filament will be out of focus slightly so that the rays will be turned downward. Depressing the beam is accomplished by a switch that changes the current from one filament to the other.
+
+16-6. Elimination of Glare.
+
+a. Cause of Glare. Any light source is said to produce glare if it reduces the clarity of vision of anyone looking toward it. Practically speaking, the blinding or dazzling effect of light is not due to the brilliancy of the light but to the lack of illumination in the immediate vicinity through which the rays are projected. The headlight, for example, that produces glare on a dark road at night would not produce glare on a well-lighted street, and in the day tirne with the sun shining, it would hardly be noticed. If the strong light rays can be kept below the eye level, the nuisance of glare will be eliminated.
+
+b. Elimination. Many tests have been conducted by the Society of Automotive Engineers and by manufacturers to eliminate headlight glare as much as possible and still have enough light for safe driving. Two beams are specified to meet these requirements:
+
+an upper beam to provide enough light in front of the vehicle while driving, and a depressed beam to avoid dangerous glare under normal conditions of passing. The driver is responsible for selecting the proper beam. The maximum and minimum intensity at important points of both beams are definitely specified and can be checked with the light intensity or foot- candle meter.
+
+16-7. Headlamp Control Systems. Two headlamp controls usually are provided: one to turn them on and off, and the other to select between the upper and the depressed beams.
+
+a. Control Switch. The control switch is usually a master-type switch controlling the head, tail, parking, and instrument lights.
+
+(1) One type of headlight switch is a push pull type that mounts on the instrument panel (fig. 16-7). When the switch is pulled outward it will have two on positions. The first on position will turn on the tail and parking lights. Pulling the switch out to the second on position will turn on the headlights in addition to the lights turned on at the first on position. This type of switch also has a control rheostat built into it to control the intensity
+
+of the instrument lamps. The rheostat is controlled by turning the knob.
+
+(2) The current trend in the design of headlight switches integrate them with the turn signal switch (fig. 16-8). The switch usually is controlled by a knob at the end of the turn signal lever. The turning of the knob to the first on position turns on the tail, park, and instrument lamps. Moving it to the second position also will turn on the headlights. With this switch configuration, the intensity of the instrument lamps usually is controlled by a separate rheostat that is mounted on the Instrument panel.
+
+(3) Military vehicles that are used in tactical situations are equipped with a headlight switch that is integrated with the blackout lighting switch (fig. 16-9). An important feature of this switch is that it reduces the possibility of accidentally turning on the lights in a blackout. With the main switch off, no lights are on. It can be turned to the left, without operating the mechanical switch, to get blackout marker lights (including blackout taillights and stop lights), and black-
+
+Headlamp Switch.
+
+out driving lights. But for stop lights for daylight driving, or normal bright lights for Ordinary night driving, you must first lift the mechanical switch lever and then turn the main switch lever to the right. The auxiliary switch gives panel lights when the main switch is In any of its ON positions. But it will give parking lights only when the main switch is in service drive (to the extreme right). When the main switch is off, the auxiliary switch should not be moved from the OFF position.
+
+b. Dimmer Switch. The dimmer switch is used to control solely the selection of headlamp beams. The main consideration in locating the headlamp switch is the ease of finding it by the driver without diverting attention from vehicle operation.
+
+(1) One of the most common locations for the dimmer switch is on the floor to the left of all of the control pedals (fig. 16-10). This switch configuration uses a single metallic button that alternately selects between headlamp beams each time it is depressed.
+
+(2) Currently, the most popular dimmer switch configuration is Integrated In then turn signal lever (fig.
+
+16-11). The operator selects the desired headlamp beam by moving the lever towards the front or rear. If this dimmer switch configuration is used with a headlamp switch that Is also Integrated in the turn signal lever, then the two switches and the turn signal switch usually are serviced as one unit.
+
+16-8. Overload Breakers. Besides limiting the current by current regulation, the battery and wiring should be protected against excessive loads that might occur due to shorts or grounds in the wiring system. This protection may be secured by a current-limiting circuit breaker or a single fuse. The location of an overload breaker In the electrical system is shown in figure 16-12.
+
+a. Circuit Breaker (Fig. 16-13).
+
+(1) The circuit breaker is a protective device designed to open the circuit when excessive current passes through its windings. All current for lights and accessories pass through the circuit breaker. It is similar In construction to the cutout, but opens the circuit rather than closes It. If there is a ground or other trouble in the circuit, the rush of current will start the circuit breaker. vibrating and In this way It Indicates that there is something wrong In the system. The device breaks the circuit at about 25 amperes but, after opening, allows only about 5 amperes to pass through, which keeps it vibrating. Thus the circuit breaker protects the battery from rapid discharge when trouble develops. The circuit breaker will continue to vibrate until the trouble is found and corrected.
+
+(2) In all types of circuit breakers, the short circuit must be removed before the breaker can be reset. The short circuit can be located easily by disconnecting each circuit separately until the circuit breaker stops vibrating.
+
+(3) Some automatic breakers do not vibrate, but have a telltale light placed across the contacts. This light, generally placed where it Is visible to the operator, is protected by a resistance. When the circuit breaker contacts are opened by excessive current, the light flashes on. There is generally sufficient current flowing through the relay coil with the lamp in series to
+
+hold the contact arm of the circuit breaker down until the short is removed. After removing the short, it may be necessary to turn off all lights for an Instant to permit the relay to reset itself and extinguish the telltale light.
+
+b. Fuse (Fig. 16-14). A common method of protection is to use a fuse In the lighting circuit.
+
+Whenever there is an excessive current through the lighting circuit, the fuse will burn out and open the circuit. The short circuit should be removed before the fuse is replaced. The disadvantages of using a fuse are that the circuit must be traced to locate the trouble and that a burned-out fuse must be replaced. However, It provides much cheaper protection to the system.
+
+Section II. BLACKOUT LIGHTING
+
+16-9. Purpose. Blackout lighting is a requirement for certain combat operations. One purpose of blackout lighting is to provide the vehicle operator with sufficient light to operate the vehicle in total darkness. Another is to provide minimum lighting to show vehicle position to a leading or trailing vehicle when the illumination must be restricted to a level not visible to a distant enemy.
+
+16-10. Configurations.
+
+a. The blackout driving light (fig. 16-15) is designed to provide a white light of 25 to 50 candlepower at a distance of 10 feet directly in front of the lamp. The lamp is shielded so that the top of the light beam is directed not less than 2 degrees below the horizon. The beam distribution on a level road at 100 feet from the lamp is 30 feet wide on a properly designed light.
+
+b. The blackout stoplight, marker light (fig. 16-16), and taillight are designed to be visible at a horizontal distance of 800 feet and not visible beyond 1200 feet. The lights also must be invisible from the air above 400 feet with the vehicle on upgrades and downgrades of 20 percent. The horizontal beam cutoff for the lights is 60 degrees right and left of the beam centerline at 100 feet.
+
+c. The composite light (fig. 16-17) is currently the standard lighting unit that is used on the rear of tactical military vehicles. The composite light combines service stop, tail, and turn signals with blackout stop and tail lighting.
+
+16-11. Controls and Lockouts. Blackout lighting control switches are designed to prevent the service lighting from being turned on accidentally. Their operation is described in paragraph 16-7a (3).
+
+16-12. Infrared Lighting. Infrared (ir) lighting provides vision to troops at night, like blackout lighting. Unlike
+
+blackout lighting, however, ir lighting is undetectable to the human eye. There are two basic types of ir lighting systems: the active system and the passive system.
+
+a. Active System. The active system uses a light source combined with a red lens to emit light in the near ir range. The emitted light is reflected back from the illuminated object and focused in an image-converter tube. The tube converts an image formed in one wavelength of radiation into an image in a visible wavelength for viewing. The tube contains both the sensor and display in one unit. The ir lighting system employed on present
+
+tank-automotive vehicles is of this type. The active ir system has the disadvantage of being detectable by an enemy equipped with ir detectors operating in the same range. For this reason, the active ir equipment is expected to be phased out completely and replaced by passive systems.
+
+b. Passive System. A passive ir system cannot be detected or disabled by methods that are effective against active systems. Furthermore, most natural objects radiate In the ir region, making a passive system very attractive. There are basically two types of passive ir systems: light intensification, and far-infrared.
+
+(1) Light intensification systems are expected to eventually replace the present active ir systems for tank-automotive applications. In the light intensification system, images formed by the ambient light from starlight or moonlight are intensified by Image converter- type tubes. The Image converter tubes have a high detective photo-cathode sensitivity in the visible
+
+and in the near-infrared region. The light intensification system is characterized usually by its relatively small size and is less complex than active systems because of the elimination of transmitting hardware. The major disadvantage of this system Is that, like normal viewing, range and performance depend on atmospheric conditions.
+
+(2) The far-infrared ir systems operate by utilizing light wavelengths that operate at the far end of the infrared spectrum. Wavelengths in this region are transmitted fairly well by the atmosphere, except in extreme humidity or rain. These systems utilize the natural radiation from a given object to provide the power by which the object is detected. Systems of this type can be highly sensitive and have been designed to detect even the shadow left by an object removed from its surroundings. These are receiving much attention in target location systems. A disadvantage at the present time is the large size of the equipment compared to the light intensity systems.
+
+Section III. COMMERCIAL VEHICLE LIGHTING
+
+16-13. Turn Signal System.
+
+a. General. Vehicles that operate on any public roads in the United States must be equipped with turn signals that indicate a left or right turn by providing a flashing light signal at the front and rear of the vehicle.
+
+b. Control Switch (Fig. 16-18). The turn signal switch is located on the steering column. It is designed
+
+to be shut off automatically after the turn is completed by the action of the canceling cam.
+
+c. Switch Wiring and Electrical Operation.
+
+(1) A wiring diagram for a typical turn signal switch is shown in figure 16-19.
+
+(2) A common design for a turn signal system is to use the same rear lamps for both the stop and turn signals. This complicates the design of the switch somewhat. Note that the stoplight circuit must pass through the turn signal
+
+switch. When the turn signal switch is turned off, it must pass stoplight current to the rear lamps. As a left or right turn signal is selected, the stoplight circuit is opened and the turn signal circuit is closed to the respective rear lamp. Also note that when this circuit is used, the front and instrument lamps must be on a separate switch circuit.
+
+d. Flasher Unit (Fig. 16-20). The turn signal flasher unit creates the flashing of the turn signal lamps. It consists basically of a bimetallic strip (two dissimilar metals bonded together) wrapped in a wire coil. The bimetallic strip serves as one of the contact points.
+
+(1) When the turn signals are actuated, current flows into the flasher, first through the heating coil to the bimetallic strip, then through the contact points and out of the flasher, where the circuit will be completed through the turn signal lamps.
+
+(2) The current flowing through the heating coil will heat the bimetallic strip, causing its dissimilar metals to expand at different rates. This
+
+movement will close the contact points and cause the flasher to pass full current to the turn signal lamps, lighting them.
+
+(3) The closing of the points causes the current to cease flowing across the heating coil. The cooling of the heating coil in turn will cause the bimetallic strip to contract, pulling the contact points open again. This again will turn off the turn signal lamps.
+
+(4) This sequence of events will repeat a few times a second, causing a steady flashing of the turn signals.
+
+16-14. Backup Light System.
+
+a. General. The backup lamp system provides a warning to pedestrians and visibility to the rear whenever the vehicle is shifted to reverse. A typical backup light system is shown in figure 16-21.
+
+b. Switch Configurations. The most common backup light switch configurations are:
+
+(1) The backup light switch may be mounted on the transmission and operated by the shift linkage.
+
+(2) The backup light switch may be mounted on the steering column and operated by the gearshift linkage.
+
+(3) The transmission or gearshift mounted backup light switch on many automatic transmission- equipped vehicles is combined with the neutral safety switch.
+
+16-15. Stoplight System.
+
+a. General. All vehicles that are used on public highways must be equipped with a stoplight system. The stoplight system consists of one or two red lamps on the rear of the vehicle that light up whenever the brake is applied. Typical stoplight wiring circuits are shown in figure 16-22. It should be noted that some stoplight circuits are integrated in the turn signal circuit. These circuits are described in paragraph 16-13.
+
+b. Stoplight Switch Configurations (Fig. 16-23). Some models have stoplight switches that are actuated mechanically by the brake
+
+pedal. Other models use a switch that is actuated by the hydraulic line pressure.
+
+16-16. Other Lights.
+
+a. Instrument Lights. Ordinarily, indirect lighting is used for the instrument lamps, which light whenever the lighting switch is in any of the ON positions. Many cars are equipped with an instrument panel lamp switch so that the instrument panel lamps can be turned off when desired.
+
+b. Dome Lights. Practically all closed motor vehicles make use of dome or tonneau lights. These ordinarily are controlled by means of a switch on the body post near each door.
+
+c. Parking Lights.
+
+(1) The smaller lights used for parking sometimes are located immediately above or below the main headlights.
+
+(2) Side lights sometimes serve as parking lights, in which case, a separate housing is used.
+
+(3) A smaller lamp, located within the main headlight and above the main headlight lamp, frequently has been used to provide a parking light. A 4- or 6- candlepower lamp, or smaller, is used for a parking light.

@@ -64,6 +64,16 @@ topic-spread metric. Lesson: estimate a source from its page list before promisi
 Also: the existing Wikipedia fetcher puts a personal email in its User-Agent; new fetchers use a
 generic project name.
 
+*Hunt follow-up (same day).* US Army TM 9-8000 downloaded from EverySpec (17 MB, real text layer,
+780 pages, ~370K tokens in all; I had guessed ~158 content pages, so again check before
+promising). No copyright notice, "Distribution" is a mailing list; US federal works are not
+copyrighted in the US (my reading, not legal advice). Kept 25 of 38 chapters (~207K tokens);
+OCR has small slips ("Into", "Is"). EverySpec has no terms page I could find (404), so the
+legal basis is the US government-work rule, not EverySpec. Gutenberg stayed at 503 all day, so
+the old motoring books are not fetched. Wikipedia batch B (111 articles, ~264K tokens) from the
+suspension/transmission/steering categories, hand-filtered; redirects had sneaked in 8 batch-A
+duplicates, so dedupe by final title, not requested title. Total new car text ~1.0M tokens.
+
 **Process notes.** `rsync --checksum` over an SMB mount reads every file back over the
 network; for a 4 GB offload, comparing file count and total bytes was enough and fast.
 Deleted extracted frame JPEGs but kept the small manifest/detection files (26 MB), which

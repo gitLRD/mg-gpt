@@ -1,0 +1,33 @@
+Kingpin (automotive part)
+
+The kingpin (also king-pin, king pin and k pin) is the main pivot in the steering mechanism of a car or other vehicle.
+The term is also used to refer to part of a fifth wheel coupling apparatus for a semi and its trailer or other load.
+
+== History ==
+Originally, with the 'turntable' steering of horse-drawn wagons, this was a single pin on which the moveable axle was pivoted beneath the wagon's frame. This located the axle from side to side, but the weight of the wagon was carried on a circular wooden ring turntable surrounding this. Similar centre pivot steering was used by steam traction engines, the kingpin being mounted on the 'perch bracket' beneath the boiler. Some early cars also used centre pivot steering, although it became apparent that it was unsuitable for their increasing speeds.
+Ackermann steering separates the steering movement into two pivots, one near the hub of each front wheel. The beam axle between them remains fixed relative to the chassis, linked by the suspension. Ackermann steering has the two advantages that it reduces tyre scrub, the need to drag tyres sideways across their tread when turning the steering, and also it reduced bump steer, suspension and road bumps tending to upset the steering direction. The kingpins were now fixed to the axle ends and the hub carriers pivoted upon them. Most commonly the centre of the kingpin was fixed in the axle and the hub carrier was forked to fit over this, but some vehicles, including the Ford Model T illustrated, used a forked axle and a kingpin fixed into a single piece carrier. Kingpins were always clamped in the centre and the swivel bearings at the ends, to increase the lever arm and so reduce the bearing load.
+Independent front suspension developed through the 1930s, for high-performance cars at least, often using double wishbone suspension. This performance also encouraged the reduction of unsprung weight. Rather than using separate pivots for both the up-and-down motion of the suspension and the steering swivel, the use of a spherical ball joint that could move in two degrees of freedom allowed the same joint to carry out both functions. The hub carrier extended vertically to span the ends of both wishbones, with a ball joint at each end. In the 1950s and 1960s, such independent suspension became commonplace through light cars in all price ranges. Although the kingpin was no longer an identifiable physical component, suspension geometry was still designed in terms of a virtual kingpin along a line between the ball joint centres.
+
+Although they are largely obsolete, kingpin suspensions have the advantage of being able to carry much heavier weights, which is why they are still featured on some heavy trucks.  Dana produced the kingpin version of the  D60 axle until 1991. (The functionally analogous, similar looking and very robust joint between the chassis and boom on a backhoe is however referred to as a king post.)
+The nipple at the front of a semi-trailer to connect to a fifth wheel coupling on a tractor unit is also known as a kingpin, which usage is analogous to the original horse-drawn wagon and traction engine steering use.
+
+== Kingpin inclination ==
+
+While no current-era automobile front suspension incorporates a physical kingpin, the axis defined by the steering knuckle pivot points acts as a "virtual kingpin" about which the wheel turns. This virtual kingpin is inclined toward the centerline of the vehicle at an angle called the kingpin angle (KPA). Virtual or physical, the kingpin angle may also be referred to as kingpin inclination (KPI), or steering axis inclination (SAI), and remains a fundamental vehicle design parameter. On most modern designs, the kingpin angle is set relative to the vertical, as viewed from the front or back of the vehicle, and it is not adjustable, changing only if the wheel spindle or steering knuckles are bent.
+The kingpin angle has an important effect on steering, making it tend to return to the straight ahead or centre position because the straight ahead position is where the suspended body of the vehicle is at its lowest point. Thus, the weight of the vehicle tends to rotate the wheel about the kingpin back to this position. The kingpin inclination also contributes to the scrub radius of the steered wheel, the distance between the centre of the tyre contact patch and where the kingpin axis intersects the ground. If these points coincide, the scrub radius is zero.
+
+== As a biological metaphor ==
+Zoologist Nicholas Humphrey introduced his 1976 paper "The Social Functions of Intellect" with the following anecdote:
+
+Henry Ford, it is said, commissioned a survey of the car
+scrap-yards of America to find out if there were parts of the
+Model T Ford which never failed. His inspectors came back
+with reports of almost every kind of failure: axles, brakes,
+pistons – all were liable to go wrong. But they drew attention
+to one notable exception, the kingpins of the scrapped cars
+invariably had years of life left in them. With ruthless logic
+Ford concluded that the kingpins on the Model T were too
+good for their job and ordered that in future they should be
+made to an inferior specification.
+
+Humphrey used the metaphor to introduce the idea of the efficiency of resource allocation by natural selection ("Nature is surely at least as careful an economist as Henry Ford"). The metaphor has been cited by several prominent science writers including Richard Dawkins, John Barrow, and Jared Diamond.  Biologists Robert A. Laird and Thomas N. Sherratt have questioned both the truth of the story and the utility of the metaphor, pointing out that evolution of multicomponent systems need not result in identical component failure rates.

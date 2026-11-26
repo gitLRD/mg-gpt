@@ -1,0 +1,104 @@
+Plain bearing
+
+A plain bearing, or more commonly sliding contact bearing and slide bearing (in railroading sometimes called a solid bearing, journal bearing, or friction bearing), is the simplest type of bearing, comprising only a bearing surface and no rolling elements. Therefore, the part of the shaft in contact with the bearing slides over the bearing surface. The simplest example of a plain bearing is a shaft rotating in a hole. A simple linear bearing can be a pair of flat surfaces designed to allow motion; e.g., a drawer and the slides it rests on or the ways on the bed of a lathe.
+Plain bearings, in general, are the least expensive type of bearing. They are also compact and lightweight, and they have a high load-carrying capacity.
+
+== Design ==
+
+The design of a plain bearing depends on the type of motion the bearing must provide. The three types of motions possible are:
+
+Journal (friction, radial or rotary) bearing: This is the most common type of plain bearing; it is simply a shaft rotating in a hole. It is also referred to as a sleeve bearing, especially in applications where a cylindrical bushing supports the shaft. In locomotive and railroad car applications journal bearing specifically referred to the plain bearings once used at the ends of the axles of railroad wheel sets, enclosed by axleboxes (also called journal boxes). Axlebox bearings today are rolling-element bearings rather than plain bearings.
+Linear bearing: This bearing provides linear motion; it may take the form of a circular bearing and shaft or any other two mating surfaces (e.g., a slide plate).
+Thrust bearing: A thrust bearing provides a bearing surface for forces acting axial to the shaft. One example is a propeller shaft.
+
+=== Integral ===
+An integral plain bearing is built into the object of use as a hole prepared in the bearing surface. Industrial integral bearings are usually made from cast iron or babbitt, and a hardened steel shaft is used in the bearing.
+Integral bearings are not as common because bushings are easier to accommodate and can be replaced if necessary. Depending on the material, an integral bearing may be less expensive but it cannot be replaced. If an integral bearing wears out, the item may be replaced or reworked to accept a bushing. Integral bearings were very common in 19th-century machinery but became progressively less common as interchangeable manufacture became popular.
+For example, a common integral plain bearing is the door hinge, which is both a thrust bearing and a journal bearing.
+
+=== Bushing ===
+A bushing, also known as a bush, is an independent plain bearing that is inserted into a housing to provide a bearing surface for rotary applications; this is the most common form of a plain bearing. Common designs include solid (sleeve and flanged), split, and clenched bushings. A sleeve, split, or clenched bushing is only a "sleeve" of material with an inner diameter (ID), outer diameter (OD), and length. The difference between the three types is that a solid sleeved bushing is solid all the way around, a split bushing has a cut along its length, and a clenched bearing is similar to a split bushing but with a clench (or clinch) across the cut connecting the parts. A flanged bushing is a sleeve bushing with a flange at one end extending radially outward from the OD. The flange is used to positively locate the bushing when it is installed or to provide a thrust bearing surface.
+Sleeve bearings of inch dimensions are almost exclusively dimensioned using the SAE numbering system. The numbering system uses the format -XXYY-ZZ, where XX is the ID in sixteenths of an inch, YY is the OD in sixteenths of an inch, and ZZ is the length in eighths of an inch. Metric sizes also exist.
+A linear bushing is not usually pressed into a housing, but rather secured with a radial feature. Two such examples include two retaining rings, or a ring that is molded onto the OD of the bushing that matches with a groove in the housing. This is usually a more durable way to retain the bushing, because the forces acting on the bushing could press it out. Flanged bushings are designed for enhanced resistance to both radial and axial loads.
+The thrust form of a bushing is conventionally called a thrust washer.
+
+=== Two-piece ===
+Two-piece plain bearings, known as full bearings in industrial machinery, are commonly used for larger diameters, such as crankshaft bearings. The two halves are called shells. There are various systems used to keep the shells located. The most common method is a tab on the parting line edge that correlates with a notch in the housing to prevent axial movement after installation. For large, thick shells a button stop or dowel pin is used. The button stop is screwed to the housing, while the dowel pin keys the two shells together. Another less common method uses a dowel pin that keys the shell to the housing through a hole or slot in the shell.
+The distance from one parting edge to the other is slightly larger than the corresponding distance in the housing so that a light amount of pressure is required to install the bearing. This keeps the bearing in place as the two halves of the housing are installed. Finally, the shell's circumference is also slightly larger than the housing circumference so that when the two halves are bolted together the bearing crushes slightly. This creates a large amount of radial force around the entire bearing, which keeps it from spinning. It also forms a good interface for heat to travel out of the bearings into the housing.
+
+== Materials ==
+
+Plain bearings must be made from a material that is durable, low friction, low wear to the bearing and shaft, resistant to elevated temperatures, and corrosion resistant. Often the bearing is made up of at least two constituents, where one is soft and the other is hard. The hard constituent supports the load while the soft constituent lubricates the hard constituent. In general, the harder the surfaces in contact the lower the coefficient of friction and the greater the pressure required for the two to gall or to seize when lubrication fails.
+
+=== Babbitt ===
+
+Babbitt is usually used in integral bearings. It is coated over the bore, usually to a thickness of 0.25 to 2.5 mm (9.8 to 98.4 thou), depending on the diameter. Babbitt is made using soft material when compared to the material of composition of the journal or the rotating shaft. Babbitt bearings are designed to not damage the journal during direct contact and to collect any contaminants in the lubrication.
+
+=== Bi-material ===
+Bi-material bearings consist of two materials, a metal shell and a plastic bearing surface. Common combinations include a steel-backed PTFE-coated bronze and aluminum-backed Frelon. Steel-backed PTFE-coated bronze bearings are rated for more load than most other bi-metal bearings and are used for rotary and oscillating motions. Aluminum-backed Frelon are commonly used in corrosive environments because the Frelon is chemically inert.
+
+=== Bronze ===
+A common plain bearing design utilizes a hardened and polished steel shaft and a softer bronze bushing. The bushing is replaced whenever it has worn too much.
+Common bronze alloys used for bearings include: SAE 841, SAE 660 (CDA 932), SAE 863, and CDA 954.
+
+=== Cast iron ===
+A cast iron bearing can be used with a hardened steel shaft because the coefficient of friction is relatively low. The cast iron glazes over therefore wear becomes negligible.
+
+=== Graphite ===
+In harsh environments, such as ovens and dryers, a copper and graphite alloy, commonly known by the trademarked name graphalloy, is used. The graphite is a dry lubricant, therefore it is low friction and low maintenance. The copper adds strength, durability, and provides heat dissipation characteristics.
+
+Unalloyed graphite bearings are used in special applications, such as locations that are submerged in water.
+
+=== Jewels ===
+
+Known as jewel bearings, these bearings use jewels, such as sapphire, ruby, and garnet. Jewel bearings are used in precision instruments where low friction, long life, and dimensional accuracy are important. Their main use is in mechanical watches.
+
+=== Plastic ===
+
+Solid plastic plain bearings are now increasingly popular due to dry-running lubrication-free behavior. Solid polymer plain bearings are low weight, corrosion resistant, and maintenance free. After studies spanning decades, an accurate calculation of the service life of polymer plain bearings is possible today. Designing with solid polymer plain bearings is complicated by the wide range, and non-linearity, of coefficient of thermal expansion. These materials can heat rapidly when used in applications outside the recommended pV limits.
+Solid polymer type bearings are limited by the shapes possible with the injection molding process. Plastic bearings are also subject to the same design cautions as all other plastic parts: creep, high thermal expansion, softening (increased wear/reduced life) at elevated temperature, brittle fractures at cold temperatures, and swelling due to moisture absorption. While most bearing-grade plastics/polymers are designed to reduce these design cautions, they still exist and should be carefully considered before specifying a solid polymer (plastic) type.
+Plastic bearings are now quite common, including usage in photocopy machines, tills, farm equipment, textile machinery, medical devices, food and packaging machines, car seating, and marine equipment.
+Common plastics include nylon, polyacetal, polytetrafluoroethylene (PTFE), ultra-high-molecular-weight polyethylene (UHMWPE), rulon, PEEK, urethane, and vespel (a high-performance polyimide).
+
+MDS (molybdenum disulfide)
+PEEK (polyether ether ketone)
+
+=== Others ===
+Igus, iglidur: Specially developed polymer bearing materials with life prediction
+Ceramic bearings are very hard, so sand and other grit that enters the bearing are simply ground to a fine powder that does not inhibit the operation of the bearing.
+Lubrite
+Lignum vitae is a self lubricating wood and in clocks it gives extremely long life. Also used with bronze wheels in ship rigging.
+In a piano, various (usually) wooden parts of the keyboard and action are linked together by center pins typically made of German silver. These linkages usually have felt, or more rarely, leather bushings.
+Aluminum alloys can be used for low load applications
+
+== Lubrication ==
+
+The types of lubrication system can be categorized into three groups:
+
+Class I: bearings that require the application of a lubricant from an external source (e.g., oil, grease, etc.).
+Class II: bearings that contain a lubricant within the walls of the bearing (e.g., bronze, graphite, etc.). Typically these bearings require an outside lubricant to achieve maximum performance.
+Class III: bearings made of materials that are the lubricant. These bearings are typically considered "self-lubricating" and can run without an external lubricant.
+Examples of the second type of bearing are Oilites and plastic bearings made from polyacetal; examples of the third type are metalized graphite bearings and PTFE bearings.
+Most plain bearings have a plain inner surface; however, some are grooved, such as spiral groove bearing. The grooves help lubrication enter the bearing and cover the whole journal.
+Self-lubricating plain bearings have a lubricant contained within the bearing walls. There are many forms of self-lubricating bearings. The first, and most common, are sintered metal bearings, which have porous walls. The porous walls draw oil in via capillary action and release the oil when pressure or heat is applied. An example of a sintered metal bearing in action can be seen in self-lubricating chains, which require no additional lubrication during operation. Another form is a solid one-piece metal bushing with a figure eight groove channel on the inner diameter that is filled with graphite. A similar bearing replaces the figure eight groove with holes plugged with graphite. This lubricates the bearing inside and out. The last form is a plastic bearing, which has the lubricant molded into the bearing. The lubricant is released as the bearing is run in.
+There are three main types of lubrication: full-film condition, boundary condition, and dry condition. Full-film conditions are when the bearing's load is carried solely by a film of fluid lubricant and there is no contact between the two bearing surfaces. In mix or boundary conditions, load is carried partly by direct surface contact and partly by a film forming between the two. In a dry condition, the full load is carried by surface-to-surface contact.
+Bearings that are made from bearing grade materials always run in the dry condition. The other two classes of plain bearings can run in all three conditions; the condition in which a bearing runs is dependent on the operating conditions, load, relative surface speed, clearance within the bearing, quality and quantity of lubricant, and temperature (affecting lubricant viscosity). If the plain bearing is not designed to run in the dry or boundary condition, it has a high coefficient of friction and wears out. Dry and boundary conditions may be experienced even in a fluid bearing when operating outside of its normal operating conditions; e.g., at startup and shutdown.
+
+=== Fluid lubrication ===
+
+Fluid lubrication results in a full-film or a boundary condition lubrication mode. A properly designed bearing system reduces friction by eliminating surface-to-surface contact between the journal and bearing through fluid dynamic effects.
+Fluid bearings can be hydrostatically or hydrodynamically lubricated. Hydrostatically lubricated bearings are lubricated by an external pump that maintains a static amount of pressure. In a hydrodynamic bearing the pressure in the oil film is maintained by the rotation of the journal. Hydrostatic bearings enter a hydrodynamic state when the journal is rotating. Hydrostatic bearings usually use oil, while hydrodynamic bearings can use oil or grease, however bearings can be designed to use whatever fluid is available, and several pump designs use the pumped fluid as a lubricant.
+Hydrodynamic bearings require greater care in design and operation than hydrostatic bearings. They are also more prone to initial wear because lubrication does not occur until there is rotation of the shaft. At low rotational speeds the lubrication may not attain complete separation between shaft and bushing. As a result, hydrodynamic bearings may be aided by secondary bearings that support the shaft during start and stop periods, protecting the fine tolerance machined surfaces of the journal bearing. On the other hand, hydrodynamic bearings are simpler to install and are less expensive.
+In the hydrodynamic state a lubrication "wedge" forms, which lifts the journal. The journal also slightly shifts horizontally in the direction of rotation. The location of the journal is measured by the attitude angle, which is the angle formed between the vertical and a line that crosses through the center of the journal and the center of the bearing, and the eccentricity ratio, which is the ratio of the distance of the centre of the journal from the centre of the bearing, to the overall radial clearance. The attitude angle and eccentricity ratio are dependent on the direction and speed of rotation and the load. In hydrostatic bearings the oil pressure also affects the eccentricity ratio. In electromagnetic equipment like motors, electromagnetic forces can counteract gravity loads, causing the journal to take up unusual positions.
+One disadvantage specific to fluid-lubricated, hydrodynamic journal bearings in high-speed machinery is oil whirl—a self-excited vibration of the journal. Oil whirl occurs when the lubrication wedge becomes unstable: small disturbances of the journal result in reaction forces from the oil film, which cause further movement, causing both the oil film and the journal to "whirl" around the bearing shell. Typically the whirl frequency is around 42% of the journal turning speed. In extreme cases oil whirl leads to direct contact between the journal and the bearing, which quickly wears out the bearing. In some cases the frequency of the whirl coincides with and "locks on to" the critical speed of the machine shaft; this condition is known as "oil whip". Oil whip can be very destructive.
+Oil whirl can be prevented by a stabilising force applied to the journal. A number of bearing designs seek to use bearing geometry to either provide an obstacle to the whirling fluid or to provide a stabilising load to minimize whirl. One such is called the lemon bore or elliptical bore. In this design, shims are installed between the two halves of the bearing housing and then the bore is machined to size. After the shims are removed, the bore resembles a lemon shape, which decreases the clearance in one direction of the bore and increases the pre-load in that direction. The disadvantage of this design is its lower load carrying capacity, as compared to typical journal bearings. It is also still susceptible to oil whirl at high speeds, however its cost is relatively low.
+Another design is the pressure dam or dammed groove, which has a shallow relief cut in the center of the bearing over the top half of the bearing. The groove abruptly stops in order to create a downward force to stabilize the journal. This design has a high load capacity and corrects most oil whirl situations. The disadvantage is that it only works in one direction. Offsetting the bearing halves does the same thing as the pressure dam. The only difference is the load capacity increases as the offset increases.
+A more radical design is the tilting-pad design, which uses multiple pads that are designed to move with changing loads. It is usually used in very large applications but also finds extensive application in modern turbomachinery because it almost completely eliminates oil whirl.
+
+== Related components ==
+
+Other components that are commonly used with plain bearings include:
+
+Pillow block bearing: These are standardized bearing mounts designed to accept plain bearings. They are designed to mount to a flat surface.
+Ring oiler: A lubricating mechanism used in the first half of the 20th century for medium speed applications.
+Stuffing box: A sealing system used to keep fluid from leaking out of a pressurized system through the plain bearing.

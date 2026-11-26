@@ -1,0 +1,15 @@
+Panhard rod
+
+A Panhard rod (also called Panhard bar, track bar, or track rod) is a suspension link that provides lateral location of the axle. Invented by the Panhard automobile company of France in the early twentieth century, this device has been widely used ever since.
+
+== Overview ==
+The purpose of automobile suspension is to let the wheels move vertically with respect to the body, while preventing movement forward and backwards (longitudinally), or side to side (laterally). 
+The Panhard rod is a simple device designed to prevent lateral movement. It consists of a rigid bar running sideways in the same plane as the axle, connecting one end of the axle to the car body or chassis on the opposite side of the vehicle. The bar attaches on either end with pivots that let it swivel upwards and downwards only, limiting the axle's movement to the vertical plane. This does not effectively locate the axle longitudinally, therefore it is usually used in conjunction with trailing arms that stabilize the axle in the longitudinal direction. 
+A Panhard rod is typically used with coil spring suspensions; with a leaf spring suspension, the springs themselves usually supply enough lateral rigidity. However, Ford used a similar connected rear axle damper (fifth shock) on some Explorers and light trucks with rear leaf springs. Jaguar also used a Panhard rod to locate the rear axle on its unusual cantilever leaf sprung Mark 2.
+
+== Advantages and disadvantages ==
+The advantage of the Panhard rod is its simplicity. Its major disadvantage is that the body must necessarily move in an arc relative to the axle, with the radius equal to the length of the Panhard rod. If the rod is too short, it allows excessive sideways movement between the axle and the body at the ends of the spring travel. Therefore, the Panhard rod is less desirable on smaller cars than larger ones. 
+Two notable exceptions to this are the Mitsubishi Pajero Mini and Suzuki Jimny. Both are small light vehicles (they fall in the Kei car category in Japan) that have a Panhard rod, but the off-road nature of these vehicles means that the lateral movement between axle and body is not important. A suspension design that is similar but dramatically reduces the sideways component of the axle's vertical travel is a Watt's linkage.
+
+== Applications ==
+Some vehicles with live-axle suspensions cannot use a Watt's linkage due to design or other practical constraints; these often incorporate a Panhard rod as a component of the front suspension. The Mercedes-Benz G-Class even got one at the front and rear.

@@ -1,0 +1,71 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 20
+
+TM 9-8000 CHAPTER 20 HYDRAULIC PRINCIPLES
+
+20-1. Liquids Versus Gases (Fig. 20-1). One major factor that influences the compressibility of liquids and gases Is their molecular bonding. Liquids have molecules moving freely around them, but not separating. Gases have molecules that are more active and tend to separate readily. Because both liquids and gases are compressed
+
+separately, their molecules act differently. Liquids have molecules that travel very short distances with almost no space between them. Attempting to compress the liquids yields almost no change In the space between molecules. Therefore, the volume also remains constant. This is the major reason why liquids are not compressed
+
+readily. Gases, on the other hand, react differently when compressed. As a gas is compressed, the space between molecules is decreased, therefore allowing the volume to be decreased. As a result, the molecules are forced to travel shorter distances and interact more violently. This increased molecular interaction results in the generation of heat while compressing a gas.
+
+20-2. Pascal’s Law. Pascal’s law states that in an enclosed system, fluid pressure developed by an external source acts evenly and in all directions without changing magnitude in the system. This principle is the basis for many systems in automotive vehicles. For example, brake, lubrication, and fuel systems are all dependent on Pascal’s law. Figure 20-2 illustrates Pascal’s law; note that the initial force of 50 psi (344.8 kPa) is distributed evenly throughout the system.
+
+20-3. Mechanical Advantage in Hydraulic Systems. Hydraulic systems possess a definite amount of mechanical advantage. Comparisons can be made between a simple lever arrangement and a basic hydraulic system. Figure 20-3
+
+illustrates how a lever and hydraulic system can be used to perform the same task. In this figure, both systems increase mechanical advantage, therefore making it easier to move the object. In A, figure 20-3, a long solid rod, with the fulcrum placed close to the object, is used to develop the mechanical advantage. In B, figure 20-3, a large-diameter piston is used to develop the force to move the object. In each system, certain factors must be forfeited to obtain this mechanical advantage. Each is listed below.
+
+a. In the lever system, the rod must be pushed through a great arc to obtain a small movement with an increased force on the opposite end of the rod.
+
+b. The hydraulic system requires the use of a large amount of fluid under the piston to raise the object slightly. This is illustrated in detail in paragraph 20-8.
+
+These are two of the most important factors that must be considered when developing mechanical advantage.
+
+Section II. 20-4. Gear Type oil pumps are shown in figure 20-4. In this type, a primary gear, driven by an external member, drives a companion gear. Oil is forced into the pump cavity, around each gear, and out the other side into the oil passages. The pressure is derived from the’ action of the meshed gear teeth, which prevent oil from passing between the gears, and forces it around the outside of each gear instead. The oil pump Incorporates a pressure relief valve, which is a spring- loaded ball that rises when the desired
+
+pressure is reached and allows the excess oil to be delivered to the inlet side of the pump.
+
+20-5. Rotary Type. The rotor oil pump (fig. 20-5) makes use of an inner rotor with lobes that match similarly shaped depressions in the outer rotor. Figure 20-5 shows the manner in which the two rotors fit together. The inner rotor is off center from the outer rotor. The inner rotor is driven and, as it rotates, it carries the outer rotor around with it. The outer rotor floats freely in the pump body.
+
+As the two rotors turn, the openings between them are filled with oil. This oil then is forced out from between the rotors as the inner-rotor lobes enter the openings in the outer lobes. This action is much like that in the gear-type pump.
+
+20-6. Vane Type. The oil pump shown in figure 20-6 is a vane type. An integral steel rotor and shaft, one end supported in the pump flange and the other end in the cover, revolves in the body, the bore of which is eccentric to the rotor. Two sliding vanes are placed 180 degrees apart in slots in the rotor and are pressed against the body bore by springs in the slots. When the shaft is rotated, the vanes pick up oil at the inlet port and carry it around the body to the outlet side, where the oil is discharged. Pressure is produced by the
+
+wedging action of the oil as it is forced toward the outlet port by the vane.
+
+20-7. Internal-External Gear Type. The internal- external gear pump is composed of a large internal gear, driven by an external gear offset from center. The space between the two gears is occupied by a filler block (fig. 20-7). As the small gear rotates, it meshes with, and drives, the larger gear. As the gears disengage and come in contact with the filler block, a differential in pressure is developed, causing oil to enter the pump. It then is transported past the filler block in the teeth of both gears. Because the gear teeth begin to mesh again and more oil is carried by the gears, pressure rises in the outlet chamber and exits through the outlet port.
+
+Section III.20-8.Construction.A simple hydraulic jack is constructed using four basic components; each is discussed below.
+
+a. Reservoir. The reservoir (fig. 20-8) is a storage location for the liquid medium. As the piston height is increased, fluid is transferred from the reservoir to the cylinder under piston B. The lowering of the piston displaces the fluid back to the reservoir.
+
+b. Hand Pump. The hand pump (fig. 20-8) is a small- diameter piston and cylinder combination used to generate fluid pressure to raise the large piston.
+
+c. Lifting Cylinder. The lifting cylinder (fig. 20-8) is composed of a large-bore piston and cylinder, which receives fluid pressure from the hand pump. The fluid pressure acts on the bottom of the large piston to raise it. The increased area of the piston allows heavy loads to be moved with relatively small pressure applied to the jack handle.
+
+d. Check Valves. Two check valves (fig. 20-8) are placed in the system, one before the small piston, and one after. The check valves control the flow of the fluid to raise and lower the ram.
+
+20-9. Operation (Fig. 20-8).
+
+a. As the jack handle is pulled upward, piston A rises in cylinder A, pulling in oil from the reservoir through check valve 1.
+
+b. As the jack handle is lowered, piston A forces oil from cylinder A through check valve 2 and into cylinder B.
+
+c. As the oil is forced into cylinder B, it will push piston B upward, lifting the load through the ram.
+
+d. Piston B will rise each time the jack handle is moved up and down.
+
+20-10. Mechanical Advantage in the Jack. Because the hydraulic jack is capable of lifting heavy loads with relatively small amounts of physical force, the jack is known to have mechanical advantage. The mechanical advantage of the hydraulic jack is obtained from the following areas:
+
+a. The mechanical advantage from the jack handle, which is in reality a lever (para 20-3). The hydraulic jack shown in figure 20-8 has a distance of 10 inches from the end of the jack handle to the piston and a distance of 1 inch from the piston to the fulcrum. The mechanical advantage of the lever is equal to:
+
+10 + 1 = 10.
+
+b. The mechanical advantage in the hydraulic system, which is equal to the quotient of the areas of the lift piston divided by the pump piston, is equal to:
+
+10 + 1 = 10.
+
+The total mechanical advantage of the jack then is calculated by multiplying the two mechanical advantages in a and b above as follows:
+
+10X10 = 100.
+
+It is thus seen that the hydraulic jack shown in figure 20-8 produces a total mechanical advantage of 100.

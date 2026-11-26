@@ -122,8 +122,9 @@ gain in topic spread is plausible; we test rather than assume.
 
 General English is already good enough for short targeted answers, so the extra arm is
 car-specific data, not more general tokens. Fetched so far: UK MOT inspection manual (OGL v3.0,
-~47K tokens, text only) and 119 Wikipedia mechanics articles (CC BY-SA 4.0, ~0.5M tokens), tilted
-to brakes, suspension, electrical, body and tyres. About +19% on the 2.9M MG tokens, so a modest
+~47K tokens, text only), 230 Wikipedia mechanics articles in two batches (CC BY-SA 4.0, ~0.76M tokens) and
+US Army TM 9-8000 (US government work, ~207K tokens), tilted to brakes, suspension, steering, electrical,
+body and tyres. About +35% (~1.0M) on the 2.9M MG tokens, so a modest
 effect is expected (v8's +20% did not move anything); the point is *where* the tokens go.
 Arm: 51M fine-tune on existing data + grounded Q&A from the new text (as `synthesize_wiki_qa.py`
 does) + topic rebalancing, scored on the same topic-spread metric and gate. Raw MOT text is

@@ -1,0 +1,42 @@
+De Dion suspension
+
+A de Dion axle is a form of non-independent automobile suspension.  It is a considerable improvement over the swing axle, Hotchkiss drive, or live axle. Because it plays no part in transmitting power to the drive wheels, it is sometimes called a "dead axle".
+A powered de Dion suspension uses universal joints on both ends of its driveshafts (at the wheel hubs and at the differential), and a solid tubular beam to hold the opposite wheels in parallel. Unlike an anti-roll bar, a de Dion tube is not directly connected to the chassis, and is not intended to flex. In suspension geometry it is a beam axle suspension.
+
+== History ==
+The de Dion axle was named after Comte Jules-Albert de Dion, founder of French automobile manufacturer De Dion-Bouton. The axle, however, was invented around 1894 by co-founder Charles Trépardoux, Georges Bouton's brother-in-law, for use on the company's steam tricycles.
+
+== Advantages and disadvantages ==
+Advantages:
+
+Reduced unsprung weight compared to the Hotchkiss drive (live axle), since the differential and half-shafts are connected to the chassis.
+Unlike most fully independent suspension there are no camber changes on axle loading and unloading (or rebound). Fixing the camber of both wheels at 0° assists in obtaining good traction from wide tires and also tends to reduce wheel hop under high power operations compared to an independent suspension.
+The choice of shock absorbers and springs is made easier.
+The two wheels may be individually aligned, allowing for independent camber (vertical) and track (horizontal) alignment.
+Disadvantages:
+
+A pair of CV or universal joints is required for each wheel, adding complexity, cost, and weight.
+If coil springs are used, then a lateral location link (usually either a Panhard rod or Watt's linkage) is required, plus additional torque links on each side (five link suspension) or a combination of lower trailing links and an upper transverse wishbone. None of these additional links are required if leaf springs are used, but ride can be compromised due to the leaves having to do double duty as both locating links and springs. The torque links are not required if the setup uses inboard brakes, like in the Pegaso 1502, Rover P6, all Iso cars and Alfa Romeo type 116 (and derivatives), as the wheels do not transmit torque to the suspension.
+Sympathetic camber changes on opposite wheels are seen on single-wheel suspension compression, just as in a Hotchkiss drive or live axle. This is not important for operation on improved surfaces but is more critical for rough road or off-road use.
+
+== Notable uses ==
+Most models of the Kawasaki MULE line of utility vehicles feature a leaf-sprung de Dion rear suspension with a distinctively curved tube axle that clears the rear subframe to provide 50mm (2 inches) of wheel travel.  Benefits include simplicity, durability, compactness and a relatively low liftover height for the cargo bed.
+Walter Snow Fighter plow trucks produced by the Walter Truck Company of Long Island, New York throughout the mid 20th century used de Dion axles with portal gear hubs for both the front and the rear suspension, allowing the use of large differentials for durability without increasing unsprung weight or reducing ground clearance.  Forged steel axles were used instead of tubes.
+The Mowag Duro also uses de Dion axles.
+UC San Diego’s Formula SAE team, Triton Racing, has employed the use of de Dion rear suspension in their vehicles since 2015. They are one of the few teams in the competition to do so.
+Ferrari also used this type of suspension on its 1976 F1 model 312T6, which had the peculiarity of mounting four wheels at the rear, two on each side and therefore only one axle.
+The Isuzu D-Max EV, first announced in April 2025 at the Commercial Vehicle Show in Birmingham, England, uses a de Dion axle for the rear suspension.
+Toyota Hilux EV, released in 2025 thailand is the first Toyota ever to feature a de Dion axle.
+As of 2026, Harley-Davidson's range of trikes now have a de Dion rear suspension instead of the previously used live rear axle.
+
+== Use in other production cars ==
+
+=== Older cars ===
+Alfa Romeo is probably the most famous adopter of this technology, using it on the Alfa Romeo Alfetta, GT, GTV, GTV6, Giulietta, Alfa 6, 90, 75/Milano, SZ/RZ. Other production vehicles using this suspension include the Lancia Aurelia (fourth series onwards) and Flaminia, first and second generation Prince Gloria, the original Mazda Cosmo, Volvo 300-series, Rover P6, Chrysler minivans (all wheel drive versions from 1991 to 2004), DAF 46, DAF 66, all Iso cars (Iso Rivolta IR 300, Iso Grifo, Iso Fidia, Iso Lele) and early Bizzarrini 5300 GT Stradas, some of the largest Opels, such as the Opel Diplomat "B" of 1969, all Aston Martins from 1967 to 1989, Ferrari 375 and 250TR, first generation Maserati Quattroporte, Bugatti Type 251, Mercedes-Benz W125 and W154 as well as Auto Union Type D.
+
+=== Recent vehicles ===
+The Smart Fortwo (and Smart Roadster before) micro-compact cars produced by Daimler AG, Mitsubishi i kei car produced by Mitsubishi Motors and the Caterham 7 (a development of the Lotus Seven after Lotus sold the design rights to Caterham Cars), are the only cars recently in production that use this arrangement, as well as the products of some kit car companies. 4WD variants of the Honda Fit and Honda HR-V subcompact SUV have been reported as using a de Dion style suspension; however, these vehicles actually have a twist-beam rear suspension, with the cross beam element located even further forward (and thus even more like a trailing arm and less like the beam axle of a de Dion) than the 2WD variants. The 2024 Mercedes-Benz EQG (G580 EQ) also uses a De Dion type rear axle, with double universal joint driveshafts transferring drive propulsion from the electric motors and incorporating slip joints to equalize the length.
+The Slate Truck EV, announced in April 2025, will use a de Dion rear axle.
+
+==== Leaf spring ====
+A recent vehicle to use this suspension coupled with leaf springs was the Ford Ranger EV. The American-built MV-1 van by VPG, produced from 2010 to 2016, also used this suspension in the rear with leaf springs. The Mitsubishi Fuso eCanter uses a De Dion rear axle with leaf springs.

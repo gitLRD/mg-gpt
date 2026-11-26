@@ -1,0 +1,80 @@
+Torque wrench
+
+A torque wrench is a tool used to apply a specific torque to a fastener such as a nut, bolt, or lag screw. It is usually in the form of a socket wrench with an indicating scale, or an internal mechanism which will indicate (as by 'clicking', a specific movement of the tool handle in relation to the tool head) when a specified (adjustable) torque value has been reached during application.
+A torque wrench is used where the tightness of screws and bolts is a crucial parameter of assembly or adjustment. It allows the operator to set the torque applied to the fastener to meet the specification for a particular application. This permits proper tension and loading of all parts.
+Torque screwdrivers and torque wrenches have similar purposes and may have similar mechanisms.
+
+== History ==
+
+The first patent for a torque wrench was filed by John H. Sharp of Chicago in 1931. This wrench was referred to as a torque measuring wrench and would be classified today as an indicating torque wrench.
+In 1935, Conrad Bahr and George Pfefferle patented an adjustable ratcheting torque wrench. The tool featured audible feedback and restriction of back-ratcheting movement when the desired torque was reached. Bahr, who worked for the New York City Water Department, was frustrated at the inconsistent tightness of flange bolts he found while attending to his work. He claimed to have invented the first torque limiting tool in 1918 to alleviate these problems. Bahr's partner, Pfefferle, was an engineer for S.R. Dresser Manufacturing Co and held several patents.
+
+== Types ==
+
+=== Beam ===
+
+The most basic form of torque wrench consists of two beams. The first is a lever used to apply the torque to the fastener being tightened and serves also as the handle of the tool. When force is applied to the handle it will deflect predictably and proportionally with said force in accordance with Hooke's law. The second beam is only attached at one end to the wrench head and free on its other, this serves as the indicator beam. Both of these beams run parallel to each other when the tool is at rest, with the indicator beam usually on top. The indicator beam's free end is free to travel over a calibrated scale attached to the lever or handle, marked in units of torque. When the wrench is used to apply torque, the lever bends and the indicating beam stays straight. Thus, the end of the indicating beam points to the magnitude of the torque that is currently being applied.
+The beam type torque wrench was developed in between late 1920s and early 1930s by Walter Percy Chrysler for the Chrysler Corporation and a company known as Micromatic Hone. Paul Allen Sturtevant—a sales representative for the Cedar Rapids Engineering Company at that time—was licensed by Chrysler to manufacture his invention. Sturtevant patented the torque wrench in 1938 and became the first individual to sell torque wrenches.
+A more sophisticated variation of the beam type torque wrench has a dial gauge indicator on its body that can be configured to give a visual or electrical indication when a preset torque is reached.
+
+=== Deflecting beam ===
+The dual-signal deflecting beam torque wrench was patented by the Australian Warren and Brown company in 1948. It employs the principle of applying torque to a deflecting beam rather than a coil spring. This is claimed to help prolong the accuracy of the wrench throughout its working life, with a greater safety margin on maximum loading and provides more consistent and accurate readings throughout the range of each wrench. The operator can both hear the signal click and see (and feel) a physical indicator when the desired torque is reached.
+
+The wrench functions in the same general way as an ordinary beam torque wrench. There are two beams both connected to the head end but only one through which torque is applied. The load carrying beam is straight and runs from head to handle, it deflects when torque is applied. The other beam (indicating beam) runs directly above the deflecting beam for about half of the length then bends away to the side at an angle from the deflecting beam. The indicating beam retains its orientation and shape during operation. Because of this, there is relative displacement between the two beams. The deflecting beam torque wrench differs from the ordinary beam torque wrench in how it utilizes this relative displacement. Attached to the deflecting beam is a scale and onto that is fitted a wedge which can be slid along the length of the scale parallel to the flexing beam. This wedge is used to set the desired torque. Directly facing this wedge is the side of the angled indicating beam. From this side protrudes a pin, which acts as a trigger for another pin, the latter pin is spring loaded, and fires out of the end of the indicating beam once the trigger pin contacts the adjustable wedge. This firing makes a loud click and gives a visual and tactile indication that the desired torque has been met. The indicator pin can be reset by simply pressing it back into the indicating beam.
+
+=== Slipper ===
+
+A slipper type torque wrench consists of a roller and cam (or similar) mechanism. The cam is attached to the driving head, the roller pushes against the cam locking it in place with a specific force which is provided by a spring (which is in many cases adjustable). If a torque which is able to defeat the holding force of the roller and spring is applied, the wrench will slip and no more torque will be applied to the bolt. A slipper torque wrench will not overtighten the fastener by continuing to apply torque beyond a predetermined limit.
+
+=== Click ===
+
+A more sophisticated method of presetting torque is with a calibrated clutch mechanism. One common form uses a ball detent and spring, with the spring preloaded by an adjustable screw thread, calibrated in torque units. The ball detent transmits force until the preset torque is reached, at which point the force exerted by the spring is overcome and the ball "clicks" out of its socket. This design yields greater precision as well as giving tactile and audible feedback. The wrench will not start slipping once the desired torque is reached, it will only click and bend slightly at the head; the operator can continue to apply torque to the wrench without any additional action or warnings from the wrench.
+
+=== "No-hub" wrench ===
+These are specialized torque wrenches used by plumbers to tighten the clamping bands on hubless soil pipe couplings. They are usually T-handled wrenches with a one-way combination ratchet and clutch. They are preset to a fixed torque designed to secure the coupling adequately but insufficient to damage it.
+
+=== Battery powered torque tool ===
+A battery powered torque tool is a cordless tool which allows fasteners to be torqued to a specified level.
+
+== Torque wrench standardization ==
+
+=== ISO ===
+The International Organization for Standardization maintains standard ISO 6789. This standard covers the construction and calibration of hand-operated torque tools. They define two types of torque tool encompassing twelve classes, these are given by the table below. Also given is the percentage allowable deviation from the desired torque.
+
+The ISO standard also states that even when overloaded by 25% of the maximum rating, the tool should remain reliably usable after being re-calibrated. Re-calibration for tools used within their specified limits should occur after 5000 cycles of torquing or 12 months, whichever is soonest. In cases where the tool is in use in an organization which has its own quality control procedures, then the calibration schedule can be arranged according to company standards.
+Tools should be marked with their torque range and the unit of torque as well as the direction of operation for unidirectional tools and the maker's mark. If a calibration certificate is provided, the tool must be marked with a serial number that matches the certificate or a calibration laboratory should give the tool a reference number corresponding with the tool's calibration certificate.
+
+=== ASME ===
+The American Society of Mechanical Engineers maintains standard ASME B107.300. This standard has the same type designation as the ISO standard with the addition of the type 3, (limiting) torque tool. This type will release the drive once the desired torque is met so that no more torque can be applied. This standard, however, uses different class designations within each type as well as additional style and design variants within each class. The standard also separates manual and electronic tools into different sections and designations. The ASME and ISO standards cannot be considered compatible. The table below gives some of the types and tolerances specified by the standard for manual torque tools.
+
+Tools should be marked with the model number of the tool, the unit of torque and the maker's mark. For unidirectional tools, the word "TORQUES" or "TORQUE" and the direction of operation must also be marked.
+
+== Using torque wrenches ==
+
+=== Extensions ===
+The use of cheater bars that extend from the handle end can damage the wrench, so only manufacturer specified equipment should be used.
+
+Using socket extensions requires no adjustment of the torque setting.
+Using a crow's foot or similar extension requires the use of the following equation:
+Tw=TdAA+B
+using a combination of handle and crow's foot extensions requires the use of the following equation:
+Tw=Td(A+C)A+B+C
+where:
+
+Tw is the wrench indicated torque (setting torque),
+Td is the desired torque,
+A is the length of the torque wrench, from the handle to the center of the head,
+B is the length of the crow's foot extension, from the center of the torque wrench head to the center line of the bolt,
+C is the length of the handle extension, from the extension end to the torque wrench handle.
+These equations only apply if the extension is colinear with the length of the torque wrench. In other cases, the distance from the torque wrench's head to the bolt's head, as if it were in line, should be used. If the extension is set at 90° then no adjustment is required. These methods are not recommended except for extreme circumstances.
+
+=== Storage ===
+
+Wrench types whose operation depends on a spring under compression (click, micrometre), when not in use, need to be stored with the torque setting set to the lowest setting. In order to prevent permanent set of the spring affecting the actual torque value of actuation.
+
+=== Calibration ===
+As with any precision tool, torque wrenches should be periodically re-calibrated. As previously stated, according to ISO standards calibration should happen every 5000 operations or every year, whichever comes first. It is possible that torque wrenches can fall up to 10% out of calibration in the first year of use.
+Calibration, when performed by a specialist service which follows ISO standards, follows a specific process and constraints. The operation requires specialist torque wrench calibration equipment with an accuracy of ±1% or better. The temperature of the area where calibration is being performed should be between 18 °C and 28 °C with no more than a 1 °C fluctuation and the relative humidity should not exceed 90%.
+Before any calibration work can be done, the tool should be preloaded and torqued without measure according to its type. The tool is then connected to the tester and force is applied to the handle (at no more than 10° from perpendicular) for values of 20%, 60% and 100% of the maximum torque and repeated according to their class. The force should be applied slowly and without jerky or irregular motion. The table below gives more specifics regarding the pattern of testing for each class of torque wrench.
+
+While professional calibration is recommended, for some people it would be out of their means. It is possible to calibrate a torque wrench in the home shop or garage. The process generally requires that a certain mass is attached to a lever arm and the torque wrench is set to the appropriate torque to lift said mass. The error within the tool can be calculated and the tool may be able to be altered or any work done adjusted for this error.

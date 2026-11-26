@@ -1,0 +1,55 @@
+Straight-four engine
+
+An inline-four engine (also referred to as a straight-four engine) is a four-cylinder piston engine where cylinders are arranged in a line along a common crankshaft.
+Most automotive four-cylinder engines use an inline-four layout, and the term "four-cylinder engine" is often used synonymously with inline-four engines. However, less popular configurations also exist, including the flat-four and V4, while inclined variants of the inline layout are sometimes referred to as slant-four engines. The layout is also used in motorcycles and other machinery.
+In the United States, beginning in 2005, four-cylinder engines became increasingly prevalent as part of a broader industry trend toward smaller, turbocharged engines to meet fuel economy and emissions requirements. As of the 2025 model year, they were used in about 60% of new vehicles.
+
+== Design ==
+A four-stroke inline-four engine always has a cylinder on its power stroke, unlike engines with fewer cylinders where there is no power stroke occurring at certain times. Compared with a V4 engine or a flat-four engine, an inline-four engine only has one cylinder head, which reduces complexity and production cost.
+
+=== Displacement ===
+Petrol inline-four engines used in modern production cars typically have a displacement of 1.3–2.5 L (79–153 cu in), but larger engines have been used in the past, for example the 1927–1931 Bentley 4½ Litre. Exceptions in modern usage included the Porsche 944 and 968 ( which used a 3.0 L (183 cu in) four-cylinder engine).
+Diesel engines have been produced in larger displacements, such as a 3.2 L (195 cu in) turbocharged Mitsubishi engine (used the Pajero/Shogun/Montero SUV) and a 3.0 L (183 cu in) Toyota engine. European and Asian trucks with a gross vehicle weight rating between 7.5 and 18 tonnes commonly use inline four-cylinder diesel engines with displacements around 5 L (305 cu in). Larger displacements are found in locomotive, marine and stationary engines.
+Displacement can also be very small, as found in kei cars sold in Japan. Several of these engines had four cylinders at a time when regulations dictated a maximum displacement of 550 cc (34 cu in); the maximum size is currently at 660 cc (40 cu in).
+
+=== Primary and secondary balance ===
+Inline-four engines with the preferred crankshaft configuration have perfect primary balance. This is because the pistons are moving in pairs, and one pair of pistons is always moving up at the same time as the other pair is moving down.
+However, inline-four engines have a secondary imbalance. This is caused by the acceleration/deceleration of the pistons during the top half of the crankshaft rotation being greater than that of the pistons in the bottom half of the crankshaft rotation (because the connecting rods are not infinitely long). As a result, two pistons are always accelerating faster in one direction, while the other two are accelerating more slowly in the other direction, which leads to a secondary dynamic imbalance that causes an up-and-down vibration at twice crankshaft speed. This imbalance is common among all piston engines, but the effect is particularly strong on four-stroke inline-four because of the two pistons always moving together.
+The strength of this imbalance is determined by the reciprocating mass, the ratio of connecting rod length to stroke, and the peak piston velocity. Therefore, small displacement engines with light pistons show little effect, and racing engines use long connecting rods. However, the effect grows quadratically with engine speed (rpm).
+
+=== Pulsations in power delivery ===
+
+Four-stroke engines with five or more cylinders are able to have at least one cylinder performing its power stroke at any given point in time. However, four-cylinder engines have gaps in the power delivery, since each cylinder completes its power stroke before the next piston starts a new power stroke. This pulsating delivery of power results in more vibrations than engines with more than four cylinders.
+
+=== Usage of balance shafts ===
+
+A balance shaft system is sometimes used to reduce the vibrations created by a straight-four engine, most often in engines with larger displacements. The balance shaft system was invented in 1911 and consists of two shafts carrying identical eccentric weights that rotate in opposite directions at twice the crankshaft's speed. This system was patented by Mitsubishi Motors in the 1970s, introduced in the Mitsubishi Astron engine with the "Silent Shaft" name, and has since been used under licence by several other companies.
+Not all large displacement straight-four engines have used balance shafts, however. Examples of relatively large engines without balance shafts include the 2.4 litre Citroën DS engine, the 2.6 litre Austin-Healey 100 engine, the 3.3 L Ford Model A (1927) engine and the 2.5 L GM Iron Duke engine. Soviet/Russian GAZ Volga and UAZ engines with displacements of up to 2.9 litres were produced without balance shafts from the 1950s to the 1990s, however these were relatively low-revving engines which reduces the need for a balance shaft system.
+
+== Usage in production cars ==
+
+Most modern straight-four engines used in cars have a displacement of 1.5–2.5 L (92–153 cu in). The smallest automotive straight-four engine was used in the 1963–1967 Honda T360 kei truck and has a displacement of 356 cc (21.7 cu in), while the largest mass-produced straight-four car engine is the 1999–2019 Mitsubishi 4M41 diesel engine which was used in the Mitsubishi Pajero and has a displacement of 3.2 L (195 cu in).
+Significant straight-four car engines include:
+
+1954–1994 Alfa Romeo Twin Cam engine: one of the first mass-produced twin-cam engines. In 1980, it became the first production engine with variable valve timing.
+1908–1941 Ford Model T engine: one of the most widely produced engines in the world.
+1951–2000 BMC A-Series engine: the first engine to be used in a mass-production transverse-engined front-wheel drive car.
+1966–2000 Fiat Twin Cam engine: one of the first mass-produced twin-cam engines, produced from 1959.
+1968–1981 Triumph Slant-4 engine: an early multi-valve engine which formed the basis of Saab's first turbocharged engines.
+2000–2009 Honda F20C engine: produced the highest specific output for a naturally aspirated engine of its time.
+
+== Usage in racing cars ==
+
+Many early racing cars used straight-four engines, however the Peugeot engine which won the 1913 Indianapolis 500 was a highly influential engine. Designed by Ernest Henry, this engine had double overhead camshafts (DOHC) with four valves per cylinder, a layout that would become the standard until today for racing inline-four engines.
+Amongst the engines inspired by the Peugeot design was the Miller engine, which was a successful racing engine through the 1920s and early 1930s. The Miller engine evolved into the Offenhauser engine which had a highly successful spanning from 1933 until 1981, including five straight victories at the Indianapolis 500 from 1971 to 1976.
+Many cars produced for the pre-WWII voiturette Grand Prix motor racing category used inline-four engine designs. 1.5 L supercharged engines found their way into cars such as the Maserati 4CL and various English Racing Automobiles (ERA) models. These were resurrected after the war, and formed the foundation of what was later to become Formula One, although the straight-eight supercharged Alfettas would dominate the early years of F1.
+Another engine that played an important role in racing history is the straight-four Ferrari engine designed by Aurelio Lampredi. This engine was originally designed as a 2 L Formula 2 engine for the Ferrari 500, but evolved to 2.5 L to compete in Formula One in the Ferrari 625. For sports car racing, capacity was increased up to 3.4 L for the Ferrari 860 Monza.
+The Coventry Climax straight-four engine was also a very successful racing engine, which began life as a 1.5 litre Formula 2 engine. Enlarged to 2.0 litres for Formula One in 1958, it evolved into the large 2,495 cc FPF that won the Formula One championship in Cooper's chassis in 1959 and 1960.
+In Formula One, the 1980s were dominated by the 1,500 cc turbocharged cars. The BMW M12/13 engine was notable for the era for its high boost pressures and performance. The cast iron block was based on a standard road car block and powered the F1 cars of Brabham, Arrows and Benetton and won the world championship in 1983. The 1986 version of the engine was said to produce about 1,300 hp (950 kW) in qualifying trim, at 5.5 bar of turbo boost.
+
+== Usage in motorcycles ==
+
+Belgian arms manufacturer FN Herstal, which had been making motorcycles since 1901, began producing the first motorcycles with inline-fours in 1905. The FN Four had its engine mounted upright with the crankshaft longitudinal. Other manufacturers that used this layout included Pierce, Henderson, Ace, Cleveland, and Indian in the United States, Nimbus in Denmark, Windhoff in Germany, and Wilkinson in the United Kingdom.
+The first across-the-frame 4-cylinder motorcycle was the 1939 racer Gilera 500 Rondine, it also had double-over-head camshafts, forced-inducting supercharger and was liquid-cooled. Modern inline-four motorcycle engines first became popular with Honda's SOHC CB750 introduced in 1969, and others followed in the 1970s. Since then, the inline-four has become one of the most common engine configurations in street bikes. Outside of the cruiser category, the inline-four is the most common configuration because of its relatively high performance-to-cost ratio. All major Japanese motorcycle manufacturers offer motorcycles with inline-four engines, as do MV Agusta and BMW. BMW's earlier inline-four motorcycles were mounted horizontally along the frame, but all current four-cylinder BMW motorcycles have transverse engines. The modern Triumph company has offered inline-four-powered motorcycles, though they were discontinued in favour of triples.
+The 2009 Yamaha R1 has an inline-four engine that does not fire at even intervals of 180°. Instead, it uses a crossplane crankshaft that prevents the pistons from simultaneously reaching top dead centre. This results in better secondary balance, which is particularly beneficial in the higher rpm range, and "big-bang firing order" theory says the irregular delivery of torque to the rear tire makes sliding in the corners at racing speeds easier to control.
+Inline-four engines are also used in MotoGP by the Suzuki (since 2015) and Yamaha (since 2002) teams. In 2010, when the four-stroke Moto2 class was introduced, the engines for the class were a 600 cc (36.6 cu in) inline-four engine made by Honda based on the CBR600RR with a maximum power output of 110 kW (150 hp). Starting in 2019, the engines were replaced by a Triumph 765 cc (46.7 cu in) triple engine.

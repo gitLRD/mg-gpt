@@ -1,0 +1,403 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 13
+
+Section I PRINCIPLES OF OPERATION
+
+13-1. General. The generator is a machine in which the principle of electromagnetic induction is used to convert mechanical energy into electrical energy. The generator restores the current used in cranking the engine to the battery. It also supplies, up to the limit of its capacity, current to carry the electrical load of the lights, ignition, radio, and horn. A generator and a motor are basically the same in construction and use the same electrical principles; however, their operation is opposite. In the generator, mechanical motion is converted into electrical energy. In the motor, electrical energy is converted into mechanical motion.
+
+13-2. Simple Single-Loop Generator. a. Induced Current. If a single loop of wire is rotated in the magnetic field between a north and a south pole, there will be an electrical pressure produced in the two sides of the loop. The voltage and current produced will relate to the direction of the magnetic field and the direction of rotation. If each end of the loop is connected to a metal segment of a commutator on which brushes rest (fig. 13-1), this electrical pressure will cause a current to flow through any external circuit that may be connected across the two brushes.
+
+b. Commutation. If the loop is rotated through a complete revolution (fig. 13-1), sides 1 and 2 will cut magnetic lines of force in first one direction and then in the other. This will produce current in each side of the loop, first in one direction and then in the other. That is, in side 1, current will flow in one direction when it is passing the north pole and in the other direction when it is passing the south pole. However, because the commutator segments also rotate with the loop, the current always will leave the right-hand brush (4) and enter the left-hand brush (3). The directions of current produced in each side of the loop can be determined by use of the left-handed rule, described in paragraph 11- 14.
+
+13-3. Multiple-Loop Generator. The advantages of a multiple-loop generator are explained below.
+
+a. More Current Induced. In the simple, single-loop generator (fig. 13-1), the current produced in each side of the loop reaches a maximum when the sides are cutting the lines of force in a perpendicular direction. This is the position in which the loop is shown. As the loop moves away from this position, it cuts fewer and fewer lines of force and less and less current is produced. By the time the loop has turned 90 degrees from the position shown, the sides are moving parallel to the lines of force and are cutting no lines, therefore no current is being produced. The current produced from the single loop is shown in graph form in figure 13-1. Many loops, or turns, of wire are required in the conductor in order for the generator to produce an appreciable amount and even flow of current. The rotating member that contains the wire loops and the commutator is called an armature. Figure 13-2 shows an armature in place in a generator. Note that many turns are used in the armature windings.
+
+b. Smoother Current Flow. The windings are assembled in a soft iron core because iron is more permeable than other substances that could be used. The windings are connected to each other and to the commutator segments in such a way that the current impulses overlap and produce a smooth flow of current. This could be compared to the overlapping of power impulses in an 8- or 12-cylinderenglne.
+
+13-4. Generator Speed. In order for the generator to provide rated output, it must be operated at sufficient speed. Because military vehicles spend a large amount of time at engine idle, it is important to note that during these periods the generator may be required to supply full rated current on a large portion thereof. Therefore, the requirement for establishing the speed at which full rated output must be delivered is the controlling factor for optimizing the size of the generator. As a general rule, engines have a speed ratio between four and five to one from idle to maximum speed; that is, the typical engine idles at 650 rpm and has a maximum speed of 3,000 rpm. Typical
+
+generator speeds can be two to four times engine rpm.
+
+13-5. Field Intensity. The magnetic lines of force that are created by the generator field are critical to the generator’s output. The more lines of force that there are for the armature to cut, the more output the generator will produce. Generator field coils are designed to produce the most intense field that is possible. The key factors that affect field intensity are:
+
+a. The number of wire turns in the coil.
+
+b. The ratio of the coil’s length to its width.
+
+c. The type of material used in the core.
+
+13-6. AC and DC Current Flow.
+
+a. General. There are two basic forms of electrical current flow: Direct current (dc) and alternating current(ac).
+
+b. Alternating Current. Alternating current forces electrons from one terminal to the other and then back again (the direction of current flow alternates). A graph of the voltage versus time for alternating current is shown in figure 13-3. It can be seen that the value of the voltage rises in the positive direction, reaches a peak, falls in the negative direction, reaches a negative peak, and then rises to zero. This is a constantly repeating cycle. Generators normally produce alternating current.
+
+c. Direct Current. Direct current flow forces electrons from the negative terminal to the positive terminal (current flow is always in one direction or direct). Direct current voltage versus time is shown in figure 13-3.
+
+d. Compatibility. An automotive electrical system, due to the need for a storage battery that
+
+produces dc flow, must also have a dc flow, because ac and dc flow are incompatible in the same circuit. To correct this problem, the generator output therefore must be changed to dc through a process called rectification. By its design, a dc generator is self-rectifying, but an ac generator must have its output rectified electronically. The processes of rectification are respectively covered in their related sections.
+
+Section II. DC GENERATOR PRINCIPLES
+
+13-7. Field Winding Configurations (Fig. 13-4). The purpose of the field windings is to create the lines of force electromagnetically that induce a current flow in the armature. The field winding usually is connected in parallel with the armature winding (that is, across the brushes).
+
+This is called shunt-field winding. The shunt-field winding usually is connected only at one end to the brushes. The other end of the field winding then is made to pass through a voltage regulation circuit (para 13-13). In this manner, the output of the generator is controlled. Depending on the
+
+regulation circuitry used, the field windings may be connected in one of two ways.
+
+a. A-Type Field Circuit. The A-type field circuit shunts one end of the field winding to the negative generator brush and controls output through the regulation circuitry to the positive (battery) connection.
+
+b. B-Type Field Circuit. The B-type field circuit shunts one end of the field winding to the positive generator brush and controls output through the regulation circuitry to the negative (ground) connection.
+
+13-8. Shunt-Wound Generator (Fig. 13-5).
+
+a.General. Most motor vehicle generators are shunt wound, with an outside means of regulating the voltage output. Approximately 8 to 12 percent of the total current generated by the armature is shunted (sent) through the field coils for producing the magnetic field.
+
+b. Components. The generator essentially consists of an armature, a field frame, field coils, and a commutator with brushes to establish electrical contact with the rotating element. The magnetic field of the generator usually is produced by electromagnets or poles magnetized by current flowing through the field coils. Soft iron pole pieces (or pole shoes) are contained in the
+
+field frame that forms the magnetic circuit between the poles. Although machines may be designed to have any even number of poles, two-and four-pole frames are the most common.
+
+c. Field Frames. In the two-pole type frame, the magnetic circuit flows directly across the armature, while in the four-pole type each magnetic circuit flows through only a part of the armature core. Therefore, the armature must be constructed in accordance with the number of field poles because current is generated when the coil, winding on the armature, moves across each magnetic circuit.
+
+d Brushes and Commutator. The current is collected from the armature coils by the brushes (usually made of carbon) that make rubbing contact with a commutator. The commutator consists of a series of insulated copper segments mounted on one end of the armature, each segment connecting to one or more armature coils. The armature coils are connected to the external circuit (battery, lights, or ignition) through the commutator and brushes. Current induced in the armature coils thus is able to flow to the external circuit.
+
+e. Principle of Operation. In figure 13-6, assume that the magnetic field flows from the north pole piece (N) to the south pole piece (S), as indicated by the arrows. When the armature is
+
+Operation.
+
+rotated, the armature coils will cut the weak magnetic field (residual magnetism) retained by the poles and set up a slight voltage, usually 1 to 1 ½ volts, across the brushes. In this particular case, the upper brush will be positive (+) and the lower brush will be negative (-). This voltage is sufficient to cause a small current to flow from the negative brush through the field winding around the pole pieces to the positive brush. If the magnetic effect of this field current is of the same polarity as the remaining magnetism, the pole strength will be increased. This, in turn, will increase the magnetic field through the armature. Because the armature coils then will be cutting more magnetic lines of force per revolution, the voltage across the brushes will be increased. An increase in brush voltage increases the field strength which, in turn, increases the armature output. The armature voltage helps the field and the field helps the armature voltage until the generator reaches its normal operating volt- age at the specific running speed. This process is called building up the generator voltage.
+
+f. Residual Magnetism. The importance of the magnetism retained by the poles should be noted in the description of generator operation because it serves as a foundation for building up the generator voltage. Residual magnetism is
+
+the magnetism remaining in the pole pieces after the field-magnetizing current has stopped. If there is no residual magnetism in the pole pieces, there will be no initial output of the generator, and it will not build up voltage to push current. If the pole pieces lose residual magnetism through long storage, or by being newly rebuilt, subjected to extreme heat or cold, dropped, vibrated, or struck by a sharp blow, it can be restored by passing direct current through the field winding in the proper direction. If current is passed through the field windings in the reverse direction, the generator will be polarized in reverse. This reverse polarity will cause the generator to discharge the batteries instead of charging them, and also could cause damage to some of the vehicle accessories. Several conditions are necessary for the generator to build up a voltage. Two of the most important requirements are that the pole pieces have residual magnetism as a foundation on which to build, and that the current in each field coil be in a direction around the pole that it will produce magnetism to assist, and not oppose, the residual magnetism. If the field current opposes it, the voltage built up will not be higher than that produced by the residual magnetism.
+
+g. Construction. The armature core is made of sheets of iron insulated from each other so that the magnetic field will not induce eddy currents in the core. Eddy currents are currents that are induced within the core by the constant variation in the lines of force. Making the armature core in one piece would allow eddy currents to become large enough to create a counter-voltage, which would result in a large portion of the generator’s output to be converted to heat. The armature core is wound with coils of copper wire and mounted on a shaft with a commutator on one end. Field coils are made of many coils of fine wire arranged for shunt connection. The field frame, usually two or four poles with brushes, brush holders, and end housings with bearings, completes the essential parts of the generator.
+
+h. Generator Drives (Fig. 13-7). The method of mounting and driving the generator depends to a large extent on the construction and design of the engine. It usually is mounted on the side of the engine and driven by belts or
+
+gears at one to one and one-half times the crankshaft speed. The present trend is to have the water pump and generator driven by a V-type drive belt from the pulley on the forward end of the crankshaft. Pivoting the generator on the generator mounting studs allows adjustment of the belt tension. A rotary fan usually is contained on the generator pulley to draw cooling air through the generator. 13-9. Waterproofed Generator Systems. The generators, as well as other electrical components are made watertight on military vehicles that ford bodies of water. This is done by completely sealing the generator so that water cannot enter. In addition, stainless steel bearings are used to prevent corrosion. The commutator-end bearing is packed with heat-resistant grease on assembly, while the drive-end bearing is lubricated by a pickup gear rotating in an oil reservoir. Neither bearing requires attention or lubrication between generator overhauls. Other types of sealed bearings also may be used. The generator leads are carried in a waterproof conduit that is connected by plug-ins to the generator terminals. The conduit is attached to the generator terminal assembly by a waterproof coupling.
+
+13-10. Circuit Breaker or Cutout Relay (Fig. 13-8).
+
+a. Purpose. The circuit breaker is simply an
+
+automatic electromagnetic switch connected in the battery charging circuit between the generator and the storage battery of the electrical system. Its function is to connect the generator automatically to the battery when the voltage of the generator is sufficient to charge the battery. It also must disconnect the generator and battery when the generator is not running or when its voltage falls below that of the battery, to prevent the battery from discharging through the generator windings. In these respects, the action of the circuit breaker is very similar to that of a check valve between a pump and a reservoir.
+
+b. Construction. The circuit breaker consists of two windings: a shunt winding and a series winding. These are assembled on a single core, above which is placed an armature. The shunt winding consists of many turns of fine wire, and is connected across the generator. The series winding consists of a few turns of heavy wire designed to carry full generator output, and is connected to the charging circuit. The armature operates a moving contact point that is positioned above a stationary matching point. Common practice is to place the cutout relay inside the voltage regulator.
+
+c. Operation. When the generator is not operating, the armature is held away from the winding core by spring tension, and the points are separated. As soon as the generator begins
+
+to operate at a speed sufficient to produce enough voltage to charge the battery, this voltage, which is impressed on the relay windings, creates enough magnetism to overcome the armature spring tension and close the points. As long as the generator charges the battery, the points are held closed. When the generator slows or stops, so that current flows from the battery to the generator, the points open. They open because the series-winding magnetic field reverses as the current in it reverses, so that the two windings no longer help each other. The magnetic fields buck, causing a reduction of the total magnetic field to a point where it can no longer hold the armature down and the points closed. The spring tension pulls the armature up and opens the points. The air gap between the armature and the iron core of the relay has little or no effect upon the voltage at which the circuit breaker opens, because the spring tension governs this almost entirely. On the other hand, the voltage at which the circuit breaker closes is governed by both the air gap and the spring tension.
+
+13-11. Regulation of Generator Output. The fields of the generator depend upon the current from the armature of the generator for magnetization. Because the current developed by the generator increases in direct proportion to its speed, the fields become stronger as the speed increases and correspondingly, more current is generated by the armature. The extreme variations in speed of the automotive
+
+engine make it necessary to regulate the output of the generator to prevent excessive current or voltage overload. On the average motor vehicle, a charging current in excess of 12 to 15 amperes may be harmful to a fully charged battery if continued too long. With the increased use of electrical accessories, generators have been increased in output until they are capable of producing far more than 15 amperes. Some heavy-duty generators, for example, may produce as much as 150 amperes.
+
+13-12. Reverse-Series Field Generator (Fig. 13-9). The reverse-series field generator is self-regulating.
+
+a. Operation. Because the output of the generator depends on the number of conductors in the armature, their speed of rotation, and the strength of the magnetic field in which they rotate, varying the strength of this field is the only convenient method of regulation. One of
+
+the simplest methods, used on special applications, is the use of a reverse-series field for differential action. A shunt field is connected across the brushes to produce the magnetizing action.
+
+Charging current going through the reverse-series field, however, has a demagnetizing action so that, as the current increases, it tends to restrict the rise of current above a reasonable value.
+
+b. Disadvantages. This type of differentially wound generator has disadvantages that limit its use on motor vehicles without some additional external regulator. If a break should occur in the charging circuit (except during normal circuit breaker operation), destroying generator regulation by the series field, the voltage will become excessive. This usually results in damage to the field and armature winding and to the voltage winding of the circuit breaker. Therefore, such generators usually have some form of external voltage regulation.
+
+13-13. Vibrating Point Regulator.
+
+a. Current Regulation.
+
+(1) The vibrating regulator (fig. 13-10) can be used to regulate the current or the voltage, depending on how the regulator coil is connected. A circuit diagram of a typical vibrating regulator used for limiting the current from the generator is shown in figure 13-11. The regulator consists of a soft iron core, a heavy winding or current coil around the core, a set of regulator contact points normally held closed by spring tension, and a resistance unit connected across the two regulator contact points.
+
+(2) As the generator output increases, the current regulator prevents the current output of the generator from exceeding its rated maximum. It does this by cutting a resistance intermittently in and out of the shunt- field circuit as the regulator contact points open and close, due to the varying magnetic pull of the core. The resistance is connected in the shunt-field circuit, but normally is short circuited by the regulator contacts when they are closed. One of these is mounted on a soft iron contact armature, to which the spring for holding the points in contact is attached. The
+
+generator, when driven by the engine, builds up as a simple shunt-wound generator. When the speed and voltage of the generator are increased sufficiently to close the circuit breaker, the generator will begin to charge the battery, the charging current flowing through the regulator winding. This current flowing through the regulator winding will magnetize the core. It, in turn, exerts a magnetic pull on the regulator contact
+
+armature, which tends to separate the contacts. When the battery-charging current reaches the value for which the regulator is adjusted, the core is sufficiently magnetized to attract the armature overcoming the pull of the regulator spring. This separates the contact points and inserts the resistance unit in series with the shunt- field winding and weakens the field strength. This causes a drop in voltage generated in the
+
+armature, which then decreases the charging current. When the current decreases to a predetermined amount, the current coil does not magnetize the core sufficiently to overcome the pull of the spring, which then closes the contacts. With the contacts closed, the resistance unit is once more short circuited and the full field strength is restored, causing the charging current to increase again. The regulator will continue to repeat this cycle. Under operating conditions, the armature vibrates rapidly enough to keep the generator output constant. As a result, the generator will never produce more than the predetermined rate (for example, 40 amperes), no matter how high the speed of the car. This will be true regardless of the connected electrical load.
+
+(3) This method of generator regulation is termed current regulation, because the current output of the generator is used for regulation. It is very important, therefore, that no breaks occur in the charging circuit after the generator reaches a voltage that will operate the circuit breaker. If a break does occur, no current will flow through the current coil to operate the vibrating points and, due to lack of regulation, the generator will build up an excessive voltage at high speeds. A voltage regulator is used to prevent excessive voltage.
+
+(4) The charging rate of the generator can be adjusted easily in all electrical systems controlled by a vibrating regulator. To increase the maximum charging rate, the spring tension on the vibrating armature should be increased slightly. To decrease the maximum charging rate, the spring tension should be decreased. Care must be taken that the generator output does not exceed the value for which it was designed.
+
+b. Voltage Regulation.
+
+(1) A circuit diagram of a typical vibrating voltage regulator is shown in figure 13-11. Although the construction of this relay does not differ materially from that of the current regulator, the principle of operation is somewhat different. With this regulator, the voltage output of the generator is used for automatic regulation. By comparing both circuits, it will be seen that the principal difference in the two regulators is in the winding of the controlling coil and its connections. In the voltage regulator, the charging
+
+current does not flow through the regulator winding. The winding on the core consists of a voltage coil of fine wire. The two ends of the voltage coil are connected across the generator brushes and in parallel with the battery instead of in series with it. The iron core, regulator points, and resistance unit, however, are practically the same; the only important exception is that the voltage regulator resistance is considerably higher than that used with the current regulator.
+
+(2) The current flowing in the regulator coil and resultant magnetic pull of the core on the contact armature depend on the voltage developed by the generator. For an example of regulator operation, assume that the regulator is adjusted to operate at 12.8 volts. With increasing generator speed, the voltage tends to rise above 12.8 volts. However, if this value is exceeded by a small amount, the increased magnetic pull of the core on the contact armature due to the current flowing in the voltage coil will overcome the spring tension and pull the armature toward the core. This action will open the contacts and insert a resistance in the generator field circuit. This added resistance decreases the current in the field winding, and the voltage developed by the armature drops below 12.8 volts.
+
+(3) When the voltage drops, the pull of the spring on the regulator armature overcomes the magnetic pull of the core and closes the contacts. This short-circuits the resistance unit and allows the field current to increase. The cycle of operation is repeated rapidly, preventing the generator voltage from rising above that for which the regulator is set. The regulator on most late-type military equipment will prevent the generator from building up an excessive voltage if a break occurs in the charging circuit. But this is not true on standard passenger cars and light-duty equipment. In these, if a break occurs in the voltage regulator circuit, regulation of the generator may be lost and at high speeds an excessive charging rate will result.
+
+(4) It is obvious that increasing the tension of the regulator spring will increase the output voltage of the generator. Under no circumstances should the regulator spring tension be increased in an attempt to have the generator charge at a higher rate at lower speeds. The generator cannot begin to charge until the circuit breaker closes. The closing of the circuit breaker
+
+is independent of the action of the regulator. Increasing the tension of the regulator springs so that the generator will develop an excessive voltage will send excessive current to the battery, overcharging it. It also will cause the generator to overheat, possibly burning it out.
+
+c. Charging Rate.
+
+(1) Current Regulator. With the vibrating current regulator, the maximum possible charging current remains constant for any one setting of the regulator, regardless of the condition of the battery. To vary this maximum generator output, the spring tension of the regulator must be adjusted. The setting must never exceed the rated maximum of the generator.
+
+(2) Voltage Regulator.
+
+(a) The main advantage of the voltage regulator is that the output of the generator is controlled to a great extent by the amount of charge in the battery. When the generator reaches a speed at which it develops the regulated voltage, there will be no further increase in voltage with increasing speed. The voltage will be maintained constant at all loads and at all higher speeds.
+
+(b) During the time the generator is connected to the battery, the difference in voltage between the two is the voltage available for sending current into the battery. In a discharged battery, the difference in voltage between the generator and the battery will be relatively great, so that a comparatively high charging current will pass from the generator to the battery. As the charge continues, the voltage of the battery increases, so that the difference in voltage between the generator and the battery is diminishing continually. With a fully charged battery, the voltage is equal nearly to that of the generator so that the difference between the two is very slight. As this slight difference in voltage is all that is available for sending current into the battery, the charging current will be small. The charging current, therefore, is variable and depends upon the charge in the battery. In practice, the charging current with the constant voltage regulator varies from a maximum of 25 to 35 amperes for a discharged battery to a minimum of 4 to 6 amperes for a fully charged battery.
+
+13-14. Carbon-Pile Regulator (Fig. 13-12).
+
+a. General. In the vibrating-contact type regulator, a set of contacts open and close to insert and remove a resistance in and from the generator field circuit. This, in effect, inserts a variable resistance into the field circuit that controls the generator. When only a small output is required, the voltage regulator maintains the resistance in the field circuit most of the time. When output requirements increase, the resistance is in the field a smaller part of the time. This same variable-resistance effect can be achieved by a carbon-pile regulator.
+
+b. Construction. The carbon-pile regulator consists essentially of a stack of carbon disks held together by spring pressure. The spring pressure is applied by an armature. The resistance through the carbon pile is relatively small with full spring pressure applied. But with less pressure, the resistance increases. The carbon pile is connected to the generator field circuit so that its resistance is in series with the field. With full pressure applied, there is no regulation and generator output can increase to a high value. To
+
+Circuit.
+
+limit current output to a safe value, or to provide voltage regulation, the armature pressure can be adjusted to vary the resistance.
+
+c. Current Regulation. To limit current, or to provide current regulation, the carbon-pile regulator has a heavy winding through which all current from the generator must pass. This winding produces a magnetic pull as current asses through it, which opposes the armature spring pressure. When the output reaches the value for which the generator is rated, the magnetic pull overcomes the spring pressure sufficiently to reduce the pressure on the carbon disks and thereby increase the resistance of the pile. This increased resistance, which is in the generator field circuit, prevents any further increase of output.
+
+d. Voltage Regulation. A winding is incorporated in the carbon-pile voltage regulator to regulate voltage. This shunt winding is connected across the generator so that generator voltage is forced on it. When this voltage reaches the value for which the regulator is set, the winding produces enough magnetic pull on the armature to reduce the armature spring pressure. This causes the resistance of the voltage-regulator carbon pile to increase. The increased resistance, which is in the generator field circuit, prevents any further generator voltage increase and thereby reduces generator output.
+
+The rheostat is connected to the shunt-winding circuit of the voltage regulator. Its purpose is to permit adjustment of the voltage regulator setting. When all resistance in the rheostat is cut out (by turning the knob), the full generator voltage is imposed in the shunt winding. But when some of the rheostat resistance is cut in, less than full generator voltage is imposed on the shunt winding (part of it being in the rheostat). In the latter case, generator voltage must go higher before voltage regulation commences. Thus, accurate setting of the regulator can be made.
+
+13-15. Third-Brush Regulation (Fig. 13-13).
+
+Third-brush regulation is much simpler in operation and less expensive to manufacture than other methods of control. However, it can be used only for relatively small and specialized applications. Generators with this type of control have an extra brush called the third brush, located between the two main brushes.
+
+a. Arrangement. Arrangement of a typical two-pole, third-brush generator is shown in figure 3-13. One end of the shunt-field winding is connected to the third brush, the other end is grounded. Only a part of the total voltage generated is supplied to the field by the third brush.
+
+b. Operation.
+
+(1) When the generator is running at a low speed and little or no current is flowing in the
+
+armature winding, the magnetic field produced by the field windings is approximately straight through the armature from one pole piece to the other. The voltage generated by each armature coil is then practically uniform during the time the coil is under the pole pieces.
+
+(2) As the generator speed and current increase, the armature winding acts like a solenoid coil to produce a cross-magnetic field. The magnetic whirl around the armature winding distorts the magnetic field produced by the shunt-field windings so that the magnetism is not distributed equally under the pole pieces. With this distortion of the magnetic field, the armature coils no longer generate a uniform voltage while passing under the different parts of the pole. Although the voltage across the main brushes remains nearly the same, a greater proportion of this voltage is generated by the coils between the positive brush and the third brush than was generated between them when little current was flowing through the armature winding. This is due to the distortion of the magnetic field, which crowds more magnetic lines of force between the positive and the third brush.
+
+(3) The coils that connect the commutator between the negative and the third brush are in the region of the weakened field and generate a lower proportion of the voltage. The result is a dropping off of the voltage between the negative and third brushes, which is applied to the shunt-field winding, thereby weakening the field strength. As the field strength decreases with increased generator current, the result will be an automatic regulation of the current output.
+
+c. Output.
+
+(1) One of the outstanding characteristics of generators with third-brush regulation is that the output of the generator increases gradually up to an intermediate speed. After this, due to obvious field distortion, the output falls off as the speed continues to increase. At high generator speeds, the output is approximately one- half its maximum value.
+
+(2) In practically all generators that have third-brush regulation, provision is made for changing the output to suit the conditions under which the generator is operated. This can be done by moving the position of the third brush on the commutator. The average voltage applied to
+
+the field winding will depend upon the number of armature coils spanned by the brushes that collect the field current. Thus, moving the third brush in the direction of the armature rotation increases the average current delivered to the shunt-field winding and, consequently, the output of the generator. Moving the brush against the direction of armature rotation decreases the output. When this brush is moved, care should be taken to see that it makes perfect contact with the commutator.
+
+(3) Because the third-brush generator depends upon the current flowing through the armature winding to produce the field distortion necessary for regulation, it is obvious that it is current-regulated internally (as distinct from external current regulation). Therefore, it must have a complete circuit available through the battery at all times. Otherwise, regulation would be destroyed and excessive field currents would burn out the generator windings. The generator terminals must be grounded in case the third- brush generator is disconnected from the battery.
+
+13-16. Control of Third-Brush Generator. A fuse is sometimes provided in the field circuit to guard against the possibility of the third-brush generator burning up. When used, it is placed either in the generator end plate or in the regulator control unit. If the battery becomes disconnected, there is a rise in voltage at the generator. This, in turn, sends an abnormally heavy current through the field winding and this field current burns out the fuse. As soon as the fuse is blown, the field circuit is open and no current can flow through it. The generator then merely turns, producing practically no voltage, and does no harm. The third-brush generator provides current regulation only and does not take battery voltage into consideration. In fact, a fully charged battery that has a high voltage actually will get more current from a third- brush generator than a battery that is completely discharged, because the high voltage holds up the voltage at the generator, makes the field stronger, and causes the generator output to increase. This, combined with the varying demands of radio sets and other current- consuming devices, necessitates more accurate regulation than a third-brush generator alone can give.
+
+a. Switch Control. Practically all systems of regulation provide a means for inserting a resistance in series with the third-brush field.
+
+A simple way of accomplishing this is shown in figure 13- 14. A resistance is mounted on the back of the lighting switch and connected in series with the field. When the lights are off, the generator output current is limited by the resistance in the field circuit. When the lights are turned on, the resistance is shorted so that the generator delivers full current to take care of the additional lighting circuit load. This is just a two-step arbitrary system of regulation, however, that will not meet the varied load requirements of normal vehicle operation.
+
+b. Step-Voltage Control.
+
+(1) The purpose of step-voltage control is to increase or decrease the output of a third- brush generator in accordance with the requirements of the battery and the connected electrical load. It is really a two-stage regulator in which the change from one output to the other is controlled by the generator voltage. The generator voltage is control led then by battery voltage.
+
+(2) A step-voltage control unit is shown in figure 13-15. A fine-winding voltage coil, connected to the generator armature terminal so that it receives the armature voltage, is the controlling element. Contacts are connected in series with the field terminal and have a resistance unit connected across them. When the battery is fully charged, its voltage raises the generator to such a value that sufficient magnetizing current flows
+
+through the fine winding on the control unit to pull the contact points apart. When this happens, the resistance across the contacts is connected in series with the field winding to lower the field strength and, consequently, to reduce the generator voltage and the current output. When the voltage is lowered sufficiently, spring tension will close the contact points and the higher charging rate will be restored.
+
+(3) When there is sufficient electrical load (such as lights, radio, or heater) to require a higher generator output, the contact points will close, because the load will lower the generator voltage and the generator will produce maximum output for the selected position of the third brush and the speed at which it is driven.
+
+c. Vibrating Regulator Control. A vibrating regulator (para 13-13) also can be used with a third-brush generator. Such a regulator is controlled by a voltage coil that operates vibrating contacts. When the battery is discharged, there is insufficient voltage to operate the regulator. The generator output is controlled then only by the third brush. As the battery becomes charged, the voltage of the system will increase and more current will be forced through the regulator coil. The regulator points then begin to vibrate, connecting a resistance in the generator field circuit and cutting down the output to a fairly constant value.
+
+d. Thermostatic Control.
+
+(1) Another type of control for the third-brush generator uses a thermostat blade to control the field strength. If the generator is set to give the greatest possible current to take care of demands during the winter, the battery would be in a constant state of overcharge in warm weather and soon be ruined. The thermostat blade automatically takes care of the changing current demands under different conditions.
+
+(2) The control consists of a bimetal thermostat blade made of a strip of spring brass welded to a strip of nickel steel. The blade warps or bends when heated, due to the greater expansion of the brass side. The blade is set so that a contact on its end is held firmly against a fixed contact at low temperatures. When the temperature rises to approximately 1600 to 1650F, the blade bends and separates the contacts.
+
+(3) The thermostat is connected in the third-brush field circuit (fig. 13-16) so that the full field current passes through the thermostat contacts when closed, permitting full current from the generator. After the engine has been run
+
+long enough for the high charging rate to heat the generator, the thermostat contacts open (due to the bending of the thermostat blade), causing a resistance unit across the contacts to be connected in series with the third-brush field and thereby reducing the current output. The charging rate is reduced approximately 30 percent when the thermostat contacts are opened.
+
+(4) The chief advantages of thermostatic control are that it gives a large battery-charging rate in cold weather when the efficiency of the battery is lower than in warm weather, and also a larger charging rate when the vehicle is being driven intermittently and the demands on the battery are greater because of frequent use of the starter. This control also prevents the generator and battery from overheating in summer by reducing the charging rate when the temperature rises.
+
+13-17. Split-Series Field Generators (Fig. 13-17 a. Generator regulation sometimes is accomplished by means of a split-series field. A generator with this method of regulation combines third-brush, reversed- series (differential), and cumulative-compound principles.
+
+The series-field winding is divided so that the generator output is changed according to the load.
+
+b. With lights off, no current flows through one part of the series field (1, fig. 13-17). The current going to the battery flows through the remainder of the series field (2, fig. 13-17) in the opposite direction to the shunt-field current.
+
+This weakens the total field strength, keeping the generator output down for the delivery of a reasonable charging rate.
+
+c. When the lighting switch is closed, the entire lighting current flows through section 1 of the series field in the same direction as the shunt
+
+field. The strength of the field is thereby increased, giving a higher generator output to take care of the lighting load.
+
+d. If the lights are turned on before the generator circuit breaker closes, the entire lighting current is supplied by the battery. This current then flows through all of the series field, instead of through section 1 only, in the same direction as the shunt field, making the total field strength still greater. This will build up the generator voltage to close the circuit breaker. The entire current output of the generator that passes through the circuit breaker flows to the center tap of the series field, where it divides. Part of the current then flows in one direction through to the battery and the remainder flows to the lights.
+
+e. As soon as the circuit breaker closes, the generator begins to pick up the lighting load. This lessens the drain on the battery and thereby reduces the current flowing through section 2 of the series field. When the generator output just equals the lighting current, the current in section 2 is zero and, as the generator output increases further, current begins to flow in the reverse direction through section 2 to the battery. This tends to weaken the field built up by the shunt winding and section 1 of the series winding. By obtaining the proper relationship between the shunt winding and the two sections of the series winding, results quite similar to those obtained from voltage regulation are secured, and the battery is kept in a charged condition.
+
+f. The charging rate of the split-series field generator may be adjusted by shifting the third brush as in the regular third-brush generator. In some generators of this type, separate coils are used for the two sections of the series field. In others, the two sections are combined into one coil. Generators of this type do not have standard connections and must not be confused with the ordinary third-brush generator. Neither terminal should be grounded under any circumstances.
+
+13-18. Paralleling Generators.
+
+a. General. Some military vehicles have two separate power plants, each with its own generator and regulator working into a common set of batteries. Certain combat vehicles have a single power plant, but they also carry an auxiliary
+
+generator. Where two generators are working in a Single set of batteries and a single electrical System, the problem of paralleling exists. That is, the two generators must be connected in parallel. Unless special provision is made, trouble may result if two generators are parallel. The reason for this is that one generator may attempt to carry most or all of the load while the other generator might use current or act like a motor. The problem is further complicated if one of the generators varies in speed (as the unit on the power plant might). b. System Description. To provide effective paralleling, each of the voltage regulators contains an additional paralleling winding. These windings become connected to each other through two paralleling relays when both generators are operating. With this condition, the paralleling windings can increase the voltage and thus the output) of the generator that is producing more than its share. Therefore, the two generators can be kept in step.
+
+13-19. Generator System - Main and Auxiliary Generators.
+
+a. General. A wiring circuit of a combat vehicle using a main and auxiliary generator is shown in figure 13-18 in schematic form. This system uses two generators, two carbon-pile regulators, plus various relays and switches. The following chart identifies the circuits in figure 13-18.
+
+1 Main Generator Feed 2 Main Gen Positive Line 7 Battery Ground 10 Instrument Panel Feed 61 Auxiliary Generator Field 62 Aux Gen Positive Line 65 Auxiliary Engine Starter 81 Battery - Positive Line 421 Aux Eng Fuel Cutoff Valve 422 Aux Eng Magneto Ground 459 Master Relay Control 459B Master Relay Feed 478A Aux Gen Equalizing 478M Main Gen Equalizing 506 Main Gen Warning Light 508 Aux Gen Warning Light
+
+b. Generator. The generator is a shunt generator with a maximum output of 150 amperes, and is used with a 24-volt battery set. The generator contains an additional field winding of a few turns of very heavy wire through which the entire generator output passes. This is a series winding. It is wound so that its magnetic field opposes the magnetic field from the shunt windings. This acts as a current-limiting device because the higher the output, the greater the opposition from the series- winding magnetic field. When the output reaches the rated maximum, the series-winding field is so strong that it effectively prevents any further increase in output. More increases would strengthen the series-winding field, thus further opposing the shunt- winding field and causing a decreased total field and, consequently, a drop-off of output. This series-field winding in the generator also plays an important part in the operation of the regulators and certain relays in the control system (para c and d, below).
+
+c. Pilot Relay. There is a pilot relay for each generator. Because both operate the same, the one used with the main generator will be discussed. It contains a shunt winding that is connected across the main generator terminals. In addition, it has two sets of contacts: an upper set and a lower set. The upper set is used in conjunction with the paralleling system, so consider the lower set first. This lower set is open when the generator is not operating. But when the generator begins to run and its voltage increases sufficiently to charge the battery, then the lower set closes. The shunt winding in the relay produces this action because, with sufficient voltage, it has a strong enough magnetic pull to pull down the relay armature and close the lower contacts. When the lower contacts close, this causes the differential-voltage-and-reverse-current relay to operate.
+
+d. Differential-Voltage-and-Reverse-Current Relay.
+
+(1) Closing. When the pilot relay closes its points, one of the windings in the differential- voltage-and-reverse- current relay becomes connected between the insulated battery terminal and the installed generator terminal. If the generator voltage is greater than the battery voltage, the difference (or differential) between the two causes current to flow in the winding
+
+(which is called the differential-voltage winding). As this current flows, a magnetic field is produced that pulls the relay armature down and causes relay contacts to close. When the relay contacts close, the line-switch winding is connected across the generator so that it closes, thereby directly connecting the generator to the battery.
+
+(2) Opening. With the relay and line switch closed so the generator charges the battery, current flows through the battery and back to the generator by means of ground wire and the series winding in the generator field. Because the current is flowing through the series winding, there is a voltage difference between the two ends of this winding. This voltage varies with the rate of current. With a high generator output, a high current is flowing and the voltage across the series winding is greater. This voltage is applied to the differential- voltage-and-reverse-current relay. When the generator is charging and the relay is closed, this voltage is imposed across a second winding in the relay (the reverse-current winding) in such a direction as to help the differential-voltage winding hold the relay contacts closed. But when the generator voltage falls below the battery voltage, the battery begins to discharge through the generator. In other words, the current reverses. This means that the current in the series-field winding, and thus the voltage across the series-field winding, also reverses. The resultant reverse voltage, which is applied to the reverse-current winding, causes the magnetic field of this winding to reverse. This winding then no longer helps the differential-voltage winding, but opposes it. As a result, the total magnetic field is so weakened that the relay armature is pulled up by its spring tension and the contacts open. This then opens the line switch winding circuit so the line switch opens. This disconnects the generator from the battery.
+
+e. Line Switch. The line switch is a simple magnetic switch. When its winding is electrically energized, it pulls the armature down so the switch is closed. When the winding is disconnected, the spring pressure under the armature moves the armature up so the switch opens.
+
+f. Paralleling Relays.
+
+(1) Connections. In operation, the contacts of the paralleling relays are connected in
+
+series with the paralleling windings in the two voltage regulators and to the two series-field windings in the two generators. Whenever a generator begins to charge, the armature on the pilot relay moves from the upper to the lower position, opening the upper and closing the lower contacts. When the upper contacts are closed (meaning that the generator is not charging), the paralleling relay winding is shorted through them and no paralleling relay action can take place. But when the pilot relay opens these upper contacts and closes the lower contacts, the winding of the paralleling relay becomes connected across the generator. Now, generator voltage can energize the winding and cause the paralleling relay to close its contacts. Only one paralleling relay will be actuated if only one generator is operating. This means that no paralleling can take place. But when both generators are operating so that both paralleling relays are in action, then the contacts of the relays, the paralleling windings in the regulators, and the series-field windings in the generator are all in series.
+
+(2) Operation. When all are in series, current will flow in the circuit if one generator is putting out more current than the other. To understand how this might be, refer to figure 13-19, which is a simplified sketch of the generator series-field windings and the regular paralleling windings connected in series. The paralleling relay contacts are not shown here because they are closed and are therefore a part of the circuit. Suppose that the main generator is putting out more current than the auxiliary generator. This means that more current flows through the series-field winding of the main generator than through the series-field winding of the
+
+auxiliary generator. Under these conditions, there will be a greater voltage across the main generator series- field winding. This means that current will flow from this winding, through the paralleling windings, and the auxiliary generator series-field winding. The current flow through the paralleling windings in the regulators helps the regulating winding in one regulator and opposes the regulating winding in the other. it helps in the main generator regulator; this means that the spring pressure on the carbon-pile armature is lightened further so that the carbon-pile resistance increases, cutting down the main generator output. On the other hand, the paralleling winding in the auxiliary generator regulator opposes the regulating winding. This means that the spring pressure on the carbon-pile armature is increased. Carbon-pile resistance is reduced and the auxiliary generator output goes up.
+
+(3) Paralleling. With paralleling, if one generator tries to produce more output than the other, its output is cut down immediately while the output of the low generator is increased. The action is entirely automatic once the system has been adjusted correctly. In order to achieve adjustment, the voltages of the two carbon-pile regulators must first be set, then the voltages perfectly balanced by means of the no-load voltage-adjusting potentiometer, or pot. Finally, the two paralleling rheostats must be adjusted. All these adjustments must be made by authorized personnel and according to instructions supplied in the applicable technical manual.
+
+g. Regulators. The carbon-pile regulators, one for each generator, operate on generator voltage (para 13- 16). A simplified sketch of one carbon-pile regulator circuit is shown in figure 13-20 (paralleling winding not shown). Some special features of this circuit will be of interest. The carbon pile is connected between the insulated generator brush and the generator shunt field. The regulator winding is connected across the generator brushes so that full generator voltage is imposed on it. It therefore regulates on generator voltage as explained in paragraph 13-16. There is a voltage-adjusting rheostat connected in series with the winding so that voltage adjustment can be made. In addition, the circuit goes to ground through an adjustable resistor called a potentiometer. The potentiometer permits accurate balancing of the two voltage regulator settings.
+
+For instance, if one regulator is slightly higher than the other, but both are within specifications, balance can be achieved by turning the potentiometer knob slightly. This puts more resistance into one regulating winding circuit and takes it out of the other, thus achieving the desired results.
+
+Section III.13-20.General.Most of the military vehicles are now equipped with an ac charging system. The reason for changing to the ac system is that an alternator is capable of producing a higher voltage at idle speed, whereas a dc generator produces very little voltage at idle speed. Many of the military vehicles are equipped with radios, firing devices, and other high-current-drawing equipment. When this equipment is in operation and the vehicle’s engine is at a low rpm, a dc generator will not produce the required current and voltage to keep the batteries charged and supply the current required to operate the accessories properly.
+
+13-21. The Basic Alternator.
+
+a. Construction (Fig. 13-21). The alternator is composed of the same basic parts as a dc generator. There is a field that is called a rotor and a generating part known as the stator. The purpose of the alternator is to produce more power and operate over a wider speed range than that of a generator. Because of this, the construction of the functional parts is different. The stator is the section in which the current is induced. It is made of a slotted laminated ring with the conductors placed in the slots. The current generated in the windings is transferred to the rest of the system through three stationary terminals.
+
+b. Rectifier Bridge (Fig. 13-22). The ac generator produces alternating current at its output. As stated in paragraph 13-6, this is unacceptable for an automotive electrical system. The ac generator is fitted with a rectifier bridge to convert the output to dc. If the two output wires of a basic ac circuit are each fitted with a silicon diode (para 11-5), the alternating cur- rent can be given one direction and thus be changed to direct current. To change current direction, use diodes that allow current flow toward the alternator on one wire (positive) and away from the alternator on the other wire (negative). Because most automotive alternators have three outputs (three-phase stator), the rectifier bridge will consist of six diodes (three positive and three negative). The diodes will be connected so that they combine the three ac outputs of the alternator into one dc output.
+
+13-22. Comparison to a DC Generator.
+
+a. Advantages.
+
+(1) The ac generator is configured opposite to the dc generator. The current is produced in the stator, which does not rotate. This compares with the dc generator that produces current from its armature, which must transmit its output through brushes. This means that the brushes must be very large and, therefore, will wear out
+
+quickly due to arcing caused by the large current carried by them.
+
+(2) The rotating field in the ac generator is much lighter and less susceptible to centrifugal force. Because the brushes must only transmit field current, they can be much smaller and will last longer due to less arcing.
+
+(3) The ac generator uses smooth sliprings on its rotor that produce very little arcing during use. This compares with the segmented commutator of the dc generator, which causes large efficiency losses due to drag and arcing.
+
+(4) The ac generator is much smaller and lighter than its dc counterpart.
+
+b. Disadvantages.
+
+(1) The ac generator requires electronic rectification through the use of silicon diodes. Modern rectifier bridges, though extremely durable under normal conditions, are extremely sensitive to accidental polarity reversal. This can result from jump starting, battery charging, and battery installation.
+
+(2) The ac generator does not retain residual magnetism in its field. Because of this, an ac generator- equipped vehicle cannot be push started with a completely dead battery.
+
+c. Comparison of Output Characteristics. It can be seen from figure 13-23 that the dc generator has a much narrower speed-producing range than the ac generator. The initial startup is at a much higher rpm, which is undesirable for vehicles that operate mostly in low-speed rang-s. As high speeds are reached, the dc generator output will fall below its rated output largely due to the brushes bouncing on the commutator segments, causing poor commutation.
+
+13-23. The Automotive Alternator.
+
+a. The Basic Alternator. A basic alternator would consist of one winding or loop in the stator and a single pair of poles in the rotor (fig. 13-24). When the rotor of this machine is turned through 360 degrees, it will induce a single cycle of ac just as the simple generator armature did.
+
+b. Rotor Design (Fig. 13-25). The rotor is designed with two pole pieces that sandwich the
+
+field winding on the shaft. Each pole piece has finger - like projections. When the rotor is assembled, the projections interlock with each other. The pole pieces form north and south magnetic poles. The core of the rotor contains the axially wound field winding which is made of varnish-insulated copper wire. Each end of the field winding is connected to an individual slipring.
+
+c. Stator Design (Fig. 13-26). The stator is’ designed with three separate windings so that it produces three separate ac currents. This is known as three-phase output. Each winding is in the form of loops that are spaced at intervals on the frame. The windings then are arranged so that they are offset from each other. The three windings are all tied together at one end to form what is known as a wye wound stator.
+
+d. Rotor-to-Stator Relationship (Fig. 13-27).
+
+The rotor is synchronized to the stator; that is, when one north pole projection is aligned with one of the loops of one-phase winding loop, the other north pole projections will also align with the other loops of that phase winding. This sequence of alignment between the rotor projections is necessary for operation. If one-phase winding was being acted on by a negative pole projection at one loop and a positive pole projection at another loop, the two loops would cancel each other out and no current would be generated.
+
+13-24. Common Alternator Designs. The following are brief descriptions of various configurations of alternators.
+
+a. Wound-Pole Alternator. Figure 13-28 illustrates the configuration of a typical wound- pole alternator with rotating field. Alternate
+
+polarity occurs on successive poles. Pole excitation current is obtained through sliprings. The advantages of the wound-pole alternator are a wide speed range: output current windings are stationary, and sliprings carry low field excitation current. The following are disadvantages of the wound-pole alternators: Brushes and sliprings wear, are affected by contamination, produce contaminating carbon dust, may cause voltage modulation, and are not reliable for high-
+
+temperature, high-altitude, or high-speed applications. Brush arc is an explosion hazard; fuel or oil cannot be used safely as a coolant. The rotor winding is hard to cool and is relatively unreliable in high-speed or rough- drive applications that cause stress on rotor windings and insulation. The wound-pole alternator has an extensive history of development, but is best suited for low- speed applications in a limited range of environments.
+
+b. Lundell Alternator. The Lundell rotor, as shown in figure 13-29, develops a field by placing the excitation windings around the axis of the rotor shaft, resulting in each end of the shaft assuming a polarity. Coupled to each end are interspaced fingers forming opposite polarities that provide an alternating field when rotated. Field excitation is achieved through slipring conduction. The following are advantages of the Lundell rotor. This rotor has a simple rotor winding construction and stationary output current windings. The disadvantages of the Lundell rotor are windage (air resistance) losses and the use of sliprings and brushes.
+
+c. Lundell Inductor. This generator type differs from the previously described Lundell type, in
+
+that the rotor contains no windings. Excitation is induced in the rotor poles by stationary field coils located at the ends of the rotor. This results in the elimination of sliprings and rotating windings. Further advantages can be obtained by casting a nonmagnetic material around the pole fingers, thus producing a smooth rotor with low windage losses and high speed capability. An inherent design requirement of this stationary field arrangement is the inclusion of an auxiliary air gap in the magnetic circuit. This requires greater field current for excitation. Figure 13-30 illustrates construction features. There are a variety of advantages to a Lundell inductor. There are no slipring wear or contamination problems, and the unit is inherently explosion proof. The rotor can be solid and permanently balanced. All windings are stationary and readily accessible for cooling. The low rotor mass reduces bearing loads and permits rapid acceleration. The bearing center-to-center distance is minimized by the elimination of sliprings, and this, combined with a large shaft diameter, permits high-speed operation. The field windings are simple, bobbin-wound coils permitting short mean turn length. The only disadvantage is that extra air gaps in the magnetic circuit require increased excitation power.
+
+d. Inductor Alternator. An inductor alternator employs a fixed, non-rotating field coil that induces excitation in the central portion of the rotor as if it were a solenoid. Each end of the rotor assumes a polarity. A multilobed segment is
+
+attached to each end of the rotor. The segment varies the reluctance in the magnetic circuit as it rotates. As a result, the fixed stator poles experience a variation in magnetic strength or coupling and produce a resulting output voltage in the stator coils. In contrast to other types of generators, the iron does not experience a flux reversal. Consequently, there is only a 50-percent utilization of the iron in the stator. Figure 13-31 illustrates typical construction of the inductor alternator. The advantages of an inductor alternator are easier winding construction for field and stator coils; simplified cooling; it is brushless; and it has an integral solid rotor without windings that permits high-speed operation. The disadvantages of an inductor alternator are that it has less than 50 percent use of iron, resulting in a heavier unit and the increased total air gap in the magnetic circuit requires more excitation.
+
+e. Brushless-Rotating Rectifier. Another means for eliminating brushes and sliprlngs is found in the rotating rectifier type of alternator. The machine consists of five main functional elements. These include a stator- mounted exciter field, the exciter armature, a main rotating field, the main output stator windings, and the output rectifier assembly.
+
+The exciter field induces alternating current in the rotating armature and the output is rectified and directly coupled to the rotating main field, which excites the stator-mounted output windings. With this arrangement, a small amount of exciter field excitation can be amplified in the exciter stage to supply a high level of main field current. A diagram of elements is shown in figure 13-32, along with a cross section through the alternator. The advantages of the brushless rotating rectifier are that it is brushless and a low exciter field current permits a low-level regulator. However, the disadvantages of the brushless-rotating rectifier are that a wound rotor limits top speed, multiple windings contribute to complexity and cost, a large number of heat-producing rotating elements increases cooling requirements, and a large magnetic circuit limits response.
+
+13-25. Cooling Generators. The common methods used for cooling generators use heat transfer by airflow or oil circulation. Each has its particular application based on their advantages and disadvantages.
+
+a. Air Cooling (A, Fig. 13-33). In tank-automotive applications, air cooling Is the most common method. The usual arrangement consists of a fan that forces air through the alternator to cool the rotor, stator, and rectifier. The major advantage of air cooling Is that the generator and cooling are self-contained, drawing air from the environment. However, fan power requirements can become excessive at high speeds because fan designs usually are structured to provide sufficient cooling at the lowest speed corresponding to rated output. Fan power at high speeds then appears as a severe reduction in generator efficiency. Another factor is that, unless it is filtered, cooling air can deliver
+
+abrasive particles, water, or other substances to the generator interior. Furthermore, rotor and stator design must permit unrestricted passage of air through the generator. This can be accomplished by designing passages through the rotor and stator. However, roughness in the surface of the rotor contributes to windage losses, further affecting unit efficiency.
+
+b. Oil Cooling (B, Fig. 13-33). 0il cooling features a transfer of alternator heat into the circulating oil flow, followed by cooling of the hot oil in a heat exchanger. The oil supply can be part of the driving power system
+
+or a separate self-contained system.
+
+Some oil-cooled system advantages are that the generator can be sealed completely, preventing entrance of foreign matter; cooling oil can be used for bearing lubrication; the rotor can be solid, reducing windage losses; and generator efficiency can be higher because the effective losses that occur in oil circulation
+
+are constant with generator speed.
+
+Several disadvantages encountered with oil cooling include the consideration that complex manifolding, porting, seals, and passages increase costs; and that auxiliary heat exchangers and pumps increase cost, weight, and complexity.
+
+13-26. AC Generator Regulation. The regulation of ac generator output, though just as important as the regulation of dc generator output, is much simpler for the following reasons:
+
+a. The ac generator, because of its rectifier bridge, will not allow current to backflow into it during shutdown. This eliminates the need for a cutout relay.
+
+b. An ac generator will limit its current automatically by regulating the voltage. A current regulator, therefore, is not needed in the voltage regulator.
+
+Because a cutout relay and a current regulator are not necessary, an ac generator voltage regulator contains only a voltage regulation element. A typical single- element voltage regulator for an ac generator is shown in figure 13-34. For comparison, a typical three-element voltage regulator for a dc generator is also shown.
+
+13-27. Vibrating Point Regulator.
+
+a. Description (Fig. 13-35). The vibrating point voltage regulator is a single-element unit that limits system voltage. The element consists of a double set of contact points that are operated by a magnetic coil. The center contact is stationary and connected directly to the generator field. The upper and lower contact points are pulled downward by the magnetic coil against
+
+the force of a spring. The upper and lower contacts always maintain the same distance from each other. The upper contact is shunted directly to the ground. The lower contact connects to battery voltage as does the operating coil. A resistor is connected from the battery to the field connection.
+
+b. Operation (Fig. 13-35). The lower contact normally is connected to the center contact because of spring tension. As the magnetic coil is energized, the movement of the upper and lower contacts will disconnect the center and lower contacts. As they move further, the upper contact will become connected to the center contact. The following describes the operation:
+
+(1) As the operation begins, the center contact is connected to the lower contact, sending full battery voltage to the field winding. This will cause the alternator to produce full output.
+
+(2) As the alternator raises system voltage, the force exerted by the magnetic coil increases. This causes the upper and lower contacts to move, which in turn breaks the connection between the center and lower contacts. The field then receives reduced voltage from the resistor, causing a corresponding reduction in alternator output. The resulting lower system voltage decreases magnetic coil force, allowing the lower and center points to come together again. This is a
+
+constantly repeating cycle (many times a second) that serves to limit electrical system voltage. The magnetic coil force and spring tension are calibrated to maintain the desired voltage, which is usually approximately 13.2 to 13.8volts in commercial vehicles.
+
+(3) During periods of light electrical loads, particularly at high speeds, the system voltage may go too high even with reduced field voltage from the resistor. When this happens, the magnetic coil will pull the upper contact into connection with the center contact. This will shunt all field current to ground, causing the alternator to stop producing current.
+
+13-28. Transistorized Point Regulator (Fig. 13-36). The operation of the regulator is essentially the same as the vibrating point regulator. The main difference is that the contacts only carry a current that is used to trigger a transistor. Based on this signal current from the points,
+
+the transistor will control and carry the field current. The advantage to this configuration is increased contact point life. This is because the signal current to the transistor is low and causes very little arcing.
+
+13-29. Solid-State Voltage Regulator (Fig. 13-37). A solid-state voltage regulator is a static unit that is totally electronic in operation. In this configuration, the contact points are replaced by zener diodes (para 11-7). The zener diodes produce a signal to the base of a transistor whenever the electrical system voltage reaches the desired level. This signal to the base of the transistor reduces or shuts off field current to reduce or stop alternator output. When the system voltage drops again, the transistor again will allow alternator output. This cycle will repeat itself as much as 2000 times per second. Some applications utilize a rheostat to adjust the resistance of the field current, thereby regulating
+
+alternator output. The solid-state regulator virtually has replaced the mechanical units in all currently produced equipment due to the extreme reliability and low manufacturing costs of solid-state components. Another desirable feature of a solid-state regulator is that it can be made small enough to be built into the alternator.
+
+13-30. Accessory Items.
+
+a. Fuel Pressure Field Switch (Fig. 13-38). The fuel pressure field switch is a device that is used on high output alternators to prevent the alternator from placing a load on the engine until it is running by opening the alternator field circuit until the fuel pressure reaches the normal operational range.
+
+b. Field Relay. The field relay is used in two basic applications:
+
+(1) It can be used to isolate the field circuit from the battery whenever the ignition switch is turned off (fig. 13-39). In this application, the magnetic coil is energized with the ignition switch. The contact points then pull together, completing the field circuit.
+
+(2) It also can be used to operate an alternator no-charge warning light (fig. 13-39). In this application, the magnetic coil is energized by one of the stator windings. This will cause the contact points to be pulled together whenever the alternator produces sufficient current to sustain operational voltage. When the contact points are open (alternator not operating), the field circuit receives current from a lead that passes in series through an indicator lamp that is in parallel with a resistor. The field current will cause the lamp to light. As the alternator begins to produce, the field relay contact points will close, shunting the field circuit directly to battery voltage, causing the indicator lamp to go out.

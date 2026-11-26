@@ -1,0 +1,13 @@
+Drag link
+
+A drag link converts rotary motion from a crank arm to a second bellcrank, usually in an automotive steering system.
+The term pre-dates the automobile, although its origin is unclear. It was in use in 1849 as a means of rotating a Ducie cultivator operated by cable by a stationary steam engine (or between engines).
+
+== Automotive use ==
+In automobiles, the drag link connects the drop arm (also called pitman arm) on the steering box to a "steering arm" which turns the wheels to steer the vehicle. Normally the drop link connects to one wheel which is connected to the other wheel by a track rod (or tie rod), which is an adjustable rod that determines the relative wheel alignment.
+Typically, one end of the drag link is connected via the drop arm and steering gearbox to the steering wheel (providing the connection between the driver and the steering system); the other end is attached to one of the wheels by the steering arm.
+An alternate steering mechanism is a rack and pinion, a three bar linkage that eliminates the drag link by directly moving a center link.
+"The drag link connects the pitman arm to the steering arm, or in some applications it connects to the tie rod assembly. Unlike a center link, the drag link does not connect to an idler arm, and has no inner tie rod ends attached to it. On some applications the drag link swings from the front to the rear of the vehicle. On these applications the drag link connects to the steering arm located at the wheel. In some Jeep applications, the drag link will swing from right to left on the vehicle and will connect to the steering arm at the wheel. Drag links can be a solid one-piece design or an adjustable design. Many drag links have replaceable or rebuildable ends."
+
+== Effect of wear ==
+Wear in the joints at the end of the drag link results in "play" (looseness) in the steering. It does not affect the wheel alignment, which is determined by the track rod (also known as a tie rod).

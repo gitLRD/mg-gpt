@@ -1,0 +1,149 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 33
+
+STEERING SYSTEMS AND WHEEL ALINEMENT
+
+Section I. STEERING SYSTEMS
+
+33-1. Steering Methods.
+
+a. Ackerman System. The ackerman system (fig. 33-1) is used exclusively on passenger cars and many wheeled military vehicles. Correct ackerman steering during a turn requires that each wheel turn around a point located on an extension of the rear axle centerline. The steering arms are bent slightly toward each other so that their centerlines, if extended, would intersect in front of the rear axle. With the ackerman system, as the vehicle is making a turn, the inside wheel will turn sharper than the outer wheel, therefore allowing all the wheels to travel around a common point.
+
+b. Fifth Wheel. Fifth-wheel steering (fig. 33-2) is accomplished by pivoting an entire axle around a central point. The wheels of each axle maintain their initial position with respect to each other and the interconnecting axle during a turn. This type of steering commonly is applied to towed vehicles because of the mechanical difficulties of
+
+controlled steering and because greater under-body clearance is required for fifth-wheel steering systems.
+
+33-2. Solid Axle Steering Linkage. The steering linkage on vehicles with a solid front suspension (fig. 33- 3) only needs to deal with the relative motion between the front axle and frame. For this reason the steering linkage is fairly simple and easily designed.
+
+a. The common solid axle suspension utilizes a drag link to connect the pitman arm to the steering linkage. The drag link is made in a tubular or rod form and is provided with springs to cushion shocks and prevent transmission of the shocks to the steering gear. A housing is provided on one end of the drag link to receive the ball end of the pitman arm. Ball sockets, coil springs, spring seats, and a screw plug secured by a cotter pin are inserted in this housing to hold the pitman arm ball. Sometimes the slot in which the pitman arm is inserted extends the entire length of the
+
+housing, in which case the end of the housing has a screwcap. The end of the drag link connected to the steering knuckle arm is usually somewhat similar though it may be like a tie rod end. Lubrication fittings are provided for each joint. Dust shields are fitted over the ball and socket Joints to hold the lubricant and to prevent dust from entering the joint.
+
+b. Steering Arms. The steering arms on the solid axle suspension, like all others are bent toward each other to achieve toe out or turns. The left side arm is shaped like a bellcrank and accepts the drag link and tie rod.
+
+c. Tie Rod. The tie rod connects the steering arms together and may be located in front of or behind the centerline of the wheel. The tie rod is usually of a solid rod construction but tubular designs also are used.
+
+d. Tie Rod Ends. Tie rod ends are used to form a flexible link between the tie rod and steering arm. The tie rod end usually is fastened to the knuckle arm with a tapered stud. A socket is provided within the tie rod end to hold the end of the stud, which is in the form of a ball or yoke. The socket also allows movement between the knuckle arm and the tie rod. A lubrication fitting usually is
+
+provided to keep the ball and socket joint properly lubricated. A dust seal covers the tie rod end to prevent dust from entering the Joint and to prevent the loss of lubricant. In the solid axle configuration, the tie rod end is screwed onto the tie rod and is secured with clamps.
+
+33-3. Independent Suspension Steering Linkage. The steering linkage on vehicles with independent suspension must be flexible due to the relative motion of each wheel. To accomplish this, the tie rod must be of a multipiece design. Of the many designs in use, the following are the most common.
+
+a. Center Steering Linkage (Fig. 33-4). One configuration that was used on earlier models utilized two separate tie rods to connect the steering arms together. These tie rods were Joined in the middle by an intermediate knuckle arm, which pivoted on the frame. Tie rod ends, described in paragraph 33-2d, are used to form the flexible link to the steering arms.
+
+b. Parallelogram Steering Linkage (Fig. 33-5). This configuration is a very popular steering system for independent front suspension and is used on many of today’s vehicles,
+
+(1) Centerlink. The parallelogram steering system uses a centerlink, otherwise known as an intermediate rod or track rod, to connect the steering arms together. The turning action of the steering box is transmitted to the centerlink through the pitman arm. The pitman arm also provides support for the centerlink. The two components are connected by a hinge or ball joint.
+
+(2) Idler Arm. The centerlink is hinged on the opposite end of the pitman arm by means of an idler arm. The idler arm supports the free end of the centerlink and allows it to move left and right with ease.
+
+(3) Tie Rods. The tie rod ends in this configuration serve the same purpose as those
+
+discussed in paragraph 33-2d but are constructed slightly different. The tie rod ends have a cast housing incorporating a threaded shaft in the design. The tie rods provide a swivel connection to both steering arms and both connections to the centerlink.
+
+4) Adjusting Sleeves. The inner and outer tie rods are connected by adjusting sleeves. These are tubular in design and threaded over the inner and outer tie rods. The adjusting sleeves provide a location for toe adjustment. Clamps and clamp bolts are used to secure the sleeves. Some manufacturers require the clamps be placed in a
+
+certain position in relation to the tie rod top or front surface to prevent interference with other parts.
+
+c. Rack and Pinion Steering Linkage (Fig. 33-6). The rack and pinion steering linkage is the simplest form of steering linkage. A ball socket joint, which has a hollow threaded shaft, is generally used to connect the tie rod assembly to the rack and pinion steering gear. The threaded end of the socket assembly accepts the tie rod and allows for toe adjustment. Clamps also are used to secure the tie rod and socket joint. This type of steering linkage is found on many smaller cars.
+
+Section II. 33-4.Worm andSectorType.In the worm and sector steering gear (fig. 33-7) the pitman arm shaft carries a gear that meshes with the worm on the steering gear shaft. Generally, only a sector of a gear is used because it turns through an arc of approximately 70 degrees. The steering wheel turns the worm on the lower end of the steering gear shaft, which rotates the sector and the pitman arm through the use of the shaft. The worm is assembled between tapered roller bearings that take both thrust and load. An adjusting nut or plug is provided for adjusting the end play of the worm. Some means of adjusting the end play of the cross-shaft also is provided.
+
+33-5. Worm and Roller Type. The worm and roller steering gear (fig. 33-8) is quite similar to the worm and sector type except that a roller is supported by ball or roller bearings within the sector mounted on the pitman arm shaft. These bearings assist in reducing sliding friction between the worm and sector. As the steering wheel turns the worm, the roller turns with it but forces the sector and the pitman arm shaft to rotate. The hourglass form of worm, which tapers from both ends to the center, affords better contact between the worm and roller at all positions. It provides a variable ratio to permit faster and more efficient steering. Variable ratio means that the ratio is
+
+larger at one position than another and therefore the road wheels are turned faster at certain positions than at others. At the center or straight ahead position, the steering gear ratio is high, giving more steering control. However, as the wheels are cramped or turned to the side, the ratio decreases so that the action is much more rapid. This design is very helpful for parking or for maneuvering the vehicle.
+
+33-6. Cam and Lever Type. A cam and lever steering gear in which the worm is known as a cam, is shown in figure 33-9. The pitman arm shaft carries a lever on the inner end. This lever carries a stud that engages with the cam. The stud may be integral or mounted on roller bearings. Roller bearings reduce friction and allow easier steering. As the steering wheel is turned, the stud moves up and down on the cam and carries the lever with it to rotate the pitman arm shaft. The pitch of the cam is not constant, therefore the lever moves more rapidly as it nears either end of the cam. Maximum leverage occurs at the straight ahead position when the stud engages the fine pitch section of the cam. This makes the initial turning of the wheels easier. Therefore, a variable ratio is obtained with cam and lever steering. A twin lever provided with two studs (fig. 33-9) is used on a design for heavier vehicles
+
+because of its added strength and steering stability.
+
+33-7. Worm and Nut Type. Another form of steering gear is the worm and nut, which is made in several different combinations, A nut is meshed with the worm and screws up and down on it. The nut may operate the pitman arm directly through a lever, or through a sector on the pitman arm shaft. An example of the recirculating ball type of the worm and nut steering gear is shown in figure 33-10. In this steering gear, the nut, which is in the form of a sleeve block, is mounted on a continuous row of balls on the worm to reduce friction. This ball nut is fitted with tubular ball guides to return the balls diagonally across the nut to recirculate them as the nut moves up and down on the worm. With this design, the nut is moved on the worm by rolling instead of by sliding contact. Turning the worm moves the nut and forces the sector and the pitman arm shaft to turn.
+
+33-8. Rack and Pinion Type. In the rack and pinion steering system (fig. 33-11) the steering gear shaft utilizes a pinion gear on the end, to mesh with a long rack. The rack is connected to the steering arms by tie rods, which are adjustable, to maintain proper toe angle. As the steering wheel is rotated, the pinion gear on the end of the steering shaft rotates. The pinion moves the rack left and right to operate the steering linkage (para 33-3c). Rack and pinion gears are used on small passenger vehicles where a high degree of precision steering is required. Their use on larger vehicles is limited because of the conflicting space requirements of rack and engine.
+
+Section III. POWER STEERING - HYDRAULIC TYPE
+
+33-9. Purpose. The power steering system is designed to reduce the effort required to turn the steering wheel. This task is accomplished by an auxiliary power network incorporated in the steering system.
+
+33-10. Components.
+
+a. Pump. All power steering systems contain a pump (fig. 33-12) that supplies hydraulic fluid under pressure to the other components in the system. The pump, which may be of the gear teeth, rotor, or vane type, usually is driven by the engine by means of a V-belt and is functional whenever the engine is operating. Some models mount the pump in front of the engine and are driven directly by the crankshaft. The pressure and flow relief valves are always built into the pump. These valves are designed to limit the amount of pressure and flow the pump develops throughout the different engine speeds.
+
+b. Reservoir. The pump receives its oil supply from the reservoir (fig. 33-12), which usually is an integral part of the pump. Power steering fluid is generally added to the system and checked atthe reservoir.
+
+c. Control Valve. The control valve (fig. 33-13), which is actuated by the steering wheel movements, is designed to direct the hydraulic fluid under pressure to the proper location in the steering system. The control valve may be mounted either in the steering box or on the steering linkage, depending on which system configuration is being used.
+
+d. Gearbox. The gearbox used in an integral power steering system (fig. 33-14) is basically a manual gearbox that is adapted to include a power assist package. The integral power steering gearbox are of two types: offset and in line. The offset type utilizes a recirculating ball-type gear-box with a rack meshed to the pitman sector gear above or on the opposite side of the ball nut. The power steering force is developed in the power piston, which is offset from the worm and nut and attached to the rack. The in-line design uses the recirculating ball nut assembly as a power piston. In this design, the ball nut is sealed inside a cylindrical portion of the steering gear housing. The power steering effect is produced by alternately pressurizing either side of the power piston.
+
+e. Hydraulic Cylinder. The hydraulic cylinder that is used on the semi-integral and integral
+
+power steering systems (fig. 33-15) is located on the steering linkage. The power assist is developed in the cylinder through the action of the pressurized hydraulic fluid. The cylinder may be single- or double-wall construction. The hydraulic hoses connect to the ports on each end of the single-wall cylinder. The double-wall cylinder has connections on one end for both hoses and an internal passageway between the walls to pressurize the other end of the cylinder. Some linkage cylinders have a shuttle valve built into the piston. This valve is designed to open at the end of the piston stroke. This feature helps eliminate full
+
+hydraulic pressure from acting on the cylinder when the piston is bottomed by opening and allowing fluid to flow through the piston.
+
+33-11. Operation.
+
+a. Neutral. In the neutral position (fig. 33-13) there is no force required of the power steering system to turn the wheels, therefore the fluid under pressure must be bypassed through the system. This usually is accomplished in the control valve. When there is no steering force required by the driver, the spool in the control
+
+valve is centered by springs or hydraulic pressure or a combination of both. This allows the oil to flow through the valve and back to the reservoir. This condition allows the steering system to maintain its position.
+
+b. Left and Right Turns. As the driver attempts to turn the steering wheel to make a left or right turn, the power steering system is activated. The spool is moved off its center position and is forced to the left or right end of the control valve (fig. 33-13). This opens the proper passageways for the pressurized oil. It is directed to the proper side of the piston in the steering box or end of the hydraulic cylinder if linkage-type power steering is employed. The return port is also opened and the fluid that is being displaced by the piston in the cylinder is allowed to return to the reservoir.
+
+33-12. Configurations.
+
+a. Linkage Type (A, Fig. 33-16). In the linkage configuration, the control valve and power cylinder may be separate parts and mounted on different parts of the linkage.
+
+b. Integral (B, Fig. 33-16). The integral system incorporates the control valve and power assist into the steering gear as a unit.
+
+c. Semi-Integral (C, Fig. 33-16). The control valve on the semi-integral system is mounted to the steering gear and a separate hydraulic cylinder is mounted to the linkage.
+
+33.13. Purpose. Heavy vehicles are difficult to steer because large loads on the tires tend to increase their turning resistance. This problem cannot be overcome satisfactorily by using a steering gear with a very high reduction ratio because it would require numerous revolutions of the steering wheel to turn the vehicle wheels; therefore, some form of power steering to aid the driver In steering the heavier vehicles is required. Air steering Is a desirable method of power steering, because the heavier vehicles on which it
+
+would be used usually have an airbraking system from which the air pressure can be obtained. If there is no airbraking system, an air compressor and reservoir are required to obtain the necessary air pressure.
+
+3314. Components. Air steering control consists primarily of three major units: a combination of levers mounted on the steering gear pitman arm shaft; two control valves; and an air cylinder containing a double- acting piston (fig. 33-17). TA233846
+
+The control valves are mounted directly on the air cylinder, each valve controlling one side of the cylinder. The air pressure delivered from the air line to the cylinder is proportional to the force applied on the top of the valve piston plunger by the control rod. The valves are actuated by a rocker arm so that air Is delivered to one side of the cylinder at a time. These valves are adjusted so that the air can be exhausted from both sides of the cylinder simultaneously, but air pressure can be delivered to only one side at a time (fig. 33-17)
+
+33-15. Operation.
+
+a. Neutral. In the neutral position the force on the steering wheel is removed, the steering wheel
+
+position remains constant, and the control link- age shifts and shuts off the air supply to the air cylinder. When this happens, the air cylinder remains pressurized In that position and holds the steering linkage steady until the steering wheel is turned again.
+
+b. Right and Left Turns. If the steering wheel is turned in one direction, the steering linkage shifts one way and the control valves allow one side of the cylinder to exhaust while pressurizing the opposite side. The piston rod then extends or retracts, providing the power steering assist to the linkage.
+
+Section V. FOUR-WHEEL DRIVING AND STEERING
+
+33-16. Construction.
+
+a. Four-Wheel Drive. A construction in which all four wheels of the vehicle drive, is used on many military vehicles. A typical construction for a wheel that drives and steers is illustrated in figure 33-18. A universal joint is used at the end of the axle shaft so that the wheel will be free to pivot at the end of the axle, as well as be driven through the axle. The end of the axle housing encloses this universal joint and is provided with vertical trunnion pins that act as a steering knuckle pivot. The wheels, mounted on steering knuckles attached to these trunnion pivots, are free to turn around the pivots at the same time they are driven through universal joints on the inner axle shaft. Steering knuckle arms are mounted on the steering knuckles so that the wheels can be turned around the trunnion steering pivots by the steering linkage.
+
+b. Four-Wheel Steering. All four wheels can be steered from the steering wheel by connecting the steering linkage of these wheels to the pitman arm (fig. 33-19). The rear wheels are connected together by knuckle arms and a tie rod. Because the rear wheels must be turned in the opposite direction to the front wheels to travel in the same arcs around the center of rotation, the drag links to the front and rear wheel steering linkage cannot be connected directly to the steering gear arm. The drag link to the front wheels must move forward while the drag link to the rear wheels moves rearward, and vice versa. To accomplish this, an intermediate steering gear arm is pivoted on the frame side member near the middle of the vehicle. The drag links are connected to opposite ends of this arm so that, as it Is turned by direct connection to the pinion arm (by means of an intermediate drag link), the front and rear drag links are moved in opposite directions.
+
+Section VI. WHEEL ALINEMENT PRINCIPLES
+
+33-17. Steering Geometry/Toe-Out. The front end assembly of the modern motor vehicle requires careful design and adjustment because each front wheel is pivoted separately on a steering knuckle. Because of this construction, the front wheels are not in the same radius line (drawn from the center of rotation (fig. 33-20)) when a vehicle is making a turn. Because each wheel should be at right angles to its radius line, it is necessary for the front wheels to assume a toed-out position when rounding curves. If they do not, the tires slip, which causes excessive tire wear. The inner wheel (the one closer to the center of rotation) turns more than the outer wheel, so it will travel in a smaller radius. This difference in the turning ratios of the two wheels is called toe-out. It is usually specified as the number of degrees over 20 that the inner wheel is turned when the outer wheel is turned 20 degrees. Toe-out on turns may be checked but there is no provision made for its adjustment. The steering linkage must be examined carefully for bent or defective parts if this angle is not within the manufacturer’s specifications.
+
+33-18. Caster. Caster is the angle (fig. 33-21),
+
+measured in degrees, that the steering knuckle pivots are tilted forward or backward from the vertical axis when viewed from the side. Caster tends to keep the front wheels pointed straight ahead, making it easier to return the wheels to a straight ahead position after a turn has been made. The principle is the same as that used in tilting the front fork of a bicycle, which makes it possible to ride the bicycle without firmly holding the handlebars. Part of the effort applied for turning castered wheels out of the straight ahead position slightly raises the front end of the vehicle upward. Consequently, when the steering gear is released, the weight of the vehicle forces the front end down and straightens the wheels. Caster is designated as positive for backward tilt and negative for forward tilt of the steering knuckle pivots viewed from the side. Caster may be obtained on a solid axle suspension by inserting a thin wedge or shim between the axle and the spring. The axle can be made so that the supports for the steering knuckle pivots are tilted vertically. In parallel arm suspension, caster is obtained by mounting the steering knuckle support in the control arms so that it is tilted to the desired amount. If the axis of the steering knuckle pivot is
+
+extended, It must strike the ground ahead or behind the point where the tire meets the ground. The caster varies from about 1/2 to 3 degrees.
+
+33-19. Camber. Wheel camber (fig. 33-22) Is the angle made by the wheel with the vertical axis when It is In the straight ahead position. Positive cambered wheels are closer together at the bottom than they are at the top. For many years, front-wheel camber as great as 3 degrees has been used. For driving on crowned roads, this camber permitted better roiling contact by bringing the wheel perpendicular to the road and made steering easier. In recent years, the construction of graded roads and the use of low-pressure fires has led to a decrease In camber. If the vehicle were run on a flat road and had no lost motion at the
+
+bearings, zero camber would be ideal; but It Is not practical to build front axles with zero camber because of the possible accumulation of bearing clearances and the slight deflection of the axle under the vehicle load. Therefore, a camber of about 1 degree Is recommended at present. Excessive camber causes continual slippage of the tire on the road, because each wheel tries to follow a path away from that traveled by the vehicle. This is due to the fact that a cambered wheel tends to roll like a cone because Its axis Is not horizontal.
+
+33-20. Kingpin Inclination. King pin, or pivot, Inclination (fig. 33-23) is the amount In degrees that the steering knuckle pivots are tilted sideways toward the center of the vehicle. Inclination of the TA2338’50
+
+steering knuckle pivots tends to keep the wheel spindles pointed outward in line with the axle, Just as caster tends to keep the wheels of a vehicle pointed straight ahead. The effect is the same and also will result in easier steering. Setting the steering knuckle pivot at an angle causes the pivot axis to meet the ground close to the center of the tire contact (fig. 33-23). The wheel, therefore, has a small turning radius so that it will be easy to turn and will roll in a very small arc on the ground. Too much inclination makes it difficult to park a vehicle because, if the intersection of the pivot axis to the ground falls at the center of the tire contact with the ground, the tire slides rather than rolls when the wheel is turned on a stationary vehicle. Pivot inclination Is usually from 3 to 7 degrees. Careful distinction should be made
+
+between camber and kingpin inclination. They are closely related and dependent on each other. Wheels with large camber require large kingpin Inclination and those with small camber require small kingpin Inclination. Pivot Inclination allows the front wheel brakes to be applied with little affect on steering.
+
+33-21. Toe-In. Toe-in (fig. 33-24) Is the amount in inches that the wheels point in; that is, the distance between the front wheels is less at the front than it is at the rear. Toe-in and camber are definitely related and depend on the crown of the road. For a flat road, experience Indicates that a desirable condition Is to have zero camber and zero toe-In. However, such a condition is difficult to maintain. Toe-in balances the effect of camber
+
+on the tires. The natural tendency of the wheel is to rotate like a cone around this point. If both front wheels are forced to follow a straight path by the motion of the vehicle, there is a continual tendency for tires to slip away from each other. Toed-in wheels tend to travel toward each other and counteract this condition. By properly relating camber and toe-in, tire wear is reduced to a minimum, the motion of the wheel is balanced between two opposing forces, and pull on the steering mechanism is reduced. The amount of
+
+toe-in is adjustable by changing the length of the tie rod(s).
+
+33-22. Tracking. Tracking (fig. 33-25) is the ability of the vehicle to maintain a right angle between the centerline of the vehicle and both the front and rear axles or spindles. If this angle is off, the vehicle will appear to be going sideways down a straight road. This problem could be caused by shifted or broken leaf springs or a bent or broken rear axle or control arms.

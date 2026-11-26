@@ -1,0 +1,37 @@
+Horn (acoustic)
+
+An acoustic horn or waveguide is a tapered sound guide designed to provide an acoustic impedance match between a sound source and free air. This has the effect of maximizing the efficiency with which sound waves from the particular source are transferred to the air. Conversely, a horn can be used at the receiving end to optimize the transfer of sound from the air to a receiver.
+Acoustic horns are found in nature in the form of the burrows constructed by male mole crickets to amplify their song. The earliest appearance of the horn in connection to sound in The Times was published in 1786:
+
+== Applications ==
+
+Acoustic horns are used in:
+
+horn loudspeakers
+brass and woodwind musical instruments
+vehicle horns such as those used on cars, trucks, trains, boats, and bicycles
+megaphones, often used by lifeguards at public swimming pools.
+foghorns, used to warn ships
+ear horns, used by people who are hard of hearing (the human ear itself having the form of a horn)
+pickup horns, used e.g. on acoustic phonograph players
+
+=== Horn loudspeakers ===
+
+Loudspeakers are often built into horn-shaped enclosures or use horns.  Most often the higher-frequency elements (tweeters and midranges) use horns, sometimes with acoustic diffraction lenses to spread the sound waves in a horizontal pattern at ear-level and limit the vertical pattern. An audio driver (e.g., a speaker cone or dome) is mounted at the small, inner end. Horn loudspeakers are very efficient, but have a sharp cutoff frequency, depending on the area of the horn mouth, with little sound output below. Bass sounds are usually produced by conventional speaker cones, since a circular horn mouth sufficient to reproduce 20 Hz would have a diameter of about 18 feet (5.5 m), except when a building, ground surface, or room itself is considered an extension of the horn.
+
+==== Use of the surroundings as part of the horn ====
+Large bass speakers often take advantage of the surroundings as part of the horn.  For example, they can be put in the corners of a room, so the walls act as part of the horn.  Even outdoors, the ground can form part of the horn surface, and thus a partial horn can help provide a good impedance match to ground, or one or more walls, even at very low frequencies.
+
+=== Material handling 'sound horns' ===
+In agriculture, and dry material handling generally, sound horns are often used to start material flow or to force release of impacted materials. In a grain silo, such a horn may be mounted inside the silo and sounded as the silo is emptied to loosen stuck granules. Typically, these use any fundamental frequency from around 120–250 Hz, are about 120 dB SPL, and are powered by compressed air. They are sometimes called acoustic cleaners or acoustic horns.
+
+=== Horn-loaded musical instruments ===
+
+Many wind instruments have some kind of flaring bell shape. These are generally not exponential in configuration, and are used to modify the standing wave patterns of the instrument, and thereby the musical notes which can be produced. 
+
+"The flared section of the bore in many instruments are almost conical. First let's look at what this does to the spacing of the frequencies. In the page about pipes and harmonics, we saw that closed conical pipes have resonances whose frequencies are both higher and more closely spaced than those of a closed cylindrical pipe. So one can think of introducing a conical or flared section of the pipe as raising the frequencies of the standing waves, and raising the frequencies of the low pitched resonances most of all. The bell also contributes to this effect: in the rapidly flaring bell, the long waves (with the low pitches) are least able to follow the curve of the bell and so are effectively reflected earlier than are the shorter waves. (This is because their wavelengths are very much longer than the radius of curvature of the bell.) One might say therefore that the long waves 'see' an effectively shorter pipe."
+This has the effect of providing both the "brassy" sound of horn instruments versus woodwinds or even metal instruments which lack a flare, and also of increasing the perceived loudness of the instrument, as harmonics in the range to which the ear is most sensitive are now delivered more efficiently. However, this enhanced radiation in the higher frequencies means by definition less energy imparted to the standing waves, and thus less stable and well-defined notes in the higher registers, making the instrument more difficult to play.
+
+== In nature ==
+
+Acoustic horns are found in nature in the form of the burrows constructed by male mole crickets to amplify their song. Gryllotalpa vineae digs a carefully smoothed burrow with no irregularities larger than 1 millimetre. Its song is loud enough to make the ground vibrate; its 3.5 milliwatts of mechanical power delivers a peak of 92 decibels at a distance of one metre. The song can be heard up to 600 metres away.

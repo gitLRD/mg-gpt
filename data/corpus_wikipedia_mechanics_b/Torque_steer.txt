@@ -1,0 +1,32 @@
+Torque steer
+
+Torque steer is the influence of engine torque on the steering, especially in high power front-wheel-drive vehicles. For example, during heavy acceleration or launching, the steering may pull to one side. The effect is manifested either as a tugging sensation in the steering wheel, or a veering of the vehicle from the intended path. Torque steer is directly related to differences in the forces in the contact patches of the left and right drive wheels. The effect becomes more evident when high torques are applied to the drive wheels because of a high overall reduction ratio between the engine and wheels, high engine torque, or some combination of the two. Torque steer is distinct from steering kickback.
+
+== Causes ==
+Root causes for torque steer are:
+
+Incorrect sidewall ply design allowing deformation of the tire sidewall.
+Excessive horsepower/torque
+Asymmetric driveshaft angles due to any combination of
+
+Unequal driveshaft length or diameter
+Transient movement of the engine
+Tolerances in engine mounts
+Body roll
+Single wheel bump
+Different driveshaft torques left to right (due to wheel bearing or differential problems)
+Suspension geometry
+Large scrub radius
+Worn control arm bushings
+Unequal traction forces due to road surface (μ-split) in combination with kingpin offset
+The problems associated with unequal-length driveshafts are endemic to the transverse engine layout combined with an end-mounted transmission unit; some manufacturers have mitigated this completely by mounting the engine longitudinally but still driving the front wheels—this indeed was the solution adopted on the earliest front-wheel-drive Citroëns. Early Renault front-driven models such as the R4, R5 Phase I, R12, R18 and certain R21 models also adopted this layout, as does Audi to the present day in its midsize models upward. The key disadvantage is packaging; in the case of Audi, which mounts the power unit ahead of the front axle line, handling is compromised by front-heavy weight distribution. This configuration does however allow the easy addition of all-wheel drive; Subaru also uses the overhung longitudinal engine for the same reason, but mitigates the problem of an unbalanced center of gravity by using a "flat-four" boxer engine. Renault, on the other hand, placed the engine behind the front axle line, but this compromises interior packaging since it forces the engine towards the firewall.
+
+== Ways to reduce the effect of torque steer ==
+Employ the use of a tire with proper sidewall ply design, mitigating the sidewall deformation.
+Where unequal length driveshafts are used, their torsional stiffness must be made equal.  This can be accomplished by making the shorter shaft hollow, and the longer shaft solid.  This solution can be observed on the early Autobianchi/Fiat front wheel drive models such as the Fiat 128 and Fiat 127, and was also later adopted on the original Ford Fiesta.  A mass damper is usually employed on the longer shaft to combat whirling caused by resonance.
+Have both driveshafts be of equal length by using an intermediate shaft (or "lay shaft") on one side of the transmission. This is already implemented on most modern cars. When the driveshafts have different length and excessive torque is applied, the longer half shaft flexes more than the shorter one. However, this is a short-term transient effect. To avoid fatigue failure, the amount of driveshaft torsional deflection must necessarily be small. Effects due to one wheel spinning more slowly than the other are usually negligible. Equal lengths of the driveshafts, in the case of no asymmetric suspension deflection due to roll or bump, keep the drive shaft angles equal. The main component of torque steer occurs when the torques in the driveshaft and the hub are summed vectorially, giving a resultant torque vector around the steering pivot axis (kingpin). These torques can be substantial, and in the case of shafts making equal angles to the hub shafts, will oppose one another at the steering rack, and so will cancel. These torques are strongly influenced by the position of the driveshaft constant-velocity joint in relation to the steering axis. However, due to other requirements such as achieving a small or negative scrub radius, an optimum solution is not generally possible with simple suspension configurations such as MacPherson strut.
+Equalise the torque better between the driveshafts by using a low friction differential. The torque difference is zero if the differential is frictionless, and limited-slip differentials, intended to increase power transfer, actually make torque steer worse in suspensions that have not been designed to accommodate the LSD.  These design features include the careful positioning of suspension pivot points and driveshaft CV joints (to keep the resultant torque steer to a manageable amount) and low steer/longitudinal force compliance.
+Reduce the amount of torque from the front axle by passing part of torque to the rear axle. This is achieved on all-wheel-drive (AWD) vehicles with full-time AWD.
+Power assisted steering (set on most modern cars) make the torque steer effect less noticeable to the driver. Steer-by-wire also hides the effect of torque steer from the driver. EPAS can be calibrated to directly suppress the torque effect at the handwheel, and the steer effect on the vehicle.
+Check the Control arm bushings. The driver will experience torque steer when accelerating because of worn out control-arm bushings.
+Rear-wheel-drive vehicles still are affected by torque steer in the sense that any of the above situations will still apply a steering moment to the car (though from the rear wheels instead of the front). However, the torque-steer effect at the rear wheels will not send any torque response back through the steering column, so the driver will not have to fight the steering wheel.

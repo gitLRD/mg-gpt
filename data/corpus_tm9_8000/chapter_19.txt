@@ -1,0 +1,159 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 19
+
+INTRODUCTION TO POWER TRAINS
+
+19-1. Providing Power to Propel Vehicle. One important function of the power train is to transmit the power of the engine to the wheels. In a simple situation, a set of gears or a chain could perform this task, but automotive vehicles usually are not designed for such simple operating conditions. They are designed to have great pulling power, move at high speeds, travel in reverse as well as forward, and operate on rough ground as well as on smooth roads. To meet these widely varying demands, a number of units have been added. These include clutches, transmissions, auxiliary transmissions, transfer cases, propeller shafts, universal joints, final drives, differentials, live axles, devices for resisting drive torques and thrust, and the bearings used therein.
+
+19-2. Providing Power to Operate Accessories (Power Takeoff). The power train also is designed to direct power to the accessories. These branches from the main flow of power are known as power takeoffs. They may be connected to the transmission, auxiliary transmission, or transfer case. The simplest type of transmission power takeoff is the single-gear, single- speed type shown in figure 19-1. This unit is bolted over an opening provided for that purpose at the side of the transmission case. This opening is closed by a cover plate when no power takeoff is used. The opening in the transmission case and the power takeoff gear meshes with a gear on the transmission countershaft. As shown in figure 19-1, the gear slides on the splined main shaft, off which the power is taken. The shifter shaft, controlled by a lever in the driver’s cab, slides the gear in and out of mesh with the countershaft gear. Because it is driven by the countershaft, the power takeoff shaft rotates in the same direction as the engine crankshaft.
+
+Transmission power takeoffs are available in several different designs: a single-speed, two-gear model in which the rotation of the power takeoff shaft is opposite to that of the engine; a model having a single speed forward and reverse; and a model having two speeds forward and one reverse. Several different mountings also are available.
+
+The same types of power takeoffs also are applied to auxiliary transmissions. Figure 19-2 shows a winch driven off of an auxiliary transmission.
+
+Power sometimes is taken off a transfer case. The transfer case drive shaft, which is connected to the transmission, extends through the case, and the power takeoff shaft is engaged to it by a dog clutch. This transfer case has two speeds and a neutral position. It is necessary to put the transfer case sliding gear in the neutral position if the vehicle is to be stationary while the power takeoff is in use. If the power takeoff is needed while the vehicle is in motion, the transfer case may be shifted either into high or low range. With this arrangement, the power takeoff will work on any speed of the transmission.
+
+When the power takeoff clutch is engaged, the winch capstan operates; but the winch drum does not rotate until the winch clutch is engaged.
+
+The several types of power takeoffs have been described as operating winches, but their uses for operating various kinds of hoists, pumps, and other auxiliary power-driven machinery are essentially the same.
+
+19-3. Principles of Gearing. Because gears play an important part in power trains, gear principles as well as various types of gears used in power trains will be discussed. Gears are used to transmit rotary motion from one shaft to another. Sometimes the shafts are parallel to each other, at other times they are at an angle. The gearing is selected to fit the application and provide the desired drive ratio (ratio of revolutions per minute) between the driving and driven shafts.
+
+a. Torque Ratio. Torque has been defined as a twisting, or turning, effort. When one gear drives the other, it turns the other by the application of torque. The torque ratio between two meshing gears varies with the mechanical advantage, that is, with the gear ratio of the driving to the driven gear. When a small gear drives a larger gear, for example, the speed is reduced but the torque delivered by the larger gear is increased. Thus, when a 12-tooth gear drives a 24-tooth gear, torque is doubled; that is, the torque of the large
+
+gear is twice that of the small gear. On the other hand, when the larger gear drives the smaller gear, the torque is reduced while the speed is increased.
+
+To start an automotive vehicle moving, a great deal of tractive effort or torque must be applied to the driving wheels or drive sprockets. This may be accomplished by using a series of gears, or a gear train, which greatly reduces the speed and thereby greatly increases the torque between the engine and driving wheel or sprocket. A common arrangement in passenger cars permits a gear reduction, in first (or low) gear, of 12:1 between the engine and rear wheels. This means the engine crankshaft must turn 12 times to turn the rear wheels once. This speed reduction results in a torque increase. Ignoring friction, the torque increase would be twelvefold. That is, if the torque at the crankshaft were 100 ft lb, then the torque at the rear axles would be 1,200 ft lb. In large trucks and heavy military vehicles, the
+
+torque increase (or torque multiplication) may be much greater than 12:1.
+
+b. Mechanical Advantage. The use of a lever to move heavy objects is well known. When a box is too heavy to be lifted by hand, a crowbar or lever can be used to lift it, as shown in figure 19-3. With the lever placed as shown, only half as much force is required on the lever to raise the box. Suppose that a lifting force of 200 pounds is required to raise the end of the box. With the lever arranged as shown, only a 100-pound downward push is needed on the lever. The farther out on the lever the hand is put (away from the pivoting point, or fulcrum), the less downward push is required. But also, the farther the hand must move to raise the box. The mechanical advantage of the lever is the ratio between the two distances from the fulcrum. In the example shown, the mechanical advantage is 2:1.
+
+c. Mechanical Advantage in Gears. A rough comparison between mechanical advantage in levers and mechanical advantage in gears can be made. Such a comparison is shown at the bottom of figure 19-3. One end of the lever moves twice as far as the other. When two gears are meshed and one gear has twice as many teeth as the other, the smaller gear will rotate twice for each revolution of the larger gear. In other words, the mechanical advantage between the two gears would be 1:2 when the larger gear drove the smaller gear. If the smaller gear drove the larger gear, the mechanical advantage would be 2:1 because the smaller gear would have to exert half the force for twice the distance.
+
+d. Mechanical Efficiency. The mechanical efficiency of a system is dependent upon gear ratios and the amount of power that must be
+
+transmitted through the system. If a large resistance must be overcome, the torque multiplication also must be high. If this factor is not correct, the driving system can be overloaded. On the other hand, if a small resistance is to be overcome, the driving system might not be used to its fullest capabilities, therefore producing an inefficient system.
+
+e. Internal and External Gears. Gears are basically of two types: internal and external. Internal gears are shaped cylindrically with teeth machined on the inside. External gears usually are circular with teeth around the outside of the gear. An example of both gears is shown in figure 19-4.
+
+19-4. Types of Gears. There are many types and designs of gears and gear systems. Some of the most popular gears found in the automotive vehicle are discussed below.
+
+a. Spur. Spur gears (fig. 19-5) are the most common type of gear. The teeth are machined perpendicular to the axis of rotation. Because these gears mesh only one tooth at a time, they are not capable of absorbing great amounts of torque. They generally are noisy during operation and are used to change direction and/or speed.
+
+b. Helical. Helical gears (fig. 19-5) have teeth machined at an angle to their centerline of rotation. This characteristic enables the gear to engage more than one tooth at a time. This type of gear, therefore, is stronger and able to transmit more torque than spur gears. Because of the angle cut of the gear, two meshing gears tend to move apart during use. This reaction therefore requires the use of a thrust washer or tapered bearing when using helical gears. Helical gears
+
+generally operate quietly, even under heavy loads.
+
+c. Herringbone. Herringbone gears (fig. 19-5) can be formed by attaching two helical gears in such a way that their teeth meet in a V-formation. The V- configuration cancels the side thrust created by each helical gearset. As herringbone gears mesh, more than one tooth is engaged at a time. This feature allows the gear to transmit large amounts of torque and operate quietly.
+
+d. Bevel. Bevel gears (fig. 19-5) generally are used to change direction. Their teeth are machined at angles to the drive centerline to correspond with the angle of input and output shafts. Bevel gears, like spur gears, engage one
+
+tooth at a time; therefore, they are not able to transmit large amounts of torque and are noisy during operation.
+
+e. Worm. Worm gears (fig. 19-5) basically are two different types of gears designed to mesh at right angles to each other. One gear is shaped similar to a helical gear, while the other is straight with teeth machined in a spiral form around the exterior of the shaft. Worm gears only can be driven by the rotating action of the long, spiral-shaped gear. The spiral-shaped gear also must have a means of absorbing thrust, because the rotating action of this gear causes it to move lengthwise during operation. This configuration produces great gear reduction and quiet operation.
+
+19-5. Planetary Gear Systems. The planetary gear system (fig. 19-6) consists of three rotating members: the internal gear (or ring gear); the sun gear; and the planet pinion set, consisting of the planet pinions and the planet- pinion carrier, or cage. The reason the system is called a planetary gear system is that the planet gears rotate and at the same time revolve around the sun gear, just as the planets in our solar system rotate
+
+and also revolve around the sun. In the planetary gear system, the planet gears are assembled on shafts in a planet carrier or cage. Arrangements can be made to put power into any of the three rotating members and, at the same time, hold other members so that the gear ratio through the system can be increased or decreased. In addition, by the proper arrangement of turning and holding, the system can reverse rotation.
+
+19-6. Six Basic Laws of Planetary Gearing. The chart in figure 19-7 shows the six conditions that can result in the planetary gear system from turning or holding the various members. For example, the column under Condition 1 shows that holding the sun gear while turning the pinion cage causes the internal gear to turn faster than the pinion cage. When the pinion cage is turned, the pinions must move around the sun gear because they are meshed with the sun gear. The pinions also are meshed with the internal gear, and, as they move around the sun gear and also rotate on their shafts, they force the internal gear to rotate. The rotation might be said to come from two sources: the rotation of the pinions on their shafts; and the rotary motion of the pinions as they are carried around by the pinion cage.
+
+The other conditions listed in the chart (fig. 19-7) are not all used in automotive power trains, but they should be studied for a full understanding of the action of the planetary gear system. If the sun gear is held and the internal gear turned, then the pinion cage will turn, but more slowly than the internal gear. If the sun gear is turned and the internal gear held, the pinion cage will turn more slowly than the sun gear. On the other hand, if the internal gear is turned and the pinion cage held, the sun gear will turn faster than the internal gear, but in a reverse direction. The fifth condition results if the internal gear is held and the pinion cage turned; this causes the sun gear to turn faster than the pinion cage. The sixth condition is a common one because, by its use, reverse and gear reduction can be accomplished at the same time. The sun gear is turned while the pinion cage is held. This causes the internal gear to turn more slowly than the sun gear and in a reverse direction.
+
+19-7. Sliding Surface Bearings (Friction). Essentially, a bearing is a support for a load. In automotive applications, bearings support moving parts, most of which are rotating parts. Not
+
+PINION CARRIER T L L H T H
+
+INTERNAL GEAR I T H T H L,R
+
+H - HOLD I - INCREASE OF SPEED T - TURN L - REDUCTION OF SPEED R - REVERSE
+
+only do the bearings provide support, but they also serve to reduce the friction between the moving parts.
+
+a. Sleeve-Type Bearings. These include bearings for rotating parts and for parts that merely slide over each other without turning. Most of the bearings of the mechanisms described in this section are for rotating parts. However, two examples of bearings for parts that do not rotate relative to each other are the shifter shafts in transmissions, which merely slide endwise in holes in the case, and the slip joints of propeller shafts.
+
+The simplest type of sliding surface bearing applied to a rotating part is one in which an accurately finished shaft, or journal, rotates in an accurately finished hole without any bushing, the two being separated by an oil film. Such bearings may be used for differential pinions; the holes are in the rotating pinions, which turn on the stationary differential spider or cross pin.
+
+Such bearings usually are known as plain bearings and are used only for low speeds or light duty or both. Probably the next simplest plain bearing, also of the sliding-surface type, is the bushing that is replaceable when worn. A bushing is usually of bronze or similar relatively soft material and is pressed into a hole and reamed to fit, forming a lining in which a journal rotates. Plain bushings are suitable for radial loads only. Bronze bushings formerly were used to a considerable extent in automotive power transmission systems but have been superseded by antifriction bearings
+
+(ball, roller, or needle bearings). Bronze bushings are used extensively for piston pin bushings in internal combustion engines.
+
+b. Thrust Washers. A thrust washer is a form of friction bearing designed to limit lateral movement. These washers generally are placed between moving parts or one moving part and a stationary member. They generally are not designed to absorb thrust constantly, as overheating can occur. Thrust washers generally are made of bronze or hardened steel.
+
+19-8. Ball and Roller Bearings (Antifriction). These bearings are used throughout automotive power transmission systems. The usual locations of antifriction bearings in a truck chassis are shown in figure 19-8. They are known as antifriction bearings, because friction in them is eliminated because they depend upon rolling contact rather than sliding contacts. Ball bearings often are referred to as having point contact between balls and raceways; in the same sense, roller bearings are said to have line contact between rollers and races. These are merely descriptive terms, however, because the elastic deformation occurring under load results in substantial areas of contact in either type. The starting friction of ball and roller bearings is but slightly greater than their running friction, an important advantage in machinery that is required to start frequently under load. They also can sustain high overloads for short periods without failure. Ordinarily, a ball or roller bearing does not fail suddenly, but gives warning by a gradual decrease in smoothness of running; whereas, the plain bearing is subject to an accelerated type of failure that often results in
+
+seizure, making it necessary to take the machine out of operation for immediate repairs.
+
+a. Ball A bail bearing consists of a grooved inner race and outer race with a number of balls spaced by a suitable cage or retainer between them. They are made with either a single or double row of balls. Ball bearings for various purposes differ considerably in the details of their constuction but are of three general types: radial, thrust, and angular. These terms are descriptive of the direction at which the load is applied to the bearing and the angle of contact between the balls and races designed to resist that load.
+
+A single-row radial ball bearing is shown in A, figure 19-9. This bearing has radial contact between balls and races, and is designed pri- marily to resist radial loads, but also provides for lengthwise stability where moderate lengthwise displacement is permissible. It is suitable for usual combined radial and thrust loads and for high speeds.
+
+The double-row radial ball bearing shown in B, figure 19- 9 is suitable for heavy combined radial and thrust loads, medium speed, and close control of endwise movement under reversing thrust.
+
+Single-row, angular-contact ball bearings, such as those shown in C, figure 19-9, have substantial thrust capacity and provide rigid lengthwise support in one direction only. Also available are double-row, angular- contact bearings that have high combined load capacity with rigid lengthwise support in both directions.
+
+Thrust bearings of the so-called flat type, such as those shown in D, figure 19-9, have a contact angle of 90 degrees, or a load line between ball and race that is parallel with the axis of the shaft. The small-bore race is secured to the shaft and the large-bore race is supported by the housing. Thrust in one direction presses the races and balls together; thrust in the other direction separates them. Therefore, this type is essen- tially a one-direction thrust bearing. Thrust in both directions necessitates the use of duplicate units or a bearing of the double-direction thrust type. Such bearings are suitable for limited speeds and minimum lengthwise displacement.
+
+b. Roller. As in the case of ball bearings, the details of construction of roller bearings vary considerably for different applications. Like ball bearings, they are designed for radial, thrust, and combined loads. Roller bearings, which have greater contact area than ball bearings, are used for heavy-duty applications.
+
+Cylindrical, or straight, roller bearings are bearings in which the outer races, rollers, and inner races are all cylindrical. Rollers usually are solid, as shown in figure 19-10, and the rollers are guided by flanges on one or both races. If both races are flanged, the bearing has some ability to resist end thrust, otherwise it is good for radial loads only. One manufacturer uses rollers formed by winding spiral strips of alloy steel into hollow cylinders, which then are heat treated and ground to size. This construction imparts some flexibility to the rollers and enables them to adjust themselves to small inaccuracies. Rollers wound right and left hand are assembled alternately in the bearing and held in proper alinement by a cage retainer. These bearings are made with
+
+solid inner and outer races, with solid outer race and no inner race, and with a split outer race and no inner race.
+
+c. Tapered Roller. Tapered roller bearings (fig. 19- 11) are used extensively in automotive power transmission systems, especially for the more heavily loaded rotating members. The rolling members and raceways of the tapered roller bearings are constructed on the elements of a cone, so that lines that coincide with the contacting surfaces of rollers and races all meet at a common point on the axis of the bearing as shown at the bottom of figure 19-11. True rolling contact is thus obtained. The essential parts are an inner race or cone, an outer race or cup, tapered rollers, and a cage or roller retainer. These bearings are suitable for heavy duty, and can withstand radial loads and thrust loads in one direction or a combination of both. Such bearings also are available with double and quadruple rows of tapered rollers. Flat thrust bearings having tapered rollers, suitable for thrust loads only, also are available. d. Needle Bearings. Needle bearings (fig. 19-12) (or quill bearings, as they sometimes are called) are cylindrical roller bearings in which the diameter of the roller is not over one-eighth the
+
+roller length. Separate outer and inner races may be used, or the inner race may be the shaft and the outer race integral with the housing. No spacing cage is used ordinarily; the rollers merely are constrained against endwise movement. Needle bearings are suitable for radial loads only. These bearings are used where a high load-carrying capacity is required in a small space. Needle bearings are used in many universal joints. 19-9. Bearing Lubrication. A basic requirement of ball and roller bearing lubrication is to protect the highly finished surfaces from corrosion. The supporting surfaces of the cage, or retainer, essentially are plain bearings and require an oil film. A small quantity of oil or grease will lubricate a bearing if it is distributed evenly. An excess quantity of lubricant is undesirable because it will cause the bearing to heat and will aggravate leakage from the bearing housing. Operating temperature is the controlling factor in selecting the proper grade of lubricant. Load, speed, and weather conditions directly affect this temperature, as does the particular type of bearing and the shaft enclosures.
+
+The antifriction bearings in automotive power transmission systems are not lubricated as separate units but as parts of assemblies such as
+
+clutches, transmissions, universal joints, transfer cases, or rear axles. If these assemblies are lubricated in accordance with the specifications as set forth in the applicable technical manual, and with the lubricant prescribed for each, the bearing requirements will be satisfied.
+
+19-10. Sealed Bearings. Some antifriction bearings are sealed at the factory and require no further lubrication. A shield (fig. 19-13) is used to contain the lubricant and prevent foreign matter from entering the bearing. These bearings generally are used when Inherent lubrication is not available or a dirty operating environment must be overcome
+
+19-11. Oil Seals. Oil seals used in the automotive assembly are designed to prevent leakage be- tween rotating and nonrotating members. Two basic types of oil seals are used on today’s vehicles. Each Is discussed below.
+
+a. Synthetic Rubber Seals. The synthetic rubber oil seal (fig. 19-14) is the most common type of oil seal. It is composed of a metal case used to retain its shape and maintain rigidity. A rubber element Is bonded to the case, providing the sealing lip or lips that rub against the rotating shaft. Different types of oil seal designs are illustrated in figure 19-14. A coil spring, some- times called a garter spring, also is used to hold the rubber element around the shaft with a con- trolled amount of force. This allows the seal to conform to minor shaft runout. Some synthetic rubber seals fit into bores mounted around the shaft. This type Is generally a split design and does not require a metal case or garter spring. Some oil seals rely on pressure to aid In sealing. Figure 19-14 illustrates the effects of pressure on lip seals. Internal pressure developed during operation forces the sealing lips tighter against the rotating shaft (fig. 19-14). This type of seal only will operate effectively against fluid pressure from one direction. Leather also is used as a lip seal. In this configuration, the seal Inside diameter is smaller than the shaft (fig. 19-14). As the shaft is Installed, the seal bows outward to form a lip seal.
+
+b. Wick Seals (Fig. 19-15). The wick seal made of graphite-impregnated asbestos wicking sometimes Is used to control oil leakage. This seal conforms to the recess In which it Is Installed. When using this type of seal, a knurled finish is used on the rotating shaft. The oil Is contained between the knurls and seal, which rub together. As the shaft rotates, the oil is driven back by the propeller effect of the seal and knurl finish. An oil slinger sometimes Is used with wick seals (fig. 19-15). The oil slinger is a raised washerlike area on the shaft. As oil meets the slinger, it is propelled outward by centrifugal force. A catch trough then Is used to collect the oil and return it to the sump.
+
+19-12. Gaskets (Fig. 19-16). Gaskets, other- wise known as static seals, are used to form pressure-tight Joints between stationary members. They usually are made of a deformable material In the shape of a sheet or ring, which
+
+conforms to irregularities in mating surfaces when compressed. Steel, aluminum, copper, asbestos, cork, synthetic rubber, paper, and felt are just a few of the materials that are used singly or in combination to produce leak-proof joints. The proper material used in gasket construction depends on the temperature, type of fluid to be contained, smoothness of mating parts, fastener tension, pressure of the sub- stance to be confined, material used in construc-
+
+tion of mating parts, and part clearance relationship.
+
+Gaskets also can be formed by using a silicone sealant. This type usually is formed by applying sealant from a squeeze tube to the mating surfaces, and allowing it to dry, forming a sealed flexible joint. This type of seal is becoming more popular on modern vehicles.
+
+Section III. POWER TRAIN CONFIGURATIONS
+
+19-13. Front-Wheel Drive (Fig. 19-17). Front- wheel drive vehicles deliver the driving force of the engine and transmission to the front wheels only. In this configuration, the rear wheels are de- signed to rotate freely. The front-wheel drive arrangement is more efficient than other configu- rations for the following two reasons:
+
+a. Power generally is delivered in a straight line. The majority of front-wheel drive vehicles use a transversely mounted engine. This feature eliminates the power from being driven through different angles at the drive axles.
+
+b. The front-wheel drive configuration has fewer moving parts. This helps reduce friction and increase engine life.
+
+These features help make the front-wheel drive configuration one of the most popular designs on modern vehicles.
+
+19-14. Rear-Wheel Drive. The rear-wheel drive configuration applies the driving force to the rear
+
+wheels. Front wheels are designed only to maneuver the vehicle. Rear-wheel drive vehicles can be powered by an engine mounted in front, middle, or rear (fig. 19-18). The front-mounted design is the most popular. This configuration (fig. 19-18) allows an engine to be mounted longitudinally with a clutch or torque converter and transmission mounted after the engine. Power then is delivered to the rear axle by the propeller shaft. Hypoid gears (para 29-9) generally are used in the rear axle to lower the drive line and allow the body to sit closer to the ground.
+
+19-15. Four-Wheel Drive. A typical four-wheel drive is shown in figure 19-19. In this configuration, an engine is mounted in the front of the vehicle, followed by the clutch and transmission. Power then is delivered to the transfer case, where it is divided between the front and rear axles. The transfer case also is designed to move the front propeller shaft to the right, allowing for engine-to- drive train clearance. This configuration is very popular on many smaller heavy-duty vehicles.
+
+19-16. Six-Wheel Drive. A six-wheeled vehicle, in which all six wheels drive, is shown in figure 19-20. This design is common on many larger military vehicles. Power is divided at the transfer case to all three axles. The differential and carrier on the forward rear axle is moved to the right to allow for rearward rear axle drive assemblies.
+
+19-17. Eight-Wheel Drive. A vehicle in which all eight wheels drive is shown in figure 19-21. In this configuration, both front axles are designed to steer and drive. This allows the vehicle to maneuver on soft ground without sinking down.
+
+19-18. Track Vehicle. The power trains in tracked vehicles perform the same function as in wheeled vehicles. However, they are designed
+
+for operating under more rugged conditions, and therefore are of more sturdy construction and, in general, provide for greater gear reduction.
+
+Full-track vehicles are steered by varying the speed of one track in relation to the other, and this leads to the most Important differences between wheeled and tracked vehicles. In some full-track vehicles, clutches are used in the final drive to each sprocket. By engaging and disengaging the clutches, the relative speed of the tracks can be controlled by the driver. This system is satisfactory for slow-speed vehicles.
+
+In modern high-speed vehicles, steering is accomplished by means of a controlled differential. This differential employs a system of plane-
+
+tary gear trains, allowing power to be applied to both tracks at all times and still permitting the operator to regulate their relative speeds.
+
+The cross-drive transmission (chapter 24) is one form of controlled differential used on late-type
+
+tanks; it utilizes a system of planetary gear trains as in other controlled differentials, but it also contains a torque converter.

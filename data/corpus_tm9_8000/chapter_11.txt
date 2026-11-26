@@ -1,0 +1,233 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 11
+
+ELECTRICAL SYSTEMS AND RELATED UNITS
+
+BASIC PRINCIPLES OF ELECTRICITY
+
+11-1. Composition of Matter.
+
+a. To understand electricity, first study matter, the name for all material substances. Everything (solids, liquids, and gases) is made up of tiny particles known as atoms. These atoms combine in small groups of two or more to form molecules. Air is made up of molecules. These molecules are made up of atoms, and these toms can be further subdivided. When atoms are divided, smaller particles are created, some of which have positive and others, negative electrical charges. Atoms of different materials are discussed below.
+
+b. There are over 100 different basic materials in the universe. These basic materials are called elements. Iron is one element; copper, aluminum, oxygen, hydrogen, and mercury are other elements. An element gets its name from the fact that it cannot be broken down easily into simpler (or more elemental) substances. In other words, more than 100 basic elements are the building materials from which the universe is made. If any one of these elements is studied closely, it is obvious
+
+that it is made up of those same basic particles having positive and negative electrical charges as discussed above.
+
+c. The basic particles that make up all the elements, and thus all the universe, are called protons, electrons, and neutrons. A proton is a basic particle having a single positive charge; a group of protons produces a positive electrical charge. An electron is a basic particle having a single negative charge; therefore, a group of electrons produces a negative electrical charge. A neutron is a basic particle having no charge; a group of neutrons, therefore, would have no charge.
+
+d. Examine the construction of atoms of the various elements, starting with the simplest of all, hydrogen. The atom of hydrogen consists of one proton, around which is circling one electron (fig. 11-1). There is an attraction between the two particles, because negative and positive electrical charges always attract each other.
+
+Opposing the attraction between the two particles, and thus preventing the electron from moving into the proton, is the centrifugal force on the electron caused by its circular path around the proton. This is the same sort of balance achieved if a ball tied to a string was whirled in a circle in the air. The centrifugal force exerted tries to move the ball out of its circular path, and is balanced by the string (the attractive force). If the string should break, the centrifugal force would cause the ball to fly away. Actually, this is what happens at times with atoms. The attractive force between the electron and proton sometimes is not great enough to hold the electron in its circular path, and the electron gets away.
+
+e. A slightly more complex atom is shown in figure 11-1. This is an atom of helium. Notice that there are now two protons in the center and that two electrons are circling around the center. Because there is an additional proton in the center, or nucleus, of the atom, an electron must be added so as to keep the atom in electrical balance. Notice also that there are two additional particles in the nucleus; these are called neu- trons. Neutrons are necessary in order to overcome the tendency of the two protons to move apart from each other. For, just as unlike electrical charges attract, so do like electrical charges repel. Electrons repel electrons. Protons repel protons, except when neutrons are present. Though neutrons have no electrical charge, they do have the ability to cancel out the repelling forces between protons in an atomic nucleus and thus hold the nucleus together.
+
+f. A still more complex atom is shown in figure 1-1. This is an atom of lithium, a light, soft metal. Note that a third proton has been added to the nucleus and that a third electron is now circling around the nucleus. There also are two additional neutrons in the nucleus; these are needed to hold the three protons together. The atoms of other elements can be seen in a similar manner. As the atomic scale Increases in complexity, protons and neutrons are added one by one to the nucleus, and electrons to the outer circles. After lithium comes beryllium with four protons and five neutrons, boron with five protons and five neutrons, carbon with six and six, nitrogen with seven and seven, oxygen with eight and eight, and so on. In each of these, there are normally the same number of electrons circling the nucleus as there are protons in the nucleus.
+
+11-2. Composition of Electricity (Fig. 11.2).
+
+a. When there are more than two electrons in an atom, they will move about the nucleus in different size orbits. These orbits are referred to as shells. The innermost shells of the atom contain electrons that are not easily freed and are referred to as bound electrons. The outermost shell will contain what is referred to as free electrons. These free electrons differ from bound electrons in that they can be moved readily from their orbit.
+
+b. If a point that has an excess of electrons (negative) is connected to a point that has a shortage of electrons (positive), a flow of electrons (electrical current) will flow through the connector (conductor) until an equal electric charge exists between the two points.
+
+11-3. Electron Theory of Electricity (Fig. 11-2). A charge of electricity is formed when numerous electrons break free of their atoms and gather in one area. When the electrons begin to move in one direction (as along a wire, for example), the effect is a flow of electricity or an electric current. Actually, electric generators and batteries could be called electron pumps, because they remove electrons from one part of an electric circuit and concentrate them in another part of the circuit. For example, a generator takes electrons away from the positive terminal and concentrates them at the negative terminal. Because the electrons repel each other (like electrical charges repel), the electrons push out through the circuit and flow to the positive terminal (unlike electrical charges attract). Thus, we can see that an electric current is actually a flow of electrons from negative to positive.
+
+This is just the reverse of the old idea of current flow. Before scientists understood what electric current was, they assumed that the current flowed from positive to negative. However, their studies showed that this was wrong, because they learned that the current is electron movement from negative (concentration of electrons) to positive (lack of electrons).
+
+11-4. Conductors and insulators (Fig. 11-3).
+
+a. General. Any material that will allow electric current to flow through it is an electrical
+
+conductor. Any material that blocks electric current flow is an electrical insulator. Conductors are used in automotive equipment to carry electric current to all of the electrical equipment. Insulators also are necessary to keep the electric current from taking a shorter route instead of going to the intended component. The electrical properties of a substance depends mainly on the number of electrons in the outermost orbits of its atoms that cannot, at any time, contain more than eight electrons.
+
+b. Conductors (A, Fig. 11-3). Whenever there are less than four electrons in the outer orbits of the atoms of a substance, these electrons will tend to be free. This will cause the substance to permit free motion of electrons, making it a conductor. Electrical energy is transferred through conductors by means of the movement of free electrons that migrate from atom to atom within the conductor. Each electron moves a short distance to the neighboring atom, where it replaces one or more electrons by forcing
+
+them out of their orbits. The replaced electrons repeat this process in nearby atoms until the movement is transmitted throughout the entire length of the conductor, thus creating a current flow. Copper is an example of a good conductor because it only has one free electron. This electron is not held very strongly in its orbit and can get away from the nucleus very easily. Silver is a better conductor of electricity but it is too expensive to be used in any great quantity. Because of this, copper is the conductor used most widely in automotive applications.
+
+c. Insulators (B, Fig. 11-3). Whenever there are more than four electrons in the outer orbits of the atoms of a substance, these electrons will tend to be bound, causing restriction of free electron movement, making it an insulator. Common insulating substances in automotive applications are rubber, plastic, Bakelite, varnish, and fiberboard.
+
+Section II. SEMICONDUCTOR DEVICES
+
+11-5. Fundamental Principles.
+
+a. Description. Paragraph 11-4 explains that any substance whose atoms contain less than four electrons in their outermost orbits is classified as an electrical conductor. It also is explained that any substance whose atoms contain more than four electrons in their outermost orbits is classified as an electrical insulator. A special case exists, however, when a substance contains four electrons in the outermost orbits of its atoms. This type of substance is known as a semiconductor and is the basis for all modern electronic equipment. The most popular of all semiconductors is silicon.
+
+b. Characteristics of Semiconductors. in its pure state, silicon is neither a good conductor or insulator. But by processing silicon in the following ways, its conductive or insulative properties can be adjusted to suit just about any need.
+
+(1) When a number of silicon atoms are jammed together in crystalline (glasslike) form, they form a covalent (sharing) bond. Therefore, the electrons in the outer ring of one silicon atom join with the outer ring electrons of other silicon atoms, resulting in a sharing of outer ring electrons between all of the atoms. It can be seen in figure 11-4 that covalent sharing gives each atom eight electrons in its outer orbit, making the orbit complete. This makes the material an insulator because it contains more than four electrons in its outer orbit.
+
+(2) When certain materials such as phosphorus are added to the silicon crystal in highly controlled amounts the resultant mixture becomes a conductor (fig. 11-5). This is because phosphorus, which has five electrons in forming a covalent bond with silicon (which has four
+
+electrons in its outer shell), will yield one free electron per molecule, thus making the material an electrical conductor. The process of adding impurities to a semiconductor is called doping. Any semiconductor material that is doped to yield free electrons is called N- type material.
+
+(3) When boron, which has three electrons in its outer ring, is used to dope the silicon crystal, the resultant covalent bonding yields seven electrons in the outer shell. This leaves an opening for another electron and is illustrated in figure 11-6. This space is called a hole and can be considered a positive charge just as the extra electrons that exist in N-type semiconductor material are considered a negative charge. Materials that have holes in their outermost electron shells are called positive or P-type materials. In order to understand the behavior of P-type semiconductors, it is necessary to look upon the hole as a positive current carrier, just as the free electron in N-type semiconduc- tors are considered negative current carriers. Just as electrons move through N-type semiconductors, holes move from atom-to-atom in P-type semiconductors. Movement of holes through P-type semiconductors, however, is from the positive terminal to the negative terminal. For this reason, any circuit analysis of solid- state circuitry is done on the basis of positive to negative (conventional) current flow.
+
+c. Hole Movement Theory (Fig. 11-7). When a source voltage, such as a battery, is connected to N-type material, an electric current will flow through it. The current flow in the N-type semiconductor consists of the movement of free
+
+electrons, the same as the current flow through a natural conductor such as copper. When a current source of sufficient voltage is connected across a P-type material, an electric current will also flow through it, but any current flow in a P-type semiconductor is looked upon as the movement of positively charged holes. The holes appear to move toward the negative terminal as the electrons enter the material at the negative terminal, fill the holes, and then move from hole to hole toward the positive terminal. As is the case with N-type semi- conductors, the movement of electrons through P-type semiconductors toward the positive terminal is motivated by the natural attraction of unlike charges.
+
+11-6. Diodes(Fig. 11-8).
+
+a. Purpose. A diode is a device that will allow current to pass through itself in only one direction. A diode can be thought of as an electrical checkvalve.
+
+b. Construction. A diode is made by joining N-type material and P-type material together. The negative electrical terminal is located at the N-type material and the positive terminal is located on the P-type material.
+
+c. Operation. When a diode is placed in a circuit, the N-material is connected to the
+
+TA233523 Figure 11-5. Phosphorus-Doped Silicon.
+
+negative side of the circuit and the positive side of the circuit is connected to the P-material. In this configuration, which is known as forward bias, the diode is a good conductor. This is because the positively charged holes in the P-type material move toward the junction with the negatively charged N-material so that electrons may cross the junction and fill these holes using them to move across the P-material. If the connections to the diode are reversed, current flow will be blocked. This configuration is known as reverse bias. When the diode is connected backwards, the positively charged holes are attracted away from the junction to the negative terminal and the free electrons in the N-material are attracted away from the junction to the positive terminal.
+
+Without the presence of holes at the junction, the electrons cannot cross it.
+
+11-7. Zener Diodes (Fig. 11-9). The diode, as described in paragraph 11-6, is a semiconductor device that allows current to flow only in one direction. A zener diode, however, is a special type that allows reverse current to flow as long as the voltage is above a value that is built into the device when it is manufactured. As an example, a certain zener diode may not conduct current if the reverse bias voltage is below 6 volts. As the voltage increases to 6 volts or more, the diode suddenly will begin to conduct reverse bias current. This device is used in control circuits such as voltage regulators.
+
+11-8. Transistors.
+
+a. General (Fig. 11-10). Transistors, as they apply to automotive applications, are switching devices. They can switch large amounts of electric current on and off using relatively small amounts of electric current. Because transistors operate electronically, they last much longer than the relays they replace. This is because they have no contact points to burn. The major automotive applications of transistors are for electronic ignition systems and voltage regulators.
+
+b. PNP Transistors (Fig. 11-11). The PNP transistor is the most common configuration in automotive applications. It is manufactured by sandwiching an N-type semiconductor element between two P-type semiconductor elements. A positive charge is applied to one of the P-type elements. This element is called the emitter. The other P-type element connects to the electrical
+
+component. This element is called the collector. The third element, which is in the middle, is made of N-type material and is called the base. The application of a low- current negative charge to the base will allow a heavy current to flow between the emitter and the collector. Whenever the current to the base is switched off, the current flow from the emitter to the collector is interrupted also.
+
+c. NPN Transistors (Fig. 11-11). The NPN transistor is similar to the PNP transistor. The difference is that it is used in the negative side of the circuit. As the name NPN implies, the makeup of this transistor is two elements of N-type material (collector and emitter) with an element of P-type material (base) sandwiched in between. The NPN transistor will allow a high-current negative charge to flow from the collector to the emitter- whenever a relatively low current positive charge is applied to the base.
+
+Section III. 11-9. Amperage(Current) and Voltage.
+
+a. Amperes. Current flow, or electron flow, is measured in amperes. While it is normally considered that one ampere is a rather small current of electricity (approximately what a 100-watt light bulb would draw), it is actually a tremendous flow of electrons. More than 6 billion billion electrons a second are required to make up one ampere.
+
+b. Voltage. Electrons are caused to flow by a difference in electron balance in a circuit; that is, when there are more electrons in one part of a circuit than in another, the electrons move from the area where they are concentrated to the area where they are lacking. This difference in electron concentration is called potential difference, or voltage. The higher the voltage goes, the greater the electron imbalance becomes. The greater this electron imbalance, the harder the push on the electrons (more electrons repelling each other) and the greater the current of electrons in the circuit. When there are many electrons concentrated at the negative terminal of a generator (with a corresponding lack of electrons at the positive terminal), there is a much stronger repelling force on the electrons and, consequently, many more electrons moving in the wire. This is exactly the same as saying that the higher the voltage, the more electric current will flow in a circuit, all other things, such as resistance (para 11-10), being equal.
+
+11-10. Resistance.
+
+a. Even though a copper wire will conduct electricity with relative ease, it still offers resistance to electron flow. This resistance is caused by the energy necessary to break the outer shell electrons free, and the collisions between the atoms of the conductor and the free electrons. It takes force (or voltage) to overcome the resistance encountered by the flowing electrons. This resistance is expressed in units called ohms. The resistance of a conductor varies with its length, cross- sectional area, composition, and temperature.
+
+b. A long wire offers more resistance than a short wire of the same cross-sectional area. The electrons have farther to travel.
+
+c. Some elements can lose electrons more readily than other elements. Copper loses electrons easily, so there are always many free electrons in a copper wire. Other elements, such as iron, do not lose their electrons quite as easily, so there are fewer free electrons in an iron wire (comparing it to a copper wire of the same size). Thus, with fewer free electrons, fewer electrons can push through an iron wire; that is, the iron wire has more resistance than the copper wire.
+
+d. A small wire (in thickness or cross-sectional area) offers more resistance than a large wire. in the small wire, there are fewer free electrons (because fewer atoms), and thus fewer electrons can push through.
+
+e. Most metals show an increase in resistance with an increase in temperature, while most nonmetals show a decrease in resistance with an increase in temperature. For example, glass (a nonmetal) is an excellent insulator at room temperature but is a very poor insulator when heated to red heat.
+
+11-11. Ohm’s Law.
+
+a. The general statements about voltage, amperage, and ohms (para 11-9 and 11-10) can all be related in a statement known as ohm’s law, so named for the scientist Georg Simon Ohm who first stated the relationship. This law says that voltage is equal to amperage times ohms. Or, it can be stated as the mathematical formula:
+
+where E is volts, I is current in amperes, and R is resistance in ohms. For the purpose of solving problems, the ohms law formula can be expressed three ways:
+
+(1) To find voltage: E = IR
+
+(2) To find amperage: l = E/R
+
+(3) To find ohms: R = E/I
+
+b. This formula is a valuable one to remember because it makes understandable many of the things that happen in an electric circuit. For instance, if the voltage remains constant, the
+
+current flow goes down if the resistance goes up. An example of this would be the lighting circuit that is going bad in a truck. Suppose the wiring circuit between the battery and the lights has deteriorated due to connections becoming poor, strands in the wire breaking, switch contacts becoming dirty, or other, similar problems. All of these conditions reduce the electron path or, in other words, increase resistance. And, with this increased resistance, less current will flow. The voltage of the battery stays the same (for example, 12 volts). if the resistance of the circuit when new (including light bulbs) was 6 ohms, then 2 amperes will flow. To satisfy the equation, 12 (volts) must equal 12 (amperes times ohms resistance). But if the resistance goes up to 8 ohms, only 1.5 amperes can flow. The increased resistance cuts down the current flow and, consequently, the amount of light.
+
+c. A great majority of electrical troubles on automotive vehicles result from increased resistance in circuits due to bad connections, deteriorated wiring, dirty or burned contacts in switches, or other such problems. With any of these conditions, the resistance of the circuit goes up and the ampere flow through that circuit goes down. Bad contact points in the ignition circuit will reduce current flow in the circuit and cause weak sparks at the spark plugs. This will result in engine missing and loss of power.
+
+d. If the resistance stays the same but the voltage increases, the amperage also increases. This is a condition that might occur if a generator voltage regulator became defective. In such a case, there would be nothing to hold the generator voltage within limits, and the voltage might increase excessively. This would force excessive amounts of current through various circuits and cause serious damage. If too much current went through the light bulb filaments, for example, the filaments would overheat and burn out. Also, other electrical devices probably would be damaged.
+
+e. On the other hand, if the voltage is reduced, the amount of current flowing in a circuit will also be reduced if the resistance stays the same. For example, with a run-down battery, battery voltage will drop excessively with a heavy discharge. When trying to start an engine with a run-down battery, the voltage will drop very low. This voltage is so low that it cannot push enough current through the starter for effective starting of the engine.
+
+11-12. Circuit Configurations.
+
+a. General (Fig. 11-12). A very basic circuit consists of a power source, a unit to be operated, and a wire to connect the two together. if the unit to be operated is to be controlled, a switch will be included in the circuit also.
+
+b. Automotive Circuits (Fig. 11-13). The body and chassis in an automobile are made of steel. This feature is utilized to eliminate one of the wires from all of the automobile’s circuits. By attaching one of the battery terminals to the body and chassis, any electrical component can be connected by hooking up one side, by wire, to the car battery and the other side to the body. The practice of connecting one side of the battery to the automobile body is called grounding. Virtually all current automotive manufacturers ground the negative side of the battery. This is referred to as an electrical system with a negative ground. Vehicles with a positive ground are very uncommon at the present time.
+
+c. Series Circuits (A, Fig. 11-14). A series circuit consists of two or more resistance units (electrically operated components) that are connected together in an end-to-end manner so that any current flow in the circuit is dependent on a complete path through all of the units. The following characteristics of series circuits are important:
+
+1. HEADLIGHT 7. DIMMER SWITCH 2. BATTERIES 8. BLACKOUT DRIVE LIGHT 3. BLACKOUT AND SERVICE TAILLIGHT 9. BLACKOUT SERVICE LIGHT 4. TRAILER RECEPTACLE 10. INSTRUMENT CLUSTER 5. BLACKOUT TAILLIGHT, SERVICE TAILLIGHT, 11. HORN BUTTON AND SERVICE STOPLIGHT 12. HORN 6. LIGHT SWITCH Figure 11-13. Typical Automotive Circuit.
+
+(1) Any break in the circuit (such as a burned- out light bulb) will render the entire circuit inoperative.
+
+(2) The current (amperage) will be constant throughout the circuit.
+
+(3) The total resistance of the circuit is equal to the sum of the individual resistances.
+
+(4) The total voltage of the circuit is equal to the sum of the individual voltage drops across each component.
+
+d. Parallel Circuits (B, Fig. 11-14). A parallel circuit consists of two or more resistance units (electrically
+
+operated components) connected in separate branches. In a parallel circuit, each component receives full voltage from the source. The following characteristics of parallel circuits are important.
+
+(1) The total resistance of the circuit will always be less than the resistance of any individual component.
+
+(2) The disconnection or burning out of any individual component in the circuit will not affect the operation of the others.
+
+(3) The current will divide itself among the circuit branches according to the resistances of
+
+the individual components. The sum of the individual amperages will be equal to the total circuit current.
+
+(4) The voltage will be constant throughout the circuit when measured across the individual branches.
+
+e. Series-Parallel Circuit (C, Fig. 11-14). The series-parallel circuit is a combination of the two configurations. There must be at least three resistance units to have a series-parallel circuit. The following characteristics of series-parallel circuits are important.
+
+(1) The total circuit voltage will be equal to the sum of the total parallel circuit voltage drop plus the voltage drops of the individual series circuit components.
+
+(2) The total circuit resistance will be equal to the sum of the total parallel circuit resistance plus the individual resistances of the series circuit components.
+
+(3) Current flow through the total parallel circuit will be equal to the current flow through any individual series circuit component.
+
+(4) The disconnection or the burning out of any of the series components will completely disable the entire circuit, whereas a failure of any of the parallel circuit components will leave the balance of the circuit still functioning.
+
+11-13. Magnetic Field.
+
+a. General. It was stated in paragraph 11-9 that electric current is a flow of electrons and that the imbalance of electrons in a circuit (that causes electrons to flow) is called voltage. Magnets will be studied to learn what causes a generator to concentrate electrons at the negative terminal and take them away from the positive terminal.
+
+b. Magnetic Lines of Force. If iron filings were sprinkled on a piece of glass on top of a bar, magnet, the
+
+filings would become arranged in curved lines (fig. 11- 15). These curved lines, extending from the two poles of the magnet (north and south), follow the magnetic lines of force surrounding the magnet. Scientists have formulated the following rules for these lines of force.
+
+(1) The lines of force (outside the magnet) pass from the north to the south pole of the magnet.
+
+(2) The lines of force act somewhat as rubberbands and try to shorten to a minimum length.
+
+(4) The rubberband characteristic opposes the push-apart characteristic.
+
+(5) The lines of force never cross each other.
+
+(6) The magnetic lines of force, taken together, are referred to as the magnetic field of the magnet.
+
+c. Bar and Horseshoe Magnets. The magnetic fields of a bar and of a horseshoe magnet are shown in figure 11-16. In each, note how the lines of force curve and pass from the north to the south pole.
+
+d. Effects Between Magnetic Poles (Fig. 11-17). When two unlike magnetic poles are brought together, they attract. But when like magnetic poles are brought together, they repel. These actions can be explained in terms of the rubberband and the push-apart characteristics. When unlike poles are brought close to each other, the magnetic lines of force pass from the north to the south poles. They try to shorten (like rubberbands), and, therefor try to pull the two poles together. On the other hand, if like poles are brought
+
+close to each other, lines of force going in the same direction are brought near each other. Because these lines of force attempt to push apart, a repelling effect results between the like poles.
+
+11-14. Electromagnetism.
+
+a. An electric current (flow of electrons) always produces a magnetic field. In the wire
+
+TA233531 Figure 11-17. Effects Between Magnetic Poles.
+
+shown in figure 11-18, current flow causes lines of force to circle the wire. It is thought that these lines of force result from the movement of the electrons along the wire. As they move, the electrons send out the lines of force. When many electrons move, there are many lines of force (the magnetic field is strong). Few electrons in motion means a weak magnetic field or few lines of force.
+
+b. Electron movement as the basis of magnetism in bar and horseshoe magnets can be explained by assuming that the atoms of iron are so lined up in the magnets that the electrons are circling in the same direction. With the electrons moving in the same direction, their individual magnetic lines of force add to produce the magnetic field.
+
+c. The magnetic field produced by current flowing in a single loop of wire is shown in figure 11-19. The magnetic lines of force circle the wire, but here they must follow the curve of the wire. If two loops are made in the conductor, the lines of force will circle the two loops. In the area
+
+between the adjacent loops, the magnetic lines are going in opposite directions. In such a case, because they are of the same strength (from same amount of current traveling in both loops), they cancel each other out. The lines of force, therefore, circle the two loops almost as though they were a single loop. However, the magnetic field will be twice as strong because the lines of force of the two loops combine.
+
+d. When many loops of wire are formed into a coil as shown in figure 11-20, the lines of force of all loops combine into a pattern that resembles greatly the magnetic field surrounding a bar magnet. A coil of this type is known as an electromagnet or a solenoid. However, electromagnets can be in many shapes. The field coils of generators and starters, the primary winding in an ignition coil, the coils in electric gages, even the windings in a starter armature, can be considered to be electromagnets. All of these produce magnetism by electrical means, as discussed in paragraph 11-15.
+
+e. The north pole of an electromagnet can be determined, if the direction of current flow (from negative to positive) is known, by use of the left- handed rule (fig. 11-21). The left hand is held around the coil with the fingers pointing in the direction of current flow. The thumb will point to the north pole of the electromagnet. This rule is based on current, or electron, flow from negative to positive
+
+f. The left-handed rule also can be used to determine the direction that lines of force circle a wire- carrying current if the direction of current is known. This is done by circling the wire with the left hand with the thumb pointing in the direction of current flow (negative to positive). The fingers will then point in the direction that the magnetic field circles the wire.
+
+g. The strength of an electromagnet can be increased greatly by wrapping the loops of wire around an iron core. The iron core passes the lines of force with much greater ease than air.
+
+This effect of permitting lines of force to pass through easily is called permeability. Wrought iron is 3,000 times more permeable than air. In other words, it allows 3,000 times as many lines of force to get through. With this great increase in the number of lines of force, the magnetic strength of the electromagnet is increased greatly, even though no more current flows through it. Practically all electromagnets use an iron core of some kind.
+
+11-15. Electromagnetic Induction.
+
+a. Current can be induced to flow in a conductor if it is moved through a magnetic field. In figure 11-22 the wire is moved downward through the magnetic field between the two magnetic poles. As it moves downward, cutting lines of force, current is induced in it. The reason for this is that the lines of force resist cutting, and tend to wrap around the wire as shown. With lines of force wrapping around the wire, current is induced. The wire movement through the magnetic field produces a magnetic whirl around the wire, which pushes the electrons along the wire.
+
+b. If the wire is held stationary and the magnetic field is moved, the effect is the same; that is, current will be induced in the wire. All that is required is that there be relative movement between the two so that lines of force are cut by the wire. It is this cutting and whirling, or wrapping, of the lines of force around the wire that produces the current movement in the wire.
+
+c. The magnetic field can be moved by moving the magnet or, if it is a magnetic field from an electromagnet, it can be moved by starting and stopping the current flow in the electromagnet. Suppose an electromagnet such as the one shown in figure 11-20 has a wire held close to it. When the electromagnet is connected to a battery, current will start to flow through it. This current, as it starts to flow, builds up a magnetic field. In other words, a magnetic field forms because of the current flow. This magnetic field might be considered as expanding (like a balloon, in a sense) and moving out from the electromagnet. As it moves outward, its lines of force will cut through the wire held close to the electromagnet. This wire, therefore, will have current induced in it. The current will result from the lines of force cutting across the wire. If the electromagnet is
+
+disconnected from the battery, its magnetic field will collapse and disappear. As this happens, the lines of force move inward toward the electromagnet. Again, the wire held close to the electromagnet will be cut by moving lines of force and will have a current induced in it. This time, the lines of force are moving in the opposite direction and the wire, therefore, will have current induced in it in the opposite direct ion.
+
+d. Thus it can be seen that current can be induced in the wire by three methods: the wire can be moved through the stationary magnetic field; the wire can be held stationary and the magnet can be moved so the field is carried past the wire; or the wire and electromagnet both can be held stationary and the current turned on and off to cause the magnetic field buildup and collapse, so the magnetic field moves one way or the other across the wire.

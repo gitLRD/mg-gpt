@@ -1,0 +1,16 @@
+Ride quality
+
+Ride quality refers to a vehicle's effectiveness in insulating the occupants from undulations in the road surface such as bumps or corrugations. A vehicle with good ride quality provides comfort for the driver and the passengers.
+
+== Importance ==
+Good ride quality provides comfort for the people inside the car, minimises damage to cargo and can reduce driver fatigue on long journeys in uncomfortable vehicles, and also because road disruption can impact the driver's ability to control the vehicle.
+Suspension design is often a compromise between ride quality and car handling because cars with firm suspension can result in greater control of body movements and quicker reactions. Similarly, a lower center of gravity is more ideal for handling, but low ground clearance limits suspension travel and requires stiffer springs.
+Ambulances have a special need for a high level of ride quality to avoid further injury to the already-ill passengers.
+
+== Technology ==
+Early vehicles, like the Ford Model T, with its leaf spring, live axle suspension design, were both uncomfortable and handled poorly.
+Historically, weight was key to allowing cars such as the Rolls-Royce Silver Cloud and the Cadillac in the 1950s and the 1960s to have a more comfortable ride quality. However, there are various drawbacks to heavier cars, including poor fuel efficiency, acceleration, braking, cornering and additional stresses on components.
+Over time, technology has shifted the curve outward and so it is possible to offer vehicles that are extremely comfortable and still handle very well or vehicles with excellent handling that are also reasonably comfortable. One technical solution for offering both excellent comfort and reduced or eliminating body roll is by using computer-controlled suspensions, such as hydraulic active suspension system (like Active Body Control) or active anti-roll bars, but such systems are expensive because of their complexity.
+
+== Factors ==
+The main factor affecting ride quality is the stiffness of suspension components (e.g. springs, shock absorbers, anti-roll bars and bushings). Other factors include suspension geometry, vehicle mass and weight distribution.

@@ -1,0 +1,69 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 22
+
+CONVENTIONALTRANSMISSIONS
+
+22-1. Change Vehicle Direction. One major purpose of the transmission is to provide the operator with the option of maneuvering the vehicle in either the forward or reverse direction. This is a basic requirement of all automotive vehicles. Almost all vehicles have multiple forward gear ratios, but in most cases, only one ratio is provided for reverse.
+
+22-2. Provide Gear Ratio Selection. Another major function of the transmission is to provide the operator with a selection of gear ratios between engine and wheels so that the vehicle can operate at best efficiency under a variety of driving conditions and loads.
+
+22-3. Sliding Gear. The sliding-gear type Is known as the conventional transmission. There are two types of sliding-gear transmissions. One Is the progressive, in which the arrangement is such that it is necessary to pass one gear through another In definite order. Thus, In a three-speed progressive transmission, it is Impossible to shift from low to high without going through second. The us of this system Is limited almost entirely to motorcycles. The other sliding-gear type Is known as selective. In this system, the operator can select any ratio without going through intermediate stages. Sliding-gear transmissions use
+
+spur gears for easy engagement; consequently, the transmission usually Is noisy when operating in the Intermediate speeds.
+
+22-4. Constant Mesh. The conventional sliding-gear transmission has been superseded, particularly on passenger vehicles, by systems In which the gears always are In mesh with their mates, and selection is made by sliding components In and out of connection. Two of the most common of these systems are the constant-mesh and the synchromesh, which have additional features to prevent clashing of gears.
+
+Section III. SLIDING GEAR TRANSMISSION
+
+22-5. Construction. Conventional transmissions have the following fundamental components: the case, which houses the gears and shafts; the control cover, which houses the shifter mechanism; and the various shafts and gears. Three-speed selective transmissions have three shafts. They are, In the order of the flow of power, the Input shaft, countershaft, and main shaft. The function of the three shafts, together with the gears that connect them, Is discussed in detail below.
+
+a. Gears. The transmission second-and- third and first-and-reverse speed main shaft gears have grooved hub extensions, Into which the shift forks are fitted that slide them back and forth on the main shaft splines. Thus, the second-and-third speed main shaft gear can be shifted rearward to mesh with the countershaft second-speed gear. The second-and-third speed main shaft gear also has internal teeth that
+
+mediate stages. Sliding-gear transmissions use mesh with the external teeth on the rear of the main drive gear when the gear Is shifted forward into the direct-drive position. The first-and-reverse speed main shaft gear can be shifted forward to mesh with the countershaft first-speed gear or rearward to mesh with the reverse idler gear. The countershaft reverse gear usually is In constant mesh with the reverse Idler gear. In some transmissions, the reverse Idler gear is shifted to mesh with the countershaft reverse gear at the same time that the first-and-reverse speed main shaft gear Is shifted to mesh with the reverse idler gear.
+
+b. Shafts and Bearings. The Input shaft has an Integral main drive gear and rotates with the clutch driven plate or disks; that is, the shaft rotates all the time the clutch is engaged and the engine Is running. The main drive gear Is In constant mesh with the countershaft drive gear. Because all the gears in the countershaft cluster
+
+are either made Integral or keyed on, they also rotate at the time the clutch is engaged. The transmission main shaft Is held in line with the Input shaft by a pilot bearing at its front end, which allows It to rotate or come to rest independently of the Input shaft. The main shaft, countershaft, and Input shafts, with their respective gears, are mounted on anti-friction bearings (para 19-8) in the transmission case.
+
+c. Shift Rails and Forks. Shift rails and forks are provided to move the gears when the control lever Is moved by the driver to change speeds.
+
+22-6. Shifting. The three-speed selective transmission described above Is operated by a control lever assembled to, and extending from, the control housing (fig. 22-1). The lever has a ball fulcrum fitting into a socket In the housing. It Is kept from rotating by a setscrew entering a slot In the side of the ball fulcrum but Is free to move
+
+backward, forward, and sidewise. The end of the lever below the ball fulcrum engages both slots, but there Is an Interlock device (usually a ball or pin engaging notches in each shifter shaft) that permits one shifter shaft to move at a time, but not both. This prevents two speeds being engaged at once. When the control lever handle Is pressed to the left, the slot In the first-and-reverse shifter shaft Is engaged and the fork can be moved backward or forward. After the first-and-reverse shifter shaft has been returned to the neutral position, the control lever can be pressed to the right and the second-and-third shifter shaft and fork can be moved forward or backward. The shifter shafts are held In the different speeds and the neutral position by spring-loaded balls or poppets engaging notches In the shifter shafts.
+
+22-7. Power Flow. The following paragraphs describe the power flow of the sliding gear transmission.
+
+a. Neutral. The gears are shown in the neutral position in figure 22-2. The input shaft drives the countershaft through the main drive gear and countershaft drive gear. None of the countershaft gears are in mesh with the main shaft sliding gears, however, so the main shaft is not driven. When the gears are in this position, there is no connection between the engine and the driving wheels, so the vehicle remains stationary while the engine is running. The path of transmitted power is shown by the arrows.
+
+b. Low Speed. When the gears are in first-speed position, the first-and-reverse speed main shaft gear is shifted forward to mesh with and be driven by the countershaft first-speed gear (fig. 22-3). The countershaft rotates at about 0.7 crankshaft speed. There is a further speed reduction between the countershaft first-speed gear (driving) and the first-and-reverse main shaft gear (driven) of approximately 1.5. There-fore, the crankshaft rotates 1.5 x 1.5, or 2.25 times for each turn of the propeller shaft, thus Increasing the torque on the output shaft by 2.25:1.
+
+c. Intermediate Speed. The second-speed position is shown in figure 22-4. In passing from
+
+first to second speed, both sliding gears have been shifted rearward; the first-and-reverse speed main shaft gear has been shifted out of engagement into the neutral position and the second-and-third speed main shaft gear has been shifted into mesh with the countershaft second-speed gear. The input shaft, through its integral main drive gear, is now driving the countershaft through the countershaft drive gear (as is the case in all speeds), and the counter-shaft is driving the main shaft through the countershaft second-speed gear and the second-and-third speed main shaft gear as shown by the arrows (fig. 22-4). Because the countershaft second-speed gear and the second- and-third speed main shaft gear are the same size, their gear ratio is 1:1. This means that the main shaft rotates at the same speed as the countershaft; that is, the engine crankshaft makes about 1.5 revolutions to one of the propeller shaft.
+
+d. High Speed. The third-speed, or direct-drive, position of the gears is shown in figure 22-5. In passing from second speed to third speed, the second-and-third speed main shaft gear has been shifted forward, causing the Internal teeth in this gear to engage the external
+
+teeth on the main drive gear. A device of this kind, with internal teeth on one member that mesh or engage with external teeth on another member, Is often called a dog clutch, or clutch gear. It makes a direct connection between the input shaft and main shaft as shown by the arrows (fig. 22-5).
+
+The propeller shaft therefore rotates at crankshaft speed.
+
+e. Reverse. The reverse position of the gears is shown in figure 22-6. To better illustrate the reverse idler gear, the parts have been turned
+
+end for end, and are shown from the opposite side from previous illustrations (fig. 22-2 thru 22-5). In passing from neutral to reverse, the first-and-reverse speed main shaft gear has been shifted rearward to mesh with the reverse idler gear. The sole function of this gear is to make the main shaft rotate in the opposite direction to the input shaft; it
+
+does not influence the gear ratio between the countershaft reverse gear and the first-and-reverse speed main shaft gear. The gear ratio between these gears is about two. In reverse, the crankshaft rotates 1.5 x 2, or three times for every revolution of the propeller shaft.
+
+Section IV. CONSTANT MESH TRANSMISSION
+
+22-8. Construction. The basic components of the constant mesh transmission are similar to the sliding gear transmission discussed in paragraph 22-5. However, major differences in designs are discussed in the following text.
+
+a. Gears. In this type of transmission (fig.22-7), certain countershaft gears are constantly in mesh with gears on the main shaft. The meshing gears on the main shaft are fixed so they cannot move endwise, but they are supported on roller bearings so they can rotate independently of the main shaft. For example, the main shaft assembly of the transmission shown in figure 22-7 is illustrated in figure 22-8 in disassembled view. Note that the main shaft third-speed gear (4) is supported on the shaft by bearing rollers (5). Note also that this gear has internal teeth that match external teeth on the main shaft third-and-fourth-speed clutch gear (1). Usually, helical gears are used in this type of transmission. The first-reverse-and-second gear (10) is a sliding type and, therefore, is a spur gear.
+
+b. Synchronizers. The construction of a typical synchromesh clutch is shown in figure 22-9. The driving member consists of a sliding gear splined to the transmission main shaft with bronze internal cones on each side. It is surrounded by a sliding sleeve having internal teeth that are meshed with the external teeth of the sliding gear. The sliding sleeve is grooved around the outside to receive the shift fork. Six spring loaded balls in radially drilled holes in the gear fit into an internal groove in the sliding sleeve and
+
+prevent it from moving endwise relative to the gear until the latter has reached the end of its travel. The driven members are the main drive gear and second-speed main shaft gear, each of which has external cones and external teeth machined on its sides to engage the internal cones of the sliding gear and the internal teeth of the sliding sleeve. The synchromesh clutch is shown disengaged and engaged in figure 22-9. The synchromesh clutch operates as follows. When the transmission control lever is moved by the driver to the third-speed or direct-drive position, the shift-fork moves the sliding gear and sliding sleeve forward as a unit until the internal cone on the sliding gear engages the external cone on the main drive gear. This action brings the two gears to the same speed and stops endwise travel of the sliding gear. The sliding sleeve then slides over the balls and silently engages the external teeth on the main drive gear, locking the main drive gear and transmission main shaft together as shown in figure 22- 9. When the transmission control lever is shifted to the second-speed position, the sliding gear and sleeve move rearward and the same action takes place, locking the transmission main shaft to the second-speed main shaft gear. The synchromesh clutch is not applied to first speed or to reverse. First speed is engaged by an ordinary dog clutch when constant mesh is employed, or by a sliding gear; reverse always is engaged by means of a sliding gear. Figure 22-10 shows a synchromesh transmission in cross section that uses constant-mesh helical gears for the three forward speeds and a sliding spur gear for reverse.
+
+Section V. CEARSHIFT LINKAGE
+
+22-9. Mechanical. Some transmissions are controlled by a steering column control lever (fig. 22-11). The positions for the various speeds are the same as those for the vertical control lever except that the lever is horizontal. The shifter forks are pivoted on bellcranks that are turned by a steering column control lever through the linkage
+
+shown. The poppets shown in figure 22-11 engage notches at the inner end of each bellcrank. Other types of synchromesh transmissions controlled by steering column levers have shifter shafts and forks moved by a linkage similar to those used with a vertical control lever.

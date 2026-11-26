@@ -1,0 +1,35 @@
+Flathead engine
+
+A flathead engine, also known as a sidevalve engine or valve-in-block engine, is an internal combustion engine with its poppet valves contained within the engine block, instead of in the cylinder head, as in an overhead valve engine.
+Flatheads were widely used internationally by automobile manufacturers from the late 1890s until the mid-1960s but were replaced by more efficient overhead valve and overhead camshaft engines. They are currently experiencing a revival in low-revving aero-engines such as the D-Motor.
+
+== The side-valve design ==
+The valve gear comprises a camshaft sited low in the cylinder block which operates the poppet valves via tappets and short pushrods (or sometimes with no pushrods at all). The flathead system obviates the need for further valvetrain components such as lengthy pushrods, rocker arms, overhead valves or overhead camshafts. The sidevalves are typically adjacent, sited on one side of the cylinder(s), though some flatheads employ the less common "crossflow" "T-head" variant. In a T-head engine, the exhaust gases leave on the opposite side of the cylinder from the intake valve.
+The sidevalve engine's combustion chamber is not above the piston (as in an OHV (overhead valve) engine) but to the side, above the valves. The spark plug may be sited over the piston (as in an OHV engine) or above the valves; but aircraft designs with two plugs per cylinder may use either or both positions.
+"Pop-up pistons" may be used with compatible heads to increase compression ratio and improve the combustion chamber's shape to prevent knocking. "Pop-up" pistons are so called because, at top dead centre, they protrude above the top of the cylinder block.
+
+== Advantages ==
+The advantages of a sidevalve engine include simplicity, reliability, low part count, low cost, low weight, compactness, responsive low-speed power, low mechanical engine noise, and insensitivity to low-octane fuel. The absence of a complicated valvetrain allows a compact engine that is cheap to manufacture, since the cylinder head may be little more than a simple metal casting. These advantages explain why side valve engines were used for passenger cars for many years, while OHV designs came to be specified only for high-performance applications such as aircraft, luxury cars, sports cars, and some motorcycles.
+At top dead centre, the piston gets very close to the flat portion of the cylinder head above, and the resultant squish turbulence produces excellent fuel/air mixing. A feature of the sidevalve design (particularly beneficial for an aero-engine) is that if a valve should seize in its guide and remain partially open, the piston would not be damaged, and the engine would continue operating safely on its other cylinders.
+
+== Disadvantages ==
+The main disadvantages of a sidevalve engine are poor gas flow, poor combustion chamber shape, and low compression ratio, all of which result in a low-revving engine with low power output and low efficiency. Because sidevalve engines do not burn the fuel efficiently, they suffer from high hydrocarbon emissions.
+Sidevalve engines can only be used for engines operating on the Otto principle. The combustion chamber shape is unsuitable for Diesel engines, which require a high compression ratio for ignition to occur.
+In a sidevalve engine, intake and exhaust gases follow a circuitous route, with low volumetric efficiency, or "poor breathing", not least because the exhaust gases interfere with the incoming charge. Because the exhaust follows a lengthy path to leave the engine, there is a tendency for the engine to overheat.  (Note: this is true for V-type flathead engines but less of an issue for inline engines, which typically have the intake and exhaust ports on the same side of the engine block.) Although a sidevalve engine can safely operate at high speed, its volumetric efficiency swiftly deteriorates, so that high power outputs are not feasible at speed. High volumetric efficiency was less important for early cars because their engines rarely sustained extended high speeds, but designers seeking higher power outputs had to abandon the sidevalve.  A compromise used by the Willys Jeep, Rover, Land Rover, and Rolls-Royce in the 1950s was the "F-head" (or "intake-over-exhaust" valving), which has one sidevalve and one overhead valve per cylinder.
+The flathead's elongated combustion chamber is prone to preignition (or "knocking")  if compression ratio is increased, but improvements such as laser ignition or microwave enhanced ignition might help prevent knocking. Turbulence grooves may increase swirl inside the combustion chamber, thus increasing torque, especially at low rpm. Better mixing of the fuel/air charge improves combustion and helps to prevent knocking.
+An advance in flathead technology resulted from experimentation in the 1920s by Sir Harry Ricardo, who improved their efficiency after studying the gas-flow characteristics of sidevalve engines.
+The difficulty in designing a high-compression-ratio flathead means that most tend to be spark-ignition designs, and flathead diesels are virtually unknown.
+
+== History and applications ==
+The sidevalve arrangement was especially common in the United States and used for motor vehicle engines, even for engines with high specific power output. Sidevalve designs are still common for many small single-cylinder or twin-cylinder engines, such as lawnmowers, rotavators, two-wheel tractors and other basic farm machinery.
+
+=== Flathead cars ===
+Multicylinder flathead engines were used for cars such as the Ford Model T and Ford Model A, the Ford flathead V8 engine and the Ford Sidevalve engine. Cadillac produced V-16 flathead engines for their Series 90 luxury cars from 1938 to 1940. Packard and Pontiac produced flathead inline 8-cylinder engines until 1954. Also in the British Morris Eight, and Morris Minor series I.
+After WWII, flathead designs began to be superseded by OHV (overhead valve) designs. Flatheads were no longer common in cars, but they continued in more rudimentary vehicles such as off-road military Jeeps. In US custom car and hot rod circles, restored examples of early Ford flathead V8s are still seen.
+
+=== Flathead aero-engines ===
+The simplicity, lightness, compactness and reliability might seem ideal for an aero-engine, but because of their low efficiency, early flathead engines were deemed unsuitable. Two notable exceptions were the American Aeronca E-107 opposed twin aero engine of 1930 and the Continental A40 flat four of 1931, which became one of the most popular light aircraft engines of the 1930s. Two modern flatheads are the Belgian D-Motor flat-fours and flat-sixes. These are extremely oversquare and compact aero-engines with direct drive to a propeller.
+
+=== Flathead motorcycles ===
+
+Flathead designs have been used on a number of early pre-war motorcycles, in particular US V-twins such as Harley-Davidson and Indian, some British singles, BMW flat twins and Russian copies thereof. The Cleveland Motorcycle Manufacturing Company produced a T-head four-cylinder in-line motorcycle engine in the 1920s.

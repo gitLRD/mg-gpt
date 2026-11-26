@@ -1,0 +1,13 @@
+Steering knuckle
+
+In automotive suspension, a steering knuckle or upright is that part which contains the wheel hub or spindle, and attaches to the suspension and steering components. The terms spindle and hub are sometimes used interchangeably with steering knuckle, but refer to different parts.
+The wheel and tire assembly attach to the hub or spindle of the knuckle where the tire/wheel rotates while being held in a stable plane of motion by the knuckle/suspension assembly.
+In the attached photograph of a double-wishbone suspension, the knuckle is shown attached to the upper control arm at the top and the lower control arm at the bottom.  The wheel assembly is shown attached to the knuckle at its center point.  Note the arm of the knuckle that sticks out, to which the steering mechanism attaches to turn the knuckle and wheel assembly.
+
+== Types ==
+Steering knuckles come in all shapes and sizes.  Their designs differ to fit all sorts of applications and suspension types.  However, they can be divided into two main types.  One comes with a hub and the other comes with a spindle.
+
+== Applications ==
+In a non-drive suspension, as shown in the first photo, the knuckle usually has a spindle onto which the brake drum or brake rotor attaches.  (In this picture, the central spindle upon which the wheel assembly rides cannot be seen.)  The wheel/tire assembly then attaches to the supplied lug studs, and the whole assembly rotates freely on the shaft of the spindle.
+In a drive suspension, the knuckle has no spindle, but rather has a hub into which is affixed the bearings and shaft of the drive mechanism.  The end of the drive mechanism would then have the necessary mounting studs for the wheel/tire and/or brake assembly.  Therefore, the wheel assembly would rotate as the drive shaft (or half-shaft) dictates.  It would not turn freely by itself, but only if the shaft was disengaged from the transaxle or differential.
+A driven suspension as described may also be steerable.  This is often called a drive/steer arrangement.

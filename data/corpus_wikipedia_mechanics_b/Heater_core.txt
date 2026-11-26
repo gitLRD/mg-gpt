@@ -1,0 +1,48 @@
+Heater core
+
+A heater core is a heat exchanger mounted in the cabin of a vehicle designed to provide heat that uses the same operating principles and working fluid as an automotive radiator. Hot coolant from the vehicle's engine passes through a winding tube of the core upon which fins are attached, where a fan forces air across the heated fins and winding tube into the passenger compartment.
+
+== How it works ==
+
+The internal combustion engine in most cars and trucks is cooled by a mixture of water and antifreeze that is circulated through the engine and radiator by a water pump to enable the radiator to give off engine heat to the atmosphere. Rather than all of the engine heat going to atmosphere, some of the heated coolant can be diverted through the heater core to heat the cabin.
+A heater core is a small radiator under the dashboard of the vehicle, consisting of a conductive, typically aluminium or brass tube, with cooling fins attached to increase surface area. Hot coolant passing through the heater core gives off heat before returning to the engine cooling circuit.
+The squirrel cage fan of the vehicle's ventilation system forces air through the heater core to transfer heat from the coolant to the cabin air, which is directed into the vehicle through registers at various points.
+
+== Control ==
+Once the engine has warmed up, the coolant is kept at a more or less constant temperature by the thermostat. The temperature of the air entering the vehicle's interior can be controlled by one or a combination of the following methods:
+
+a valve that limits the amount of coolant that goes through the heater core
+a damper door that blocks off the heater core, directing part (or all) of the incoming air to bypass the heater core, so that cabin air does not get heated (or re-heated if the air conditioning compressor is active).
+Simple control systems allow the driver to adjust the valve or door position directly (usually by a rotary knob or a lever). More complicated systems use a combination of electromechanical actuators and thermistors to control the valve or doors positions to deliver air at a precise temperature.
+Cars with dual climate function (allowing driver and passenger to each set a different temperature) may use a heater core split in two, where different amounts of coolant flow through the heater core on either side.
+
+== Air conditioning ==
+In a car equipped with air conditioning, outside air, or cabin air if the recirculation flap has been set to close the external air passages, is typically first forced, often after being filtered by a cabin air filter, through the air conditioner's evaporator coil.  This can be thought of as a heater core filled with very cold liquid that is undergoing a phase change to gas (the evaporation), a process which cools rather than heats the incoming air. In order to obtain the desired temperature, incoming air may first be cooled by the air conditioning and then heated again by the heater core. In a vehicle fitted with manual controls for the heater and air conditioning compressor, using both systems together will dehumidify the air in the cabin, as the evaporator coil removes moisture from the air due to condensation. Reduced humidity can result in perceived increase in air comfort levels inside the vehicle. Automatic temperature control systems can take the best course of action in regulating the compressor operation, amount of reheating and blower speed depending upon the external air temperature, the internal one and the cabin air temperature value or a rapid defrost effect requested by the user.
+
+== Engine cooling function ==
+Because the heater core cools the heated coolant from the engine by transferring its heat to the cabin air, it can also act as an auxiliary radiator for the engine. If the radiator is working improperly as indicated by an overheating engine, the operator may turn the passenger cabin heat on (together with the cabin blower fan placed on full speed to maximize heat transfer, and with the windows opened to avoid cabin heat build up), resulting in a certain cooling effect on the overheated engine coolant.  This engine cooling technique is not enough to dissipate the entire load of the engine heat, as the heater core is not large enough nor does it have enough cold air going through it to significantly cool large amounts of coolant.
+
+== Possible problems ==
+
+The heater core is made up of small(1/4" or less) piping with numerous bends. Clogging of the piping may occur if the coolant system is not flushed or if the coolant is not changed regularly. If coolant flow is restricted, heating capacity will be reduced or even lost altogether if the heater core becomes completely blocked. 
+Control valves may clog or get stuck. 
+Blend doors or its control mechanism (lever, cable) can become stuck, possible due to thermal expansion. 
+Actuators as part of the automatic climate control can fail.
+Another possible problem is a leak in one of the connections to the heater core. This may first be noticeable by smell (ethylene glycol is widely used as coolant and has a sweet smell); it may also cause (somewhat greasy) fogging of the windshield above the windshield heater vent. Glycol may also leak directly into the car, causing wet upholstery or carpeting.
+Electrolysis can cause excessive internal corrosion leading to the heater core rupture. Upon such rupture coolant may spray directly into the passenger compartment followed with white coloured smoke, a hazard to driving visibility..
+The heater core is usually located under the dashboard inside of the vehicle and enclosed in the automotive AC system's ducting, servicing it often requires disassembling a large part of the dashboard, which can be labour-intensive and therefore expensive.
+Since the heater core relies on the coolant's heat to warm the cabin air up, it will not begin working until the engine's coolant warms up enough. This latency can be resolved by equipping the vehicle with an auxiliary heating system, which can either use electricity or burn fuel (vehicle's or auxiliary tank) to more rapidly bring engine coolant to operating temperatures.
+
+== Air-cooled engines ==
+Engines that do not have a water cooling system cannot heat the cabin via a heater core so must use an alternate heat source.
+A typical air-cooled engine cab heating method is to guide air around the (very hot) engine exhaust system manifold and into the vehicle's interior. Temperature control can be achieved by mixing with unheated outside air. However, depending on the design, this can cause a safety issue where an exhaust system leak may fill the passenger cabin with harmful exhaust fumes.
+This method has been popularized in the following common applications:
+
+Air-cooled Volkswagen engines.
+Air-cooled Briggs & Stratton Vanguard engines, used in the ultra- and microlight flight amateur construction scene.
+Homebuilt sport planes such as the Spacek SD-1 Minisport.
+
+== Reuse for other purposes ==
+Car heater cores can also used for do-it-yourself projects:
+
+homemade liquid cooling systems for computers.

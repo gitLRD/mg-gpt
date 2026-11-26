@@ -1,0 +1,59 @@
+Fuel tank
+
+A fuel tank (also called a petrol tank or gas tank) is a safe container for flammable fluids, often gasoline or diesel fuel.  Though any storage tank for fuel may be so called, the term is typically applied to part of an engine system in which the fuel is stored and propelled (fuel pump) or released (pressurized gas) into an engine. Fuel tanks range in size from the small plastic tank of a butane lighter to the multi-chambered cryogenic Space Shuttle external tank.
+
+== Uses ==
+Typically, a fuel tank must allow or provide the following:
+
+Storage of fuel: the system must contain a given quantity of fuel and must avoid leakage and limit evaporative emissions.
+Filling: the fuel tank must be filled in a secure way, without sparks.
+Provide a method for determining level of fuel in tank, gauging (the remaining quantity of fuel in the tank must be measured or evaluated).
+Venting (if over-pressure is not allowed, the fuel vapors must be managed through valves).
+Feeding of the engine (through a pump).
+
+== Fuel tank construction ==
+
+While most tanks are manufactured, some fuel tanks are still fabricated by metal craftsmen or hand-made in the case of bladder-style tanks. These include custom and restoration tanks for automotive, aircraft, motorcycles, boats and even tractors. Construction of fuel tanks follows a series of specific steps. The craftsman generally creates a mockup to determine the accurate size and shape of the tank, usually out of foam board. Next, design issues that affect the structure of the tank are
+addressed - such as where the outlet, drain, fluid level indicator, seams, and baffles go. Then the craftsmen must determine the thickness, temper and alloy of the sheet he will use to make the tank. After the sheet is cut to the shapes needed, various pieces are bent to create the basic shell and/or ends and baffles for the tank. Many fuel tanks' baffles (particularly in aircraft and racecars) contain lightening holes. These flanged holes serve two purposes, they reduce the weight of the tank while adding strength to the baffles. Toward the end of construction, openings are added for the filler neck, fuel pickup, drain, and fuel-level sending unit. Sometimes these holes are created on the flat shell, other times they are added at the end of the fabrication process. Baffles and ends can be riveted into place. The heads of the rivets are frequently brazed or soldered to prevent tank leaks. Ends can then be hemmed in and soldered, or flanged and brazed (and/or sealed with an epoxy-type sealant) or the ends can be flanged and then welded. Once the soldering, brazing or welding is complete, the fuel tank is leak-tested.
+In the aerospace industry, the use of Fuel Tank Sealants is a common application for high temperature integral fuel tanks. This provides excellent resistance to fluids such as water, alcohols, synthetic oils and petroleum-based hydraulic fluids.
+Plastic (high-density polyethylene HDPE) as a fuel tank material of construction, while functionally viable in the short term, has a long term potential to become saturated as fuels such as diesel and gasoline permeate the HDPE material. Considering the inertia and kinetic energy of fuel in a plastic tank being transported by a vehicle, environmental stress cracking is a definite potential. The flammability of fuel makes stress cracking a possible cause of catastrophic failure. Emergencies aside, HDPE plastic is suitable for short term storage of diesel and gasoline. In the U.S., Underwriters Laboratories approved (UL 142) tanks would be a minimum design consideration.
+
+== Automotive fuel tanks ==
+
+=== Passenger vehicles ===
+A larger fuel-tank results in a greater range for the car between refills, however the weight and space requirements of a larger tank are undesirable, especially in smaller cars. The average fuel tank capacity for cars is 50–60 L (12–16 US gal).
+The most common materials for fuel tanks are metal or plastic. Metal (steel or aluminium) fuel tanks are usually built by welding stamped sheetmetal parts together. Plastic fuel tanks usually built using blow molding, which allows more complex shapes to be used.
+Some vehicles include a smaller reserve tank to be used when the main fuel tank is empty. Some other vehicles, typically 4WD vehicles, have a large secondary tank (or "sub-tank") to increase the range of the vehicle.
+Automotive gas tanks are attached to a carbon canister that captures fuel vapor. The canister is attached to the tank through a rollover valve, which prevents the flow of fuel out in a car accident where the vehicle rolls over.
+
+=== Racing fuel cell ===
+
+A racing fuel cell has a rigid outer shell and flexible inner lining to minimize the potential for punctures in the event of a collision or other mishap resulting in serious damage to the vehicle.  It is filled with an open-cell foam core to prevent explosion of vapor in the empty portion of the tank and to minimize sloshing of fuel during competition that may unbalance the vehicle or cause inadequate fuel delivery to the motor (fuel starvation).
+
+=== Ship in a bottle ===
+The ship in a bottle fuel tank is a manufacturing design developed by TI Automotive in Rastatt, Germany wherein all fuel delivery components including the pump, control electronics and most hosing are encased within a blow-molded plastic fuel tank, and named after the traditional ship-in-a-bottle mechanical puzzle. The technique was developed to reduce fuel vapor emissions in response to Partial Zero-Emission Vehicle (PZEV) requirements.
+
+== Aircraft ==
+
+Aircraft typically use three types of fuel tanks: integral, rigid removable, and bladder.
+
+Integral tanks are areas inside the aircraft structure that have been sealed to allow fuel storage. An example of this type is the "wet wing" commonly used in larger aircraft. Since these tanks are part of the aircraft structure, they cannot be removed for service or inspection. Inspection panels must be provided to allow internal inspection, repair, and overall servicing of the tank. Most large transport aircraft use this system, storing fuel in the wings, belly, and sometimes tail of the airplane.
+Rigid removable tanks are installed in a compartment designed to accommodate the tank. They are typically of metal construction, and may be removed for inspection, replacement, or repair. The aircraft does not rely on the tank for structural integrity. These tanks are commonly found in smaller general aviation aircraft, such as the Cessna 172.
+Bladder tanks, or fuel cells, are reinforced rubberized bags installed in a section of aircraft structure designed to accommodate the weight of the fuel. The bladder is rolled up and installed into the compartment through the fuel filler neck or access panel, and is secured by means of metal buttons or snaps inside the compartment. Many high-performance light aircraft, helicopters and some smaller turboprops use bladder tanks. One major down-side to this type of tank is the tendency for materials to work harden through extensive use making them brittle causing cracks. One major plus side is the ability to use as much of the aircraft as possible to store fuel.
+Combat aircraft and helicopters generally use self-sealing fuel tanks.
+Fuel tanks have been implicated in aviation disasters, being the cause of the accident or worsening it (fuel tank explosion). For example:
+
+The official "probable cause" for the explosion and subsequent crash of TWA Flight 800 is that an explosive fuel/air mixture existed in one of the aircraft's fuel tanks. Faulty wiring then provided an ignition source within the tank, destroying the airliner. While the accuracy of the official findings is still questioned in this case, similar explosions have occurred in other aircraft. It is possible to reduce the chance of fuel tank explosions by a fuel tank inerting system or fire-fighting foam in the tanks.
+Burning fuel can explode or set fire to the same airplane or adjacent objects and people.  In the 1960 Munich Convair 340 crash, a transport crashed into a major street.  Burning fuel set fire to a tramcar. All 20 people aboard the plane and 32 passengers of the tram died.
+In some areas, an aircraft's fuel tank is also referred to as an aircraft fuel cell.
+
+== Water supply ==
+Water supply systems can have primary or backup power supplied by diesel-fueled generators fed by a small "day tank" and a much larger bulk storage fuel tank.
+
+== Safety ==
+
+Proper design and construction of a fuel tank play a major role in the safety of the system of which the tank is a part.  In most cases intact fuel tanks are very safe, as the tank is full of fuel vapour/air mixture that is well above the flammability limits, and thus cannot burn even if an ignition source were present (which is rare).
+Bunded oil tanks are used for safely storing domestic heating oil and other hazardous materials.  Bunding is often required by insurance companies, rather than single skinned oil storage tanks.
+Several systems, such as BattleJacket and rubber bladders, have been developed and deployed for use in protecting (from explosion caused by enemy fire) the fuel tanks of military vehicles in conflict zones.
+For stationary fuel tanks, an economical way to protect them from hazards like extremes of temperature and vehicle crashes is to bury them. However, buried tanks are difficult to monitor for leaks. This has led to concern about environmental hazards of underground storage tanks.
+Electrostatic discharges in the vicinity of a fuel tank which is being filled may cause a fire or even an explosion.  This risk can be mitigated by a vapor recovery system that reduces the concentration of flammable vapors released during refueling.  It can also be mitigated by reducing the risk of an electrostatic discharge at a refueling station.

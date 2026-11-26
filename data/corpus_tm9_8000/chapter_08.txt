@@ -1,0 +1,169 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 8
+
+CHAPTER 8 LUBRICATION SYSTEM
+
+8-1. General (Fig. 8-1). The lubrication system In an automotive engine supplies a constant supply of oil to all moving parts. This constant supply of fresh oil is important to minimize wear, flush bearing surfaces clean, and remove the localized heat that develops between moving parts as a result of friction. In addition, the oil that
+
+is supplied to the cylinder walls helps the piston rings make a good seal to reduce blowby (para3-6).
+
+8-2. Oil as a Lubricant. The primary function of engine oil is to reduce friction between moving parts (lubricate). Friction, in addition to wasting
+
+engine power, creates destructive heat and rapid wear of parts. The greater the friction present between moving parts, the greater the energy required to overcome that friction. The Increase In energy adds to the amount of heat generated, causing moving parts that are deprived of oil to melt, fuse, and seize after a very short period of engine operation. The effectiveness of a modern lubrication system makes possible the use of friction-type bearings (para 19-7) In an engine. Friction between the pistons and the cylinder walls Is severe, making effective lubrication of this area Imperative. Lubrication of the connecting rod and main bearings is crucial because of the heavy loads that are placed on them. There are many
+
+other less critical engine parts that also need a constant supply of oil, such as the camshaft, valve stems, rocker arms, and timing chains.
+
+8-3. Oil as a Coolant. Engine oil circulated throughout the engine also serves to remove heat from the friction points. The oil circulates through the engine and drains to the sump. The heat picked up by the oil while It Is circulated Is removed by an airflow around the outside of the sump. In some Instances where the sump Is not exposed to a flow of air, It Is necessary to add an oil cooling unit that transfers the heat from the oil to the engine cooling system.
+
+8-4. General. Mineral oil Is used in most internal combustion engines. Engine oils generally are classified according to their performance qualilties and their thickness.
+
+a. How Oil Lubricates (Fig. 8-2).
+
+(1) Every moving part of the engine is designed to have a specific clearance between it and its bearing. As oil is fed to the bearing it forms a film, preventing the rotating part from actually touching the bearing.
+
+(2) As the part rotates, the film of oil acts as a series of rollers. Because the moving parts do not actually touch each other, friction Is reduced greatly.
+
+(3) It is Important that sufficient clearance be allowed between the part and the bearing. Otherwise the film might be too thin. This would allow contact between the parts, causing the bearing to wear or burn up.
+
+(4) It also is Important that the clearance not be too large between rotating parts and their bearings. This Is true particularly with heavily loaded bearings like those found on the connecting rods. The heavy loads could then cause the oil film to be squeezed out, resulting In bearing failure.
+
+b. Oil Contamination (Fig. 8-3). Oil does not wear out but it does become contaminated. When foreign matter enters through the air Intake, some of it will pass by the piston rings and enter the
+
+crankcase. This dirt, combined with foreign matter entering through the crankcase breather pipe, mixes with the oil, and when forced into the bearings, greatly accelerates wear. Water, one of the products of combustion, will seep by the piston rings as steam and condense In the crankcase. The water In the crankcase then will emulsify with the oil to form a thick sludge. Products of fuel combustion will mix with the oil as they enter the crankcase through blowby (para 3-6). The oil, when mixed with the contaminants, loses its lubricating qualities and becomes acidic. Engine oil must be changed periodically to prevent contaminated oil from allowing excessive wear and causing etching of bearings. Oil contamination is controlled In the following ways.
+
+(1) Control engine temperature; a hotter running engine burns its fuel more completely and evaporates the water produced within it before any appreciable oil contamination occurs.
+
+(2) The use of oil filters removes particulate matter from the oil before it reaches the bearings, minimizing wear.
+
+(3) An adequate crankcase ventilation system will purge the crankcase of blowby fumes effectively before a large amount of contaminants can mix with the oil.
+
+(4) The use of air intake filters trap foreign material and keep it from entering the engine.
+
+c. Oil Dilution (Fig. 8-3). Engine oil thins out when mixed with gasoline, causing a dramatic
+
+drop In its lubricating qualities. Some of the causes of oil dilution are the following.
+
+(1) Excessive use of a hand choke causes an overrich mixture and an abundance of unburned fuel to leak past the piston rings Into the crankcase. The same condition can occur on vehicles equipped with an Improperly adjusted or malfunctioning automatic choke system.
+
+(2) A vehicle with a defective ignition system can cause oil dilution due to misfiring spark plugs. Whenever a spark plug misfires, the balance of the unburned fuel will be forced into the exhaust system but a small portion of it also will pass the rings and enter the crankcase.
+
+(3) An engine with a malfunctioning ther-
+
+mostat (para 9-9) or an engine that Is operated for short durations only will never reach a sufficient temperature to burn the fuel completely. A small amount of oil dilution occurs in all engines from initial startup through warmup. When the engine reaches its operational range (180°F (82.2°C) to 200°F (93.3°C)), however, this condition is corrected as the excess gasoline vaporizes In the crankcase and is carried off by the crankcase ventilation system. 8-5. American Petroleum Institute (API) Rating System.
+
+a. General. The API system for rating oil classifies oil according to its performance characteristics. The higher rated oils contain additives that provide maximum protection against
+
+rust, corrosion, wear, oil oxidation, and thickening at high temperatures. There are currently six oil classifications for gasoline engines (SA, SB, SC, SD, SE, and SF) and four classifications for diesel engines (CA, CB, CC, and CD). The higher the alpha designation, the higher quality the oil is.
+
+b. API Designations.
+
+(1) SA (Utility Gasoline Engines). Adequate for utility engines subjected to light loads, moderate speeds, and clean conditions. SA-rated oils generally contain no additives.
+
+(2) SB (Minimum Duty Gas - Automotive). Adequate for automotive use under favorable conditions (light loads, low speeds, and moderate temperatures) with relatively short oil change intervals. SB-rated oils generally offer minimal
+
+protection to the engine against bearing scuffing, corrosion, and oil oxidation.
+
+(3) SC. Meets all automotive manufacturers’ requirements for vehicles manufactured from 1964 to 1967
+
+(4) SD. Meets all automotive manufacturers’ requirements for vehicles manufactured from 1968 to 1970. SD oil offers additional protection over SC oils that is necessary with the introduction of emission controls.
+
+(5) SE. Meets all automotive manufacturers’ requirements for vehicles manufactured from 1971 to 1979. Stricter emission requirements create the need for this oil to provide protection during these years.
+
+(6) SF. Meets all automotive manufacturers’ requirements for vehicles manufactured
+
+after 1980. The SF oil is designed to meet the demands of the small, high-revving engines that are popular due to the trend toward downsizing of vehicles. An SF oil can be used In all automotive vehicles. API service ratings have related military specifications designations.
+
+(7) CA. Meets all automotive manufacture’s requirements for gasoline and naturally aspirated diesel engines operated on low sulfur fuel. Widely used during the 1940’s and 1950’s.
+
+(8) CB. Meets all automotive manufacture’s requirements for gasoline and naturally aspirated diesel engines operated on high sulfur fuel, introduced in 1949.
+
+(9) CC. Meets all automotive manufacture’s requirements for lightly supercharged diesel and heavy duty gasoline engines, introduced in 1961.
+
+(10) CD. Meets all automotive manufacture’s requirements for moderately supercharged diesel engines, introduced in 1955.
+
+8-6. VISCOSITY AND VISCOSITY MEASUREMENTS.
+
+a. General. The viscoity of an oil refers to its resistance to flow. When oil is hot, it will flow more rapidly than when it is cold. In cold weather, therefore, oil should be thin (low viscosity) to permit to retain its film strength. The ambient temperature in which a vehicle operates determines feather an engine oil of high or low viscosity should be used. If, for example, too thin an oil were used in hot weather, consumption would be high because It would leak past the piston rings easily. The lubricating film would not be heavy enough to
+
+take up bearing clearances or prevent bearing scuffing. In cold weather, heavy oil would not give adequate lubrication because its flow would be sluggish; some parts might not receive oil at all.
+
+b. Viscosity Measurement. Oils are graded according to their viscosity by a series Society of Automotive Engineers (SAE) numbers. The viscosity of the oil will increase progressively with the SEA number. An SAE 4 oil would be very light (low viscosity) and SAE 90 oil would be very heavy (viscosity). The viscosity of the oil used in gasoline engines generally ranges from SAE 5 (arctic use) to SAE 60 (desert use). It should be noted that the SAE number of the oil has nothing to do with the quality of the oil. The viscoity number of the oil is determined by heating the oil to a predetermined temperature and allowing it to flow through a precisely sized orifice while measuring the rate of flow. The faster an oil flows, the lower the viscosity. The testing device is called a viscosimeter. Any oil that meets SAE low temperature requirements will be followed by the letter W. An example would be SAE 10W.
+
+8-7. Multiweight Oils. Multiweight oils are manufactured to be used In most climates because they meet the requirements of a light oil in cold temperatures and of a heavy oil in hot temperatures. Their viscosity rating will contain two numbers.
+
+An example of this would be 10W-30. An oil with a viscosity rating of 10W-30 would be as thin as a 10W- weight oil at 0 f(-17.7 c).
+
+8-8. Detergent Oils. Detergent oils contain additives that help keep the engine clean by preventing the formation of sludge and gum. All SE and SF oils are detergent oils.
+
+8-9. General. Oil pumps are mounted either inside or outside of the crankcase, depending on the design of the engine. They usually are mounted so that they can be driven by a worm or spiral gear directly from the camshaft. Oil pumps generally are of the gear or the rotor type.
+
+8-10. Rotor-Type Oil Pump (Fig. 8-4). Refer to paragraph 5-21 for the operation of a gear-type oil pump.
+
+8-11. Gear-Type Oil Pump (Fig. 8-5). Refer to paragraph 5-23 for the operation of a gear-type oil pump.
+
+8-12. Oil Strainer and Pickup (Fig. 8-6). Most manufacture of in-line and V-type engines place at least one oil strainer or screen in the lubrication system. The screen usually Is a fine mesh bronze screen that is located in the oil pump on the end of
+
+the oil pickup tube. The oil pickup tube then is threaded directly into the pump inlet or may attach to the pump by a bolted flange. A fixed-type strainer, like the one described, is located so that a constant supply of oil will be assured. Some automotive engines use a pickup that is hinged from the oil pump. The pickup is designed to float on top of the oil, thus preventing sediment from being drawn into the oiling system.
+
+8-13. Oil Filters.
+
+a. General (Fig. 8-7). The oil filter removes most of the Impurities that have been picked up by the oil as it is circulated through the engine.
+
+Change 1 8-6.1(8-6.2 Blank)
+
+filter is mounted outside of the engine and is designed to be replaceable readily.
+
+b. Filter Configurations (Fig. 8-7). There are two basic filter element configurations: the cartridge type and the sealed can type.
+
+(1) The cartridge-type filter element fits into a permanent metal container. Oil is pumped under pressure into the container, where it passes from the outside of the filter element to the center. From here the oil exits the container. The element is changed easily by removing the cover from the container when this type of filter is used.
+
+(2) The sealed can-type filter element is completely self-contained, consisting of an integral metal container and filter element. Oil is pumped into the container on the outside of the filter element. The oil then passes through the filter medium to the center of the element, where it exits the container. This type of filter is screwed onto its base and Is removed by spinning it off.
+
+c. Filter Medium Materials (Fig. 8-8).
+
+(1) Cotton waste or resin-treated paper are
+
+the two most popular automotive filter mediums. They are held in place by sandwiching them between two perforated metal sheets.
+
+(2) Some heavy-duty applications use layers of metal that are thinly spaced apart. Foreign matter is strained out as the oil passes between the metal layers.
+
+d. Filter System Configurations. There are two filter system configurations. These are the full-flow system and the bypass system. Operation of each system is as follows:
+
+(1) The full-flow system (A, fig. 8-9) is the most popular in current automotive design. All oil in a full-flow system is circulated through the filter before it reaches the engine. When a full-flow system is used, it is necessary to incorporate a bypass valve In the oil filter to allow the oil to circulate through the system without passing through the element in the event that it becomes clogged. This will prevent the oil supply from being cut off to the engine.
+
+(2) The bypass system (B. fig. 8-9) diverts only a small quantity of the oil each time it is
+
+circulated and returns It directly to the oil pan after It Is filtered. This type of system does not filter the oil before it is sent to the engine.
+
+8-14. Oil Coolers.
+
+a. Purpose. Some automotive configurations do not allow sufficient airflow around the crankcase to allow the oil to dissipate heat. Engines In heavy duty and desert use must be able to dissipate more heat from their oil than normal airflow Is able to. An oil cooler Is installed In all of these cases.
+
+b. Oil Temperature Regulator (Flg. 8-10). The oil temperature regulator Is used to prevent the oil temperature from rising too high In hot weather and to assist In raising the temperature during cold starts In winter weather. The regulator makes use of the liquid In the cooling system. It provides a more positive means of controlling oil temperature than does cooling by radiation of heat from the oil pan wells. The regulator unit is made up of a core and a housing. The core through which the oil circulates Is of cellular or bellows construction, and Is built to expose as much oil as possible to the coolant that circulates
+
+through the housing. The regulator is attached to the engine so that the oil will flow through the regulator after passing through the pump. The oil leaves the regulator either heated or cooled, depending on the temperature of the coolant, and then Is circulated through the engine.
+
+c. Oil Cooler (Fig. 8-11). The types of oil coolers used with combat vehicles consist of a radiator through which air Is circulated by movement of the vehicle, or by a cooling fan. Oil from the engine Is circulated through this radiator and back to the sump or supply tank. The radiator will act to cool the oil only In this system. It will not heat oil in a cold engine.
+
+8-15. Oil Level Indicator (Fig. 8.12). The oil level Indicator Is usually a bayonet type. It
+
+consists of a small rod, known as a dipstick, that extends through a tube into the crankcase. It is marked to show when the crankcase Is full or, if it is low, how much oil is needed. Readings are taken by pulling the dipstick out and noting how high the level is on it.
+
+8-16. Pressure Regulator (Fig. 8-13). The oil pump will produce pressures In great excess to those necessary. This excess pressure, If uncontrolled, would cause excess oil consumption due to flooded cylinder walls and leakage through oil seals. A spring-loaded regulator valve is Installed In the lubrication system to control pump pressure. The valve will open as the pressure reaches the value that Is determined by the spring, causing excess oil to be diverted back to the crankcase.
+
+8-17. Splash System (Fig. 8-14). The splash lubrication system no longer is used in automotive engines, though it is used in small equipment engines. In a splash lubrication system, dippers on the connecting rods enter the oil in the crankcase with each crankshaft revolution, thus splashing the oil. As the oil is thrown upward, it finds its way into the various engine parts. A passage Is drilled In each connecting rod from the dipper to the bearing to ensure lubrication. This system Is too uncertain for modern automotive applications. One reason is that the level of oil in
+
+the crankcase will vary greatly the amount of lubrication received by the engine; a high level results in excess lubrication and oil consumption and a slightly low level results In inadequate lubrication.
+
+8-18. Combination Splash and Force-Feed System (Fig. 8-15). In the combination system, oil is delivered to some parts by means of splash and to other parts through oil passages, under pressure from a pump In the crankcase. The main and the camshaft bearings are usually the items that are force fed while the connecting rods are fitted with dippers that supply oil to the rest of the engine by splash. Some configurations utilize small troughs under each connecting rod that are kept full by small nozzles that deliver oil under pressure from the oil pump. These cil nozzles deliver an increasingly heavy stream as speed increases. At very high speeds these oil streams are powerful enough to strike the dippers directly. This causes a much heavier splash so that adequate lubrication of the pistons and the connecting rod bearings is provided at higher speeds. If a combination system is used on an overhead valve engine, the upper valve train is lubricated by pressure from the oil pump.
+
+8-19. Force-Feed Lubrication System (Fig. 8-16). A somewhat more complete pressurization of lubrication is achieved in the force-feed lubrication system. Oil is forced by the oil pump
+
+from the crankcase to the main bearings and the camshaft bearings. Unlike the combination system (para 8-18) the connecting rod bearings are also fed oil under pressure from the pump. Oil passages are drilled in the crankshaft in order to lead oil to the connecting rod bearings. The passages deliver oil from the main bearing
+
+journals to the rod bearing journals. In some engines, these openings are holes that index (line up) once for every crankshaft revolution. In other engines, there are annular grooves in the main bearings through which oil can feed constantly into the hole in the crankshaft. The pressurized oil that lubricates the connecting rod bearings goes
+
+on to lubricate the pistons and walls by squirting out through strategically drilled holes. This lubrication system is used in virtually all engines that are equipped with semifloating piston pins (para3-7).
+
+8-20. Full Force-Feed Lubrication System (Fig. 8-17). In the full force-feed lubrication system, all of the bearings mentioned In paragraph 8-18 are lubricated by oil under pressure. This includes main bearings, rod bearings, camshaft bearings, and the complete valve
+
+mechanism. In addition, the full force-feed lubrication system provides lubrication under pressure to the pistons and the piston pins. This is accomplished by holes drilled the length of the connecting rod, creating an oil passage from the connecting rod bearing to the piston pin bearing. This passage not only feeds the piston pin bearings, but also provides lubrication for the pistons and cylinder walls. This lubrication system is used in virtually all current automotive engines that are equipped with full- floating piston pins (para 3-7).

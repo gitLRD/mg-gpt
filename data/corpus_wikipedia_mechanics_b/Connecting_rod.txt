@@ -1,0 +1,47 @@
+Connecting rod
+
+A connecting rod, also called a 'con rod', is the part of a piston engine which connects the piston to the crankshaft. Together with the crank, the connecting rod converts the reciprocating motion of the piston into the rotation of the crankshaft. The connecting rod is required to transmit the compressive and tensile forces from the piston. In its most common form, in an internal combustion engine, it  allows pivoting on the piston end and rotation on the shaft end.
+The predecessor to the connecting rod is a mechanic linkage used by water mills to convert rotating motion of the water wheel into reciprocating motion.
+The most common usage of connecting rods is in internal combustion engines or on steam engines.
+
+== Origins ==
+
+A connecting rod crank has been found in the Celtic Oppida at Paule in Brittany, dated to 69 BC.
+The predecessor to the connecting length is the mechanical linkage used by Roman-era watermills. An early example of this linkage has been found at the late 3rd century Hierapolis sawmill in Roman Asia (modern Turkey) and the 6th century saw mills at Ephesus in Asia Minor (modern Turkey) and at Gerasa in Roman Syria. The crank and connecting rod mechanism of these machines converted the rotary motion of the waterwheel into the linear movement of the saw blades.
+An early documentation of the design occurred sometime between 1174 and 1206 AD in the Artuqid State (modern Turkey), when inventor Al-Jazari described a machine which incorporated the connecting rod with a crankshaft to pump water as part of a water-raising machine, though the device was more complex than typical crank and connecting rod designs. There is also documentation of cranks with connecting rods in the sketch books of Taccola from Renaissance Italy and 15th century painter Pisanello.
+
+== Steam engines ==
+
+The 1712 Newcomen atmospheric engine (the first steam engine) used chain drive instead of a connecting rod, since the piston only produced force in one direction. However, most steam engines after this are double-acting, therefore the force is produced in both directions, leading to the use of a connecting rod. The typical arrangement uses a large sliding bearing block called a crosshead with the hinge between the piston and connecting rod placed outside the cylinder, requiring a seal around the piston rod.
+In a steam locomotive, the cranks are usually mounted directly on the driving wheels. The connecting rod is used between the crank pin on the wheel and the crosshead (where it connects to the piston rod). On smaller steam locomotives, the connecting rods are usually of rectangular cross-section; however, marine-type rods of circular cross-section have occasionally been used.
+On paddle steamers, the connecting rods are called 'pitmans' (not to be mistaken for pitman arms).
+
+== Internal combustion engines ==
+
+A connecting rod for an internal combustion engine consists of the 'big end', 'rod' and 'small end'. The small end attaches to the gudgeon pin (also called 'piston pin' or 'wrist pin' in the U.S.), which allows for rotation between the connecting rod and the piston. Typically, the big end connects to the crankpin using a plain bearing to reduce friction; however, some smaller engines may instead use a rolling-element bearing, in order to avoid the need for a pumped lubrication system. Connecting rods with rolling element bearings are typically a one-piece design where the crankshaft must be pressed together through them, rather than a two-piece design that can be bolted around the journal of a one-piece crankshaft.
+Typically there is a pinhole bored through the bearing on the big end of the connecting rod so that lubricating oil squirts out onto the thrust side of the cylinder wall to lubricate the travel of the pistons and piston rings.
+A connecting rod can rotate at both ends, so that the angle between the connecting rod and the piston can change as the rod moves up and down and rotates around the crankshaft.
+
+=== Materials ===
+The materials used for connecting rods widely vary, including carbon steel, iron base sintered metal, alloy steel and spheroidized graphite cast iron. In mass-produced automotive engines, the connecting rods are most usually made of steel. Other possible materials include aluminum and titanium alloys. In high performance applications, "billet" connecting rods can be used, which are machined out of a solid billet of metal, rather than being cast or forged.
+
+=== Failure during operation ===
+
+During each rotation of the crankshaft, a connecting rod is often subject to large and repetitive forces: shear forces due to the angle between the piston and the crankpin, compression forces as the piston moves downwards, and tensile forces as the piston moves upwards. These forces are proportional to the engine speed (RPM) squared.
+Failure of a connecting rod, often called "throwing a rod", often forces the broken rod through the side of the crankcase and thereby renders the engine irreparable. Common causes of connecting rod failure are tensile failure from high engine speeds, the impact force when the piston hits a valve (due to a valvetrain problem), rod bearing failure (usually due to a lubrication problem), or incorrect installation of the connecting rod.
+
+=== Cylinder wear ===
+The sideways force exerted on the piston through the connecting rod by the crankshaft can cause the cylinders to wear into an oval shape. This significantly reduces engine performance, since the circular piston rings are unable to properly seal against the oval-shaped cylinder walls.
+The amount of sideways force is proportional to the angle of the connecting rod, therefore longer connecting rods will reduce the amount of sideways force and engine wear. However, the maximum length of a connecting rod is constrained by the engine block size; the stroke length plus the connecting rod length must not result in the piston travelling past the top of the engine block.
+
+=== Master-and-slave rods ===
+
+Radial engines typically use master-and-slave connecting rods, whereby one piston (the uppermost piston in the animation), has a master rod with a direct attachment to the crankshaft. The remaining pistons pin their connecting rods' attachments to rings around the edge of the master rod.
+Multi-bank engines with many cylinders, such as V12 engines, have little space available for many connecting rod journals on a limited length of crankshaft. The simplest solution, as used in most road car engines, is for each pair of cylinders to share a crank journal, but this reduces the size of the rod bearings and means that matching (i.e. opposite) cylinders in the different banks are slightly offset along the crankshaft axis (which creates a rocking couple). Another solution is to use master-and-slave connecting rods, where the master rod also includes one or more ring pins which are connected to the big ends of slave rods on other cylinders. A drawback of master–slave rods is that the stroke lengths of all slave pistons not located 180° from the master piston will always be slightly longer than that of the master piston, which increases vibration in V engines.
+One of the most complicated examples of master-and-slave connecting rods is the 24-cylinder Junkers Jumo 222 experimental airplane engine developed for World War II. This engine consisted of six banks of cylinders, each with four cylinders per bank. Each "layer" of six cylinders used one master connecting rod, with the other five cylinders using slave rods. Approximately 300 test engines were built, but the engine did not reach production.
+
+=== Fork-and-blade rods ===
+
+Fork-and-blade rods, also known as "split big-end rods", have been used on V-twin motorcycle engines and V12 aircraft engines. For each pair of cylinders, a "fork" rod is split in two at the big end and the "blade" rod from the opposing cylinder is thinned to fit into this gap in the fork. This arrangement removes the rocking couple that is caused when cylinder pairs are offset along the crankshaft.
+A common arrangement for the big-end bearing is for the fork rod to have a single wide bearing sleeve that spans the whole width of the rod, including the central gap. The blade rod then runs, not directly on the crankpin, but on the outside of this sleeve. This causes the two rods to oscillate back and forth (instead of rotating relative to each other), which reduces the forces on the bearing and the surface speed. However, the bearing movement also becomes reciprocating rather than continuously rotating, which is a more difficult problem for lubrication.
+Notable engines to use fork-and-blade rods include the Rolls-Royce Merlin V12 aircraft engine, EMD two-stroke Diesel engines, and various Harley Davidson V-twin motorcycle engines.

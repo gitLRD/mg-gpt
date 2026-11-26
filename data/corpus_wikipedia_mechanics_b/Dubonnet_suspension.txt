@@ -1,0 +1,11 @@
+Dubonnet suspension
+
+Dubonnet suspension was a system of leading arm independent front suspension and steering popular mainly in the 1930s and 1940s. Not very durable unless exactingly maintained, it was soon replaced by other designs. 
+
+== Description ==
+It consisted of a rigidly mounted axle beam from which the sprung steering and suspension arms pivoted around kingpins mounted on the ends of the axle. The wheels themselves were mounted onto stub axles, suspended by self-contained suspension units outboard of the kingpins. The system featured an encased coil spring and shock absorber, which sealed in the oil needed to lubricate and protect the suspension parts. This was also the weakness of the layout, as any leaks would have negative effects on ride and durability.
+
+One advantage for a comfortable ride was the reduction in unsprung weight, as the kingpins and steering gear were inboard of the suspension, and not thus counted as sprung mass. This in turn led to 'synchronous' behaviour in many cars with this suspension, where the natural frequency of the front wheel suspension, unusually for the time, matched that of the rear suspension and their solid driving axle. The mass of the driving axle was greater but with the softer springs of the lightweight front suspension, their frequencies became comparable. This was a feature of Opel patents and advertising in the 1930s.
+
+The system was invented by French engineer and designer André Dubonnet (heir to the Dubonnet vermouth fortune), and built into his Hispano-Suiza based special of 1933. He sold it to General Motors, which adapted it as their "Knee-action ride", but the system was also used by many others including Fiat, Alfa Romeo, Simca, and, possibly in its last incarnation, the 1953 Iso Isetta which carried forward to the 1955 BMW Isetta, the 1957 BMW 600 and the 1959 BMW 700.
+The General Motors connection led to one of the suspension's most numerous uses, with a return to Europe for the pre-war Vauxhall Twelve and Vauxhall Fourteen from 1935 to 1938. The post-war Vauxhall Velox of 1949 reintroduced a similar leading arm suspension which is widely described as 'Dubonnet' suspension. However this suspension used torsion bars rather than coil springs and so Vauxhall themselves denied that this was the 'true' Dubonnet.

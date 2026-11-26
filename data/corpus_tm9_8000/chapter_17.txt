@@ -1,0 +1,335 @@
+TM 9-8000 Principles of Automotive Vehicles, chapter 17
+
+INSTRUMENTS, GAGES, AND ACCESSORIES
+
+Section I. INSTRUMENT PANEL
+
+17-1. Purpose (Fig. 17-1). The instrument panel usually is placed so that the Instruments may be read easily by the driver. They inform the driver of the approximate speed, engine temperature, oil pressure, rate of charge or discharge of the battery, amount of fuel in the fuel tank, distance traveled, and the time. Certain controls frequently are mounted on the Instrument board, such as the throttle, choke, starter, heater, and windshield wiper.
+
+17-2. Battery Condition Gages. One of the Instruments that almost always Is included on an Instrument panel is a battery condition gage. It is a very Important indicator because, if interpreted properly, it can be used to troubleshoot or prevent breakdowns. The following are the three basic configurations of battery condition gages.
+
+a. Ammeter (Fig. 17-2). The ammeter is used to indicate the amount of current flowing to and from the battery. It does not give an indication of total generator output because other units in the electrical system, besides the battery, are sup- plied by the generator. If it shows a 10-ampere discharge, it indicates that a 100 ampere-hour battery would be discharged in 10 hours; that is, 10 amperes flowing for 10 hours. Current flowing from the storage battery to the starting motor is never sent through the ammeter, because the great quantities used (200 to 600 amperes) cannot be measured on an instrument of such limited capacity. In the typical ammeter, all the current flowing to and from the battery, except for starting, actually is sent through a coil to produce
+
+a magnetic effect that deflects the ammeter needle in proportion to the amount of current. This coil is matched to the maximum current output of the generator and this varies with different applications. Some model wheeled vehicles have replaced the ammeter with a battery generator indicator that does not give a calibrated reading, but shows ranges by colors or bands. ‘
+
+b. Voltmeter (Fig. 17-3). Voltmeters are gaining popularity as an Instrument panel battery condition Indicator. This is because the electrical system voltage is a more accurate indication of the condition of the electrical system than the amperage and is easier to interpret by the operator. During vehicle operation, the voltage indicated on the voltmeter is considered to be normal in a range of 13.2 to 14.5 volts for a 12-volt electrical system. As long as the system voltage remains in this range, the operator can assume that no problem exists. This contrasts with an ammeter, which gives the operator no Indication of problems such as an improperly calibrated voltage regulator, which could allow the battery to be drained by regulating system voltage to a level that is below normal.
+
+c. Indicator Lamp. The indicator lamp has gained increasing popularity as an electrical system condition gage over the years. Although it does not provide as detailed an analysis of electrical system condition as a gage, it usually is considered more useful to the average vehicle operator. This Is because it is highly visible when a malfunction occurs, whereas a gage usually Is
+
+ignored because the average vehicle operator does not know how to Interpret its readings. The Indicator lamp can be utilized in two different ways to indicate an electrical system malfunction.
+
+(1) Low-Voltage Warning (Fig. 17-4). The indicator lamp can be set up to warn the operator whenever the electrical system voltage has dropped below the normal operational range. The lamp is operated by a calibrated relay that opens the circuit to it whenever electrical system voltage is in the normal range (13.2 to 14.5 volts for a 12-volt system). Whenever the voltage falls below the normal range, the magnetic field becomes insufficient to overcome the force of the relay spring, which pulls the contact points closed. This closes the circuit to the indicator lamp.
+
+(2) No-Charge Indicator (Fig. 17-5). The indicator lamp also can be set up to indicate whenever the alternator is not producing current. The circuitry that operates a no-charge indicator lamp usually is incorporated in the voltage regulator. The voltage regulator that is used on a vehicle equipped with a no- charge indicator lamp contains a second element called a field relay. The field relay has two contact points. One contact point is connected to battery voltage through the ignition switch. The other point also is connected the same way, except for the inclusion of a series-parallel arrangement of the no- charge indicator light and a resistor. The resistor value Is matched with the resistance of the indicator lamp so that their parallel arrangement will produce a zero-voltage drop. When the field relay Is open, alternator field current is supplied through the resistor-indicator light combination. The magnetic coil of the field relay is energized
+
+directly from the alternator stator through the stator terminal. When the ignition switch is closed, before the engine is started, current flows through the resistor and the indicator lamp to the alternator field, causing the indicator lamp to light. After the engine is started, the alternator begins to produce current, energizing the field relay coil from the stator. The relay coil pulls the relay points closed, shunting the alternator field directly to the battery. This results in a zero potential across the indicator lamp, causing it to go out.
+
+17-3. Fuel Gages. Most fuel gages are operated electrically and are composed of two units: the gage, mounted on the instrument panel; and the sending unit, mounted on the fuel tank. The ignition switch is included in the fuel gage circuit so that the electrical fuel gage operates only when the ignition switch is on. Operation of the electrical gage depends on either coil action or thermostatic action.
+
+a. Thermostatic Fuel Gage: Self-Regulating (Fig. 17- 6). This gage configuration consists of an instrument panel gage and an electromechanical sending unit that is located inside of the fuel tank. The instrument panel gage contains an electrically heated bimetallic strip that is linked to a pointer. A bimetallic strip consists of two dissimilar metals that, when heated, expand at different rates, causing it to deflect or bend. In the case of the instrument panel fuel gage, the deflection of the bimetallic strip will result in the movement of the pointer, causing the gage to give
+
+a reading. The sending unit consists of a hinged arm with a float on the end of it. The movement of the arm controls a grounded point that makes contact with another point that is attached to an electrically heated bimetallic strip. The heating coils in the tank unit and the gage are connected to each other in series. Operation is as follows.
+
+(1) When the fuel tank is empty, the float lays on the bottom. In this position, the arm- operated cam exerts no pressure on the grounded contact. When the Ignition is switched on, current flows from the ground, through the heating coil in the sending unit, through the heating coil in the instrument panel gage, and to the battery. The heating of the bimetallic strip in the sending unit causes it to deflect, opening the contact points. The opening of the points will allow the bimetallic strip to cool and return to its original position, again closing the points. The cycle of opening and closing the points will continue, supplying current pulses to the heating element in the fuel gage. The length of the pulses from the sending unit when the tank is empty will only heat the gage bimetallic strip enough to cause deflection that will move the pointer to the empty position on the gage face.
+
+(2) When the fuel tank contains fuel, the float will raise the arm, causing the cam to push the grounded contact tighter against the bimetallic strip contact. This will cause an increase in the amount of heat required to open the contact points in the sending unit. The result will be longer current pulses to the instrument panel gage, causing higher gage readings. The gage reading will increase proportionally with the float level in the fuel tank.
+
+(3) The tank unit will compensate for variations in electrical system voltage automatically. High voltage will increase heating, causing the points to cycle faster and if the voltage is lower, heating will decrease, causing slower point cycling.
+
+(4) Because the gage pointer is moved by the heating and cooling of the bimetallic strip, the gage reading will not react to sudden fuel level changes caused by fuel sloshing. This will prevent erratic operation.
+
+b. Thermostatic Fuel Gage: Externally Regulated (Fig. 17-7). The externally regulated thermostatic fuel gage uses an Instrument panel
+
+gage whose operation is the same as the gage used with the self-regulating system described ir paragraph 17-3a. The differences in the system are the use of a variable resistance fuel tank sending unit and an external voltage- limiting device. The sending unit controls the gage through the use of a rheostat. A rheostat is a wire wound resistance unit whose value varies with it’ effective length. The effective length of the rheostat is controlled in the sending unit by sliding brush that is operated by the float arm. The power supply to the gage is kept constant through the use of a voltage limiter. The voltage limiter consists of a set of contact points that arc controlled by an electrically heated bimetallic arm.
+
+(1) When the fuel tank is empty, the float lays on the bottom. The float arm will position the contact brush so that the full length of the rheostat resistor will be utilized. The resulting high resistance will drop voltage to the gage sufficiently so that the pointer will rise only to empty.
+
+(2) As the fuel level rises in the tank, the float will raise the float arm, which, in turn, will move the contact brush on the rheostat resistor. As the float arm moves upward, the resistance will decrease proportionally, resulting in a proportional voltage increase to the gage. The gage readings will increase proportionally, resulting in accurate readings of the fuel level in the tank.
+
+(3) The voltage limiter effectively will en- sure a constant supply of current regulated to the equivalent of 5 volts, to provide accurate gage readings regardless of electrical system voltage variations.
+
+c. Thermostatic Fuel Gage: Differential Type (Fig. 17-8). The differential-type fuel gage system uses an instrument panel gage whose operating principles are much the same as the thermostatic gage described In paragraph 17-3a. The differential-type thermostatic gage, however, uses two electrically heated bimetallic strips that share equally in operating and support- ing the gage pointer. The pointer position is obtained by dividing the available voltage between the two strips (differential). The tank unit is a rheostat type whose operating principles are much the same as the tank unit described in paragraph 17-3b. The tank unit in this system, however, contains a wire-wound resistor that is connected between two external terminals. Each one of the external terminals connects to one of the instrument panel gage bimetallic strips. The float arm moves a grounded brush that raises resistance progressively to one terminal, while lowering the resistance to the other. This causes the voltage division and resulting heat differential to the gage strips that formulate the gage readings. Two additional bimetallic strips are provid- ed for temperature compensation. In addition, one of these blades operates contact points to limit voltage to approximately 5 volts.
+
+(1) When the tank is half full, the float arm positions the contact brush midway of the rheostat. This causes equal resistance values to each sending unit circuit, resulting in equal heating of the gage bimetallic strips, causing the gage to read one-half.
+
+(2) Fuel levels above or below half will cause the tank unit to divide the voltage to the gage bimetallic strips in the correct proportions to
+
+create correct gage readings. An example would be a one-quarter full fuel tank. At this level, the tank unit would divide the voltage so that 75 percent of the current would flow through the right-side strip and 25 percent would flow through the left-side strip. This would produce a one- quarter gage reading.
+
+d. Magnetic Fuel Gage (Fig. 17-9). The basic instrument panel gage consists of a pointer that is mounted on an armature. Depending on the gage design, the armature may contain either one or two poles. The gage is motivated by a magnetic field that is created by two separate magnetic coils that are contained within the gage. One of these coils is connected directly to the battery, producing a constant magnetic field. The other coil produces a variable field whose strength is determined by a rheostat-type tank unit whose operation is the same as the one described in paragraph 17-3b. The coils usually are placed 90 degrees apart.
+
+(1) When the tank is empty, the tank unit creates a very high resistance. This causes the variable magnetic coil to produce almost no magnetic field. Therefore the armature poles on the gage pointer will be attracted to the constant magnetic coil. The pointer will point to empty when the armature is in this position.
+
+(2) When the tank is full, the tank unit will create no resistance. Therefore, the armature
+
+poles on the gage pointer will be positioned midway between the coils. When the armature is in this position, the pointer will indicate a full reading.
+
+(3) Variations in electrical system voltage will affect both magnetic coils equally and, therefore, will not upset the differential created between them. Because of this, the magnetic gage is self-regulating and requires no voltage- limiting devices.
+
+(4) The magnetic gage is very sensitive to road shock and sudden changes in voltage such as those caused by the fuel sloshing in the tank. Because of this, the armature of the instrument panel gage will be fitted with a damping device or a flywheel.
+
+17-4. Pressure Gages.
+
+a. Usage. Pressure gages are used widely in automotive applications to keep track of things such as engine oil pressure, fuel line pressure, air brake system pressure, and the pressures of the hydraulic systems in special purpose vehicles. Depending on the equipment, a mechanical or an electric pressure gage may be utilized.
+
+b. Electric Gage (Fig. 17-10). The instrument panel gage may be of the thermostatic type described in paragraph 17-3a, or of the magnetic type described in paragraph 17-3d. The sending
+
+unit that Is used with each gage type varies as follows:
+
+(1) The sending unit that Is used with the thermostatic gage utilizes a flexible diaphragm that moves a grounded contact. The contact that mates with the grounded contact Is attached to a heated bimetallic strip. The flexing of the diaphragm, which Is done with pressure changes, varies the point tension. The different positions of the diaphragm produce gage readings In the same manner as the different positions of the float arm of the tank sender In paragraph 17-3a.
+
+(2) The sending unit that Is used with the magnetic-type gage also translates pressure Into the flexing of a diaphragm. In the case of the magnetic gage sending unit however, the diaphragm operates a rheostat. The flexing of the diaphragm In the pressure sender produces the same results as does the movement of the float arm In the tank sender described In paragraph 17-3d. This type of sender also can be used with a thermostatic-type gage If a voltage-limiting de- vice like the one used In paragraph 17-3b also Is used.
+
+c. Mechanical Gages (Flg. 17-11). The mechanical pressure gage uses a thin tube to carry an actual pressure sample directly to the gage. The gage basically consists of a hollow, flexible C-shaped tube called a bourden tube. As fluid or air pressure Is applied to the bourden
+
+tube, it will tend to straighten out. As it straightens, the attached gage pointer will move, giving a reading
+
+d. Indicator Lamp (Fig. 17-12). The oil pressure warning light Is used In place of a gage on many vehicles. The warning light, although not an accurate indicator, Is valuable because of Its high visibility in the event of a low oil pressure condition. Because an engine can fail or be damaged permanently in less than a minute of operation without oil pressure, the warning light often Is used as a backup for a gage to attract Instant attention to a malfunction. The warning light receives battery power through the ignition switch. The circuit to ground is completed through the engine sender switch. The sender switch consists of a pressure-sensitive diaphragm that operates a set of contact points. The contact points are calibrated to turn on the warning light whenever the engine oil pressure drops below approximately 15 psi (103.4 kPa), depending on the equipment.
+
+17-5. Temperature Gages(Fig. 17-13).
+
+a. Usage. The temperature gage Is a very Important indicator In automotive equipment. The most common use Is to Indicate engine, transmission, and differential oil temperatures and engine coolant temperatures. Depending on the type of equipment, the gage may be electric or mechanical. TA233627
+
+b. Electric Gage (Fig. 17-13). The instrument panel gage may be the thermostatic-type described in paragraph 17-3a, or the magnetic type described in paragraph 17-3d. The sending unit that is used with each gage type varies as follows:
+
+(1) The sending unit that is used with the thermostatic gage usually contains two bimetallic strips, each of which has a contact point. One bimetallic strip is heated electrically. The other bimetallic strip bends to increase the tension of the contact points. The different positions of the bimetallic strip will create gage readings in the same manner that the different float arm positions of the tank sender will in paragraph 17-3a.
+
+(2) The sending unit that is used with the magnetic gage contains a device called a thermistor. A thermistor is an electronic device whose resistance decreases proportionally as its temperature increases. This type of sending unit also can be used with a thermostatic gage if a voltage-limiting device like the one described in paragraph 17-3b also is used.
+
+c. Mechanical Gage (Fig. 17-14). The gage unit contains a bourdon tube and operates by the same principles as the mechanical oil pressure gage described in paragraph 17-4c. The motivating force of the mechanical temperature gage is a permanently attached capillary tube that connects the gage to a bulb fitted in the engine water jacket. The bulb contains a liquid such as ether, whose vapor pressure is proportional to its temperature. As the temperature increases, the ether boils and expands. The vapor pressure acts on the gage through the capillary tube to produce temperature readings.
+
+d. Indicator Lights (Fig. 17-15). The tem- perature warning light is used on many vehicles in place of a gage. The indicator light, although not as detailed as a gage, Is valuable because of its high visibility in the event of an overheat condition. Because an engine can become damaged permanently or destroyed by operating for short periods while overheated, warning lights often are used as a backup for temperature gages to attract Instant attention to a malfunction. The warning light receives battery power through the ignition switch. The circuit to ground is completed through the engine sender switch. The sender switch contains a set of contact points that are
+
+operated by the bending of a bimetallic strip that is calibrated to turn on the warning light at approximately 2300F (1100C). Some models also utilize a cold indication light that will indicate to the driver that the engine has not yet reached operating temperature. The light usually is green in color, whereas the hot indication is red. The sending unit for this application has an extra terminal. Internally, the sender has an extra contact. The bimetallic strip simply completes the circuit to the cold light until engine temperature reaches approximately 1500F (65.60C). The strip then will open the cold light circuit. As long as the temperature of the engine Is normal, the bimetal- lic strip will remain between the contacts for the cold and hot indicator lights.
+
+17-6. Speedometers and Tachometers.
+
+a. Usage. Speedometers and tachometers are used in virtually all types of automotive equipment. Speedometers are used to indicate vehicle speed in miles per hour or kilometers per hour. The speedometer in most cases also contains an odometer. An odometer is a device that keeps a permanent record of the amount of mileage that a vehicle has been used. Some speedometers also contain a trip odometer that can be reset to zero at anytime so that individual trips can be measured. The odometer is calibrated to measure distance In miles or kilometers, depending on the application. A tachometer is a device that is used to measure engine speed in revolutions per minute (rpm). The tachometer also may contain a device known as an engine-hours gage. The engine- hours gage usually is Installed on equipment that uses no odometer to keep a record of engine use.
+
+b. Mechanical Speedometers and Odometers. The speedometer and odometer (fig. 17-16) usually are combined into a single unit that is driven by a flexible shaft.
+
+(1) The flexible shaft consists of a flexible outer casing that is made of steel or plastic and an inner drive core that is made of wire-wound spring steel. Both ends of the core are molded square so that they can fit into the driving member at one end and the driven member at the other end and be able to transmit torque.
+
+(2) The flexible shaft, better known as a speedometer cable, usually is driven by gears from the transmission output shaft. When the
+
+gears are selected to drive the speedometer, it is Important that the drive axle gear ratio and the diameter of the tires on the drive wheels be taken Into consideration so that the speedometer will be driven at the proper speed.
+
+(3) The speedometer (fig. 17-17) consists of a permanent magnet that is rotated by the speedometer cable. Surrounding the rotating magnet is a metal cup that Is attached to the speedometer Indicating needle. The revolving magnetic field exerts a pull on the cup, causing it to tend to rotate. The rotation of the cup Is countered by a calibrated hairspring. The influence of the hair spring and rotating magnetic field on the cup produce accurate speed readings by the needle that is attached to the cup.
+
+(4) The odometer (fig. 17-18) is driven by a series of gears that originate at a spiral gear on the Input shaft. The odometer consists of a series of drums with digits printed on their outer circumference that range from zero to nine. The drums are geared to each other so that each time the one furthest to the right makes one revolution, it will cause the one to its immediate left to advance one digit. The second to the right then will advance the drum to its immediate left one digit for every revolution that it makes. This sequence continues to the left through the entire series of drums. The odometer usually contains six digits to record 99,999.9 miles or kilometers. Models with trip
+
+odometers usually do not record tenths on the total odometer and therefore will contain five digits. When the odometer reaches its highest value, it will reset to zero automatically. Most new automobiles incorporate a small dye pad in the odometer to color the drum of its highest digit to indicate that total vehicle mileage is in excess of the odometer’s capability.
+
+(5) The trip odometer also is driven by a series of gears from the input shaft. It usually contains four digits to record 999.9 miles or kilometers before resetting itself to zero. The trip odometer is connected to an external knob and can be reset to zero by the vehicle operator.
+
+c. Mechanical Tachometers and Engine Hours Gage (Fig. 17-19). A mechanical tachometer operates exactly the same as the mechanical speedometer described in paragraph 17-6b. The main difference is that it is driven by the engine and is calibrated to measure engine speed. The engine-hours gage is incorporated in the tachometer in most cases. Its purpose is to keep a record of operating time. It measures in hours to the nearest tenth.
+
+d. Electric Speedometer and Tachometer (Fig. 17- 20). The electric speedometer or tachometer utilizes a mechanically driven permanent magnet generator to supply power to a small electric motor. The electric motor then is used to rotate the input shaft of a mechanical speedometer or tachometer whose operation is the same as the one described in paragraph 17-6b. The voltage from the generator will increase proportionally with speed and the motor speed will likewise Increase proportionally with voltage, enabling the gages to indicate speed. The signal generator for the speedometer usually is driven by the transmission output shaft through gears. The signal generator for the tachometer usually is driven by the distributor through a power takeoff on gasoline engines. When the tachometer is used with a diesel engine, a special power takeoff provision is made, usually on the camshaft drive.
+
+e. Electronic Speedometers and Tachometers. Electronic speedometers and tachometers are self- contained units that use an electric signal from the engine or transmission as an indicator to formulate a reading. They differ from the electric units described in paragraph 17-6d that use the generated signal as the driving force. TA233631
+
+The gage unit usually Is transistorized and will supply information through either a magnetic analog (dial) or a light emitting diode (LED) digital gage display. The gage unit derives its Input signal in the following ways:
+
+(1) An electronic tachometer can obtain a pulse signal from the. ignition distributor that switches the coil on and off. This Is the most popular signal source for a tachometer that is used on a gasoline engine. The pulse speed at this point will change proportionally with engine speed.
+
+(2) A tachometer that is used with a diesel engine can use the alternating current generated at the stator terminal of the ac generator as a signal. The frequency of the ac current will change proportionally with engine speed.
+
+(3) An electronic speedometer derives its signal from a magnetic pickup coil that has its field Interrupted by a rotating pole piece. The signal
+
+units operation is the same as the operation of the reluctor and pickup coil described in paragraph 15-6. The pickup coil Is located strategically in the transmission case to interact with the reluctor teeth located on the input shaft.
+
+17-7. Tachograph Operation (Fig. 17-21). The tachograph is a device that keeps a complete record of the operation of a vehicle for a 24-hour period. A circular graph is made on a disk by rotating it under three styli that separately record engine speed, vehicle speed, and distance traveled, all versus time. The completed graph can be removed and a blank disk inserted so that the tachograph can be used over again.
+
+In the disk shown in figure 17-21, the vehicle did not move from midnight to approximately 5:37 am. Then the engine was started, revved momentarily to about 1800 rpm, idled at 600 rpm for 6 or 7 minutes, revved to 2100 rpm momentarily, and then shut down at approximately 5:46 am. At 7:10 am the engine was started again and idled for 22 minutes. At 7:32 am the vehicle was moved out, attained a speed of approximately 28 mph
+
+(45.05 km/h), and then stopped and idled for E minutes. The vehicle then was moved out again accelerated to approximately 45 mph (72., km/h) and did stop-and-go driving for about 3: minutes, accelerating from 0 to 45 mph (72., km/h) three times and traveling about 15 miles (24.13 km). At 8:11 am it stopped, after having traveled approximately 15 miles (24.13 km). I idled for about 48 minutes and then was shut down at 9 am.
+
+17-8. Vacuum Gage (Fig. 17-22). A vacuum gage measures the difference in pressure between the Intake manifold and the atmosphere in Inches of mercury (InHg). The unit of measure Is derived from applying a vacuum to the top end of a
+
+tube whose bottom end is dipped in mercury. The reading then is obtained by measuring how far in inches the mercury rises In the tube. A vacuum gage Is very useful for:
+
+a. Engine Diagnosis. A vacuum gage can locate things such as valve malfunctions, manifold vacuum leaks, or improperly adjusted ignition timing.
+
+b. Driving for Maximum Efficiency. Because intake manifold vacuum decreases proportionally with engine load increases, the vacuum gage can be used as a driving aid to attain maximum fuel economy and engine life.
+
+TM 9-8000 Section II. HORNS
+
+17-9. Principles of Operation (Fig. 17-23). The most common type of horn is the vibrator type, in which the general principle of operation is the same as that of a vibrating coil. A vibrating diaphragm is operated by the coil that also operates the contacts that break the circuit.
+
+Magnetism from the coil pulls the diaphragm toward it when the contacts are closed. The contacts then are pulled open by the coil, reducing the magnetism and allowing the diaphragm to return to its normal position. When the contacts are closed again, a new surge of current induces magnetism in the coil and starts a second movement of the diaphragm. This cycle is repeat- ed rapidly. The vibrations of the diaphragm within an air column produce the note of the horn. Tone and volume adjustments are made by loosening the adjusting locknut and turning the adjusting nut. This very sensitive adjustment controls the current consumed by the horn. Increasing the current increases the volume. However, too much current will make the horn sputter and may lock the diaphragm.
+
+17-10. Dual Horns. In dual horns, one horn with a low pitch is blended with another horn with a high pitch. These horns, although operated electrically, produce a sound closely resembling that of
+
+an air horn. The sound frequency of the low-pitch horn is controlled by a long air column and the high-pitch horn sound frequency is controlled by a short air column. The air column is formed by the projector and a spiral passage cast into the base of the horn.
+
+17-11. Controls (Fig. 17-24). The current draw of a horn is very high, therefore, usually it is operated by a relay. The control switch usually is mounted on the steering wheel and may be controlled by a button or a horn ring.
+
+a. The horn receives electric current through the ignition switch and the relay contact points. The relay contact points normally are open, keeping the horn from operating.
+
+b. The relay contact points are closed when- ever the magnetic coil is energized. The magnetic coil receives positive battery current from the ignition switch. The horn switch completes the circuit to ground.
+
+17-12. Air Horns (Fig. 17-25). The air horn is a trumpet like device that operates from compressed air. Air horns usually are used on vehicles that are equipped with airbrakes because they can operate from the vehicle’s compressed
+
+air system. Air horns also may have their own compressed air system. The air horn is controlled by an air valve.
+
+17-13. Backup Alarms. Large vehicles some- times utilize an air or electric horn at the rear that
+
+is actuated when the transmission is shifted to reverse. The purpose of this is to warn pedestrians when the vehicle is backing up.
+
+Section III. WINDSHIELD WIPES
+
+17-14. Vacuum Wipers. Vacuum-operated windshield wipers utilize the negative pressure that Is present in the engine’s intake manifold as a vacuum source to operate the windshield wiper motor. Because the pressure in the intake manifold varies with engine loading, the speed of the wipers varies greatly with engine loading to the extent that the windshield wipers actually will stop when the engine is loaded heavily, such as when the vehicle Is climbing a hill. Some vehicles utilize an auxiliary vacuum pump to help alleviate this problem. This pump usually is built into the engine’s fuel pump (para 4-3). The windshield wiper motor transmits its power to the trans- mission linkage in the form of reciprocating motion. The transmission for a vacuum system
+
+utilizes a pulley and cable system to link the motor to the windshield wiper arms and blades. Because of the erratic operation of the vacuum wiper system, it has been replaced almost completely by the electric wiper system in modern automotive applications.
+
+17-15. Electric Wipers (Fig. 17-26). Electric windshield wipers are the most popular type for use on modern automotive equipment. Electric windshield wipers operate at a constant, easily controlled speed, making them much more desirable than their vacuum counterparts. One of the drawbacks to using electric windshield wipers in early automotive equipment was the heavy electric current requirements that their motor
+
+placed on the vehicle’s 6-volt electrical system. This problem was solved as 12-volt electrical systems became standard. The electric wiper motor, through a worm gear, drives a shaft that is connected to a crank. The circular motion of this crank is transformed into reciprocating motion by the wiper transmission to operate the wiper arms. In addition to the control switch that is used to control the windshield wipers, a separate, mech- anically operated park switch also is Incorporated into the motor. The purpose of this switch is to provide power to the wiper motor long enough to return the wiper arms and blades to a retracted position whenever they are switched off by the operator.
+
+17-16.Air-Operated Wipers. Air-operated
+
+windshield wipers are used almost exclusively on heavy vehicles that are equipped with a compressed air supply system to operate the wiper motor. Air-operated wiper motors directly produce the reciprocating motion that is required to operate the wiper arms. Because of this, they often are mounted In a position that allows a wiper arm to be connected directly to them.
+
+17-17. Wiper Arm and Blade (Fig. 17-27). The wiper arm fits onto a splined shaft on the wiper transmission and is spring loaded to press the blade against the windshield. The blade is a flexible rubber squeeze-type device. It is spring steel backed and is suspended from the arm by a mechanism that is designed to maintain total contact with the windshield throughout the stroke.
+
+17-18. Auxiliary Power Receptacle (Fig. 17-28). The auxiliary power receptacle usually is installed at the right- rear corner of the cab body, near the vehicle batteries. The receptacle has two insulated prongs, each connected by cable to one battery terminal. This means that the
+
+receptacle is wired in parallel with the battery. It is used to facilitate charging of the batteries from an external source or the connecting of additional electrical power from an external source to operate electrical components on the vehicle. The receptacle greatly simplifies these proce- TA233638
+
+dures because it is necessary only to unscrew the receptacle cap and plug in the connector to make the connections. No disconnecting and reconnecting of the battery cable is necessary.
+
+17-19. Heater, Defroster, and Ventilation Mechanisms.
+
+a. General (Fig. 17-29). The heater, defroster, and ventilation mechanisms usually are combined into one unit to make up a complete system. The unit, which is called a heater unit, consists of a chambered box containing a heater core (para 17-19b) and control doors to allow the operator to select the desired mode of operation. The outside of the box contains openings for:
+
+(1) Outside air intake, so that fresh air can be drawn into the vehicle.
+
+(2) Interior air intake, so that air can be recirculated.
+
+(3) Defroster outlets, so that forced air can be provided to clear the windshield.
+
+(4) Heater outlets, so that heated air can be provided, usually at floor level.
+
+(5) Ventilation outlets so that air can be forced into the passenger compartment at instrument panel level. An electric blower motor also is combined with this unit to provide air movement.
+
+b. Heater Core (Fig. 17-30). The heater core is a component that transfers heat from the engine coolant to the passenger compartment. Its construction is similar to a radiator (para 9-6), except that it is on a much smaller scale. The heater core fits into the heater unit and is connected to the engine’s cooling system by two hoses called heater hoses. The connection to the engine’s coolant passages is made at strategic points that will cause the engine’s water pump to force a constant supply of engine-heated coolant through the heater core. The heater core feed line is fitted with a control valve that can be controlled by the operator. The purpose of the valve is to open, restrict, or shut off the coolant flow through the heater core to control the heater temperature. The temperature control valve can be either cable operated, or it can be operated by a vacuum- actuated diaphragm that receives its vacuum supply from the engine.
+
+c. Mode Door (Fig. 17-29). The mode door selects the heater unit’s mode of operation. As the door is moved through its full travel, air is ducted through the heat, vent, or defrost outlets.
+
+d. Fresh-Air Door (Fig. 17-29). The fresh- air door selects either a fresh-air or interior-air (recirculate) intake for the heater unit.
+
+e. Door Controls. The heater control doors can be controlled two different ways:
+
+(1) Cable Operated (Fig. 17-31). The doors can be operated by cable from the instrument panel. Cable-operated doors usually have the advantage of crossover operation. This means that the fresh-air door, for example, can be positioned halfway between the fresh air and recirculate intakes, allowing a blend of fresh and recirculated air.
+
+(2) Vacuum Operated (Fig. 17-32). The doors can be operated by actuators that are powered by a vacuum supply from the engine. This vacuum supply is routed to the actuators by rubber hoses that first pass through control valves in the instrument panel. The control valves usually are built into a master control switch that is controlled by the operator. The advantage to this control system is that it is much easier to route the rubber supply hoses in the tight confines of the instrument panel area than it is to route control cables that will bind if kinked. TA233639
+
+f. Blower Motor. The blower motor Is a simple electric motor that drives a circular fan. This circular fan commonly Is referred to as a squirrel cage. The controls of the blower usually Include a three- or four-position switch providing various speed choices to the operator. The switch, In
+
+conjunction with a multiple element resistor, provides the circuitry to make these motor selections possible.
+
+17-20. Auxiliary Heaters.
+
+a. Engine Compartment Heaters. The engine compartment, particularly in vehicles equipped for arctic operation, contain one or more auxiliary heating devices. The most common devices are:
+
+(1) Water Jacket Heater. The water jacket heater Is an electric resistance-type heater that operates usually from an external 110-volt power supply. The heating unit usually Is installed in place of one of the cylinder block core hole plugs.
+
+(2) Engine Oil Heater. The engine oil heater Is also an electric reslstance-type heater that operates from an external 110-volt power supply. The engine oil heater Is a bayonet-type device that fits In the engine in place of the dipstick.
+
+(3) Blanket Heaters. Engine compartment components also can be heated by blanket-type electric heaters. These devices are used to heat the battery or can be used to cover the engine, retarding engine cool down after operation.
+
+b. Interior Heaters. Auxiliary heaters also are used to heat the vehicle’s interior compartments. There are two basic types.
+
+(1) Self-contained. These usually are pro- pane or butane space heaters. For portable shelters, an electric-type space heater will be used. This type of heater requires an external power supply.
+
+(2) Supplemental Hot Water Heaters. These heaters contain a fan motor and a heater core (para 17- 19). They are connected to the englne’s cooling system and operate by the same principles as the vehicle’s main heater.
+
+TM 9-8000 Section V. AUTOMOTIVE WIRING
+
+17-21. General.
+
+a. Electrical power and control signals must be delivered to electrical devices reliably and safely so that the electrical system functions are not impaired or converted to hazards. This goal is accomplished through careful circuit design, prudent component selection, and practical equipment location.
+
+b. The list of common equipment used to fulfill power distribution requirements in military vehicles includes single-conductor cable, multiconductor cable, bus bars, terminal blocks, terminals, and connectors. In order to facilitate the successful application of such equipment, guidelines for the design of main power distribution circuits, conductor selection and routing practices, wiring and cable assembly requirements, human factors, environmental considerations, circuit protection requirements, and circuit identification techniques are discussed in this section. Included are the general power distribution considerations necessary for effecting good performance, economy, and safety in a vehicle electrical system design.
+
+17-22. Wiring Harnesses.
+
+a. General (Fig. 17-33). Wiring assemblies consist of wires and cables of definitely pre- scribed length, assembled together to form a
+
+subassembly that will interconnect specific elec- trical components and/or equipment. There are two basic types of wiring assemblies:
+
+(1) Cable Assembly. The cable assembly consists of a stranded conductor with insulation or a combination of insulated conductors enclosed in a covering or jacket from end to end. Terminating connections seal around the outer jacket so that the inner conductors are isolated completely from the environment experienced by the outer jacket. Cable assemblies may have two or more ends.
+
+(2) Wiring Harness. Wiring harness assemblies contain two or more individual conductors laid parallel or twisted together and wrapped with binding materials such as tape, lacing cord, and wiring ties. The binding materials do not isolate the conductors from the environment completely, and conductor terminations may or may not be sealed. Wiring harnesses also may have two or more ends.
+
+b. Wiring Harness Bindings. Several methods are employed to bind the wire bundles together in wiring harness assemblies. Each method has an intended or preferred application in military vehicles.
+
+(1) Tape Binding (A, Fig. 17-34). This binding is intended for vehicle interior wiring applications where wires are unprotected, and an additional measure of snag protection and abrasion resistance is required. Cables are bound together with one-half overlapping turns of tape. Tape, Type EF-9, Black, MIL-I-5126, has demonstrated suitable low-temperature flexibility (-100F cold bend) in the military environment.
+
+(2) Spaced Bindings (B, Fig. 17-34). This binding is intended for vehicle interior wiring in protected locations, or in junction and control box applications. Cables are bound together with one-half overlapping turns of tape in spaced intervals. Tape should form 2- to 2.25-in. Wrap lengths spaced at 8- to 12-in. intervals.
+
+(3) Spaced Bindings - Heat-Shrinkable Tubing (C, Fig. 17-34). One alternative method for spaced binding uses sleeving in lieu of tape. A heat-shrinkable modified neoprene rubber sleeving, MIL-I-23053/11, has demonstrated suitable low-temperature flexibility (- 55°C brittleness) in the military environment and the cables are bound together with 0.75- to 1.25-in. lengths of the heat-shrinkable sleeving spaced at 8- to 12-in. intervals
+
+(4) Spaced Bindings - Cable Ties (D, Fig. 17- 34). Another alternative spaced-binding method uses wire ties or straps. Cable straps, adjustable, self- clinching, MS3367-1, MS3367-3, MS3367-4, or MS3367- 5 are suitable for this application. Cables are bound together with straps spaced at 8- to 12-in. intervals.
+
+(5) Laced Bindings (E, Fig. 17-34). Lacing is intended for wiring used in junction and control box applications. Lacing cord in accordance with MIL-T- 43435, Size 3, Type I, Finish B, Waxed, Color Optional, has performed satisfactorily in the military environment.
+
+(6) High-Temperature Bindings (F, Fig. 17- 34). This binding method is intended for harnesses used on engines, transmissions, or other systems where additional protection against high temperature is required. Cables are covered, or bound together with insulating sleeving. Sleeving ends and junctions are bound to cables with one-half overlapping turns of tape. Tape endings must overlap fully.
+
+Insulating sleeving, electrical, Class 200, Type C, Category C or D, MIL-I-3190, has demonstra-
+
+ted suitable high-temperature and humidity resistance in these applications. Tape 19207-10886484 has demonstrated adhesive qualities that withstand steam cleaning and the oily, high-temperature environment associated with vehicle power packs.
+
+17-23. Wiring Harness Identification (Fig. 17-35). Wires in an electrical system should be identified by a number, color, or code to facilitate tracing circuits during assembly, troubleshooting, or rewiring operations. This identification should appear on wiring schematics and diagrams and whenever practical on the individual wire. The assigned identification for a continuous electrical connection should be retained on a schematic diagram until the circuit characteristic is altered by a switching point or active component. An extension of this system involves the use of suffix letters on wiring diagrams and wiring assemblies to identify the segments of wires between terminals and connector contacts. The use of suffix letters is advantageous when it is necessary to identify several individual wires of a common circuit that are bound in the same harness.
+
+Tank-automotive electrical circuits have been identified over the years with unique numbers for specific circuits, based on the premise that maintenance personnel would become familiar with wire numbers for these circuits and this familiarity would facilitate their ability to service a variety of vehicles. Furthermore, common standard automotive electrical components in the supply system such as headlight, taillight, and stoplight switch assemblies are marked with these standard wire numbers. Therefore, these numbers should be used to the maximum extent
+
+practical for the identification of circuits in future military vehicle electrical systems. There are several practical methods used to apply wire identification characters on wiring assemblies. Four of the commonly employed methods are:
+
+a. Lettering may be hot stamped per MIL-M-81531, with 0.05-in. minimum height type, directly on the wire or cable insulation using white letters on dark backgrounds or black letters on light backgrounds.
+
+b. Lettering may be hot stamped per MIL-M-81531, with 0.05-in. minimum height type, on MIL-1-23053/2 heat-shrinkable sleeving, length and diameter as required, assembled over the wire insulation.
+
+c. Lettering may be indented or embossed with 0.093-in. minimum height type on band, marker blank, MS39020, style and length as required, in accordance with MIL-STD-130. Of these, the metal marker bands with indented or embossed characters are the most durable and they remain legible even if painted over.
+
+17-24. Wire Terminal Ends.
+
+a. General (Fig. 17-36). Wire lug terminals are divided into two major classes: the solder type; and the solderless type, which also are called the pressure or crimp type. The solder type has a cup in which the wire is held by solder permanently, whereas the solderless type is connected to the wire by special tools that deform the barrel of the terminal and exert pressure on the wire to form a strong mechanical bond and electrical connection. Solderless-type terminals gradually have replaced solder-type terminals in military equipment.
+
+b. Solderless Terminals (Fig. 17-36). Solderless terminals come in a variety of designs. Some of the more common recommended terminals are the ring-tongue, rectangular-tongue, and flag types. One of the major sources of trouble when a terminal is connected to a wire has always been the breakage of the wire near its junction with the terminal. Wire failures have been decreased by adding a sleeve to the basic terminal. The inside diameter of the sleeve is slightly larger than the outside diameter of the wire insulation. In the crimping operation, when the
+
+barrel is fastened to the end of the wire, the insulation- supporting sleeve is fastened around the insulation. This additional support prevents excessive bending of the wire at the point where it enters the barrel of the terminal, and also prevents fraying of the insulation or braid that is over the wire. A special water seal terminal, designed to fit MIL-C-13486 cable and grip the insulation to prevent water from reaching the conductor, also is provided. This terminal should be used wherever MIL-C-13486 interconnecting wire is terminated in an area subject to bilge water, road splash, or corrosive spills. If water seal terminals are not used in such circumstances, the stranded conductor will absorb moisture, and rapid corrosion of the individual strands will occur.
+
+c. Solder-Type Terminals (Fig. 17-36). Solder-type terminals come in most of the configurations. Although they are considered to make more positive, permanent connections, they are not used as widely as solderless connectors because of the difficulty involved with installing them.
+
+17-25. Wire Connectors (Fig. 17-37).
+
+a. General. Connectors have evolved to facilitate the coupling and uncoupling of electrical equipment for replacement or service. The typical connectors used on military vehicles permit the elements of a system to be fabricated and serviced as individual assemblies or components so that the final system configuration is built and maintained more easily. The interconnection generally is accomplished using multiconductor or single- conductor cable assemblies or wiring harnesses, which permit convenient placement of the system components. Connectors and receptacles also are attached directly to individual components to permit the easy removal of items that are connected to mating parts without the use of interconnecting cables (circuit boards and relays). A compatible connection system consists of a plug assembly, a mating receptacle assembly, and the wires or cables leading to them. Connector assemblies exist in a variety of configurations, each of which is intended for a particular environmental and/or mounting condition.
+
+b. Types. Plugs and receptacles are available with either pin- or socket-type contacts, that is, with either male or female contacts. The placement of one in preference to the other is based on a general rule prescribing that sockets (female) are used on the power side of a connection. This arrangement is intended to prevent accidental shorting of the power side of the connection, which could injure personnel or damage equipment. Connectors are designed specifically for high- or low-voltage applications. The various connector receptacles that are available for vehicle usage are classified as in-line or cable, box, wall, or bulkhead types.
+
+(1) The In-line type has no means of supporting itself, is used on a cable end, and is joined to a mating element that also is cable connected. These in-line receptacles permit the Interconnection of power distribution systems
+
+using two or more cable or harness assemblies to facilitate maintenance.
+
+(2) The difference between box- and wall- mounted receptacles is related to the environmental protection of the conductor connections. The box- mounted style has exposed conductor connections, and is intended to be mounted on a box or component that is sealed and thereby provides the conductor connections with protection from the environment. A wall-mounted receptacle is intended to be mounted on an exposed or unprotected enclosure; therefore, the connections to the conductors are sealed.
+
+(3) The bulkhead receptacle is used to penetrate a panel while maintaining a seal between the compartments established by the panel. The unique feature of the bulkhead receptacle is that it allows the connection on both sides
+
+of the panel to be removed easily. This is a significant difference from box- or wall-mounted receptacles, which have only one easily removable connection.
+
+(4) There is also a variety of connector plug assemblies used on vehicles, and the primary physical difference between them is the backshell configuration. This backshell is used to direct the connecting wire or cable either axially or in angles up to 90 degrees from the axis of the connector, as well as to provide a water seal and strain relief for the cable or wire.
+
+c. Requirements.
+
+(1) Electrical connectors must be capable of withstanding the effects of the military environment. Protection against damage due to temperature extremes, water, oil, and physical abuse is mandatory.
+
+(2) It is good practice to provide one or more spare contacts in the connector pair more than the actual number required for the circuits to carry. Then, any increase in circuits necessitated by functions added later will not require the use of another connector. It is advisable to keep the number of contacts per connector down to a number that can be mated and separated without excessive force. Where a large number of circuits must be handled, it may be advisable to use more than one connector pair. Every effort should be
+
+made to choose connectors that will allow signal and power leads to be bundled separately.
+
+(3) The current to be passed through each contact must be determined. The contact size then can be established with a safety factor sufficient to provide safe operation under conditions of temporary overload. Another important safety factor is mechanical strength. In many applications, size 12 contacts are used, even though the current may be less than 100 mA because the mechanical strength of the size 12 contact is needed.
+
+(4) Great care should be exercised in the selection of connectors to make certain that they will meet mechanical strains placed upon them in application. On vehicles, connector housings are used as personnel steps if they happen to be in the right location, and it is not an uncommon sight to see military equipment lifted or carried by one or more of its connectors even though connectors or thin housings are not intended for these purposes.
+
+(5) The selected connector must have the means to prevent incorrect mating built into it. This may be effected through dissimilar-size guide pins, a nonsymmetrical arrangement of contact barriers, or the design of the connector shell housing. Contact pins should never be used for alinement or polarization.

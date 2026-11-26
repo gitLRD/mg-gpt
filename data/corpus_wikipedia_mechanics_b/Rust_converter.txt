@@ -1,0 +1,10 @@
+Rust converter
+
+Rust converters are chemical solutions or primers that can be applied directly to an iron or iron alloy surface to convert iron oxides (rust) into a protective chemical barrier. These compounds interact with iron oxides, especially iron(III) oxide, converting them into an adherent black layer (black oxide) that is more resistant to moisture and protects the surface from further corrosion. They are sometimes referred to as "rust remover" or "rust killer".
+
+== Typical ingredients ==
+Commercial rust converters are water-based and contain two primary active ingredients: tannic acid and an organic polymer. Tannic acid chemically converts the reddish iron oxides into bluish-black ferric tannate, a more stable material. The second active ingredient is an organic solvent such as 2-butoxyethanol (ethylene glycol monobutyl ether, trade name butyl cellosolve) that acts as a wetting agent and provides a protective primer layer in conjunction with an organic polymer emulsion.
+Some rust converters may contain additional acids to speed up the chemical reaction by lowering the pH of the solution. A common example is phosphoric acid, which additionally converts some iron oxide into an inert layer of ferric phosphate. Most of the rust converters contain special additives. They support the rust transformation and improve the wetting of the surface.
+
+== Uses ==
+Rust converter is usually applied to objects that are difficult to sand blast, such as vehicles, trailers, fences, iron railings, sheet metal, and the outside of storage tanks. It may also be used to restore and preserve iron-based items of historical importance.

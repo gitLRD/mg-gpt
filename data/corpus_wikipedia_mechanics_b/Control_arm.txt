@@ -1,0 +1,14 @@
+Control arm
+
+In automotive suspension, a control arm, also known as an A-arm, is a hinged suspension link between the chassis and the suspension upright or hub that carries the wheel. In simple terms, it governs a wheel's vertical travel, allowing it to move up or down when driving over bumps, into potholes, or otherwise reacting to the irregularities of a road surface. Most control arms form the lower link of a suspension. Control arms play a crucial role in the suspension system of a vehicle. They help to keep the wheels aligned and maintain proper tire contact with the road, which is essential for safety and stability.
+The inboard (chassis) end of a control arm is attached by a single pivot, usually a rubber bushing. It can thus control the position of the outboard end in only a single degree of freedom, maintaining the radial distance from the inboard mount. Although not deliberately free to move, the single bushing does not control the arm from moving back and forth; this motion is constrained by a separate link or radius rod.
+This is in contrast to the wishbone, which are triangular and have two widely spaced inboard bearings. These constrain the outboard end of the wishbone from moving back and forth, controlling two degrees of freedom, and without requiring additional links. Certain vehicles — notably, many Honda products from the 1990s -- feature what's known as a double wishbone suspension. A double wishbone design features both upper and lower control arms that work in tandem with each other to properly locate the wheel. The additional radius rod is then attached to the upper arm.
+
+== MacPherson strut ==
+
+Control arms are most commonly encountered as part of the MacPherson strut independent front suspension. The control arms are perpendicular to the axis of the vehicle and are termed track control arms. A diagonal radius rod constrains the strut from moving forward and back.
+In MacPherson's original design, an anti-roll bar also acted as the radius rod. This requires the bar to be attached through a ball joint, so as to also provide longitudinal control. In most contemporary designs, still commonly termed MacPherson struts, the radius rod and anti-roll bar are now separate, with the anti-roll bar mounted in a sliding bush.
+
+== Spring attachment ==
+
+A control arm may be used to carry the suspension load and transmit them to the spring or shock absorber. Torsion bar suspension commonly does this, with the outboard end of the torsion bar attached to the inboard bearing of the control arm.

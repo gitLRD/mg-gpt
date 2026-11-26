@@ -1,0 +1,35 @@
+Coilover
+
+A coilover is an automobile suspension device. The name coilover is an abbreviation of "coil over shock absorber".
+
+== Description ==
+Coilovers are found on many vehicles, from RC cars to normal passenger cars, race cars and 4×4 vehicles. They are sometimes used as a factory suspension option on new cars. Coilovers are used in double wishbone suspension systems and are often components of MacPherson struts.
+Two of the main types of coilovers are full and slip-on. Full coilovers are matched with dampers from the factory, slip-on coilovers have dampers and springs sourced separately and then assembled.
+There are aftermarket coilovers for vehicles, many of which allow the customer to adjust various settings, such as ride height and damping. Camber and caster angles can also be adjusted if the car's suspension allows, and if the coilovers are supplied with adjustable top mounts. This high degree of adjustment is what gives coilovers an advantage over typical MacPherson struts.
+Coilovers can be used to lower the vehicle's centre of gravity, and to increase the roll stiffness of the vehicle to reduce weight transfer when the vehicle changes direction.
+
+== Components ==
+A coilover consists of a damper with a coil spring encircling it. The damper and spring are assembled as a unit prior to installation and are replaced as a unit when either of the sub-components fails.
+Some coilovers are adjustable. Most, if not all, adjustable coilovers have variable ride height and preload, adjusted using a simple threaded spring perch similar to a nut. Alternatively, the damper's threaded body is matched to a threaded bottom mount which allows ride height adjustment without affecting bump travel. Most coilovers also have adjustable dampers, which are usually adjusted with an adjustment knob on top of the damper. Stiffness can be changed by switching the spring for one with a different spring rate or by adjusting the stiffness of the damper.
+Coilovers are made up of several components, including the damper, coil spring, bushing, bump stops, upper and lower mounts, various nuts and washers, threaded sleeves, and collars.
+
+=== Springs ===
+The purpose of a coilover spring is to support each wheel and reduce body roll when cornering. The springs also reduce squatting when accelerating and diving when decelerating. They are often used to adjust the vehicle's ride height, which directly affects handling and comfort.
+
+==== Spring preload ====
+Preload is the force exerted on a spring over the distance it is compressed. With a progressive spring a higher preload means a stiffer spring, and a lower preload results in a softer spring with more travel from a given force. (With a linear spring, by definition, preload has no effect on spring rate.)  More preload can increase grip when cornering, but too much preload can make a spring too stiff. In coilovers with adjustable spring seats, linear-rate springs and no helper or tender springs, ride height must be adjusted through preload. This can present a problem for vehicles whose ride height needs to be lowered but whose springs are already stiff enough.
+
+=== Dampers ===
+A mono-tube coilover is a single piston-and-rod assembly in a damping case in which both compression and rebound occur. A larger mono-tube shock will be able to displace more hydraulic fluid, providing a more sensitive response to small suspension movements than twin-tube shocks.
+A twin-tube coilover has an inner cylinder which moves up and down and an outer cylinder which serves as a hydraulic reserve. This design allows for an increase in suspension stroke, which provides better ride quality and handling.
+
+=== Adjustable coilovers ===
+Adjustable coilovers allow adjustment of the vehicle's suspension in four main areas:
+
+Roll stiffness: By fitting springs with a higher spring rate, roll stiffness can be increased. Likewise, a lower spring rate results in increased roll.
+Ride height: By using threaded spring seats or threaded bottom brackets, the ride height of the vehicle can be raised or lowered. The bottom mount is a threaded sleeve with two adjuster nuts that are used to preload the coils and increase or decrease ride height.
+Compression and rebound: The stiffness of the compression and rebound of the suspension can be adjusted if the coilovers use adjustable dampers. Adjustable dampers fall into three main categories: those that adjust compression only, those that adjust rebound only, those that adjust rebound and compression in parallel, and those that are adjustable for rebound and compression independently. This later category can be split further into dampers that have low-speed adjustment and those that have independent high- and low-speed adjustment. An example of high speed in the context of suspension movement would be a car hitting a bump; an example of slow speed movement would be a car changing direction.
+Camber and caster: Some coilover suspension kits may also be supplied with adjustable top mounts. Depending on the design of the car's suspension these top mounts can allow the adjustment of camber and/or caster. Some coilovers use the car's original top mounts and are therefore not adjustable.
+
+== Compression & rebound ==
+Compression the suspension pushes the dampener piston inwards, increasing the pressure of the fluid in the cylinder and forcing it through a small orifice. Adjusting orifice changes causes the suspension to move inward more easily, e.g. putting less force on a wheel rising over a small bump. Rebound is the suspension moving back after having been compressed, drawing the fluid through a small orifice again. There may be separately adjustable orifices dampening compression and extension. Adjustments made the dampening of extension (rebound) control how quickly a wheel can move downward, i.e. how quickly after compression it presses down with the sprung weight of the vehicle, such as rolling down the trailing side of a bump.
