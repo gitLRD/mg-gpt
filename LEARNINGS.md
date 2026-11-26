@@ -82,3 +82,16 @@ are costly to regenerate.
 **Housekeeping.** Disk was 96% full (40 GB free). Freed space in pothole-reporter
 (frame JPEGs, build outputs, proxies, datasets deleted; rfdetr checkpoints offloaded to
 the NAS with a checksum verify before local deletion).
+
+
+## Topic baseline of live v7 on the balanced set (2026-11-26)
+
+143 labelled questions x 3 seeds, bare mode, temp 0.6. Fuel words appear in only 5.4% of
+replies to non-fuel questions (own-topic replies: 36 per 1,000 words vs 1.1 elsewhere), so the
+"v7 loves fuel" finding is not reproduced on this set. Cooling (16.7%, cap 17.8%, mostly
+"head gasket" and "coolant") and oil (16.4%, over its 15.7% cap) leak most. The old ~23% fuel
+number came from 30 questions, several fuel-heavy; the same lexicon reproduces it on the old
+replies, so the difference is the questions, not the word list. Not retuned. Oil's cap is low
+because oil is only 10.5% of questions. Other notes: pytest needs `-p no:typeguard` (global
+plugin broken); `data/meta.json` has no `val_threads`, `data/v7_mgonly/meta.json` does (use it);
+v7 val loss here 3.731 vs 3.689 in the checkpoint (different val sampling, not investigated).

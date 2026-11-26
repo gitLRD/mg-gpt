@@ -10,6 +10,10 @@ journey.
 
 ## In progress
 
+- **Topic evals built (`evals/`: topics, topic_report, questions, label_questions, release_gate; 30 tests).** Why: val loss and the judge never noticed a topic problem; these measure it directly. Gate thresholds committed (`a9e0993`) before any baseline existed.
+- **Balanced question set: 143 questions, 13-18 per topic (`data/eval/balanced_questions.jsonl`).** Held-out threads supply most; brakes (8 clean) and oil (7) were topped up with 19 hand-written questions (`source: written`). Labels come from Qwen once, then are saved (keyword labeller was ~77-83% right on spot-checks, Qwen 28/30).
+- **Live v7 baseline, 3 seeds (`eval_runs/bal_v7_*`).** Cooling words leak into 16.7% of replies to other topics and oil into 16.4% (oil is over its 15.7% cap). Fuel does NOT: 5.4%, versus the ~23% earlier figure. See LEARNINGS.
+
 - **Car-specific data fetched, not yet used** (`data/fetch_mot_manual.py`, `data/fetch_wikipedia_mechanics.py`, `data/corpus_mot_manual/`, `data/corpus_wikipedia_mechanics/`).
   UK MOT inspection manual (OGL v3.0, text only, ~47K tokens) + 119 Wikipedia mechanics articles (CC BY-SA 4.0, ~0.5M tokens), aimed at brakes/suspension/electrical/body. Why: the MG corpus (~2.9M tokens) is the knowledge ceiling and v7 under-produces those topics; Internet Archive has no reuse-licensed MG manuals. Raw text only, Q&A not yet generated.
 - **More car text fetched: US Army TM 9-8000 + 111 more Wikipedia articles** (`data/extract_tm9_8000.py`, `data/corpus_tm9_8000/`, `data/fetch_wikipedia_mechanics.py --batch b`, `data/corpus_wikipedia_mechanics_b/`).
