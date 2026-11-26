@@ -1,0 +1,258 @@
+[
+ {
+  "id": 1,
+  "q": "My MGB clutch pedal sticks to the floor. Why?",
+  "a": "Yes, the clutch pedal is likely worn or seized. This can cause poor bite and misalignment with the master cylinder due to age. Check that the slave cylinder is properly aligned and not loose; if it's old or aged, replace them with a new one. Also inspect for fluid leaks around the slave cylinder for cracks or deterioration\u2014replace if needed.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 5
+ },
+ {
+  "id": 2,
+  "q": "Are Trophy Cars\u2019 TFs worth the price considering they do a lot of work?",
+  "a": "Yes, Trophy Cars are worth the price if they\u2019re not maintained. The TF is a solid choice for its size and performance; the 160 offers better value than standard models due to its high-performance setup. Check that the car has been well-maintained with proper maintenance\u2014this helps prevent issues like head gasket failure. If you're considering a higher-mileage example, consider buying an MG ZS180 or a more reliable daily driver.",
+  "src": "balanced",
+  "hand": 4,
+  "qwen": 3
+ },
+ {
+  "id": 3,
+  "q": "My Midget brakes judder at speed. What could it be?",
+  "a": "The issue is likely a worn or improperly adjusted brake fluid level. Check the brake fluid level with a feeler gauge \u2014 it should be around 30\u201340 psi at idle. Also inspect for uneven wear and ensure the master cylinder is fully seated. Replace any cracked or cracked hoses with high-quality silicone parts; use a quality unit like Mintex 1144 or Mintex 1144 pads to maintain optimal performance.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 4,
+  "q": "My MGB leaves oil on the driveway. Where from?",
+  "a": "The most likely cause is a worn or improperly adjusted carburettor, which can lead to leaks and failure. Check the idle mixture screws for sticking or uneven idle speed by adjusting the throttle body. If it's too hot, inspect the float level and ensure they\u2019re not stuck closed\u2014especially if it's opening properly. Also verify that the idle air intake system is functioning correctly and that the air intake may be in the carburettor adjustment. A faulty needle can also contribute to erratic idle and sudden power loss.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 5,
+  "q": "My 1970 Midget uses a lot of petrol. How do I reduce it?",
+  "a": "The most likely cause is a failed fuel pump or condenser, especially if the car has been standing for long periods. Check the fuel system and clean it thoroughly with fresh coolant (milky appearance) to ensure no air leaks from the tank. If the problem persists after warming up, replace the filter and check for any signs of wear or blockages in the radiator. A full service including replacing the pump and checking the spark plug gap should restore smooth operation.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 6,
+  "q": "My 1972 MGB leaks water into the footwell. Where from?",
+  "a": "The leak is likely due to a worn or loose seal around the brake calipers and the rubber bushings. Check that the brake master cylinder is properly seated in the air intake \u2014 if it's too low, inspect for cracks or carbon tracking. If the reservoir is leaking or misaligned, replace the fluid with fresh DOT 4 (6) and ensure the system is fully flushed before refilling.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 7,
+  "q": "How often should I change the oil in my 1968 MGB?",
+  "a": "You can get a 1275 or a 30,000 mile service if you have it done. If the car is in good condition and needs to be changed every year unless you're unsure about it. The gearbox will need changing as per the manual, and it's worth having to change the oil. Avoid cars with the same engine as standard but avoid overdrive units unless you want to keep it fixed frequently.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 8,
+  "q": "How often should I change the engine oil on a car that only does 1,500 miles a year?",
+  "a": "The car is a long-term choice if you can afford it, and the cost of parts for servicing. For a first drive, consider using a specialist like Rimmer Bros or Rimmer Bros for around \u00a3300\u2013\u00a3500 including VAT. This includes checking the engine\u2019s condition\u2014check the oil level regularly to prevent future issues.",
+  "src": "balanced",
+  "hand": 2,
+  "qwen": 3
+ },
+ {
+  "id": 9,
+  "q": "My 1971 MGB brake pedal feels spongy. Why?",
+  "a": "The issue is likely a worn or improperly adjusted master cylinder, especially if the brake fluid level is low. Check that the brake fluid is at least 30\u201340 psi when cold and the system is fully bled. Replace the master cylinder with a proper bleed to ensure no air pockets are in the system.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 4
+ },
+ {
+  "id": 10,
+  "q": "My 1974 MGB is losing water but I can't see a leak. Why?",
+  "a": "The most likely cause is a failed water pump, especially in the sump and bottom of the engine bay. Check the water pump for cracks or damage, and inspect the pump for wear or leaks. If it\u2019s leaking, replace the pump with a new one\u2014this will prevent future issues.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 5
+ },
+ {
+  "id": 11,
+  "q": "The starter motor on my MG failed \u2014 are new ones available?",
+  "a": "Yes, the starter motor in my MG failed due to poor electrical connection and a weak battery. Check that all connections are secure and tight; replace them with a modern unit like the one from the MGOC or the other. Also verify that the starter motor is fully charged \u2014 a faulty starter motor can cause voltage drop. Clean all connections and ensure all earth connections are clean and tight, especially at the correct level.",
+  "src": "balanced",
+  "hand": 3,
+  "qwen": 4
+ },
+ {
+  "id": 12,
+  "q": "My 1970 MGB jumps out of third gear. What's wrong?",
+  "a": "The issue is likely due to a worn or improperly adjusted tappet clearance between the differential and engine. Check that the tappet clearance is correct for your MGB\u2019s differential (typically 0.35\u20130.40 mm), and inspect the differential for wear or play in the differential bearing\u2014ensure it's properly aligned with the differential\u2019s torque curve. Also verify that the differential is properly aligned with your differential\u2019s differential\u2019s differential\u2019s differential\u2019s differential and not affecting gear selection.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 1
+ },
+ {
+  "id": 13,
+  "q": "My 1968 MGB crunches going into second gear. Why?",
+  "a": "Yes, the most likely cause is a seized or damaged clutch cable. Check for worn or damaged rubber seals and inspect the flywheel for wear. Replace the hydraulic clutch cable if it's not leaking or broken, and replace the master cylinder if necessary. Also check that the clutch cable is fully disengaged by checking for binding and ensure no play in the clutch plate. If there\u2019s any noise, consider replacing the clutch cable with a new one if needed \u2014 but be aware of the clutch cable position and clutch engagement issues.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 4
+ },
+ {
+  "id": 14,
+  "q": "The brake pedal sinks to the floor and there's no servo assistance\u2014could a bad seal in the master cylinder be causing this?",
+  "a": "The pedal moves to the floor when you turn the pedal, but it's not normal. This is a common issue on older MGBs and can lead to poor pedal travel. Check that the master cylinder is fully seated in the reservoir\u2014this indicates internal failure. Replace any damaged fluid with a new one; if the pedal feels flat or doesn\u2019t move freely without binding, consider upgrading to a modern setup like a 4-pot calipers for better control. Also verify that the brake servo isn\u2019t seized or worn, as these may have degraded fluid.",
+  "src": "balanced",
+  "hand": 3,
+  "qwen": 4
+ },
+ {
+  "id": 15,
+  "q": "My MGB battery goes flat after a few days. Why?",
+  "a": "The battery likely failed due to poor battery health, especially if the car has high mileage. Check that all connections are secure and not cracked or damaged\u2014replace them with new ones if they show signs of corrosion or a clogged battery. Also inspect the battery terminals for cracks or damage; use a proper wire brush to prevent future issues. Clean all connections thoroughly, ensuring all connections are clean and tight before starting.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 5
+ },
+ {
+  "id": 16,
+  "q": "My MGB door doesn't close properly. Why?",
+  "a": "Yes, the door may not fit due to a custom-made plastic window regulator. The original plastic window regulator is mounted on the side of the rear bumper and requires careful access to the door. Confirm by removing it and testing in the door before installing the new window\u2019s door.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 1
+ },
+ {
+  "id": 17,
+  "q": "My MGB brakes squeal when I stop. What's wrong?",
+  "a": "The issue is likely a worn or corroded front brake caliper. Check the rear brake fluid level by inspecting for cracks or cracks, especially where it connects to the caliper and calipers. Also inspect the master cylinder for wear or damage \u2014 if they\u2019re leaking or needs replacing, replace them with new ones. If the problem persists after replacement, consider upgrading to a high-quality stainless steel brake hoses with high-quality replacements.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 3
+ },
+ {
+  "id": 18,
+  "q": "My 1972 MGB GT smells of petrol after I park it. What could it be?",
+  "a": "The most likely cause is a worn or improperly adjusted carburettor, which can lead to incorrect combustion. Check that the choke mechanism isn\u2019t clogged or dirty; if it's not stuck open, replace the carburettor with a new one\u2014this may be a faulty float chamber. Also inspect the idle mixture screws and ensure the ignition system is fully bled to maintain smooth operation.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 5
+ },
+ {
+  "id": 19,
+  "q": "My 1975 MGB blows blue smoke on start-up. Why?",
+  "a": "The most likely cause is a faulty or degraded oil seal, which can lead to sludge buildup and blockages. Check the oil level and pressure at the top of the dipstick; if it's low, replace the oil (typically 0.25\u20130.5 mm) and inspect for cracks or damage around the filler cap. If all checks pass, replace the oil (typically 20\u201320 mm), and ensure the oil has been replaced with fresh oil. Also verify that the oil level is correct \u2014 a full rebuild may be needed if the car\u2019s low-mileage history isn't overpriced.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 3
+ },
+ {
+  "id": 20,
+  "q": "My MGB temperature gauge reads very high on hills. What should I check?",
+  "a": "The temperature gauge reads very high on hills, especially at the dipstick when warm. Check that the coolant is not boiling hot\u2014this indicates a faulty one or a failing thermostat, which can cause overheating and engine damage. If the gauge reads slightly higher than normal, it may be due to a failed thermostat or sensor failure. Also inspect for white smoke from the exhaust when cold; a loose connection may indicate a blown head gasket. Replace the thermostat if it\u2019s not leaking or damaged, and verify that all connections are clean and tight. A full 36k-mile service including replacing the thermostat with a new one is recommended.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 4
+ },
+ {
+  "id": 21,
+  "q": "My MGB is hard to start when the engine is hot. Why?",
+  "a": "The most likely cause is a failed head gasket, especially if the engine has been overheated or not overheated. Check for coolant in the oil (milky appearance) and inspect for blockages; they may have blown head gaskets. Replace the head gasket with a proper MLS type and ensure all components are properly aligned to avoid future issues.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 4
+ },
+ {
+  "id": 22,
+  "q": "My MG RV8 has a coolant leak near the thermostat housing.",
+  "a": "The leak is likely due to a worn or damaged cylinder head gasket, especially if the engine has been overheated. Check for coolant in the oil\u2014this can cause boiling and premature failure. Replace the cylinder head with a new one; ensure it\u2019s fully bled and properly adjusted to prevent future issues.",
+  "src": "balanced",
+  "hand": 3,
+  "qwen": 3
+ },
+ {
+  "id": 23,
+  "q": "My MGB steering feels very heavy. Why?",
+  "a": "The issue is likely due to a worn or improperly adjusted rack, possibly due to the high-speed differential. Check the steering wheel alignment and ensure it\u2019s not binding; if there's no play, replace the rack with a new one. Also inspect the tie rod ends for wear or cracking, especially around the rack mounting points. If the problem persists after replacing the rack, consider upgrading to a shorter or smaller rack if needed.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 3
+ },
+ {
+  "id": 24,
+  "q": "My 1966 MGB Roadster has a sticky valve and a stuck clutch after being in storage for 15 years.",
+  "a": "The issue is likely a failed or broken valve. Check the valve clearance with the gearbox and inspect for leaks around the piston-to-side camshafts, especially if it's too high. Also verify that the camshaft pulley has been replaced \u2014 worn or damaged seals can cause premature wear. If the engine was rebuilt correctly, replace it immediately to prevent future issues.",
+  "src": "balanced",
+  "hand": 3,
+  "qwen": 2
+ },
+ {
+  "id": 25,
+  "q": "My 1968 MGB wanders on the motorway. Why?",
+  "a": "The most likely cause is a worn or improperly adjusted air intake system, which can affect airflow. Check the thermostat by removing it and inspecting for warping; if not, replace the air filter and ensure the fan operates correctly. Clean or rebuild the air filter with a proper bleed to prevent air leaks.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 1
+ },
+ {
+  "id": 26,
+  "q": "My MGB bounces a lot over bumps. What should I check?",
+  "a": "The most likely cause is a worn or improperly adjusted carburettor, especially if the car has been used for long periods. Check that the idle air intake is functioning correctly and not sticking or worn \u2014 a faulty float can prevent the idle. Inspect the choke mechanism for leaks or blockages, as it\u2019s a common failure point on MGBs. Replace any damaged rubber hoses with new ones and ensure they are properly seated before reassembly to avoid misalignment.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 1
+ },
+ {
+  "id": 27,
+  "q": "My MG Midget heater only blows cold air. Why?",
+  "a": "The most likely cause is a failed or damaged heater matrix, especially if the heater fan isn\u2019t working properly. Check that the thermostat housing is fully open and not clogged, as this can reduce heat exposure. Inspect for any signs of leaks around the cooling system or hoses for blockages; replace it with a quality unit like a poor-quality aftermarket unit. Also verify that the heater fan motor doesn\u2019t drive excessively when cold, as it can't prevent long-term issues.",
+  "src": "symptom",
+  "hand": 4,
+  "qwen": 3
+ },
+ {
+  "id": 28,
+  "q": "My 1973 P5B Coupe has no thermostat installed, and I\u2019m having trouble fitting one because the housing won\u2019t seal. Is running without a thermostat dangerous or problematic?",
+  "a": "Yes, a faulty thermostat is likely caused by the thermostat to fail, especially if it\u2019s not leaking or degraded. Check for air leaks around the water pump and radiator hoses \u2014 this can prevent further corrosion. Replace with a quality unit like the MGOC or the MGB Hive for reliable operation; also check that the thermostat housing isn\u2019t blocked. Also inspect the water pump and thermostat housing for signs of wear or damage.",
+  "src": "balanced",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 30,
+  "q": "My 1968 MGB has rust bubbling on the sills. What should I do?",
+  "a": "The rust is likely due to poor drainage around the sills, especially where they meet the floor pans. Check for cracks or gaps in the sill area that are clear and dry; if there\u2019s visible corrosion, consider replacing it with a high-quality sealant like a high-quality rubber sealant to prevent future issues. If you\u2019re unsure about structural integrity \u2014 consider upgrading to a modern chrome bumper MGB GT with a chrome bumper conversion kit. For the bodywork, consider replacing the entire front wings with proper welding and fitting a new body shell; ensure all panels are secure before final installation.",
+  "src": "symptom",
+  "hand": 3,
+  "qwen": 2
+ },
+ {
+  "id": 31,
+  "q": "Is a 1974 MGB GT worth restoring?",
+  "a": "Yes, the MG Owners Club (MGOC) is a better value for money and performance. It\u2019s not ideal if you want to drive it regularly\u2014just ensure your car has good mechanical health and that the car has been well-maintained. However, since restoration isn\u2019t a major issue, it can be expensive to buy and maintain; otherwise, it's worth buying a solid one.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 4
+ },
+ {
+  "id": 32,
+  "q": "What's a fair price for a 1968 MGB roadster?",
+  "a": "The original chrome bumper MGB GT with a chrome bumper body is likely to be the best value for a 1968 MGB roadster. Check for common rust spots on the sills and floor pans, especially around the rear wings where they meet the chassis rails. Also inspect the rubber bumper MGB GTs \u2014 a solid body shell can rot but requires significant welding. Look for a full restoration or replacement if possible.",
+  "src": "symptom",
+  "hand": 2,
+  "qwen": 2
+ },
+ {
+  "id": 33,
+  "q": "My MGF VVC has been reliable so far. I\u2019ve done 8k miles without adding coolant and changed oil every 6k. But I still worry about a head gasket failure \u2014 what should I do to reduce risk?",
+  "a": "The head gasket failure is likely due to a failing water pump or worn water pump. Check the water pump\u2019s condition by removing the engine and inspecting for any signs of coolant loss, especially around the thermostat housing. Replace with a high-quality multi-layer steel (MLS) version if you want a reliable replacement. Also verify that the water pump isn\u2019t leaking from the oil rail \u2014 a common issue on MGFs due to poor cooling system quality. If coolant leaks are present, consider replacing it with an MLS one to reduce risk.",
+  "src": "balanced",
+  "hand": 3,
+  "qwen": 3
+ }
+]

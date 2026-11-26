@@ -20,7 +20,7 @@ INTRUSION_MAX_RATIO = 1.5      # a topic may leak into replies to other-topic qu
 EMPTY_MAX = 0.05               # at most 5% empty replies
 VAL_LOSS_MAX_WORSE = 0.05      # val loss may be at most 0.05 worse than previous
 MIN_SEEDS = 3
-MIN_KAPPA = None               # judge-vs-human agreement bar; owner sets it in Task 5 (None => gate refuses)
+MIN_KAPPA = 0.6                # judge-vs-human agreement bar, set by owner 2026-11-26 (Qwen scored 0.29 on 32 hand-scored replies => judge indicative only)
 # judge noise = sample stdev of the previous version's per-seed judge means
 
 
