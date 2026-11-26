@@ -46,3 +46,22 @@ def test_load_questions_roundtrip(tmp_path):
     p.write_text("\n".join(json.dumps(r) for r in [
         {"q": "q1", "topic": "fuel", "thread": "a"}, {"q": "q2", "topic": "brakes", "thread": "b"}]) + "\n")
     assert load_questions(str(p)) == [("q1", [], "fuel"), ("q2", [], "brakes")]
+
+
+def test_top_up_only_fills_short_topics_and_tags_source():
+    from evals.questions import top_up
+    base = [{"q": f"brake q{i}", "topic": "brakes", "thread": f"t{i}"} for i in range(3)]
+    written = [{"q": f"w{i}", "topic": "brakes", "thread": f"w{i}", "source": "written"} for i in range(5)] + \
+              [{"q": "o1", "topic": "oil", "thread": "wo", "source": "written"}]
+    out = top_up(base, written, per_topic=4)
+    brakes = [r for r in out if r["topic"] == "brakes"]
+    assert len(brakes) == 4 and sum(r["source"] == "written" for r in brakes) == 1
+    assert all(r["source"] == "held-out" for r in brakes if r["q"].startswith("brake"))
+    assert [r["topic"] for r in out].count("oil") == 1  # short topic gets what exists
+
+
+def test_top_up_never_duplicates_a_question():
+    from evals.questions import top_up
+    base = [{"q": "same", "topic": "oil", "thread": "t"}]
+    written = [{"q": "same", "topic": "oil", "thread": "w", "source": "written"}]
+    assert len(top_up(base, written, per_topic=5)) == 1

@@ -39,6 +39,22 @@ def build_balanced(candidates, per_topic, seed):
     return out
 
 
+def top_up(rows, written, per_topic):
+    """Tag rows as held-out, then add hand-written questions to topics still below per_topic.
+
+    Written questions were never in any training data, so they are as 'held out' as the rest,
+    but the file keeps `source` so results can be reported with and without them.
+    """
+    out = [dict(r, source="held-out") for r in rows]
+    have = {r["q"] for r in out}
+    for r in written:
+        n = sum(x["topic"] == r["topic"] for x in out)
+        if n < per_topic and r["q"] not in have:
+            out.append(dict(r, source="written"))
+            have.add(r["q"])
+    return out
+
+
 def load_questions(path):
     """(question, [], topic) triples, the shape eval_mg.py uses."""
     with open(path, encoding="utf-8") as f:
@@ -60,10 +76,17 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--per-topic", type=int, default=17)
     ap.add_argument("--seed", type=int, default=0)
+    ap.add_argument("--written", default="data/eval/written_questions.jsonl",
+                    help="hand-written questions that top up topics the held-out threads cannot fill")
     ap.add_argument("--out", default="data/eval/balanced_questions.jsonl")
     args = ap.parse_args()
     cands = val_candidates()
     rows = build_balanced(cands, args.per_topic, args.seed)
+    if args.written and os.path.exists(args.written):
+        written = [json.loads(l) for l in open(args.written, encoding="utf-8") if l.strip()]
+        rows = top_up(rows, written, args.per_topic)
+    else:
+        rows = [dict(r, source="held-out") for r in rows]
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     with open(args.out, "w", encoding="utf-8") as f:
         for r in rows:
@@ -71,7 +94,8 @@ def main():
     print(f"{len(cands)} candidate questions -> {len(rows)} kept -> {args.out}")
     for t in TOPICS:
         n = sum(r["topic"] == t for r in rows)
-        print(f"  {t:11}{n:>3} {'  <-- under 12' if n < 12 else ''}")
+        w = sum(r["topic"] == t and r["source"] == "written" for r in rows)
+        print(f"  {t:11}{n:>3}  ({w} written){'  <-- under 12' if n < 12 else ''}")
 
 
 if __name__ == "__main__":
