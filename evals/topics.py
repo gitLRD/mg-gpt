@@ -28,7 +28,7 @@ TOPICS = {
     ),
     "cooling": _c(
         r"\b(coolant|antifreeze|radiators?|thermostat|overheat\w*|head gasket|water pump"
-        r"|temperature gauge|cooling)\b"
+        r"|temperature gauge|cooling|(?:runs?|running) (?:warm|hot))\b"
     ),
     "brakes": _c(r"\b(brake\w*|calipers?|master cylinder|bleed\w*|servo|discs?|pads?)\b"),
     "electrical": _c(
@@ -37,7 +37,7 @@ TOPICS = {
     ),
     "oil": _c(r"\b(oil|20w|zddp|sump|seals?)\b"),
     "body": _c(r"\b(rust\w*|sills?|floors?|arch(?:es)?|chassis|panels?|weld\w*|bumpers?|paint|body)\b"),
-    "gearbox": _c(r"\b(gearbox|clutch|synchro\w*|overdrive|gears?|transmission|diff\w*)\b"),
+    "gearbox": _c(r"\b(gearbox|clutch|synchro\w*|overdrive|gears|(?:first|second|third|fourth|fifth|top|reverse|low|1st|2nd|3rd|4th|5th) gear|transmission|diff\w*)\b"),
     "susp": _c(
         r"\b(suspension|dampers?|shocks?|shock absorbers?|springs?|anti-roll|bush\w*|steering"
         r"|tyres?|handling)\b"

@@ -60,3 +60,16 @@ def test_question_shares_sum():
     s = question_shares(rows)
     assert abs(sum(s.values()) - 1.0) < 1e-9
     assert abs(s["fuel"] - 2 / 3) < 1e-9
+
+
+def test_runs_warm_is_cooling():
+    from evals.topics import primary_topic
+    assert primary_topic("My Midget runs warm at high speed, could the fan be the cause?") == "cooling"
+    assert primary_topic("The engine runs hot in traffic") == "cooling"
+
+
+def test_gear_only_counts_in_gearbox_phrases():
+    from evals.topics import tag_topics
+    assert "gearbox" not in tag_topics("what gear/speed should I check the VIS system at?")
+    assert "gearbox" in tag_topics("it jumps out of third gear")
+    assert "gearbox" in tag_topics("the gears crunch going into second")
