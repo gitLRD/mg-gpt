@@ -95,3 +95,9 @@ replies, so the difference is the questions, not the word list. Not retuned. Oil
 because oil is only 10.5% of questions. Other notes: pytest needs `-p no:typeguard` (global
 plugin broken); `data/meta.json` has no `val_threads`, `data/v7_mgonly/meta.json` does (use it);
 v7 val loss here 3.731 vs 3.689 in the checkpoint (different val sampling, not investigated).
+
+**Judge on the baseline (Qwen3-VL 30B, unvalidated).** Mean 2.68/5 over 3 seeds, seed-to-seed
+stdev 0.07 (so the gate's "tie" band is about +/-0.07). By question topic: cooling 3.5, brakes 2.9,
+electrical 2.7, fuel 2.6, gearbox 2.5, susp 2.5, price 2.5, body 2.5, oil 2.2. Cooling being
+both the most over-used topic and the best-scored fits "the model is good at what it says most".
+No hand-score check yet, so MIN_KAPPA stays unset and the gate says INCOMPLETE until it is done.
