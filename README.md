@@ -37,6 +37,8 @@ The end-to-end stack:
 
 `eval_mg.py` runs a fixed-prompt eval (validation loss, empty-reply rate, coherence proxies). `judge_mg.py` has a local Qwen model, via LM Studio, score the replies blind on a 1 to 5 scale.
 
+**Topic evals** (`evals/`, `python -m pytest`): a keyword lexicon says which of 9 topics a question or reply is about; `topic_report` shows how often each topic leaks into replies to other-topic questions; `release_gate` is the pass/fail gate for a new version (intrusion at most 1.5x a topic's question share, empty replies at most 5%, val loss within +0.05, judge within noise, plus a judge-vs-human agreement bar that is not set yet). Question sets are in `data/eval/` (143 balanced questions, 36 short symptom questions). Live v7 baseline: 3 seeds in `eval_runs/bal_v7_*` and `sym_v7_*`, judge mean 2.68/5 (judge not yet checked against hand scores).
+
 [WRITEUP.md](WRITEUP.md) covers two bugs found by measuring: a validation split cut by position rather than by thread, and a trailing space in the prompt that made the live bot reply with nothing about two-thirds of the time.
 
 ## Project structure
@@ -58,6 +60,9 @@ mg-gpt/
 │   ├── corpus_synth_qa_extra/   ← second-pass Q&A from the same threads (train-only)
 │   ├── corpus_wikipedia_mg/     ← MG Wikipedia articles, CC BY-SA 4.0 (manifest.json = attribution)
 │   ├── corpus_wikipedia_qa/     ← grounded Q&A from those articles (train-only)
+│   ├── corpus_wikipedia_mechanics{,_b}/ ← car-mechanics Wikipedia articles, CC BY-SA 4.0 (not yet trained on)
+│   ├── corpus_tm9_8000/         ← US Army TM 9-8000 automotive principles (US government work; not yet trained on)
+│   ├── eval/                    ← eval question sets (balanced, written top-ups, symptom-style)
 │   ├── _archive_mgexp/          ← v5-era mgexp corpus + scrapers (withdrawn)
 │   ├── scrape_forums.py         ← generic forum-scraper engine
 │   ├── scrape_pistonheads.py    ← PH-specific scraper (robots.txt-aware)
@@ -89,6 +94,7 @@ mg-gpt/
 │   └── transformer_lens_explore.ipynb  ← load ckpt into TransformerLens; viz attention + logit lens
 ├── deploy.sh                    ← build → push → terraform apply → S3 sync
 ├── train.py                     ← training loop: cosine LR, early stopping, --init-from for fine-tuning
+├── evals/                       ← topic lexicon, topic_report, question builder, Qwen labeller, release_gate (tests in tests/)
 ├── eval_mg.py                   ← fixed-prompt eval: val loss, empty-reply rate, coherence proxies
 ├── judge_mg.py                  ← blind LLM-judge (local Qwen via LM Studio) scoring eval_mg replies 1-5
 └── generate.py                  ← interactive local inference
@@ -124,7 +130,12 @@ python generate.py --prompt "USER: My MGB starts hard in winter.\nASSISTANT: "
 ./deploy.sh
 ```
 
-`deploy.sh` builds the Docker image (with `checkpoints/ckpt_best.pt` baked in; for v7 this is a weights-only copy of `checkpoints/v7_finetune/ckpt_best.pt`), pushes to ECR, applies Terraform, force-updates the Lambda function code, uploads the frontend HTML to S3, and invalidates the CloudFront cache. See `DEPLOYMENT.md` for the infra deep-dive.
+`deploy.sh` builds the Docker image (with `checkpoints/ckpt_best.pt` baked in; for v7 this is a weights-only copy of `checkpoints/v7_finetune/ckpt_best.pt`), pushes to ECR, applies Terraform, force-updates the Lambda function code, uploads the frontend HTML to S3, and invalidates the CloudFront cache. See `DEPLOYMENT.md` for the infra deep-dive. If `terraform apply` fails on the Cloudflare token, the manual route works: docker build and push, `aws lambda update-function-code --publish`, then `aws s3 cp` the HTML (with `__WS_ENDPOINT__` substituted) and a CloudFront invalidation.
+
+**Question logging.** The chat page has a "log questions for training and eval" tick box, ticked by default. When ticked, the question text only is written to the Lambda's CloudWatch log as `QLOG {...}`; read it with `aws logs filter-log-events --log-group-name /aws/lambda/mg-gpt-handler --filter-pattern QLOG`.
+
+**Licence note.** The UK MOT inspection manual text, if used, carries: "Contains public sector information licensed under the Open Government Licence v3.0."
+
 
 ## Hardware
 

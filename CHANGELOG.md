@@ -10,7 +10,8 @@ journey.
 
 ## In progress
 
-- **"log questions for training and eval" tick box (ticked by default), NOT DEPLOYED (`frontend/index.html`, `lambda/handler.py`).** When ticked, the question text only (no connection id) is printed to CloudWatch as `QLOG {...}`. Why: the site kept no questions, so we couldn't see what real users ask. Deploy needed: new Lambda image + frontend upload.
+- **"log questions for training and eval" tick box (ticked by default), DEPLOYED as Lambda v22 (`frontend/index.html`, `lambda/handler.py`).** When ticked, the question text only (no connection id) is printed to CloudWatch as `QLOG {...}`. Why: the site kept no questions, so we couldn't see what real users ask. Deployed by hand (docker push, `update-function-code`, S3, CloudFront invalidation) because `terraform apply` still fails on the Cloudflare token; live test logged a `QLOG` line.
+- **v7 on 36 short symptom questions (`data/eval/symptom_questions.jsonl`, `eval_runs/sym_v7_*`).** No fuel dominance (13.5%), but answers reuse engine-bay parts (thermostat, head gasket, air filter) whatever the symptom, e.g. steering wander blamed on the thermostat.
 
 - **Topic evals built (`evals/`: topics, topic_report, questions, label_questions, release_gate; 30 tests).** Why: val loss and the judge never noticed a topic problem; these measure it directly. Gate thresholds committed (`a9e0993`) before any baseline existed.
 - **Balanced question set: 143 questions, 13-18 per topic (`data/eval/balanced_questions.jsonl`).** Held-out threads supply most; brakes (8 clean) and oil (7) were topped up with 19 hand-written questions (`source: written`). Labels come from Qwen once, then are saved (keyword labeller was ~77-83% right on spot-checks, Qwen 28/30).
