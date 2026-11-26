@@ -10,6 +10,8 @@ journey.
 
 ## In progress
 
+- **Topic-collapse analysis + size-comparison design** (`LEARNINGS.md`, `docs/superpowers/specs/2026-11-26-size-comparison-eval-design.md`).
+  v7 says fuel/cooling words ~2-3x more than its training data does (not data-skew; same in v6-v9); 124M timing measured at 5.5 s/step (~24 h total). Why: the existing metrics missed the collapse the owner saw live, so the next evals need a topic-spread check before any bigger model is trained. Design awaiting approval; nothing built.
 - **Longer pretrain + v9 fine-tune: no gain** (not deployed). Resumed the pretrain 12K -> 24K steps
   (`checkpoints/v7b_pretrain`, general-English val 3.75 -> ~3.55; the first 12K steps only covered a
   quarter of the 196M-token set), then fine-tuned on `data/v8_augmented`: val 3.72 (v7 3.69, v8 3.65).
