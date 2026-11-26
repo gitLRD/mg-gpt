@@ -83,10 +83,12 @@ the synthetic training data and might favour its own style.
 | **Longer pretrain** (12K -> 24K steps; general val 3.75 -> 3.55) then fine-tune | Judge **lower** in all four settings (about -0.15 to -0.35). Better general English did not carry to MG answers. |
 | **Persona priming block** in the live prompt | Plain prompt scored >= priming in 4/4 runs, though the gap (~0.2) is near seed noise. Removed anyway: it also saves ~500 prompt tokens. |
 
-One finding worth noting: the first pretrain only read about a quarter of its
-196M-token dataset (12K steps x 4 x 1024 tokens), so it was compute-limited,
-not data-limited. More pretraining did lower general loss, which made the
-fine-tune result a clean negative rather than a "not enough training" excuse.
+One finding worth noting: the first pretrain read its whole 196M-token dataset
+about once (12K steps x 4 x 4 x 1024 tokens; an earlier version of this note
+left out the gradient accumulation and wrongly said "a quarter"), so the longer
+run was a second pass over the same text. More pretraining did lower general
+loss, which made the fine-tune result a clean negative rather than a "not
+enough training" excuse, but it was a second pass, not new text.
 Why the fine-tune got worse is a guess (a more settled start moved less before
 early stopping), not something I tested.
 

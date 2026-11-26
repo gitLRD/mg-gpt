@@ -1,6 +1,6 @@
 # Design: topic-collapse evals and a fair size comparison (plan A)
 
-Status: **draft, awaiting owner approval.** Nothing in this doc has been built.
+Status: **approved by owner 2026-11-26** (with the ~82M size added). Nothing in this doc has been built yet.
 Date: 2026-11-26. Hardware: M2 Pro, 32 GB, PyTorch MPS, fp32. No cloud GPU for now.
 
 ## Intent and why
@@ -78,9 +78,11 @@ and live site, so sampling is consistent.
 | model | params | s/step | tokens/s | MPS memory |
 |---|---|---|---|---|
 | medium (live v7) | 51.5M | 2.54 | 6,461 | 11.6 GB |
+| 10 layers / 10 heads / 640 dim / 1024 ctx | 82.1M | 3.81 | 4,304 | 14.7 GB |
 | 12 layers / 12 heads / 768 dim / 1024 ctx | 124.4M | 5.48 | 2,991 | 18.5 GB |
 
 One step = 16,384 tokens (batch 4 x accum 4 x block 1024).
+- **Pretrain 82M on the same 196M tokens** (12,000 steps): ~12.7 h; fine-tune ~4 h.
 - **Pretrain 124M on the same 196M tokens** (12,000 steps): ~18.3 h. (51M took 8.7 h:
   12,000 x 2.54 s matches.)
 - **MG fine-tune 124M**, ~3,750 steps like v7: ~5.7 h. Total ~24 h for the big model.
@@ -90,6 +92,31 @@ One step = 16,384 tokens (batch 4 x accum 4 x block 1024).
   `--save-interval 1000` and prune: ~15 GB worst case.
 - 51M baseline needs no retraining (v7 exists); extra seeds of the fine-tune only
   (~2.6 h each at 51M, ~5.7 h at 124M).
+
+## Is there enough data for a model this big?
+
+Probably not, by the usual rule of thumb (about 20 training tokens per parameter for
+compute-optimal training, from the Chinchilla paper; a guideline, not a law). We have
+196M general tokens and ~2.9M MG tokens:
+
+| model | tokens wanted (20/param) | pretrain tokens we have | per parameter |
+|---|---|---|---|
+| 51M | ~1.0B | 196M | ~3.8 |
+| 82M | ~1.6B | 196M | ~2.4 |
+| 124M | ~2.5B | 196M | ~1.6 |
+
+So all sizes, including the live one, are under-fed on general English, and bigger
+ones more so. Reaching the rule for 124M (~2.5B tokens) would take ~10 days on this Mac.
+The MG fine-tune set (~2.9M) is the real ceiling for MG knowledge, and a bigger model
+overfits it sooner (v6 at 51M overfit after ~68 passes), so fine-tune needs early
+stopping and a lower learning rate. Size mostly buys better English, which v9 showed
+does not carry over to MG answers.
+
+Consequence: this is a comparison **at a fixed 196M-token budget**, which is fair but not
+compute-optimal, and the write-up must say so. A small or zero gain from size is a
+legitimate result, not a failure, and would point the next effort at MG data quality
+and topic balance instead. Larger models are usually more sample-efficient, so some
+gain in topic spread is plausible; we test rather than assume.
 
 ## Proposed pass/fail gate (to be confirmed before any results)
 
@@ -105,8 +132,8 @@ question set with 3 seeds:
 ## Open decisions for the owner
 
 1. **Approve or edit** this design and the gate thresholds.
-2. **Middle size (~90M)?** Adds a point on the curve; cost not yet measured.
-3. **Fix the CHANGELOG?** It says the 12K-step pretrain "covered a quarter" of the
+2. ~~Middle size~~ **Decided: include it.** Measured config is 82M, not 90M.
+3. ~~Fix the CHANGELOG~~ **Done 2026-11-26** (also WRITEUP.md). It said the 12K-step pretrain "covered a quarter" of the
    data; the log and code say ~1 pass (12,000 x 16,384 = 196.6M tokens). If so, v9's
    "continued pretrain" was ~2 passes, not 1 vs 0.25. I would correct it after checking
    with you.

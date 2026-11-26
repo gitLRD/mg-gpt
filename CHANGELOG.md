@@ -13,8 +13,9 @@ journey.
 - **Topic-collapse analysis + size-comparison design** (`LEARNINGS.md`, `docs/superpowers/specs/2026-11-26-size-comparison-eval-design.md`).
   v7 says fuel/cooling words ~2-3x more than its training data does (not data-skew; same in v6-v9); 124M timing measured at 5.5 s/step (~24 h total). Why: the existing metrics missed the collapse the owner saw live, so the next evals need a topic-spread check before any bigger model is trained. Design awaiting approval; nothing built.
 - **Longer pretrain + v9 fine-tune: no gain** (not deployed). Resumed the pretrain 12K -> 24K steps
-  (`checkpoints/v7b_pretrain`, general-English val 3.75 -> ~3.55; the first 12K steps only covered a
-  quarter of the 196M-token set), then fine-tuned on `data/v8_augmented`: val 3.72 (v7 3.69, v8 3.65).
+  (`checkpoints/v7b_pretrain`, general-English val 3.75 -> ~3.55; corrected 2026-11-26: the first 12K
+  steps already read ~196M tokens, about one pass, since a step is 4 x 4 x 1024 = 16,384 tokens, so this
+  second 12K was a second pass, not a first full one), then fine-tuned on `data/v8_augmented`: val 3.72 (v7 3.69, v8 3.65).
   Judge, 3 seeds x 2 prompts x 2 judges: v9 2.36/2.29 (vl), 2.53/2.41 (coder) vs v7 2.70/2.58, 2.68/2.66.
   Lower on all four, so general-English pretraining gains don't carry to MG answers; the 120M model
   run was dropped. v7 stays live. Runs in `eval_runs/v9_*`, `judge3_*`.
