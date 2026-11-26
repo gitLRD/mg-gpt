@@ -142,7 +142,7 @@ def heldout_questions(data_dir, n, seed=0):
     for s in stems[:n]:
         m = re.match(r"USER:\s*(.+?)\nASSISTANT:", open(f"data/corpus_synth_qa/{s}.txt", encoding="utf-8").read(), re.S)
         if m:
-            out.append((m.group(1).strip(), []))
+            out.append((m.group(1).strip(), [], None))
     return out
 
 
@@ -164,6 +164,9 @@ def main():
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--out", default=None, help="JSONL of raw generations")
     ap.add_argument("--no-val", action="store_true")
+    ap.add_argument("--questions", default=None,
+                    help="JSONL of labelled questions (evals/questions.py); replaces the built-in prompts")
+    ap.add_argument("--summary-json", default=None, help="write val loss + per-mode empty rate here")
     args = ap.parse_args()
 
     device = "cuda" if torch.cuda.is_available() else "mps" if torch.backends.mps.is_available() else "cpu"
@@ -179,12 +182,19 @@ def main():
     print(f"ckpt {args.ckpt}: {cfg.n_layer}L/{cfg.n_embd}D block={cfg.block_size} "
           f"iter={ck.get('iter_num')} best_val={ck.get('best_val_loss')} device={device}")
 
+    vl = None
     if not args.no_val:
         vl, nwin = val_loss(model, os.path.join(args.data_dir, "val.bin"), cfg.block_size, device)
         print(f"val loss on {args.data_dir}/val.bin: {vl:.4f}  ({nwin} windows of {cfg.block_size})")
 
     persona = load_personas()[args.persona]
-    prompts = list(PROMPTS) + (heldout_questions(args.data_dir, args.heldout) if args.heldout else [])
+    if args.questions:
+        from evals.questions import load_questions
+        prompts = load_questions(args.questions)
+    else:
+        prompts = [(q, kws, None) for q, kws in PROMPTS]
+        prompts += heldout_questions(args.data_dir, args.heldout) if args.heldout else []
+    summary = {"ckpt": args.ckpt, "seed": args.seed, "val_loss": vl, "modes": {}}
     out = open(args.out, "w", encoding="utf-8") if args.out else None
     if out:
         os.makedirs(os.path.dirname(args.out) or ".", exist_ok=True)
@@ -193,7 +203,7 @@ def main():
         torch.manual_seed(args.seed)
         n = empty = leak = kw_hit = kw_n = 0
         lens, reps = [], []
-        for q, kws in prompts:
+        for q, kws, topic in prompts:
             ptoks = enc.encode(build_prompt(mode, persona, q))
             max_prompt = cfg.block_size - args.max_new
             ptoks = ptoks if len(ptoks) <= max_prompt else ptoks[-max_prompt:]
@@ -213,13 +223,17 @@ def main():
                 kw_n += 1
                 kw_hit += any(k in clean.lower() for k in kws)
             if out:
-                out.write(json.dumps({"mode": mode, "q": q, "raw": raw, "clean": clean}) + "\n")
+                out.write(json.dumps({"mode": mode, "q": q, "topic": topic, "raw": raw, "clean": clean}) + "\n")
         print(f"\n[{mode}] n={n}  empty={empty / n:.0%}  [TAG] leak={leak / n:.0%}  "
               f"keyword-hit={(kw_hit / kw_n if kw_n else float('nan')):.0%}  "
               f"mean words={np.mean(lens):.0f}  repeated-trigram={np.mean(reps):.2f}")
+        summary["modes"][mode] = {"n": n, "empty_rate": empty / n}
     if out:
         out.close()
         print(f"\nraw generations -> {args.out}")
+    if args.summary_json:
+        os.makedirs(os.path.dirname(args.summary_json) or ".", exist_ok=True)
+        json.dump(summary, open(args.summary_json, "w"), indent=1)
 
 
 if __name__ == "__main__":
