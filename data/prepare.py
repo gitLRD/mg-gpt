@@ -46,6 +46,7 @@ EXTRA_TRAIN_DIRS = [
     "data/corpus_synth_qa_extra",   # second-pass Q&A from forum threads (synthesize_qa_extra.py)
     "data/corpus_wikipedia_mg",     # MG Wikipedia articles as prose (CC BY-SA 4.0, fetch_wikipedia_mg.py)
     "data/corpus_wikipedia_qa",     # grounded Q&A from those articles (synthesize_wiki_qa.py)
+    "data/corpus_mech_qa",          # grounded Q&A from car-mechanics text (synthesize_mech_qa.py)
 ]
 VAL_FRACTION = 0.1            # ~10% of threads held out for validation
 SHUFFLE_SEED = 1337

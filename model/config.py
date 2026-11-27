@@ -59,3 +59,14 @@ def medium_config() -> GPTConfig:
         n_embd=512,
         dropout=0.1,
     )
+
+
+def mid_config() -> GPTConfig:
+    """~82M params (10 layers, 10 heads, 640 dim). Size-comparison middle point; ~3.8 s/step on M2 Pro."""
+    return GPTConfig(
+        block_size=1024,
+        n_layer=10,
+        n_head=10,
+        n_embd=640,
+        dropout=0.1,
+    )

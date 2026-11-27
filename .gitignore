@@ -57,3 +57,4 @@ Thumbs.db
 *.swo
 data/corpus_synth_qa_extra/
 data/v8_*/
+data/v10_*/

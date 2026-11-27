@@ -23,14 +23,14 @@ matplotlib.use("Agg")   # headless — safe on MPS/remote
 import matplotlib.pyplot as plt
 
 from model.gpt import GPT
-from model.config import nano_config, small_config, medium_config
+from model.config import nano_config, small_config, medium_config, mid_config
 
 # ---------------------------------------------------------------------------
 # Args
 # ---------------------------------------------------------------------------
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--config", default="small", choices=["nano", "small", "medium"])
+parser.add_argument("--config", default="small", choices=["nano", "small", "medium", "mid"])
 parser.add_argument("--resume", default=None, help="Path to checkpoint .pt file (restores optimizer + iter)")
 parser.add_argument("--init-from", default=None, help="Load model weights only (fresh optimizer, iter 0) — for fine-tuning")
 parser.add_argument("--data-dir", default="data", help="Directory holding train.bin/val.bin/meta.json")
@@ -110,7 +110,7 @@ print(f"Train tokens: {len(train_data):,}  |  Val tokens: {len(val_data):,}")
 # Model
 # ---------------------------------------------------------------------------
 
-configs = {"nano": nano_config, "small": small_config, "medium": medium_config}
+configs = {"nano": nano_config, "small": small_config, "medium": medium_config, "mid": mid_config}
 config = configs[args.config]()
 config.vocab_size = meta["vocab_size"]
 if args.dropout is not None:

@@ -1,0 +1,39 @@
+{
+ "candidate": {
+  "name": "v10",
+  "eval": [
+   "eval_runs/sym_v10_s0.jsonl",
+   "eval_runs/sym_v10_s1.jsonl",
+   "eval_runs/sym_v10_s2.jsonl"
+  ],
+  "judge": [
+   "eval_runs/sym_judge_v10_s0.jsonl",
+   "eval_runs/sym_judge_v10_s1.jsonl",
+   "eval_runs/sym_judge_v10_s2.jsonl"
+  ],
+  "summary": [
+   "eval_runs/sym_v10_s0.summary.json",
+   "eval_runs/sym_v10_s1.summary.json",
+   "eval_runs/sym_v10_s2.summary.json"
+  ]
+ },
+ "previous": {
+  "name": "v7",
+  "eval": [
+   "eval_runs/sym_v7_s0.jsonl",
+   "eval_runs/sym_v7_s1.jsonl",
+   "eval_runs/sym_v7_s2.jsonl"
+  ],
+  "judge": [
+   "eval_runs/sym_judge_v7_s0.jsonl",
+   "eval_runs/sym_judge_v7_s1.jsonl",
+   "eval_runs/sym_judge_v7_s2.jsonl"
+  ],
+  "summary": [
+   "eval_runs/sym_v7_s0.summary.json",
+   "eval_runs/sym_v7_s1.summary.json",
+   "eval_runs/sym_v7_s2.summary.json"
+  ]
+ },
+ "agreement": "eval_runs/agreement.json"
+}

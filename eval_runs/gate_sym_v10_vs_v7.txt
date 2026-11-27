@@ -1,0 +1,5 @@
+FAIL       intrusion  electrical 18% > cap 17%; oil 18% > cap 17%
+INDICATIVE judge      TIE: candidate 3.04 vs previous 3.03 (noise 0.15); judge indicative only (kappa 0.29 < 0.6)
+PASS       empty      0.0% (max 5%)
+INCOMPLETE: val loss missing in a summary
+VERDICT: INCOMPLETE

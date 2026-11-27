@@ -10,6 +10,9 @@ journey.
 
 ## In progress
 
+- **v10: 51M fine-tune + 5,088 grounded car-mechanics Q&A (`data/synthesize_mech_qa.py`, `data/prepare.py`, `checkpoints/v10_mech/`; NOT DEPLOYED).** Why: test whether new car text cuts topic leakage. Result: val 3.703 vs v7 3.731; every topic under its leakage cap on the 143-question set (v7 broke oil), judge a tie (2.74 vs 2.68, indicative only). On the 36 symptom questions electrical and oil are 1 point over the cap (n small). Gate files: `eval_runs/gate_*_v10_vs_v7.txt`. Answers still often blame the wrong part.
+- **Judge validated badly (`eval_runs/handscores_32.json`).** Qwen vs owner kappa 0.29, Haiku 0.26; `MIN_KAPPA` set to 0.6 so judge results are "indicative only". Why: pre-registered bar, fixed before any candidate.
+- **82M size comparison started (`mid` config in `model/config.py`).** Pretrain on the same 196M tokens, then v7's fine-tune recipe; logs `data/logs/train_v11_mid_*.log`.
 - **"log questions for training and eval" tick box (ticked by default), DEPLOYED as Lambda v22 (`frontend/index.html`, `lambda/handler.py`).** When ticked, the question text only (no connection id) is printed to CloudWatch as `QLOG {...}`. Why: the site kept no questions, so we couldn't see what real users ask. Deployed by hand (docker push, `update-function-code`, S3, CloudFront invalidation) because `terraform apply` still fails on the Cloudflare token; live test logged a `QLOG` line.
 - **v7 on 36 short symptom questions (`data/eval/symptom_questions.jsonl`, `eval_runs/sym_v7_*`).** No fuel dominance (13.5%), but answers reuse engine-bay parts (thermostat, head gasket, air filter) whatever the symptom, e.g. steering wander blamed on the thermostat.
 

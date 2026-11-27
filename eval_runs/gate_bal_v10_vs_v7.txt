@@ -1,0 +1,5 @@
+PASS       intrusion  every topic under its cap
+INDICATIVE judge      TIE: candidate 2.74 vs previous 2.68 (noise 0.07); judge indicative only (kappa 0.29 < 0.6)
+PASS       empty      0.0% (max 5%)
+PASS       val_loss   3.703 vs previous 3.731 (max +0.05)
+VERDICT: PASS

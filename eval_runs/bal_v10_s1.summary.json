@@ -1,0 +1,11 @@
+{
+ "ckpt": "checkpoints/v10_mech/ckpt_best.pt",
+ "seed": 1,
+ "val_loss": 3.702858061550959,
+ "modes": {
+  "bare": {
+   "n": 143,
+   "empty_rate": 0.0
+  }
+ }
+}
