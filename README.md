@@ -37,7 +37,7 @@ The end-to-end stack:
 
 `eval_mg.py` runs a fixed-prompt eval (validation loss, empty-reply rate, coherence proxies). `judge_mg.py` has a local Qwen model, via LM Studio, score the replies blind on a 1 to 5 scale.
 
-**Topic evals** (`evals/`, `python -m pytest`): a keyword lexicon says which of 9 topics a question or reply is about; `topic_report` shows how often each topic leaks into replies to other-topic questions; `release_gate` is the pass/fail gate for a new version (intrusion at most 1.5x a topic's question share, empty replies at most 5%, val loss within +0.05, judge within noise, plus a judge-vs-human agreement bar that is not set yet). Question sets are in `data/eval/` (143 balanced questions, 36 short symptom questions). Live v7 baseline: 3 seeds in `eval_runs/bal_v7_*` and `sym_v7_*`, judge mean 2.68/5 (judge not yet checked against hand scores).
+**Topic evals** (`evals/`, `python -m pytest`): a keyword lexicon says which of 9 topics a question or reply is about; `topic_report` shows how often each topic leaks into replies to other-topic questions; `release_gate` is the pass/fail gate for a new version (intrusion at most 1.5x a topic's question share, empty replies at most 5%, val loss within +0.05, judge within noise, plus a judge-vs-human agreement bar of kappa 0.6; Qwen scored 0.29 and Haiku 0.26 against hand scores, so judge results are indicative only). Question sets are in `data/eval/` (143 balanced questions, 36 short symptom questions). Live v7 baseline: 3 seeds in `eval_runs/bal_v7_*` and `sym_v7_*`, judge mean 2.68/5. Candidates tried, none deployed: v10 (51M + 5,088 grounded mechanics Q&A) cut leakage on the balanced set; an 82M model (`mid` preset, same data and recipe as v7) did about the same, so size alone did not help. Gate files: `eval_runs/gate_*_vs_v7.txt`.
 
 [WRITEUP.md](WRITEUP.md) covers two bugs found by measuring: a validation split cut by position rather than by thread, and a trailing space in the prompt that made the live bot reply with nothing about two-thirds of the time.
 
@@ -74,11 +74,12 @@ mg-gpt/
 │   ├── prepare_pretrain.py      ← stream a general-English pretraining set from Common Pile (license-filtered)
 │   ├── fetch_wikipedia_mg.py    ← MG-related Wikipedia articles (CC BY-SA 4.0) with attribution manifest
 │   ├── synthesize_wiki_qa.py    ← grounded Q&A from those articles (local Qwen)
+│   ├── synthesize_mech_qa.py    ← grounded Q&A from mechanics text, MOT manual, TM 9-8000 (local Qwen; output `data/corpus_mech_qa/` is not committed, licences)
 │   └── synthesize_qa_extra.py   ← second-pass extra Q&A from forum threads (train-only)
 │
 ├── model/
 │   ├── gpt.py                   ← the transformer (~200 lines)
-│   └── config.py                ← nano / small / medium presets
+│   └── config.py                ← nano / small / medium / mid (82M) presets
 │
 ├── lambda/
 │   ├── Dockerfile               ← container image for Lambda (model code + ckpt baked in)
@@ -144,5 +145,6 @@ python generate.py --prompt "USER: My MGB starts hard in winter.\nASSISTANT: "
 | `nano`   | 1.5M   | CPU            | 30 min             |
 | `small`  | 10M    | MPS (M-series) | 2–4 hrs            |
 | `medium` | ~51M   | MPS (M-series) | overnight          |
+| `mid`    | ~82M   | MPS (M-series) | ~16 h pretrain + ~4 h fine-tune |
 
 Nano works on CPU. Small benefits from MPS acceleration. The model genuinely needs ~2M+ training tokens before `small` stops overfitting badly.

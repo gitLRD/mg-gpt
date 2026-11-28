@@ -1,0 +1,11 @@
+{
+ "ckpt": "checkpoints/v11_mid_finetune/ckpt_best.pt",
+ "seed": 0,
+ "val_loss": 3.7079682284838533,
+ "modes": {
+  "bare": {
+   "n": 36,
+   "empty_rate": 0.0
+  }
+ }
+}
